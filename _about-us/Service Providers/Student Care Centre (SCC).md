@@ -15,4 +15,4 @@ The school’s school-based Student Care Centre (SCC) seeks to provide an integr
 
 If you are keen to enrol your child in our SCC, please refer to the information below.
 
-**Application form:** [Link to Online Form](https://forms.gle/CS81S1v22FxKpGUaA)
+<b>Application form:</b> [Link to Online Form](https://forms.gle/CS81S1v22FxKpGUaA)
