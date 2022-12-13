@@ -76,3 +76,27 @@ Service Providers
 
 
 ### **School Bus Service**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh"> Company</th>
+    <th class="tg-clkh"> Hui Wang Bus Service</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Contact</span><br></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mr Vernon Tan</span><br><span style="font-weight:normal;color:#121212"> 92266622 / 96721464</span></td>
+  </tr>
+</tbody>
+</table>
