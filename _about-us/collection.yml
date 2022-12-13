@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Service Providers.md
       - Contact Us.md
       - Terms of Use.md
