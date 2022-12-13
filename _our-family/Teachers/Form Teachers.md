@@ -226,3 +226,50 @@ Form Teachers
   </tr>
 </tbody>
 </table>
+
+### **P5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Class</th>
+    <th class="tg-kf4z" colspan="2">Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">P5 Care</td>
+    <td class="tg-21zi">Miss Germaine Ling<br>ling_lay_leng@moe.edu.sg<br> <br> </td>
+    <td class="tg-21zi">Mdm Chua Pei Cheon<br>chua_pei_cheon@moe.edu.sg <br> <br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P5 Grace</td>
+    <td class="tg-21zi">Mrs Ivy Lim<br>Ivy_Goh@moe.edu.sg</td>
+    <td class="tg-21zi">Mrs Jeredith Hee<br>teo_sock_koon_jeredith@moe.edu.sg<br><br>Mrs Lynn Lin<br>wu_jieru@moe.edu.sg<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P5 Hope</td>
+    <td class="tg-21zi">Mdm Nurdianna Malik<br>nurdianna_malik@moe.edu.sg <br><br><br> </td>
+    <td class="tg-21zi">Mrs Vimala Ravi<br>vimala_ravichandran@moe.edu.sg<br> <br>Mrs Seah Mei Lan<br>chew_mei_lan@moe.edu.sg <br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P5 Joy</td>
+    <td class="tg-21zi">Mdm Latifa Bte Abdul Razak<br>latifa_abdul_razak@moe.edu.sg<br> </td>
+    <td class="tg-21zi">Miss Zhu Li<br>zhu_li@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P5 Love</td>
+    <td class="tg-21zi">Mr Chai Kae Min<br>chai_kae_min@moe.edu.sg<br> </td>
+    <td class="tg-21zi">Mdm Ng Hwee Gek<br>ng_hwee_gek@moe.edu.sg<br></td>
+  </tr>
+</tbody>
+</table>
