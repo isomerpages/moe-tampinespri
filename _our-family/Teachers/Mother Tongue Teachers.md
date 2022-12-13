@@ -69,3 +69,49 @@ Mother Tongue Teachers
   </tr>
 </tbody>
 </table>
+
+
+### **Malay Language Teachers**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:normal">Miss Nurhidaya Mohd Sidik</span><br></th>
+    <th class="tg-0lax"><span style="font-weight:normal">nurhidaya_mohd_sidik@moe.edu.sg</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Mdm Norliela</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:normal">norliela_ramadan@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Mdm Juliana</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">juliana_ahmad@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Mdm Haslinah</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">haslinah_osman@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Mr Iftitah</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">muhammad_iftitah_mohamed_said@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Miss Hafidah</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">hafidah_sulaiman@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:normal">Mdm Norhana Khamis</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">norhana_khamis@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
