@@ -273,3 +273,51 @@ Form Teachers
   </tr>
 </tbody>
 </table>
+
+### **P6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wrfy{color:#121212;text-align:center;vertical-align:middle}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Class</th>
+    <th class="tg-kf4z" colspan="2">Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">P6 Care</td>
+    <td class="tg-21zi">Mrs Eileen Chong<br>ng_eileen_a@moe.edu.sg</td>
+    <td class="tg-21zi">Mdm Shen Jingyi<br>shen_jingyi@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P6 Faith</td>
+    <td class="tg-wrfy">Mdm Nazreen<br>nazreen_osman@moe.edu.sg<br><br></td>
+    <td class="tg-21zi"><br>Mdm Lee Wee Hoon<br>lee_wee_hoon@moe.edu.sg<br><br> <br>Mdm Chuang Bee Eng<br>chuang_bee_eng@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P6 Hope</td>
+    <td class="tg-wrfy">Mr Ethan Tan<br>tan_wu_siang_ethan@moe.edu.sg<br></td>
+    <td class="tg-21zi"><br>Mr Desmond Tan<br>tan_chee_teck@moe.edu.sg <br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P6 Joy</td>
+    <td class="tg-21zi">Miss Queenie Low<br>low_jia_ling_queenie@moe.edu.sg</td>
+    <td class="tg-21zi">Mdm Norhana Khamis<br>norhana_khamis@moe.edu.sg<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P6 Love</td>
+    <td class="tg-21zi"> <br>Mdm Oh Ding Hui<br>oh_ding_hui@moe.edu.sg</td>
+    <td class="tg-21zi">Mr Jerome Ng<br>ng_ming_chang_jerome@moe.edu.sg<br> <br>Mr Saravanan<br>saravanan_sadanandom@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
