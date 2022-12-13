@@ -2,4 +2,5 @@ collections:
   our-family:
     output: true
     order:
+      - Learning and Behavioural Support Staff.md
       - Administrative Staff.md
