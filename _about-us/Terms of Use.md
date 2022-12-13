@@ -12,14 +12,12 @@ Thank you for visiting [https://tampinespri.moe.edu.sg/](https://tampinespri.mo
 
   
 
-General
--------
+### **General**
 
 These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.  
   
 
-Proprietary Rights
-------------------
+### **Proprietary Rights**
 
 This Web Site is maintained by Tampines Primary School. It is owned by Tampines Primary School.
 
