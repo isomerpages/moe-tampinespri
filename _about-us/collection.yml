@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Service Providers/.keep
-      - Service Providers.md
       - Contact Us.md
       - Terms of Use.md
