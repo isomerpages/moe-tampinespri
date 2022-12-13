@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - General Information/.keep
       - Service Providers/.keep
       - Service Providers/Service Providers.md
       - Service Providers/Student Care Centre (SCC).md
