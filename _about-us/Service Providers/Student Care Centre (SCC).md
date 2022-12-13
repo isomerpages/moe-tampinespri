@@ -54,12 +54,12 @@ Commit Learning SchoolHouse
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-q8wq{border-color:#ffffff;font-size:15px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-6hjr">We are committed to bringing out the best in every student</td>
+    <td class="tg-q8wq">We are committed to bringing out the best in every student</td>
   </tr>
 </thead>
 </table>
