@@ -100,3 +100,6 @@ Service Providers
   </tr>
 </tbody>
 </table>
+
+
+### **School Dental Clinic**
