@@ -45,3 +45,31 @@ Service Providers
 
 
 ### **School Uniform & PE Attire Supplier**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Company</th>
+    <th class="tg-clkh"> Shanghai School Uniforms Pte Ltd <br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Contact</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 63 Ubi Avenue 1</span><br><br><span style="font-weight:normal;color:#121212"> #04-09, 63@Ubi </span><br><span style="font-weight:normal;color:#121212"> Singapore 408937 </span><br><br><span style="font-weight:normal;color:#121212"> Website:</span> <a href="http://shanghai-uniforms.com/"><span style="font-weight:400;text-decoration:underline;color:#1F2243">shanghai-uniforms.com</span></a><br><span style="font-weight:normal;color:#121212"> Retail: +65 6352 2741</span><br><span style="font-weight:normal;color:#121212"> Fax No:+65 6842 2741</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Operating Time in School</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Sales through school bookshop</span></td>
+  </tr>
+</tbody>
+</table>
