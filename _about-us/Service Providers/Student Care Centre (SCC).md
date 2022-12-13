@@ -63,3 +63,26 @@ Commit Learning SchoolHouse
   </tr>
 </thead>
 </table>
+
+### **About Kidz Treehouse**
+
+
+Kidz Treehouse @ Tampines Primary School began operations in 2017 providing quality student care and education for children between the ages of 7 to 12.   We aim to provide children of Tampines Primary School with diverse education in an environment that promotes holistic care and nurtures strong character building. We have 11 branches nationwide encompassing both school-based and community-based centres. 
+
+  
+
+Inspired by the concept of a Treehouse, Kidz Treehouse offers an environment where children can learn, play and imagine in nature. Through our campus-based Care Services and Educational Products and Programmes, we harness the power of our children’s creativity and develop their character to make the world a better place.
+
+  
+
+Kidz Treehouse provides Quality Educational Programmes that focuses on Holistic Education, Children Empowerment and connecting with the Environment to achieve Sustainable Earth.
+
+  
+
+<u><b>Contact Us</b></u>
+
+For further enquiries, please us call us at 6850 5406 during the following hours:
+
+  
+
+We invite you to visit our homepage at [https://kidztreehouse.com.sg/](https://kidztreehouse.com.sg/).
