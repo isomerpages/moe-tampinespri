@@ -4,9 +4,7 @@ permalink: /about-us/Service-Providers/Service-Providers/
 description: ""
 third_nav_title: Service Providers
 ---
-
-
-![](/images/About%20Us.png)
+![](/images/AboutUs.jpg)
 
 
 Service Providers
@@ -146,4 +144,3 @@ Service Providers
 
 
 ### **School Student Care Centre**
-
