@@ -128,3 +128,49 @@ Form Teachers
 </table>
 
 ### **P3**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Class</th>
+    <th class="tg-kf4z" colspan="2">Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">P3 Care</td>
+    <td class="tg-21zi">Mr Roy Wong<br>wong_chang_hou@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Miss Isabella Lai<br>lai_mei_sze@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P3 Faith</td>
+    <td class="tg-21zi">Mdm Farhanah Abdullah<br>farhanah_abdullah@moe.edu.sg <br><br></td>
+    <td class="tg-21zi">Miss Kwa Shaur En<br>kwa_shaur_en@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P3 Grace</td>
+    <td class="tg-21zi">Mrs Eleanor Wong<br>eleanor_pang@moe.edu.sg</td>
+    <td class="tg-21zi">Mdm Noorazean Abdul Rahim<br>noorazean_abdul_rahim@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P3 Hope</td>
+    <td class="tg-21zi"><br>Mdm Lee Wee Nee<br>lee_wee_nee@moe.edu.sg<br> </td>
+    <td class="tg-21zi">Mr Abdul Rahman<br>abdul_rahman_b_hussin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P3 Love</td>
+    <td class="tg-21zi">Mdm Quek Ee Ling<br>quek_ee_ling@moe.edu.sg<br>  </td>
+    <td class="tg-21zi">Mdm Rahimah Razali<br>rahimah_razali@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
