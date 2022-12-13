@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Service Providers/Student Care Centre (SCC).md
-      - Service Providers/Service Providers.md
       - Service Providers/.keep
+      - Service Providers/Service Providers.md
+      - Service Providers/Student Care Centre (SCC).md
       - Contact Us.md
       - Terms of Use.md
