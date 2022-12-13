@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Teachers/.keep
       - Learning and Behavioural Support Staff.md
       - Administrative Staff.md
