@@ -20,7 +20,12 @@ School Executive Committee
 .tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 788px">
+<colgroup>
+<col style="width: 251px">
+<col style="width: 226px">
+<col style="width: 311px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-clkh">Principal</th>
