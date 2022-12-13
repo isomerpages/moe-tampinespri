@@ -2,6 +2,7 @@ collections:
   our-family:
     output: true
     order:
+      - Teacher Leaders.md
       - Teachers/Form Teachers.md
       - Teachers/Mother Tongue Teachers.md
       - Teachers/PE Art Music Teachers.md
