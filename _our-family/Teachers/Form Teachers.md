@@ -176,3 +176,53 @@ Form Teachers
 </table>
 
 ### **P4**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Class</th>
+    <th class="tg-kf4z" colspan="2">Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">P4 Care</td>
+    <td class="tg-21zi">Mr Muhd Faizul Hashim<br>muhammad_faizul_hashim@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Mrs Melissa Yow<br>wee_liang_mei@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P4 Faith</td>
+    <td class="tg-21zi">Mdm Siti Fauziah Bte Ahmad<br>siti_fauziah_ahmad@moe.edu.sg<br><br><br> <br> </td>
+    <td class="tg-21zi">Mdm Ni Jieren<br>ni_jieren@moe.edu.sg<br> <br>Ms Bok Siew Tin <br>bok_siew_tin@moe.edu.sg<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P4 Grace</td>
+    <td class="tg-21zi">Mr Kang Teck Beng<br>kang_teck_beng@moe.edu.sg<br> <br> <br> </td>
+    <td class="tg-21zi">Mr Peter Chua<br>chua_kok_leong_peter@moe.edu.sg<br> <br>Mrs Azizah Malek<br>azizah_mohd_noor@moe.edu.sg<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P4 Hope</td>
+    <td class="tg-21zi">Mrs Ng-Chan Jing Bo<br>chan_jing_bo@moe.edu.sg</td>
+    <td class="tg-21zi">Miss Chuan Boon Min<br>chuan_boon_min@moe.edu.sg<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P4 Joy</td>
+    <td class="tg-21zi">Mr Shahdon Bin Mohd Jamil<br>shahdon_mohammed_jamil@moe.edu.sg</td>
+    <td class="tg-21zi"><br>Mdm Aminah Shariff<br>aminah_mohamed_shariff@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P4 Love</td>
+    <td class="tg-21zi">Miss Jessica Lum<br>lum_yen_ning@moe.edu.sg</td>
+    <td class="tg-21zi">Miss Lai Si Hui<br>lai_si_hui@moe.edu.sg<br></td>
+  </tr>
+</tbody>
+</table>
