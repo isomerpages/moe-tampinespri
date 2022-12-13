@@ -71,3 +71,58 @@ Form Teachers
 </table>
 
 ### **P2**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Class</th>
+    <th class="tg-kf4z" colspan="2">Form Teachers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">P2 Care</td>
+    <td class="tg-21zi">Mrs Catherine Ow<br>tan_catherine_b@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Mdm Tan Khing Khing<br>tan_khing_khing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Faith</td>
+    <td class="tg-21zi">Miss Hafidah Sulaiman<br>hafidah_sulaiman@moe.edu.sg</td>
+    <td class="tg-21zi">Miss J. Aswiniey<br>j_aswiniey@moe.edu.sg<br> <br>Miss Ng Chuey Tin<br>ng_chuey_tin@moe.edu.sg<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Grace</td>
+    <td class="tg-21zi">Miss Connie Tan<br>connie_tan@moe.edu.sg<br> </td>
+    <td class="tg-21zi">Mdm Norliela Ramadan<br>norliela_ramadan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Hope</td>
+    <td class="tg-21zi">Mr Mohd Salleh<br>mohamed_salleh_mohamed_yas@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Miss Jewel Tay<br>tay_yun_yi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Joy</td>
+    <td class="tg-21zi">Miss Adelene Neo<br>neo_ying_adelene@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Mrs Ang Sok Keng<br>tan_sok_keng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Love</td>
+    <td class="tg-21zi">Miss Jolyn Ngo<br>jolyn_ngo_pei_xian@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Miss Nurhidaya Sidik<br>nurhidaya_mohd_sidik@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">P2 Passion</td>
+    <td class="tg-21zi">Miss Nurul Asyikin<br>nurul_asyikin_mohamed_am@moe.edu.sg<br><br></td>
+    <td class="tg-21zi">Mdm Raihana Saadon<br>raihana_saadon@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
