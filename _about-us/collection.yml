@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - History.md
       - General Information/Curriculum Hours.md
       - General Information/School Rules and Regulations.md
       - General Information/Financial Assistance.md
