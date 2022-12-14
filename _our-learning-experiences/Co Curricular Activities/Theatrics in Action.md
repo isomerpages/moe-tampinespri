@@ -97,3 +97,7 @@ Through Community Theatre, the school aims to build community bonds through the 
   </tr>
 </tbody>
 </table>
+
+* * *
+
+\[1\] Collaboration for SYF Drama with Xinmin Secondary School
