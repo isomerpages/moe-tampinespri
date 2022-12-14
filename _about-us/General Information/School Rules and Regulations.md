@@ -129,3 +129,22 @@ These devices can only be used within the school premises for emergency purposes
   
 
 The student is solely responsible for their own devices. The school is not liable for any loss, theft or damage to the devices. Violation of the rules will result in withdrawal of permission and the devices will be kept by the school until a parent comes to claim it.
+
+
+### 8. Safety of Students in School
+
+For the safety of the students, visitors are not allowed into the school building without valid passes. All visitors are to report to the General Office. Parents who bring their children to school are to take them only as far as the gates. Every student should learn to be independent and to carry his/her own bag. 
+
+  
+
+Parents who drive their children to school in the morning may drive into the school compound and use the drop-off point. There is no parking or waiting within the school compound.
+
+  
+
+Parents will not be allowed into the school during the recess/lunch break.
+
+  
+
+### 9. Dismissal
+
+Parents are to take note of the pick up points and dismissal times. They should be punctual. Cars can only enter the school compound after the departure of school buses. There is no waiting and parking of cars in the school. Parents waiting to fetch their children home should wait at the gates.
