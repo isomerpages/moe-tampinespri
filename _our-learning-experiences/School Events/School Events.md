@@ -21,7 +21,7 @@ School Events
     
 *   [TPPS Superstars](/our-learning-experiences/School-Events/TPPS-Superstars/)
 *   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
-*   [P4 and P5 Anti-Drug Ambassador Activity](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/p4-and-p5-anti-drug-ambassador-activity)
+*   [P4 and P5 Anti-Drug Ambassador Activity](/our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/)
 *   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/gsbs-transit-roadshow-bus-safety-campaign-no-falls-on-board)  
     
 *   [Children's Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/children-s-day-2022)
