@@ -17,7 +17,7 @@ School Events
 *   [International Friendship Day](/our-learning-experiences/School-Events/International-Friendship-Day/)
 *   [Cyber Wellness Carnival](/our-learning-experiences/School-Events/Cyber-Wellness-Carnival/)
     
-*   [Fire Incident Drill](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/fire-incident-drill)  
+*   [Fire Incident Drill](/our-learning-experiences/School-Events/Fire-Incident-Drill/)
     
 *   [TPPS Superstars](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/tpps-superstars)
 *   [Spark The Dream Financial Literacy](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/spark-the-dream-financial-literacy)
