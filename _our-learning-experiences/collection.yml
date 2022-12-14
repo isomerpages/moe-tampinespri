@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Co Curricular Activities/Theatrics in Action.md
       - Co Curricular Activities/.keep
       - School Events/School Events.md
       - School Events/Chinese New Year celebrations.md
