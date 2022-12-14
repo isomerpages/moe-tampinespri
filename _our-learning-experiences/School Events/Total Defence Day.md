@@ -54,3 +54,6 @@ Total Defence Day
 <b>Inter-class Collage Competition</b>
 
 ![](/images/Total%20Defence%20Day3.png)
+
+
+##### **Total Defence Day 2022 – Together We Keep Singapore Strong**
