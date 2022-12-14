@@ -46,3 +46,6 @@ Total Defence Day
   </tr>
 </tbody>
 </table>
+
+![](/images/Total%20Defence%20Day1.png)
+<b>TPPS Community Cafe – NE Ambassadors sharing on the six pillars of Total Defence</b>
