@@ -69,3 +69,31 @@ Through Community Theatre, the school aims to build community bonds through the 
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">2020</td>
+    <td class="tg-21zi">SYF Drama - Celebrations!<br>Monologues Online performances by members of Theatrics in Action<br>Solo RAMAKANNAN SHRUJAY<br>Solo &amp; Collaboration<a href="https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/co-curricular-activities/theatrics-in-action#sanna-goel">[1]</a> SANNA GOEL<br>Collaboration HADI DANIEL RATCLIFF</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2019</td>
+    <td class="tg-21zi">Community Musical<br><span style="font-style:italic">The Lion’s Roar</span><br>Our Tampines Hub, Festive Arts Theatre<br>SYF Drama<br><span style="font-style:italic">Celebrations in the Community</span><br><span style="font-style:italic">Play!</span><br>Our Tampines Hub, Festive Plaza</td>
+  </tr>
+</tbody>
+</table>
