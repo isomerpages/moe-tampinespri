@@ -10,3 +10,5 @@ Fire Incident Drill
 ===================
 
 On Friday, 20th May 2022, Tampines Primary School conducted a Fire Incident Drill within school premises.
+
+Note: Fire Incident Drill video not uploaded to Youtube.
