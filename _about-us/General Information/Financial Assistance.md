@@ -17,7 +17,7 @@ Note: MOE FAS website link broken.
 
   
 
-
+[FAQs on Provision of School Meal Subsidies During Extended Circuit Breaker Period](/files/FAQs_on_School_Meal_Subsidies_During_Extended_Circuit_Breaker_Period_(FINAL.pdf)
 
   
 
