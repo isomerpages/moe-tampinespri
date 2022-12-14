@@ -44,3 +44,5 @@ National Day Observance Ceremony – Prefects EXCO leading the march past
 
 Our NE Team and NE Ambassadors leading the National Day concert and celebrations
 ![](/images/National%20Day2.jpeg)
+
+Community Cafe – NE Ambassadors sharing on unique facts of Singapore & our food culture!
