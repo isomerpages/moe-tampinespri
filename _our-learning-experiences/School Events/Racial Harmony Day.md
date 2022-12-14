@@ -54,3 +54,4 @@ NE Ambassadors sharing on Racial Harmony Day
 ![](/images/RHD3.jpeg)
 
 Our PSG supporting us for the RHD recess activities!
+![](/images/RHD4.jpeg)
