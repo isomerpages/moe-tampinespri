@@ -50,3 +50,5 @@ Cyber Wellness Carnival
   </tr>
 </tbody>
 </table>
+
+![](/images/Cyber%20Wellness%20Carnival.gif)
