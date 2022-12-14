@@ -24,6 +24,6 @@ School Events
 *   [P4 and P5 Anti-Drug Ambassador Activity](/our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/)
 *   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](/our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/)
     
-*   [Children's Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/children-s-day-2022)
+*   [Children's Day](/our-learning-experiences/School-Events/Childrens-Day/)
 *   [Racial Harmony Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/racial-harmony-day)
 *   [National Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/national-day)
