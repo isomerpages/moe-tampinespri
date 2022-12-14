@@ -56,3 +56,4 @@ The booklets used by the students
 ![](/images/Spark%20The%20Dream2.png)
 
 ##### **Money matters! Learning in action!**
+![](/images/Spark%20The%20Dream3.png)
