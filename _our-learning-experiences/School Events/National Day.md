@@ -25,7 +25,7 @@ third_nav_title: School Events
 <tbody>
   <tr>
     <td class="tg-kk00">Theme</td>
-    <td class="tg-clkh">Stronger Together, Majulah!<br>The theme “Stronger Together, Majulah!” is a call for all Singaporeans to forge ahead as a united and strong people towards a better future. “Stronger Together” reminds Singaporeans that unity in our diversity is what makes us stronger. Communities, families and friends coming together form the bedrock of our nation’s strength and resilience, and enable us to overcome challenges. “Majulah”, which means “onward”, encapsulates our hopes and spirit as a nation since our independence 57 years ago, and is a rallying call for Singaporeans to strive for a better future, and grow from strength to strength as we emerge from COVID-19.</td>
+    <td class="tg-kk00"><span style="font-weight:bold">Stronger Together, Majulah!</span><br>The theme “Stronger Together, Majulah!” is a call for all Singaporeans to forge ahead as a united and strong people towards a better future. “Stronger Together” reminds Singaporeans that unity in our diversity is what makes us stronger. Communities, families and friends coming together form the bedrock of our nation’s strength and resilience, and enable us to overcome challenges. “Majulah”, which means “onward”, encapsulates our hopes and spirit as a nation since our independence 57 years ago, and is a rallying call for Singaporeans to strive for a better future, and grow from strength to strength as we emerge from COVID-19.</td>
   </tr>
   <tr>
     <td class="tg-kk00">Objectives</td>
