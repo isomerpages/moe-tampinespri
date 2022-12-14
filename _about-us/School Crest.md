@@ -51,3 +51,43 @@ The round shape represents a holistic education for our students with the total 
 
 
 ### **TPPS School Song**
+
+**ONWARD TAMPINES PRIMARY SCHOOL**
+
+Music & Lyrics - Stella Goh Chiew Chin
+
+  
+
+Music Arrangement - Iskandar Ismail
+
+Choral Arrangement - Stella Goh Chiew Chin
+
+  
+
+With gladness of hearts we join in song
+
+With loyalty and oneness of minds we throng
+
+Tampines Primary School, place of my youth
+
+Fountain of intelligence, goodwill and truth
+
+  
+
+Our teachers we do honour and obey
+
+We shall never slacken come what may
+
+Duty and obedience shall we be schooled
+
+Onward Tampines Primary School
+
+  
+
+Our teachers we do honour and obey
+
+We shall never slacken come what may
+
+Duty and obedience shall we be schooled
+
+Onward Tampines Primary School
