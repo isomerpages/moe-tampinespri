@@ -2,6 +2,8 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - "School Events/GSBS Transit Roadshow: Bus Safety Campaign (No Falls On
+        Board).md"
       - School Events/Children’s Day.md
       - School Events/Racial Harmony Day.md
       - School Events/National Day.md
