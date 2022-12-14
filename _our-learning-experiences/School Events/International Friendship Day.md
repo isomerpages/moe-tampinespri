@@ -46,3 +46,7 @@ International Friendship Day 
   </tr>
 </tbody>
 </table>
+
+
+![](/images/IFD1.png)
+<b>TPPS Community Cafe – NE Coordinators and NE Ambassadors hosting the International Friendship Day Song Dedication</b>
