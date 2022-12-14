@@ -25,5 +25,5 @@ School Events
 *   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](/our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/)
     
 *   [Children's Day](/our-learning-experiences/School-Events/Childrens-Day/)
-*   [Racial Harmony Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/racial-harmony-day)
+*   [Racial Harmony Day](/our-learning-experiences/School-Events/Racial-Harmony-Day/)
 *   [National Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/national-day)
