@@ -103,3 +103,5 @@ In Malay Dance CCA, apart from presenting opportunities for students at various 
   </tr>
 </tbody>
 </table>
+
+![](/images/MalayDance.gif)
