@@ -57,3 +57,5 @@ Total Defence Day
 
 
 ##### **Total Defence Day 2022 – Together We Keep Singapore Strong**
+
+![](/images/Total%20Defence%20Day4.jpeg)
