@@ -15,32 +15,32 @@ Children’s Day
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+.tg .tg-svcv{color:#121212;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-k7n2{color:#121212;font-size:16px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-clkh">Name of Event</th>
-    <th class="tg-clkh">Children’s Day Celebration </th>
+    <th class="tg-svcv">Name of Event</th>
+    <th class="tg-svcv">Children’s Day Celebration </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kk00">Theme</td>
-    <td class="tg-kk00">A Tiny Spark, A Million Dreams</td>
+    <td class="tg-k7n2">Theme</td>
+    <td class="tg-k7n2">A Tiny Spark, A Million Dreams</td>
   </tr>
   <tr>
-    <td class="tg-kk00">Objectives</td>
-    <td class="tg-kk00">To encourage communities to celebrate children and their potential to contribute to society by ensuring their happiness and well-being.</td>
+    <td class="tg-k7n2">Objectives</td>
+    <td class="tg-k7n2">To encourage communities to celebrate children and their potential to contribute to society by ensuring their happiness and well-being.</td>
   </tr>
   <tr>
-    <td class="tg-kk00">Date</td>
-    <td class="tg-kk00">6th October 2022</td>
+    <td class="tg-k7n2">Date</td>
+    <td class="tg-k7n2">6th October 2022</td>
   </tr>
   <tr>
-    <td class="tg-kk00">Time</td>
-    <td class="tg-kk00">12.00 pm – 2.00 pm</td>
+    <td class="tg-k7n2">Time</td>
+    <td class="tg-k7n2">12.00 pm – 2.00 pm</td>
   </tr>
 </tbody>
 </table>
