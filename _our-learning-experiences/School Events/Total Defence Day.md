@@ -64,3 +64,8 @@ Total Defence Day
 
 ![](/images/Total%20Defence%20Day6.png)
 <b>Total Defence Day Lessons</b>
+
+![](/images/Total%20Defence%20Day7.png)
+
+![](/images/Total%20Defence%20Day8.png)
+<b>Our NE Ambassadors participating in the annual SCDF Junior Lionhearters Challenge!</b>
