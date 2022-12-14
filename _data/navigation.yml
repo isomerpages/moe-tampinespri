@@ -1,9 +1,13 @@
 logo: /images/logo.png
 links:
+  - title: About Us
+    url: /about-us/Principals-Message/
+    sublinks:
+      - title: Principal’s Message
+        url: /about-us/Principals-Message/
+      - title: School Vision Mission & Values
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: About Us
-    url: /permalink
-    sublinks: []
