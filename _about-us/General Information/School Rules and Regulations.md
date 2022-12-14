@@ -148,3 +148,27 @@ Parents will not be allowed into the school during the recess/lunch break.
 ### 9. Dismissal
 
 Parents are to take note of the pick up points and dismissal times. They should be punctual. Cars can only enter the school compound after the departure of school buses. There is no waiting and parking of cars in the school. Parents waiting to fetch their children home should wait at the gates.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqa7{color:#121212;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vqa7">Types of Offences</th>
+    <th class="tg-vqa7">Recommended Action/s</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">Abuse of mobile phone<br>Arson<br>Assault<br>Bullying <br>Cheating in assessments/tests/examinations<br>Disruptive and/or violent behaviour<br>Defiance/rudeness<br>Drug/inhalant abuse<br>Extorting money <br>Fighting<br>Forgery<br>Gambling<br>Gangsterism<br>Improper attire and grooming <br>IT related offences<br>Latecoming<br>Leaving school grounds without permission<br>Littering<br>Not doing assignments<br>Pornography<br>Possession of weapons<br>Sexual misconduct<br>Skipping classes<br>Smoking<br>Theft<br>Truancy<br>Using vulgar languages <br>Vandalism<br>Violation of traffic rules</td>
+    <td class="tg-kk00">Counselling<br>Warning &amp; Contract<br>Suspension <br>Corrective Work Order<br>Loss of Privilege/s <br>Detention<br>Restitution<br>Adverse Conduct Grade<br>Ineligibility of Awards<br>Corporal Punishment<br>Other alternatives deemed appropriate to correct unacceptable behaviour</td>
+  </tr>
+</tbody>
+</table>
