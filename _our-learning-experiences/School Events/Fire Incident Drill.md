@@ -4,3 +4,9 @@ permalink: /our-learning-experiences/School-Events/Fire-Incident-Drill/
 description: ""
 third_nav_title: School Events
 ---
+![](/images/Our%20Learning%20Experiences.jpg)
+
+Fire Incident Drill
+===================
+
+On Friday, 20th May 2022, Tampines Primary School conducted a Fire Incident Drill within school premises.
