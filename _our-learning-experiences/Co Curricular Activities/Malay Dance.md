@@ -26,3 +26,32 @@ The various performances create opportunities for the students to develop charac
   
 
 In Malay Dance CCA, apart from presenting opportunities for students at various platforms, students will also be able to improve on their relationship management while learning to work together as a team towards a common goal.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Day &amp; Time</th>
+    <th class="tg-clkh">Venue</th>
+    <th class="tg-clkh">Teachers-in-Charge</th>
+    <th class="tg-clkh">Levels involved</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">Friday<br>8.30-10am<br><br>Monday (Only if needed)<br>2.30 - 4.30pm</td>
+    <td class="tg-kk00">Dance Room<br>(MK building)</td>
+    <td class="tg-kk00">Mdm Haslinah <br>Mdm Norleila Ramadan <br>Mdm Raihana </td>
+    <td class="tg-kk00">P3-P6 students</td>
+  </tr>
+</tbody>
+</table>
