@@ -53,3 +53,6 @@ International Friendship Day 
 
 ![](/images/IFD2.png)
 <b>TPPS commemorates IFD 2022 – Singapore in Asia</b>
+
+![](/images/IFD3.png)
+IFD lessons
