@@ -203,3 +203,27 @@ There will be a 10-min snack break for students at 9.30 a.m. or 12.30 p.m. Stude
   
 
 The table below indicates healthy snack food that are acceptable and those that are not acceptable.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Acceptable Items for Snack Break</th>
+    <th class="tg-clkh">Unacceptable Items for Snack Break</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><br>1. Biscuits<br>2. Buns (e.g. red bean bun)<br>3. Bread<br>4. Sandwich<br>5. Cereal (small box)<br>6. Dried Fruit<br>7. Energy Bar (e.g. muesli bar and oats bar)<br>8. Fruit (e.g. apple and banana)<br>9. Raisins<br>10. Nuts<br>11. Cheese Slice/Stick<br>12. Carrot/Cucumber Stick<br>13. Small Packet of Milo/Milk/Cereal Drink<br></td>
+    <td class="tg-kk00"><br>1. Fried Food<br>2. Rice, Porridge and Noodles<br>3. Sweets<br>4. Chocolate Bar<br>5. Tidbits (e.g. Potato Chips)</td>
+  </tr>
+</tbody>
+</table>
