@@ -40,3 +40,6 @@ third_nav_title: School Events
 
 National Day Observance Ceremony – Prefects EXCO leading the march past
 ![](/images/National%20Day1.jpeg)
+
+
+Our NE Team and NE Ambassadors leading the National Day concert and celebrations
