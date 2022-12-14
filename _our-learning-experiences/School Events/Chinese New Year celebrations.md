@@ -57,3 +57,6 @@ Chinese New Year celebrations
 
 ![](/images/cny3.jpg)
 <i>Students dancing along to the videos created for the concert</i>
+
+![](/images/cny4.jpg)
+<i>Fun moments during the celebration</i>
