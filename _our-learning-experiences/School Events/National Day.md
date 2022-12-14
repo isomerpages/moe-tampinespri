@@ -39,3 +39,4 @@ third_nav_title: School Events
 </table>
 
 National Day Observance Ceremony – Prefects EXCO leading the march past
+![](/images/National%20Day1.jpeg)
