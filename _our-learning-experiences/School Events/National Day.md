@@ -47,3 +47,5 @@ Our NE Team and NE Ambassadors leading the National Day concert and celebrations
 
 Community Cafe – NE Ambassadors sharing on unique facts of Singapore & our food culture!
 ![](/images/National%20Day3.jpeg)
+
+Our PSGs leading the school in the sing-along during National Day concert
