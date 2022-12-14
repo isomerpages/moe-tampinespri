@@ -111,3 +111,21 @@ Parents should not take their child/children away from school for holidays befor
 ### 6\. Early Departure
 
 Students are not allowed to leave the school during the school hours unless parents or an adult authorised by the parents come personally and obtain permission. They are to sign out at the General Office when fetching the student home.
+
+
+### 7\. Use of devices capable of capturing, storing, displaying and/or transmitting visual, audio and verbal information 
+
+
+<i>Examples of such devices are: mobile phones, fitness trackers and smart wrist watches (including the POSB Smart Buddy)</i>
+
+  
+
+Students, with the permission of their parents, must submit a written request for the use of these devices within the school premises. A pass will be issued to the student when permission is granted. 
+
+  
+
+These devices can only be used within the school premises for emergency purposes. The devices should not be brought into examination rooms. Photography, video and voice recordings and gaming are prohibited within the school premises. Mobile phones must be switched off or put on silent mode at all times within the school premises.  
+
+  
+
+The student is solely responsible for their own devices. The school is not liable for any loss, theft or damage to the devices. Violation of the rules will result in withdrawal of permission and the devices will be kept by the school until a parent comes to claim it.
