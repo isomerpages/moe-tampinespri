@@ -9,7 +9,7 @@ third_nav_title: School Events
 School Events
 =============
 
-*   [Chinese New Year celebrations](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/chinese-new-year-celebrations)
+*   [Chinese New Year celebrations](/our-learning-experiences/School-Events/Chinese-New-Year-celebrations/)
 *   [Hari Raya Celebrations](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/hari-raya-celebration)  
 *   [Mother Tongue Fortnight](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/mother-tongue-fortnight)
 *   [Total Defence Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/total-defence-day)   
