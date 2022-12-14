@@ -52,3 +52,5 @@ Total Defence Day
 
 ![](/images/Total%20Defence%20Day2.png)
 <b>Inter-class Collage Competition</b>
+
+![](/images/Total%20Defence%20Day3.png)
