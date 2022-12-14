@@ -51,3 +51,6 @@ Chinese New Year celebrations
 
 ![](/images/cny1.jpg)
 <i>Students creating their own hongbaos for the hongbao project</i>
+
+![](/images/cny2.jpg)
+<i>Students creating fortune cookies during a classroom activity</i>
