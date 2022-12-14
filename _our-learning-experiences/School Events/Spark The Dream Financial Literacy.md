@@ -57,3 +57,5 @@ The booklets used by the students
 
 ##### **Money matters! Learning in action!**
 ![](/images/Spark%20The%20Dream3.png)
+
+Note: Spark The Dream Financial Literacy video not uploaded to Youtube.
