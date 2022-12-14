@@ -21,4 +21,4 @@ Note: MOE FAS website link broken.
 
   
 
-[List of Suggested Merchants (updated 5 May 2020)](https://tampinespri.moe.edu.sg/qql/slot/u175/Revamp%202020/About%20Us/General%20Information/Financial%20Assistance/List_of_Suggested_Merchants_(updated_5_May_2020).pdf)
+[List of Suggested Merchants (updated 5 May 2020)](/files/List_of_Suggested_Merchants_(updated_5_May_2020).pdf)
