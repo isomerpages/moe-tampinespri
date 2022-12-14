@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - School Events/Children’s Day.md
       - School Events/Racial Harmony Day.md
       - School Events/National Day.md
       - School Events/.keep
