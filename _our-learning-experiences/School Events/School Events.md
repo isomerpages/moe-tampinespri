@@ -4,3 +4,8 @@ permalink: /our-learning-experiences/School-Events/School-Events/
 description: ""
 third_nav_title: School Events
 ---
+![](/images/Our%20Learning%20Experiences.jpg)
+
+School Events
+=============
+
