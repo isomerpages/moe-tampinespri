@@ -52,3 +52,4 @@ After a morning of physical activities, students returned to their classrooms wh
 Last but not least, the celebrations culminated in the celebratory concert, where our very own teachers from the various schools showcased their varied talents and abilities in singing, dancing and acting, and put up rousing and engaging performances for the students. It was indeed a memorable and fun-filled day for one and all, and we hope that students will savour these memories for many more years to come.
 
 ![](/images/Children'sDay1.png)
+![](/images/Children'sDay2.png)
