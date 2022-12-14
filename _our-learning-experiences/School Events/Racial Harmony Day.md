@@ -45,3 +45,4 @@ third_nav_title: School Events
 </table>
 
 Engaging in RHD class conversations
+![](/images/RHD1.jpeg)
