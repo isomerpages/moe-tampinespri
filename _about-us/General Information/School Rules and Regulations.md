@@ -79,3 +79,35 @@ e.  <b>Hair Style</b>
    Students must be neat and tidy at all times. All boys must be clean shaven and no wearing of beards and moustache.
 	 
 <img src="/images/SchoolRules.jpeg" style="width:70%">
+
+### 4\. Attendance
+
+Students must:
+
+> *   Be punctual at all times
+> *   Attend classes regularly
+> *   Seek permission before leaving the class or school
+> *   Submit medical certificates or parent’s letter (for compassionate reasons) when they are absent.
+
+Students who are not present during the singing of National Anthem will be deemed as late.
+
+  
+
+### 5. Absence from School
+
+
+Students are expected to be in school every school day. If a student is unable to come to school, parents/guardian are expected to notify the school. When a student is unwell, he/she should see a doctor and remain at home to recover. Any absence from school must be covered by a doctor’s medical certificate or a letter from the parent (for compassionate reasons). This should be handed to the Form Teacher when the student returns to school. 
+
+  
+
+However, if a student falls sick in school, the parents/guardian will be informed to bring him/her home. 
+
+  
+
+Parents should not take their child/children away from school for holidays before the end of the school terms.
+
+  
+
+### 6\. Early Departure
+
+Students are not allowed to leave the school during the school hours unless parents or an adult authorised by the parents come personally and obtain permission. They are to sign out at the General Office when fetching the student home.
