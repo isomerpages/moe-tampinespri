@@ -38,3 +38,5 @@ School Vision, Mission and Values
   </tr>
 </tbody>
 </table>
+
+<img src="/images/diary.jpg" style="width:70%">
