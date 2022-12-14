@@ -13,7 +13,7 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 
 Note: MOE FAS website link broken. 
 
-[FAQs for Redemption of School Meal Subsidies through School Smartcard During Extended Circuit Breaker Period](https://tampinespri.moe.edu.sg/qql/slot/u175/Revamp%202020/About%20Us/General%20Information/Financial%20Assistance/FAQs_for_Redemption_of_School_Meal_Subsidies_through_School_Smartcard_during_Extended_CB_Period_(FINAL.pdf)  
+[Redemption of School Meal Subsidies through School Smartcard During Extended Circuit Breaker Period](/files/FAQs_for_Redemption_of_School_Meal_Subsidies.pdf)
 
   
 
