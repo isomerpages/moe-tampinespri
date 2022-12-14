@@ -101,3 +101,60 @@ Through Community Theatre, the school aims to build community bonds through the 
 * * *
 
 \[1\] Collaboration for SYF Drama with Xinmin Secondary School
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-k041{color:#121212;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Year</th>
+    <th class="tg-clkh">Community Theatre </th>
+    <th class="tg-clkh">Theme (s)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">2018</td>
+    <td class="tg-kk00">Weather or Not</td>
+    <td class="tg-kk00">-Global Warming<br>-Friendship<br>-Innovation</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2017</td>
+    <td class="tg-kk00">In Transit</td>
+    <td class="tg-k041">-Transition into a new school<br>-Living with technology</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2016</td>
+    <td class="tg-kk00">Excuse me, REALLY, is this a good school?</td>
+    <td class="tg-kk00">-School closing down<br>-Population decline</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2015</td>
+    <td class="tg-kk00">Treasure Us</td>
+    <td class="tg-kk00">Family heritage</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2014</td>
+    <td class="tg-kk00">We are Family, We are Neighbours</td>
+    <td class="tg-kk00">-Celebrating diversity<br>-Friendship<br>-Neighbourliness</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2013</td>
+    <td class="tg-kk00">Bridging Community</td>
+    <td class="tg-k041">Expectations of a "good school"<br>Cyberbullying</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2012</td>
+    <td class="tg-kk00">Heart Strings Heart Family<br><span style="font-style:italic">-Play in Collaboration with senior citizens from Ageless Theatre, teachers and pupils</span></td>
+    <td class="tg-kk00">Filial Piety</td>
+  </tr>
+</tbody>
+</table>
