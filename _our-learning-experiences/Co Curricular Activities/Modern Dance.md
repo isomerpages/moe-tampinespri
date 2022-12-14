@@ -44,3 +44,50 @@ Modern Dance is a form of art beyond its aesthetic value. The CCA believes in nu
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wrfy{color:#121212;text-align:center;vertical-align:middle}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Competition / Event</th>
+    <th class="tg-kf4z">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wrfy"> 2022</td>
+    <td class="tg-wrfy">  Chinese New Year School Concert<br><br>Modern Dance SYF Arts Presentation<br><br>Teacher’s Day School Concert<br></td>
+    <td class="tg-wrfy">-<br><br>-<br><br>- </td>
+  </tr>
+  <tr>
+    <td class="tg-wrfy"> 2021</td>
+    <td class="tg-wrfy"> Chinese New Year School Concert 	</td>
+    <td class="tg-wrfy">- </td>
+  </tr>
+  <tr>
+    <td class="tg-wrfy">2020 </td>
+    <td class="tg-wrfy">Chinese New Year School Concert </td>
+    <td class="tg-wrfy"> -</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2019</td>
+    <td class="tg-21zi">Tampines Park RC Lunar New Year Carnival</td>
+    <td class="tg-21zi">-</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2018</td>
+    <td class="tg-21zi">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-21zi">Distinction</td>
+  </tr>
+</tbody>
+</table>
