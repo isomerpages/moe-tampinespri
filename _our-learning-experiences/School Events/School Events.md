@@ -14,7 +14,7 @@ School Events
 *   [Mother Tongue Fortnight](/our-learning-experiences/School-Events/Mother-Tongue-Fortnight/)
 *   [Total Defence Day](/our-learning-experiences/School-Events/Total-Defence-Day/)
     
-*   [International Friendship Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/international-friendship-day)
+*   [International Friendship Day](/our-learning-experiences/School-Events/International-Friendship-Day/)
 *   [Cyber Wellness Carnival](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/cyber-wellness-carnival)  
     
 *   [Fire Incident Drill](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/fire-incident-drill)  
