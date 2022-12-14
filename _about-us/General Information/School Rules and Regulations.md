@@ -56,24 +56,24 @@ a. <b>School Uniform</b>
     T-shirts need to be tucked in neatly at all times.  
       
     
-b.  **School Shoes**  
+b.  <b>School Shoes</b>  
     Only white canvas shoes with plain white socks or school socks are allowed. Slippers and sandals are only allowed with valid medical reasons and with teacher’s permission. Students who wish to wear sports shoes or soccer boots can only change into them during the CCA periods. Students are required to change back into the white canvas shoes after the CCA periods.  
       
     
-c.  **Students’ Cloth Name Labels**  
+c.  <b>Students’ Cloth Name Labels</b> 
     Name labels must be worn at all times. If they have been misplaced or changed, new labels must be purchased, and sewn or ironed on to the school shirt/blouse and PE T-shirt, above the school crest.  
       
     
-d.  **Accessories**
+d.  <b>Accessories</b>
 
 *   Girls are only allowed to wear one pair of small ear stud. Only identical ear studs are allowed.
 *   Jewellery of any kind is not allowed. This includes bracelets, necklaces, rings, fanciful/expensive watches or any other forms of jewellery.
 *   Spectacles worn should comprise simple plastic or metal frames in gold, silver or black. Luminous/striking coloured frames are not allowed. Only clear plastic lenses are allowed.
 
-e.  **Hair Style**  
-    **GIRLS:** Hair should be kept short or neatly tied up with black ribbons not wider than 1 cm. Only simple black plastic or fabric hair bands not wider than 1 cm are allowed. The fringe must be kept above eye brows. Hair that reaches below the collar must be tied up or cut.   
+e.  <b>Hair Style</b>  
+    <b>GIRLS:</b> Hair should be kept short or neatly tied up with black ribbons not wider than 1 cm. Only simple black plastic or fabric hair bands not wider than 1 cm are allowed. The fringe must be kept above eye brows. Hair that reaches below the collar must be tied up or cut.   
       
-    **BOYS:** Hair should be short and neatly combed at the back and sides. Hair should be above the eyebrows. Hair should not touch the collar or the tip of the ear. Avoid perming, designs on scalp or extreme shaving of hair at sides to show contrast.  
+   <b>BOYS:</b> Hair should be short and neatly combed at the back and sides. Hair should be above the eyebrows. Hair should not touch the collar or the tip of the ear. Avoid perming, designs on scalp or extreme shaving of hair at sides to show contrast.  
       
-    Coloured or tinted hair is not allowed.  
-    Students must be neat and tidy at all times. All boys must be clean shaven and no wearing of beards and moustache.
+   Coloured or tinted hair is not allowed.  
+   Students must be neat and tidy at all times. All boys must be clean shaven and no wearing of beards and moustache.
