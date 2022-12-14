@@ -49,6 +49,7 @@ Spark The Dream Financial Literacy
 </table>
 
 The booklets used by the students
+![](/images/Spark%20The%20Dream1.png)
 
 
 ##### **conducted by facilitators**
