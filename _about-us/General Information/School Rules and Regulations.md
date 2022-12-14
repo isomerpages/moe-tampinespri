@@ -77,3 +77,5 @@ e.  <b>Hair Style</b>
       
    Coloured or tinted hair is not allowed.  
    Students must be neat and tidy at all times. All boys must be clean shaven and no wearing of beards and moustache.
+	 
+<img src="/images/SchoolRules.jpeg" style="width:70%">
