@@ -12,7 +12,7 @@ School Events
 *   [Chinese New Year celebrations](/our-learning-experiences/School-Events/Chinese-New-Year-celebrations/)
 *   [Hari Raya Celebrations](/our-learning-experiences/School-Events/Hari-Raya-Celebration/)
 *   [Mother Tongue Fortnight](/our-learning-experiences/School-Events/Mother-Tongue-Fortnight/)
-*   [Total Defence Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/total-defence-day)   
+*   [Total Defence Day](/our-learning-experiences/School-Events/Total-Defence-Day/)
     
 *   [International Friendship Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/international-friendship-day)
 *   [Cyber Wellness Carnival](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/cyber-wellness-carnival)  
