@@ -227,3 +227,11 @@ The table below indicates healthy snack food that are acceptable and those that 
   </tr>
 </tbody>
 </table>
+
+### **Precautionary Measures to Ensure Safety Measures Management**
+
+Parents/Caregivers are to wait for their children outside the school at dismissal. Driving parents/caregivers are reminded that there is no waiting or parking in the school carpark. For CCA, Enrichment, Remedial or Supplementary dismissals, cars will only enter the school strictly at the dismissal times given. If you are early, please be advised to wait at the public carparks near the school.
+
+  
+
+Thank you for your understanding.
