@@ -48,3 +48,6 @@ The round shape represents a holistic education for our students with the total 
   </tr>
 </thead>
 </table>
+
+
+### **TPPS School Song**
