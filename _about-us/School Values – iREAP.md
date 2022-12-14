@@ -32,3 +32,10 @@ These traits are summarized below, in alignment to our <b>IREAP Values.</b>
 ![](/images/School%20Values3.png)
 ![](/images/School%20Values4.png)
 ![](/images/School%20Values5.png)
+
+
+<b>My Hallmarks Portal</b>
+
+Launched in 2021, the portal is a self-evaluation tool to encourage students to reflect, monitor and take ownership of their character development journey in their years in TPPS. 
+
+Guided by our TPPS Ambassadors, the portal also includes a co-reflection component that would require parents to be actively involved in their children’s character development journey
