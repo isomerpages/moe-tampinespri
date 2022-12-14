@@ -48,3 +48,6 @@ Chinese New Year celebrations
   </tr>
 </tbody>
 </table>
+
+![](/images/cny1.jpg)
+<i>Students creating their own hongbaos for the hongbao project</i>
