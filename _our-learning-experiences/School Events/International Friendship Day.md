@@ -4,3 +4,7 @@ permalink: /our-learning-experiences/School-Events/International-Friendship-Day/
 description: ""
 third_nav_title: School Events
 ---
+![](/images/Our%20Learning%20Experiences.jpg)
+
+International Friendship Day 
+=============================
