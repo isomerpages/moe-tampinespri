@@ -26,3 +26,9 @@ The school strongly believes that every student, guided by iREAP values and the 
 In 2021, The Five TPPS Ambassadors Avatars were created to help our students relate and understand the Tampinesian Hallmarks. The avatars are manifestations and iconic representations of our Tampinesian Hallmarks and iREAP values. They serve as an inspiration, friend and a guide to Tampinesians to achieve the Hallmarks and be the best they can be. The avatars are also embedded into all facets of school life to create excitement and fun and increase student engagement.
 
 These traits are summarized below, in alignment to our <b>IREAP Values.</b>
+
+![](/images/School%20Values1.png)
+![](/images/School%20Values2.png)
+![](/images/School%20Values3.png)
+![](/images/School%20Values4.png)
+![](/images/School%20Values5.png)
