@@ -48,3 +48,4 @@ Engaging in RHD class conversations
 ![](/images/RHD1.jpeg)
 
 Everyone working together – love for our school and friends!
+![](/images/RHD2.jpeg)
