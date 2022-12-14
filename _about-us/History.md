@@ -87,3 +87,11 @@ Our journey of growth has been made possible with the strong stewardship of our 
   </tr>
 </tbody>
 </table>
+
+
+### **Moving Forward**
+
+In our short history, Tampines Primary School has created a visible trail of successes in academic and non-academic accomplishments. This momentum will flow with the vibrancy of Tampines Town, marked by the school’s motto “To Persevere and Succeed”.
+
+  
+[Click here to find out more about our history.](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/tampines-primary-school)
