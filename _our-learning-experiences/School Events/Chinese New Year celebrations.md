@@ -54,3 +54,6 @@ Chinese New Year celebrations
 
 ![](/images/cny2.jpg)
 <i>Students creating fortune cookies during a classroom activity</i>
+
+![](/images/cny3.jpg)
+<i>Students dancing along to the videos created for the concert</i>
