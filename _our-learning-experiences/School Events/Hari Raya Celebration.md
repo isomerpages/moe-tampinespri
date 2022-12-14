@@ -51,3 +51,4 @@ Hari Raya Celebration
 </table>
 
 ![](/images/Hari%20Raya%20Celebration1.png)
+![](/images/Hari%20Raya%20Celebration2.png)
