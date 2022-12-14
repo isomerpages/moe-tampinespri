@@ -50,3 +50,6 @@ International Friendship Day 
 
 ![](/images/IFD1.png)
 <b>TPPS Community Cafe – NE Coordinators and NE Ambassadors hosting the International Friendship Day Song Dedication</b>
+
+![](/images/IFD2.png)
+<b>TPPS commemorates IFD 2022 – Singapore in Asia</b>
