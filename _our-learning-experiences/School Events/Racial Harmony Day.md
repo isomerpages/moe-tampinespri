@@ -51,3 +51,6 @@ Everyone working together – love for our school and friends!
 ![](/images/RHD2.jpeg)
 
 NE Ambassadors sharing on Racial Harmony Day
+![](/images/RHD3.jpeg)
+
+Our PSG supporting us for the RHD recess activities!
