@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - School Events/TPPS Superstars.md
       - School Events/Spark The Dream Financial Literacy.md
       - School Events/P4 and P5 Anti Drug Ambassador Activity.md
       - "School Events/GSBS Transit Roadshow: Bus Safety Campaign (No Falls On
