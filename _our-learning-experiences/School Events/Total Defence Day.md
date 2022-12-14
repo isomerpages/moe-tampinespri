@@ -61,3 +61,6 @@ Total Defence Day
 ![](/images/Total%20Defence%20Day4.jpeg)
 
 ![](/images/Total%20Defence%20Day5.jpeg)
+
+![](/images/Total%20Defence%20Day6.png)
+<b>Total Defence Day Lessons</b>
