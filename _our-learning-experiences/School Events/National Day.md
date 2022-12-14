@@ -49,3 +49,6 @@ Community Cafe – NE Ambassadors sharing on unique facts of Singapore & our foo
 ![](/images/National%20Day3.jpeg)
 
 Our PSGs leading the school in the sing-along during National Day concert
+![](/images/National%20Day4.jpeg)
+
+![](/images/National%20Day5.jpeg)
