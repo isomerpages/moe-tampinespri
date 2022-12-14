@@ -172,3 +172,11 @@ Parents are to take note of the pick up points and dismissal times. They should 
   </tr>
 </tbody>
 </table>
+
+
+At Tampines Primary School, we believe that good discipline is important so that all students can learn in a warm and caring environment. Whilst the staff will try our best to instil self-discipline and desirable behaviour, we seek the co-operation of parents and caregivers to help reinforce good discipline. If students were to violate the school rules and need to be disciplined, the school seeks the support of parents so that the students can understand the consequences of their actions.   
+  
+
+<b>Student Management Department  
+Tampines Primary School  
+December 2020</b>
