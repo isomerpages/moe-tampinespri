@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - School Events/Cyber Wellness Carnival.md
       - School Events/Fire Incident Drill.md
       - School Events/TPPS Superstars.md
       - School Events/Spark The Dream Financial Literacy.md
