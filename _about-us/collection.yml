@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Vision, Mission and Values.md
       - School Values – iREAP.md
       - School Crest.md
       - History.md
