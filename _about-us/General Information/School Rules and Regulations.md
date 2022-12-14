@@ -167,12 +167,11 @@ Parents are to take note of the pick up points and dismissal times. They should 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kk00">Abuse of mobile phone<br>Arson<br>Assault<br>Bullying <br>Cheating in assessments/tests/examinations<br>Disruptive and/or violent behaviour<br>Defiance/rudeness<br>Drug/inhalant abuse<br>Extorting money <br>Fighting<br>Forgery<br>Gambling<br>Gangsterism<br>Improper attire and grooming <br>IT related offences<br>Latecoming<br>Leaving school grounds without permission<br>Littering<br>Not doing assignments<br>Pornography<br>Possession of weapons<br>Sexual misconduct<br>Skipping classes<br>Smoking<br>Theft<br>Truancy<br>Using vulgar languages <br>Vandalism<br>Violation of traffic rules</td>
-    <td class="tg-kk00">Counselling<br>Warning &amp; Contract<br>Suspension <br>Corrective Work Order<br>Loss of Privilege/s <br>Detention<br>Restitution<br>Adverse Conduct Grade<br>Ineligibility of Awards<br>Corporal Punishment<br>Other alternatives deemed appropriate to correct unacceptable behaviour</td>
+    <td class="tg-kk00">• Abuse of mobile phone<br>• Arson<br>• Assault<br>• Bullying <br>• Cheating in assessments/tests/examinations<br>• Disruptive and/or violent behaviour<br>• Defiance/rudeness<br>• Drug/inhalant abuse<br>• Extorting money <br>• Fighting<br>• Forgery<br>• Gambling<br>• Gangsterism<br>• Improper attire and grooming <br>• IT related offences<br>• Latecoming<br>• Leaving school grounds without permission<br>• Littering<br>• Not doing assignments<br>• Pornography<br>• Possession of weapons<br>• Sexual misconduct<br>• Skipping classes<br>• Smoking<br>• Theft<br>• Truancy<br>• Using vulgar languages <br>• Vandalism<br>• Violation of traffic rules</td>
+    <td class="tg-kk00">• Counselling<br>• Warning &amp; Contract<br>• Suspension <br>• Corrective Work Order<br>• Loss of Privilege/s <br>• Detention<br>• Restitution<br>• Adverse Conduct Grade<br>• Ineligibility of Awards<br>• Corporal Punishment<br>• Other alternatives deemed appropriate to correct unacceptable behaviour</td>
   </tr>
 </tbody>
 </table>
-
 
 At Tampines Primary School, we believe that good discipline is important so that all students can learn in a warm and caring environment. Whilst the staff will try our best to instil self-discipline and desirable behaviour, we seek the co-operation of parents and caregivers to help reinforce good discipline. If students were to violate the school rules and need to be disciplined, the school seeks the support of parents so that the students can understand the consequences of their actions.   
   
