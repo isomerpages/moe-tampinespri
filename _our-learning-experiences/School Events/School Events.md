@@ -15,7 +15,7 @@ School Events
 *   [Total Defence Day](/our-learning-experiences/School-Events/Total-Defence-Day/)
     
 *   [International Friendship Day](/our-learning-experiences/School-Events/International-Friendship-Day/)
-*   [Cyber Wellness Carnival](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/cyber-wellness-carnival)  
+*   [Cyber Wellness Carnival](/our-learning-experiences/School-Events/Cyber-Wellness-Carnival/)
     
 *   [Fire Incident Drill](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/fire-incident-drill)  
     
