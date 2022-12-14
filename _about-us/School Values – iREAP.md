@@ -40,4 +40,7 @@ Launched in 2021, the portal is a self-evaluation tool to encourage students to 
 
 Guided by our TPPS Ambassadors, the portal also includes a co-reflection component that would require parents to be actively involved in their children’s character development journey
 
-Note: Tampines Primary School Character Development e-Dossier video not uploaded to Youtube. 
+Note: Tampines Primary School Character Development e-Dossier video not uploaded to Youtube.
+
+
+![](/images/hallmark.png)
