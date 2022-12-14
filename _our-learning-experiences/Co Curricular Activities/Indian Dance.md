@@ -54,3 +54,36 @@ In addition, the CCA also prepares pupils for competitions like SYF Performing A
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">2019</td>
+    <td class="tg-21zi">Deepavali Concert 2019(Sch)</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2018</td>
+    <td class="tg-21zi">SYF AP Distinction Award<br>Deepavali concert (2018)<br>Combined School Showcase @ EdgeField Pri<br>Performance at Bus Interchange Ulu Pandan 27th Oct</td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2017</td>
+    <td class="tg-21zi">Deepavali concert @ school(2017)<br>TWCC CNY Performance<br>Excellence Day<br>Racial Harmony Day 21st July</td>
+  </tr>
+</tbody>
+</table>
