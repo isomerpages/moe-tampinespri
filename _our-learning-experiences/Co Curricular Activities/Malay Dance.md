@@ -55,3 +55,51 @@ In Malay Dance CCA, apart from presenting opportunities for students at various 
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wrfy{color:#121212;text-align:center;vertical-align:middle}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Competition</th>
+    <th class="tg-kf4z">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">2022</td>
+    <td class="tg-21zi">Hari Raya Dance Performance (school)<br>Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-21zi"></td>
+  </tr>
+  <tr>
+    <td class="tg-wrfy">2021</td>
+    <td class="tg-wrfy">Hari Raya Dance Performance(school) via online </td>
+    <td class="tg-wrfy"> </td>
+  </tr>
+  <tr>
+    <td class="tg-wrfy">2019 </td>
+    <td class="tg-wrfy">Tampines West CC (22nd June) Hari Raya Dinner Dance Showcase <br>MUARA Festival<br>Hari Raya Dance Performance (school)<br></td>
+    <td class="tg-wrfy"></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2018</td>
+    <td class="tg-21zi">Singapore Youth Festival Arts Presentation Muara <br>North East Community Give-Back Golf &amp; Appreciation Dinner <br>Tampines Park RC<br>Hari Raya Showcase Tampines West CC<br>Malay Learning Journey Dance Showcase <br>Hari Raya Dance Performance (school)<br></td>
+    <td class="tg-21zi">SYF Certificate of Distinction<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2017</td>
+    <td class="tg-21zi">Gardens By The Bay (19th May 2017)<br>Muara (4th Nov)<br>Tampines West CC (9th Nov)<br>Excellence Day (17th Nov)</td>
+    <td class="tg-21zi">Hari Raya Concert 2017 (Sch)</td>
+  </tr>
+</tbody>
+</table>
