@@ -39,3 +39,5 @@ P4 and P5 Anti-Drug Ambassador Activity
   </tr>
 </tbody>
 </table>
+
+![](/images/P4%20and%20P5%20Anti-Drug%20Ambassador%20Activity1.png)
