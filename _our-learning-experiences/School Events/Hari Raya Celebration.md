@@ -49,3 +49,5 @@ Hari Raya Celebration
   </tr>
 </tbody>
 </table>
+
+![](/images/Hari%20Raya%20Celebration1.png)
