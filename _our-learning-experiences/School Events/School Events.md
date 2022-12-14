@@ -22,7 +22,7 @@ School Events
 *   [TPPS Superstars](/our-learning-experiences/School-Events/TPPS-Superstars/)
 *   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
 *   [P4 and P5 Anti-Drug Ambassador Activity](/our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/)
-*   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/gsbs-transit-roadshow-bus-safety-campaign-no-falls-on-board)  
+*   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](/our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/)
     
 *   [Children's Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/children-s-day-2022)
 *   [Racial Harmony Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/racial-harmony-day)
