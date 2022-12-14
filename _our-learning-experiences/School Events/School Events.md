@@ -26,4 +26,4 @@ School Events
     
 *   [Children's Day](/our-learning-experiences/School-Events/Childrens-Day/)
 *   [Racial Harmony Day](/our-learning-experiences/School-Events/Racial-Harmony-Day/)
-*   [National Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/our-learning-experiences/school-events/national-day)
+*   [National Day](/our-learning-experiences/School-Events/National-Day/)
