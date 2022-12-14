@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - School Events/Hari Raya Celebration.md
       - School Events/Mother Tongue Fortnight.md
       - School Events/Total Defence Day.md
       - School Events/International Friendship Day.md
