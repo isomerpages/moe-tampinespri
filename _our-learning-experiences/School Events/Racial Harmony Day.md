@@ -49,3 +49,5 @@ Engaging in RHD class conversations
 
 Everyone working together – love for our school and friends!
 ![](/images/RHD2.jpeg)
+
+NE Ambassadors sharing on Racial Harmony Day
