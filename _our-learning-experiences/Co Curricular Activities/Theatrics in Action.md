@@ -158,3 +158,5 @@ Through Community Theatre, the school aims to build community bonds through the 
   </tr>
 </tbody>
 </table>
+
+![](/images/Theatrics%20in%20Action.png)
