@@ -53,3 +53,12 @@ Learning is by doing. Tampines Cub Scouts explore nature through exciting outdoo
 
 
 Primary 5 cub scouts practiced their compass and map reading skills to lead their juniors in a hike up Bukit Timah summit.
+
+
+<figure><img src="/images/Scouts1.jpeg" style="width:75%"><figcaption> Map reading practice and hike up Bukit Timah Summit.</figcaption></figure>
+
+
+Selected Primary 5 cub scouts challenged themselves in a 3 days 2 nights outdoor camp organised by the Singapore Scouts Association.
+
+
+<figure><img src="/images/Scouts2.jpeg" style="width:75%"><figcaption> A confident and nature loving Sixer participating in the Cub Scout Leadership Course.</figcaption></figure>
