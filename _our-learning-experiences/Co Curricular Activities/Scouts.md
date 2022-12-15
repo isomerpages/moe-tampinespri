@@ -77,3 +77,9 @@ To develop their critical thinking skills, cub scouts are challenged to construc
 
 
 Sixers leading their Six in the preparation of their snack.
+
+
+<figure><img src="/images/Scouts5.jpeg" style="width:55%"><figcaption> Practicing what they have learnt about food hygiene and fire safety.</figcaption></figure>
+
+
+A dome tent can be easily put up and kept in record timing when everyone in the Six works together.
