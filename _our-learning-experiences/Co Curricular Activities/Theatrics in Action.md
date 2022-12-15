@@ -11,25 +11,25 @@ Theatrics in Action
 
   
 
-#### Vision
+#### **Vision**
 
 To nurture and develop every Theatrics in Action member into a confident and creative inquirer who is collaborative and socially responsible in the community. 
 
   
 
-#### Mission
+#### **Mission**
 
 To develop creativity through student agency and empower students to advocate good values with confidence through drama
 
   
 
-#### Motto
+#### **Motto**
 
 Empowerment through play and theatre
 
   
 
-#### Overview
+### **Overview**
 
 
 Drama in TPPS aims to develop creative, adaptable and confident Tampinesians. Through exposure to creative play and stimulation of imagination in and beyond the classroom, students experience the love for the art form. Drama Club also known as Theatrics in Action provides a platform in developing our drama talents.
