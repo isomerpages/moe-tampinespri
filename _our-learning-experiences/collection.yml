@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Co Curricular Activities/Basketball.md
       - Co Curricular Activities/Floorball.md
       - Co Curricular Activities/Football.md
       - Co Curricular Activities/Sports Club.md
