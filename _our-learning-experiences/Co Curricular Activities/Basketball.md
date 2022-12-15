@@ -55,7 +55,12 @@ Basketball
 .tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 832px">
+<colgroup>
+<col style="width: 56px">
+<col style="width: 467px">
+<col style="width: 309px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-kf4z">Year</th>
