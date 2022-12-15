@@ -76,3 +76,6 @@ Choir
 
 
 <figure><img src="/images/Choir2.png" style="width:100%"><figcaption> Choir members recorded original Bilingual Songs at a professional studiofor the LKY Bilingulism project Jan 2019.</figcaption></figure>
+
+
+<figure><img src="/images/Choir3.png" style="width:100%"><figcaption> Choir members took up lead singing roles for theBicentennial Community Theatre Productions, July 2019, at Our Tampines Hub.</figcaption></figure>
