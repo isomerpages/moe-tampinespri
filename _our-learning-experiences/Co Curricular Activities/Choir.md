@@ -72,4 +72,7 @@ Choir
 </table>
 
 
-<figure><img src="/images/Choir1.png" style="width:95%"><figcaption> Choir members work hard and play hard! Jan 2020</figcaption></figure>
+<figure><img src="/images/Choir1.png" style="width:70%"><figcaption> Choir members work hard and play hard! Jan 2020</figcaption></figure>
+
+
+<figure><img src="/images/Choir2.png" style="width:100%"><figcaption> Choir members recorded original Bilingual Songs at a professional studiofor the LKY Bilingulism project Jan 2019.</figcaption></figure>
