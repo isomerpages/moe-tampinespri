@@ -91,3 +91,6 @@ Basketball
   </tr>
 </tbody>
 </table>
+
+
+Basketball is a fun sport that improves fitness, hand-eye coordination, as well as cognitive abilities in game strategy and teamwork. As a team sport, it is a good platform for our pupils to demonstrate values and sportsmanship during play. Members of our CCA will learn fundamental basketball skills such as passing, dribbling, shooting and play modified games during CCA sessions. Pupils interested in competitive basketball may be selected to join the School team, where they will be invited to additional weekly training sessions to enhance their gameplay and tactics. Our basketball school team takes part in friendly games and tournaments as a lead up to the annual National School Games, where they will engage in competition with teams from other schools.
