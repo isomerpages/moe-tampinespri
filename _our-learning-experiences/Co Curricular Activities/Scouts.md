@@ -74,3 +74,6 @@ To develop their critical thinking skills, cub scouts are challenged to construc
 
 
 <figure><img src="/images/Scouts4.jpeg" style="width:55%"><figcaption> Challenge accepted! Challenge completed!</figcaption></figure>
+
+
+Sixers leading their Six in the preparation of their snack.
