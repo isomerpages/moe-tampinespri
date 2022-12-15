@@ -50,3 +50,6 @@ Learning is by doing. Tampines Cub Scouts explore nature through exciting outdoo
   </tr>
 </tbody>
 </table>
+
+
+Primary 5 cub scouts practiced their compass and map reading skills to lead their juniors in a hike up Bukit Timah summit.
