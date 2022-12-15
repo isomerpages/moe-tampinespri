@@ -75,3 +75,5 @@ Every Friday, Brownies will meet at the Amphitheatre where they will learn to wo
   </tr>
 </tbody>
 </table>
+
+![](/images/Brownies.gif)
