@@ -79,3 +79,6 @@ Choir
 
 
 <figure><img src="/images/Choir3.png" style="width:100%"><figcaption> Choir members took up lead singing roles for theBicentennial Community Theatre Productions, July 2019, at Our Tampines Hub.</figcaption></figure>
+
+
+<figure><img src="/images/Choir4.png" style="width:75%"><figcaption> Performed at the National Day Celebrations organised by TWCC, Aug 2018.</figcaption></figure>
