@@ -86,3 +86,12 @@ A dome tent can be easily put up and kept in record timing when everyone in the 
 
 
 <figure><img src="/images/Scouts6.jpeg" style="width:55%"><figcaption> The letter “I” does not appear in the word “Teamwork”</figcaption></figure>
+
+
+Sixers should pursue their areas of interest while achieving proficiency badges for their scouts uniform. This picture shows a Sixer sharing about the science behind his hovercraft.
+
+
+<figure><img src="/images/Scouts7.jpeg" style="width:85%"><figcaption> A Sixer sharing about his area of interest during Innovation Day</figcaption></figure>
+
+
+Selected cub scouts can participate in camping activities to develop their resilience while making friends with cub scouts from other schools.
