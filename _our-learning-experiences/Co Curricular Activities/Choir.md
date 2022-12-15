@@ -45,28 +45,28 @@ Choir
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-clkh">Year</th>
-    <th class="tg-clkh">Projects and Participation</th>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Projects and Participation</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-kk00">2022</td>
-    <td class="tg-kk00">Tampines GRC National Day Observance Ceremony <br>(Our Tampines Hub)<br>SYF Choir AP</td>
+    <td class="tg-21zi">2022</td>
+    <td class="tg-21zi">Tampines GRC National Day Observance Ceremony <br>(Our Tampines Hub)<br>SYF Choir AP</td>
   </tr>
   <tr>
-    <td class="tg-kk00">2019</td>
-    <td class="tg-kk00">Lee Kwan Yew Bilingualism Project<br>(Songs recorded in studio)<br>Bi-centennial Community Theatre production<br>(Our Tampines Hub)</td>
+    <td class="tg-21zi">2019</td>
+    <td class="tg-21zi">Lee Kwan Yew Bilingualism Project<br>(Songs recorded in studio)<br>Bi-centennial Community Theatre production<br>(Our Tampines Hub)</td>
   </tr>
   <tr>
-    <td class="tg-kk00">2018</td>
-    <td class="tg-kk00">Arts Education Conference<br>(Flash mob showcase)<br>TWCC National Day Celebrations<br>Tampines Learning Fiesta<br>SYF Choir AP</td>
+    <td class="tg-21zi">2018</td>
+    <td class="tg-21zi">Arts Education Conference<br>(Flash mob showcase)<br>TWCC National Day Celebrations<br>Tampines Learning Fiesta<br>SYF Choir AP</td>
   </tr>
 </tbody>
 </table>
