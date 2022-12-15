@@ -95,3 +95,6 @@ Sixers should pursue their areas of interest while achieving proficiency badges 
 
 
 Selected cub scouts can participate in camping activities to develop their resilience while making friends with cub scouts from other schools.
+
+
+<figure><img src="/images/Scouts8.jpeg" style="width:100%"><figcaption> Outdoor activities are fun!</figcaption></figure>
