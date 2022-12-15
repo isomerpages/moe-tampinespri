@@ -85,3 +85,6 @@ Choir
 
 
 <figure><img src="/images/Choir5.png" style="width:75%"><figcaption> Performed a Flash mob at the Bi-annual Arts Education Conference, Nov 2018</figcaption></figure>
+
+
+<figure><img src="/images/Choir6.png" style="width:75%"><figcaption> Choir members assisted Mrs Losey in the community drum circles at Tampines Learning Fiesta, Apr 2018.</figcaption></figure>
