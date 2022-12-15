@@ -83,3 +83,6 @@ Sixers leading their Six in the preparation of their snack.
 
 
 A dome tent can be easily put up and kept in record timing when everyone in the Six works together.
+
+
+<figure><img src="/images/Scouts6.jpeg" style="width:55%"><figcaption> The letter “I” does not appear in the word “Teamwork”</figcaption></figure>
