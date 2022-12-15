@@ -11,12 +11,12 @@ Indian Dance
 
   
 
-#### Vision
+#### **Vision**
 
 Confident and passionate Dance students exploring and  expressing the joy of Indian Dance  
   
 
-### Overview
+### **Overview**
 
 
 Indian Dance CCA in TPS aims to nurture students’ interest for Indian dance and develop a love for dancing the different Indian dance forms from the different states. eg folk dance, semi classical, Bhangra, etc. It also integrates fusion dance incorporating the various multi-ethnic Singaporean culture. Pupils are taught the distinct Indian Dance skills which utilises the eyes, hands, legs and practically every other part to express a multitude of expressions and emotions in telling a story through dance. Pupils will learn to dance a varied repertoire of dance forms. They will be taught the basic skills and techniques required to execute a dance to the accompaniment of the corresponding dance music.
