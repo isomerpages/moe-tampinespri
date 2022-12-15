@@ -62,3 +62,6 @@ Selected Primary 5 cub scouts challenged themselves in a 3 days 2 nights outdoor
 
 
 <figure><img src="/images/Scouts2.jpeg" style="width:75%"><figcaption> A confident and nature loving Sixer participating in the Cub Scout Leadership Course.</figcaption></figure>
+
+
+Sixers who had their plans for mini hike approved by Akela can take charge and run their planned activities with their Six.
