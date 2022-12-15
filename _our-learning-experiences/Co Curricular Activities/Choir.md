@@ -82,3 +82,6 @@ Choir
 
 
 <figure><img src="/images/Choir4.png" style="width:75%"><figcaption> Performed at the National Day Celebrations organised by TWCC, Aug 2018.</figcaption></figure>
+
+
+<figure><img src="/images/Choir5.png" style="width:75%"><figcaption> Performed a Flash mob at the Bi-annual Arts Education Conference, Nov 2018</figcaption></figure>
