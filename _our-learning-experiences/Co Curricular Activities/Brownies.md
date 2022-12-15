@@ -14,6 +14,7 @@ Brownies
 Every Friday, Brownies will meet at the Amphitheatre where they will learn to work and play independently and also in teams. Brownies take turns to lead other members in doing action songs and play games. Brownies also do fun things together like outdoor cooking, attend Pack Holiday as well as participate in activities organized by Singapore Girl Guides, like World Thinking Day, National Revel and East Division Day. Along the way, they learn to care for each other and other people around them and make lasting friendships. Brownies enjoy working for interest badges and awards that will help them develop new skills.
 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -23,7 +24,13 @@ Every Friday, Brownies will meet at the Amphitheatre where they will learn to wo
 .tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 677px">
+<colgroup>
+<col style="width: 241px">
+<col style="width: 106px">
+<col style="width: 164px">
+<col style="width: 166px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-clkh">Day &amp; Time</th>
