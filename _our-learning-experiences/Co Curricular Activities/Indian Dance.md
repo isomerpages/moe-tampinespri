@@ -87,3 +87,6 @@ In addition, the CCA also prepares pupils for competitions like SYF Performing A
   </tr>
 </tbody>
 </table>
+
+
+<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
