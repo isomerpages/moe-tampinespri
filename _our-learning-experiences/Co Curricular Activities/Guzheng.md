@@ -81,3 +81,6 @@ Our Guzheng Ensemble turns 10 in 2020. It started with barely 10 students 10 yea
   </tr>
 </tbody>
 </table>
+
+
+![](/images/Guzheng.gif)
