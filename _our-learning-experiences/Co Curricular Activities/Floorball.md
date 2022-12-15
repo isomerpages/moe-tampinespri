@@ -21,7 +21,13 @@ Floorball
 .tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 673px">
+<colgroup>
+<col style="width: 130px">
+<col style="width: 176px">
+<col style="width: 252px">
+<col style="width: 115px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-clkh">Day &amp; Time</th>
