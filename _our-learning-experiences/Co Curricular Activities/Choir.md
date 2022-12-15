@@ -70,3 +70,6 @@ Choir
   </tr>
 </tbody>
 </table>
+
+
+<figure><img src="/images/Choir1.png" style="width:95%"><figcaption> Choir members work hard and play hard! Jan 2020</figcaption></figure>
