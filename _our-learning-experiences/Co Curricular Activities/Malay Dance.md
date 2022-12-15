@@ -10,12 +10,12 @@ third_nav_title: Co Curricular Activities
 Malay Dance
 ===========
 
-#### Vision
+#### **Vision**
 
   
 To be individuals who exude resilience and commitment in dance  
 
-### Overview
+### **Overview**
 
 Malay Dance CCA provides our Malay dancers with the opportunity to learn the 5 different genres of Malay traditional dance; Asli, Inang, Joget, Zapin and Masri. They are given various platforms via school events, external performances and competitions for the pupils to showcase their talents. 
 
