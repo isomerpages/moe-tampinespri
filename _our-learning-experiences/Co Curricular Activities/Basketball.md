@@ -44,3 +44,45 @@ Basketball
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kf4z">Year</th>
+    <th class="tg-kf4z">Competition</th>
+    <th class="tg-kf4z">Achievement/Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi">2022</td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">National School Games</span></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Senior Boys: 5-7</span>th <span style="font-weight:normal;color:#121212">in East Zone</span><br><span style="font-weight:normal;color:#121212">Junior Boys: 1</span>st <span style="font-weight:normal;color:#121212">in Nationals Tier 2</span><br><span style="font-weight:normal;color:#121212">Junior Girls: 6</span>th <span style="font-weight:normal;color:#121212">in East Zone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2019</td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">National School Games East Zone</span><br><span style="font-weight:normal;color:#121212">Tampines Secondary School Invitational 4v4 Tournament</span></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Junior Boys Gold Tier</span><br><span style="font-weight:normal;color:#121212">2nd runner-up team</span></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2018</td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">National School Games East Zone</span><br><span style="font-weight:normal;color:#121212">Tampines Secondary School Invitational 4v4 Tournament</span><br><span style="font-weight:normal;color:#121212">Anglican High School Invitational Tournament</span></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">-</span><br><span style="font-weight:normal;color:#121212">1st runner-up and 2nd runner-up teams</span><br><span style="font-weight:normal;color:#121212">Champion- Senior Boys team</span></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi">2017</td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">National School Games East Zone</span><br><span style="font-weight:normal;color:#121212">Anglican High School Invitational Tournament Tampines Secondary School </span><br><span style="font-weight:normal;color:#121212">Invitational 4v4 Tournament</span></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">-</span><br><span style="font-weight:normal;color:#121212">1st runner-up and 2nd runner-up teams</span><br><span style="font-weight:normal;color:#121212">1st runner-up team</span></td>
+  </tr>
+</tbody>
+</table>
