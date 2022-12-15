@@ -2,6 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
+      - Co Curricular Activities/Scouts.md
       - Co Curricular Activities/Art Club.md
       - Co Curricular Activities/Choir.md
       - Co Curricular Activities/Guzheng.md
