@@ -89,4 +89,4 @@ In addition, the CCA also prepares pupils for competitions like SYF Performing A
 </table>
 
 
-<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
+<figure><img src="/images/IndianDance.gif" style="width:75%"><figcaption> <b>Indian Dance SYF 2022 | Our dancers lived up to our school values IREAP n reap they did - a wonderful display of vibrancy, exuberance and love of dance in every step and pose.</b></figcaption></figure>
