@@ -71,3 +71,6 @@ Sixers who had their plans for mini hike approved by Akela can take charge and r
 
 
 To develop their critical thinking skills, cub scouts are challenged to construct a bridge made of popsicle sticks to withstand a specified weight spanned across two tables.
+
+
+<figure><img src="/images/Scouts4.jpeg" style="width:55%"><figcaption> Challenge accepted! Challenge completed!</figcaption></figure>
