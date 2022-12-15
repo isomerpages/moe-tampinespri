@@ -65,3 +65,9 @@ Selected Primary 5 cub scouts challenged themselves in a 3 days 2 nights outdoor
 
 
 Sixers who had their plans for mini hike approved by Akela can take charge and run their planned activities with their Six.
+
+
+<figure><img src="/images/Scouts3.jpeg" style="width:75%"><figcaption> A Sixer engaging his juniors during a mini hike that he had planned.</figcaption></figure>
+
+
+To develop their critical thinking skills, cub scouts are challenged to construct a bridge made of popsicle sticks to withstand a specified weight spanned across two tables.
