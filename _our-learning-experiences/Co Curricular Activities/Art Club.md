@@ -65,3 +65,6 @@ Art Club members are exposed to a variety of art forms and mediums during the CC
   </tr>
 </tbody>
 </table>
+
+
+![](/images/Art%20Club.gif)
