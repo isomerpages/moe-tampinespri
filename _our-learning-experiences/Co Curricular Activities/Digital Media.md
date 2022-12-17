@@ -63,3 +63,5 @@ Imagine, Create, Innovate
 ##### **Coding during CCA**
 
 The students are required to fix up and programme the Makebot, also known as Mbot. The Mbot can be programmed to perform a variety of tasks, such as moving along tracks, being a simple smart-home controller and a simple card scanner.
+
+![](/images/DigitalMedia.png)
