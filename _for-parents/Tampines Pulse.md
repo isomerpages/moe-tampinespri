@@ -8,3 +8,5 @@ description: ""
 
 Tampines Pulse
 ==============
+
+[Tampines Pulse_Issue 1_2019.pdf](/files/Tampines%20Pulse_Issue%201_2019.pdf)
