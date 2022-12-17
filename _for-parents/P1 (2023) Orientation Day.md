@@ -96,3 +96,51 @@ We thank you for helping us to keep Tampines Primary School safe and healthy.
 
 
 #### **4) Vendor Based Services**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cg9y{background-color:#9FEC7B;color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+.tg .tg-knsb{color:#1F2243;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cg9y">Type of Service</th>
+    <th class="tg-cg9y">Service Provider Information</th>
+    <th class="tg-cg9y">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">School Bus Services</span> </td>
+    <td class="tg-clkh">Hui Wang Bus Service</td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Bus Booking form hardcopy will be given out on Orientation Day.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Student Care Services</span> </td>
+    <td class="tg-clkh">Commit Learning SchoolHouse (CLS)</td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Refer to the Frequently Asked Questions (FAQ) on Student Care Centre Matters.</span><br><a href="https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/p1_orient/Commit%20Learning%20SchoolHouse%20CLS%20SCC%202023%20FAQs-1%20Nov%2022%20TPPS.pdf"><span style="font-weight:400;text-decoration:underline;color:#1F2243">Commit Learning SchoolHouse CLS SCC 2023 FAQs-1 Nov 22 TPPS.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">School Books</span> </td>
+    <td class="tg-clkh">Overseas Associates Pte Ltd</td>
+    <td class="tg-knsb"><a href="https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/p1_orient/Booklist%202023_TPPS_PRIMARY%201.pdf"><span style="font-weight:400;text-decoration:underline;color:#1F2243">Booklist 2023_TPPS_PRIMARY 1.pdf</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">School Uniform</span></td>
+    <td class="tg-clkh">Shanghai School Uniforms Pte Ltd</td>
+    <td class="tg-knsb"><a href="https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/p1_orient/Uniform%20Letter%20for%20P1%20Parents%202022.pdf"><span style="font-weight:400;text-decoration:underline;color:#1F2243">Uniform Letter for P1 Parents 2022.pdf</span></a><br><a href="https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/p1_orient/TPPS%20Uniforms%20szing%20chart%202020_Final.jpg"><span style="font-weight:400;text-decoration:underline;color:#1F2243">TPPS Uniforms sizing chart 2020_Final.jpg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Name Tags</span> </td>
+    <td class="tg-clkh">Overseas Associates Pte Ltd</td>
+    <td class="tg-knsb"><a href="https://oapl.sg/product/productdetails/of-TPP/ii-2"><span style="font-weight:400;text-decoration:underline;color:#1F2243">https://oapl.sg/product/productdetails/of-TPP/ii-2</span></a>. <br><br><span style="font-weight:normal;color:#121212">All Name Tags Orders placed will be given to your child on the first day of school.</span></td>
+  </tr>
+</tbody>
+</table>
