@@ -47,3 +47,7 @@ It is a collaboration between the National Library Board (NLB) and our school to
 <i>"I do believe something very magical can happen when you read a good book."</i>
 
 <i>\- J.K. Rowling</i>
+
+![](/images/English2.png)
+
+Our students are engaged in learning to read through Moo-O, an online programme. Moo-O excites our students as they see themselves become the story characters, participating in the story they are reading. They can learn independently the pronunciation of a word or how to read expressively from the reading model. With the playback feature and the help of rubrics, Moo-O provides our students with immediate feedback for self-assessment of performance. They can choose to rehearse and re-record in order to improve upon fluency, rhythm, pacing, intonation and expression. Just like how a professional presenter would have done it too.
