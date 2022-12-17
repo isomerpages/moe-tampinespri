@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Values in Action.md
       - CCE/Educational & Career Guidance.md
       - CCE/.keep
       - PE, Arts, Music/Physical Education.md
