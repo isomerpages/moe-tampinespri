@@ -19,3 +19,8 @@ The TPS Tamil Department aims to nurture students’ love for Tamil Language by 
 <img src="/images/TamilLang2.jpeg" style="width:40%">
 
 The teachers also designed their own Oral and Composition packages to further aid students in their development in language. Listening Comprehension package is also designed to further equip students in language skills. students are exposed to SAIL and Mind Mapping tools to aid them in self-directed learning. students have created their own blogs and contribute articles to both Tamil Murasu and the E6 Cluster Magazine. The students are also provided opportunities to collaborate with students in the cluster through the various cluster activities, like Language Activity Day etc.
+
+
+![](/images/TamilLang3.png)
+
+Students learn Indian Culture and values during their lessons. students are given greater exposure to Tamil Language, Indian Culture and Values during the Mother Tongue Fortnight. Language Camps are conducted to provide students a greater edge in the language and culture. Apart from all this, our students are often sent for external competitions to showcase their talents. Our students have participated in Debate competitions organised by Media Corp and have done well. We aim to inspire students to have a life-long passion for Tamil language.
