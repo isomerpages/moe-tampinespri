@@ -7,3 +7,8 @@ description: ""
 
 Letters to Parents 2022
 =======================
+
+[20211231_January_memo_to_parents.pdf](/files/20211231_January_memo_to_parents.pdf)
+
+
+### **January**
