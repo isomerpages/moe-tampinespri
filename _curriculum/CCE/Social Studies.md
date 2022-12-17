@@ -79,3 +79,5 @@ Through field-based learning, students contextualise their learning experience i
   </tr>
 </tbody>
 </table>
+
+<i>* On-site visits to field-based locations depend on availability of slots due to the pandemic.</i>
