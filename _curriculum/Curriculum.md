@@ -11,3 +11,4 @@ Curriculum
 *   [English](/curriculum/English/)
 *   [Mathematics](/curriculum/Mathematics/)
 *   [Science](/curriculum/Science/)
+*   [Mother Tongue](/curriculum/Mother-Tongue/Mother-Tongue/)
