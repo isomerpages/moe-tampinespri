@@ -91,3 +91,6 @@ Tampines Primary School has a wide variety of student-focused learning activitie
 
 
 <figure><img src="/images/ID2.jpeg" style="width:75%"><figcaption> An enchanted audience enjoying the creative production at the BlackBox</figcaption></figure>
+
+
+<figure><img src="/images/ID3.jpeg" style="width:75%"><figcaption> Young Scientist Task Card (Creation of Periscope) - A project by the Science Department</figcaption></figure>
