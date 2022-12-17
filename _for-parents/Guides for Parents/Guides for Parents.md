@@ -14,3 +14,7 @@ Guides for Parents
 *   [Registration for PayNow](/for-parents/Guides-for-Parents/Registration-for-PayNow/)
 *   [Education And Career Guidance (ECG) Portal](/for-parents/Guides-for-Parents/Education-And-Career-Guidance-ECG-Portal/)
 *   [Updates on PSLE Scoring and Secondary 1 Posting System from 2021](/for-parents/Guides-for-Parents/Updates-on-PSLE-Scoring-and-Secondary-1-Posting-System-from-2021/)
+
+
+### **Other Useful Links**
+[Positive Parenting Program® (Triple P)](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/guides-for-parents/positive-parenting-program-triple-p)
