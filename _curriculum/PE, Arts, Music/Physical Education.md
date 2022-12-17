@@ -41,7 +41,7 @@ Sport Education aims to develop students’ perception of sport to encompass non
 
 ### **Healthy Lifestyle Week**
 
-![](/images/PE2.png)
+![](/images/PE3.png)
 
 The week serves as a lead up to the Senior Olympics, where all students participate in the “I am a Role Model” program - focussing on desired behaviour when participating in sport - conducted by our Parent Support Group members, as well as practice matches during recess to prepare for the Senior Olympics. Augmenting these is Eye Care Week activities with the key message to “Keep Myopia at Bay. Go Outdoors Play”.
 
