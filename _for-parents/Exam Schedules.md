@@ -475,3 +475,12 @@ Primary 5 Recess: 10.30 to 11 a.m.
 ### **Topics to be tested**
 
 ![](/images/p3-1.png)
+
+------
+
+![](/images/p4-1.png)
+
+-----
+
+![](/images/p5-1.png)
+![](/images/p5-2.png)
