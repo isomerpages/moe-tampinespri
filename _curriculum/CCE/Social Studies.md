@@ -84,6 +84,7 @@ Through field-based learning, students contextualise their learning experience i
 
 
 
+![](/images/SS6.png)
 Figures 1: P4 virtual Field-based Learning Journey to Fort Canning
 
 ![](/images/SS3.png)
