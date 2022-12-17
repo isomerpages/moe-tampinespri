@@ -22,7 +22,6 @@ Triple P has helped parents build stronger relationships with their children. Th
 For more information on Triple P, please visit this website : [https://www.triplep-parenting.net/global/triple-p/](https://www.triplep-parenting.net/global/triple-p/)
 
   
-
 For further reading:
 
 [Write_Up_on_MWS_FSP_Positive_Parenting_Programme_.pdf](/files/Write_Up_on_MWS_FSP_Positive_Parenting_Programme_.pdf) 
@@ -31,4 +30,4 @@ For further reading:
 
 [L2_Triple_P_infographic_Primary_1_parents_only.pdf](/files/L2_Triple_P_infographic_Primary_1_parents_only.pdf) 
 
-[DM Managing Child's Screen Time](https://tampinespri.moe.edu.sg/qql/slot/u404/EDM%20Managing%20Childs%20Screen%20Time.pdf)
+[DM Managing Child's Screen Time](/files/EDM%20Managing%20Childs%20Screen%20Time.pdf)
