@@ -12,3 +12,8 @@ Letters to Parents 2022
 
 
 ### **January**
+
+[January Memo to Parents.pdf](/files/January%20Memo%20to%20Parents.pdf)
+
+### **March**
+
