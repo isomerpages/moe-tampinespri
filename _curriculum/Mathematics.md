@@ -45,3 +45,5 @@ Learning Support for Mathematics (LSM) provides early intervention for Primary 1
 <b>Talent Development Programme</b>
 
 Mathematics Olympiad Training is provided for high progress learners in Primary 5 and 6 to equip them with a repertoire of problem-solving techniques to solve higher-order and non-routine problems. This enables our students to hone their skills at competitions such as the National Mathematical Olympiad of Singapore (NMOS) and Singapore Mathematical Olympiad for Primary School (SMOPS).
+
+![](/images/Math1.png)
