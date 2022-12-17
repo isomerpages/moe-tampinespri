@@ -52,4 +52,4 @@ Thank you.
 
 [20201122_Guide_on_PayNow_Registration.pdf](/files/Guide_on_PayNow_Registration.pdf)
 
-[20201122\_FAQ\_on\_PayNow.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201122_FAQ_on_PayNow.pdf)
+[20201122_FAQ_on_PayNow.pdf](/files/FAQ_on_PayNow.pdf)
