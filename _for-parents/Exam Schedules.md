@@ -113,3 +113,93 @@ Kindly refer to the table below for a summary of the EL/ MTL Oral Examination.
 
 
 ### **P3 EYE Schedule 2022**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fd4l{color:#121212;text-align:right;vertical-align:top}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Subject </th>
+    <th class="tg-clkh">Paper </th>
+    <th class="tg-clkh">Date </th>
+    <th class="tg-clkh">Duration </th>
+    <th class="tg-clkh">Start and End <br>Time </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kf4z" rowspan="4">English Language</td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Oral</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Friday,</span> <br><span style="font-weight:normal;color:#121212">14 October</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">-</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Listening</span> <br><span style="font-weight:normal;color:#121212">Comprehension</span> </td>
+    <td class="tg-kk00"><br>Tuesday,<br>11 October<br></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">45 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">12.20 to 1.05 p.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Paper 1</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Monday,</span> <br><span style="font-weight:normal;color:#121212">10 October</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">50 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">12.15 to 1.05 p.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Paper2</span> </td>
+    <td class="tg-kk00"><br>Wednesday,<br>26 October<br></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">1 hour</span> <br><span style="font-weight:normal;color:#121212">15 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">8.15 to 9.30 a.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-kf4z">Mathematics </td>
+    <td class="tg-fd4l"><span style="font-weight:normal;color:#121212">Written Exam</span> </td>
+    <td class="tg-kk00"><br>Thursday,<br>27 October<br></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">1 hour</span> <br><span style="font-weight:normal;color:#121212">45 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">8.15 to 10 a.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-kf4z" rowspan="4"> <br>Mother Tongue Language </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Oral</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Thursday, 13 October</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">-</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Listening</span> <br><span style="font-weight:normal;color:#121212">Comprehension</span> </td>
+    <td class="tg-kk00"><br>Tuesday,<br>11 October<br></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">30 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">8.15 to 8.45 a.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-kf4z"> <br><span style="font-weight:normal;color:#121212">Paper1</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Monday, 10 October</span> </td>
+    <td class="tg-kf4z"> <br><span style="font-weight:normal;color:#121212">40 minutes</span> </td>
+    <td class="tg-kf4z"> <br><span style="font-weight:normal;color:#121212">8.15 to 8.55 a.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Paper2</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Friday,</span> <br><span style="font-weight:normal;color:#121212">28 October</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">1 hour</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">8.15to9.15 a.m.</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-kf4z">Science </td>
+    <td class="tg-fd4l"><span style="font-weight:normal;color:#121212">Booklets A &amp; B</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Monday,</span> <br><span style="font-weight:normal;color:#121212">31 October</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">1 hour</span> <br><span style="font-weight:normal;color:#121212">30 minutes</span> </td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">8.15 to 9.45 a.m.</span></td>
+  </tr>
+</tbody>
+</table>
