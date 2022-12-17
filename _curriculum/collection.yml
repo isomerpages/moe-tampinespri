@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Character and Citizenship Education (CCE).md
       - CCE/Social Studies.md
       - CCE/National Education.md
       - CCE/CCE Awards & Recognition.md
