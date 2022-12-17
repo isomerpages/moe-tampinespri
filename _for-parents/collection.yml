@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Guides for Parents/Updates on PSLE Scoring and Secondary 1 Posting
+        System from 2021.md
       - Guides for Parents/Registration for PayNow.md
       - Guides for Parents/.keep
       - Leave Of Absence (LOA).md
