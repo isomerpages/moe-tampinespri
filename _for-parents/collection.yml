@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Booklist for AY2023.md
       - Growing Years Programme.md
       - DSA Information.md
       - Parent Support Group.md
