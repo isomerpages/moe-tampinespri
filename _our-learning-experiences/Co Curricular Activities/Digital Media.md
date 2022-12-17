@@ -65,3 +65,7 @@ Imagine, Create, Innovate
 The students are required to fix up and programme the Makebot, also known as Mbot. The Mbot can be programmed to perform a variety of tasks, such as moving along tracks, being a simple smart-home controller and a simple card scanner.
 
 ![](/images/DigitalMedia.png)
+
+##### **Drone flying during CCA**
+
+The latest edition to the club is drone flying. Students learn to fly the drones free-style or by coding. They fly them through obstacle courses, and take photos and videos with them.
