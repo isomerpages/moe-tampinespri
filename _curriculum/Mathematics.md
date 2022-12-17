@@ -47,3 +47,21 @@ Learning Support for Mathematics (LSM) provides early intervention for Primary 1
 Mathematics Olympiad Training is provided for high progress learners in Primary 5 and 6 to equip them with a repertoire of problem-solving techniques to solve higher-order and non-routine problems. This enables our students to hone their skills at competitions such as the National Mathematical Olympiad of Singapore (NMOS) and Singapore Mathematical Olympiad for Primary School (SMOPS).
 
 ![](/images/Math1.png)
+
+<b>Math Game Hot Hour</b>
+
+Math Game Hot Hour is conducted once a week during recess to instill the love for mathematics through games and fun-filled activities.
+
+  
+
+<b>Integrated Trails</b>
+
+Together with the English and Science Departments, integrated trails are organised to help create the awareness that mathematics is all around us and we make use of mathematics in our everyday life.
+
+### **Math Olympiad Competitions Semester 1**
+
+In Semester 1, a group of P5 and P6 students had participated in two Math Olympiad Competitions, namely, the Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022 and Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2022.
+
+The aim of the Math Olympiad Competitions is to generate greater interest in Mathematics among students in primary schools. It is also an opportunity for them to identify and explore their talents in Mathematics.
+
+Congratulations to these students who achieved the following awards!
