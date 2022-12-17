@@ -7,3 +7,5 @@ description: ""
 
 Booklist for AY2023
 ===================
+
+<img src="/images/QR-codesg.jpg" style="width:20%">
