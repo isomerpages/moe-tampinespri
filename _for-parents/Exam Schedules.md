@@ -469,3 +469,7 @@ Primary 4 Lunch: 11.00 to 11.30 a.m.
   </tr>
 </tbody>
 </table>
+
+Primary 5 Recess: 10.30 to 11 a.m.
+
+### **Topics to be tested**
