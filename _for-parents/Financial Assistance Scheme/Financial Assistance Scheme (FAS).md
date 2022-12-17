@@ -32,4 +32,4 @@ d.  Family with more than 3 grandparents in the household
 
 <b>e-FAS Application Form:</b> [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
-<b>PDF Application Form:</b> [MOE FAS Application Form.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/fas/MOE%20FAS%20Application%20Form.pdf)
+<b>PDF Application Form:</b> [MOE FAS Application Form.pdf](/files/MOE%20FAS%20Application%20Form.pdf)
