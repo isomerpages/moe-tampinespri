@@ -18,3 +18,4 @@ Curriculum
 *   [Innovation and Enterprise](/curriculum/Innovation-and-Enterprise/)
 *   [Learning for Life Programme (LLP)](/curriculum/Learning-for-Life-Programme/)
 *   [Applied Learning Programme (Drama)](/curriculum/Applied-Learning-Programme-Drama/)
+*   [Student Development Department](/curriculum/Student-Development-Department/)
