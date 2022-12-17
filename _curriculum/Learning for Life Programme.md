@@ -65,3 +65,6 @@ Specialised Leaders are for students who have exhibited leadership qualities tha
 Leaders of Leaders are students who can lead the other student leaders and be mentors to them. They have shown the qualities that will enable them to serve a larger community. We provide them with opportunities to nurture their leadership potential as they journey through our education system.
 
 ![](/images/LLP3.png)
+
+![](/images/LLP4.png)
+Prefects taking their pledge
