@@ -16,3 +16,4 @@ Curriculum
 *   [Character and Citizenship Education (CCE)](/curriculum/CCE/Character-and-Citizenship-Education-CCE/)
 *   [PE/Arts/Music](/curriculum/PE-Arts-Music/Physical-Education/)
 *   [Innovation and Enterprise](/curriculum/Innovation-and-Enterprise/)
+*   [Learning for Life Programme (LLP)](/curriculum/Learning-for-Life-Programme/)
