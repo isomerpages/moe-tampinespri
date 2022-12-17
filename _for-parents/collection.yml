@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Financial Assistance Scheme/.keep
       - School Calendar.md
       - P1 (2023) Orientation Day.md
       - Booklist for AY2023.md
