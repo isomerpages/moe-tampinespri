@@ -15,3 +15,4 @@ Curriculum
 *   [Infocomm and Technology (ICT)](/curriculum/Infocomm-and-Technology-ICT/)
 *   [Character and Citizenship Education (CCE)](/curriculum/CCE/Character-and-Citizenship-Education-CCE/)
 *   [PE/Arts/Music](/curriculum/PE-Arts-Music/Physical-Education/)
+*   [Innovation and Enterprise](/curriculum/Innovation-and-Enterprise/)
