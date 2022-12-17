@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - DSA Information.md
       - Parent Support Group.md
       - Guides for Parents/Guides for Parents.md
       - Guides for Parents/SLS Support for Home Based Learning.md
