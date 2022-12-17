@@ -47,3 +47,11 @@ The week serves as a lead up to the Senior Olympics, where all students particip
 
 
 ### **Senior Olympics**
+
+![](/images/PE4.png)
+
+Senior Olympics promotes the right values and is a celebration of sport. Students participate in inter-class Basketball, Floorball, Football, Softball and Relay Run competitions in co-ed teams.
+
+  
+
+### **Obesity Seminar**
