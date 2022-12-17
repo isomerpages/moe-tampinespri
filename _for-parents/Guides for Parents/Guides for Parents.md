@@ -9,4 +9,5 @@ third_nav_title: Guides for Parents
 Guides for Parents
 ==================
 
-*  
+*   [SLS Support for Home-Based Learning](/for-parents/Guides-for-Parents/SLS-Support-for-Home-Based-Learning/)
+*   
