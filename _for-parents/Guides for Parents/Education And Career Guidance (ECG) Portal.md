@@ -22,7 +22,6 @@ Thank you. 
   
 
 <b>My Skills Future</b>  
-
 [https://www.myskillsfuture.sg/content/student/en/primary.html](https://www.myskillsfuture.sg/content/student/en/primary.html)
 
  Note: My Skills Future link broken. 
