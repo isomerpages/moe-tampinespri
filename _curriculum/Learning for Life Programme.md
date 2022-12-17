@@ -34,3 +34,16 @@ We believe that “Every Tampinesian can lead and serve”. Aligned to our Scho
 Student Leadership Framework
 
 ![](/images/LLP.png)
+
+### **LLP Tiers**
+---------
+
+  
+
+Our LLP is differentiated into 3 tiers
+
+  
+
+##### **Tier 1 – General Leaders**
+
+General Leaders being the core programme which all Tampinesians will experience in the course of their 6 years in school. Students are provided with basic leadership skills that will enable them to be effective learners guided by strong moral compasses.
