@@ -47,3 +47,5 @@ Our LLP is differentiated into 3 tiers
 ##### **Tier 1 – General Leaders**
 
 General Leaders being the core programme which all Tampinesians will experience in the course of their 6 years in school. Students are provided with basic leadership skills that will enable them to be effective learners guided by strong moral compasses.
+
+![](/images/LLP1.png)
