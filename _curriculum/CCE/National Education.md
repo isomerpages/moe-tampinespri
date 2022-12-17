@@ -12,3 +12,7 @@ National Education
 ![](/images/NE1.png)
 
 ![](/images/NE2.png)
+
+<img src="/images/NE3.png" style="width:50%">
+
+![](/images/NE4.png)
