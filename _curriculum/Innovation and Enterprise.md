@@ -27,3 +27,8 @@ Project Work in Tampines Primary School aims to provide a platform, undergird by
   
 
 In Tampines Primary School, project work is designed based on the TPPS PW Protocol, which is adapted from the four phases of Design for Change and Design Thinking.
+
+
+<img src="/images/Design%20for%20Change%20and%20Design%20Thinking.png" style="width:80%">
+
+The table below shows how PW outcomes are achieved through the 5 stages in our PW Protocol.
