@@ -13,3 +13,4 @@ Curriculum
 *   [Science](/curriculum/Science/)
 *   [Mother Tongue](/curriculum/Mother-Tongue/Mother-Tongue/)
 *   [Infocomm and Technology (ICT)](/curriculum/Infocomm-and-Technology-ICT/)
+*   [Character and Citizenship Education (CCE)](/curriculum/CCE/Character-and-Citizenship-Education-CCE/)
