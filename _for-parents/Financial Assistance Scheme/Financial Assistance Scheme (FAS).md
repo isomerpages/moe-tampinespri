@@ -33,3 +33,9 @@ d.  Family with more than 3 grandparents in the household
 <b>e-FAS Application Form:</b> [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
 <b>PDF Application Form:</b> [MOE FAS Application Form.pdf](/files/MOE%20FAS%20Application%20Form.pdf)
+
+
+#### **ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME  (updated 14 Oct 2022)**
+
+  
+From 1 January 2023, Singapore Citizen students from households with gross monthly household income (GHI) of $3,000 and below, or per capita income\[1\] (PCI) of $750 and below, will be eligible for the MOE FAS.
