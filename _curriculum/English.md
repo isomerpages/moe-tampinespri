@@ -9,27 +9,24 @@ description: ""
 English
 =======
 
-Vision
-------
+### **Vision**
 
 Confident and competent users of the language.  
   
 
-Mission
--------
+### **Mission**
 
 To build in our students a strong foundation in the English Language through the development of reading, writing, speaking and aural skills.
 
   
 
-Towards a Rich Language Learning Experience
--------------------------------------------
+### **Towards a Rich Language Learning Experience**
 
 The English Department is committed to provide experiential and authentic learning experiences to enable students to explore and integrate knowledge and skills. 
 
   
 
-**Reading Mum & Dad Programme**
+<b>Reading Mum & Dad Programme</b>
 
 “The world belongs to those who read.”
 
