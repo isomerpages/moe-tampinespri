@@ -10,3 +10,4 @@ Curriculum
 
 *   [English](/curriculum/English/)
 *   [Mathematics](/curriculum/Mathematics/)
+*   [Science](/curriculum/Science/)
