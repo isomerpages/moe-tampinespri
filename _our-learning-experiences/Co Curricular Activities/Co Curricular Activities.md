@@ -8,3 +8,6 @@ third_nav_title: Co Curricular Activities
 
 Co-Curricular Activities
 ========================
+
+
+### **Clubs and Societies**
