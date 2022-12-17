@@ -32,3 +32,5 @@ We believe that “Every Tampinesian can lead and serve”. Aligned to our Scho
   
 
 Student Leadership Framework
+
+![](/images/LLP.png)
