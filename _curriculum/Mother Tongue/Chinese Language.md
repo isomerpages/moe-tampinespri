@@ -20,3 +20,11 @@ Different learning packages such as oral and reading comprehension are designed 
 
 
 ![](/images/ChineseLang1.png)
+
+
+### **Mother Tongue Fortnight**
+
+Mother Tongue Fortnight is a programme designed for students to understand and develop a lifelong interest in their Mother Tongue language and its culture. A variety of activities related to the Mother Tongue languages and culture will be roll out to help promote experiential and engaging learning.
+
+
+![](/images/MT.gif)
