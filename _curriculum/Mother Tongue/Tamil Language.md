@@ -24,3 +24,5 @@ The teachers also designed their own Oral and Composition packages to further ai
 ![](/images/TamilLang3.png)
 
 Students learn Indian Culture and values during their lessons. students are given greater exposure to Tamil Language, Indian Culture and Values during the Mother Tongue Fortnight. Language Camps are conducted to provide students a greater edge in the language and culture. Apart from all this, our students are often sent for external competitions to showcase their talents. Our students have participated in Debate competitions organised by Media Corp and have done well. We aim to inspire students to have a life-long passion for Tamil language.
+
+![](/images/TamilLang4.png)
