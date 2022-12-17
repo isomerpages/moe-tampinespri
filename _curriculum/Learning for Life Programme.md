@@ -68,3 +68,7 @@ Leaders of Leaders are students who can lead the other student leaders and be me
 
 ![](/images/LLP4.png)
 Prefects taking their pledge
+
+
+![](/images/LLP5.jpeg)
+Keeping our environment clean - VIA ambassadors in action
