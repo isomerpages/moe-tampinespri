@@ -42,3 +42,71 @@ Your child is scheduled to sit for the EL / MTL Oral Examinations between 12 to 
 The canteen will be open for students to have their lunch break before the oral examination. Kindly ensure that your child has sufficient pocket money. School bus services will not be provided after the oral examinations. Do make your own transport arrangement for your child.
 
 Kindly refer to the table below for a summary of the EL/ MTL Oral Examination.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dx9w{border-color:inherit;color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dx9w">Date</th>
+    <th class="tg-clkh">Level</th>
+    <th class="tg-clkh">Subject</th>
+    <th class="tg-clkh">Lunch Break</th>
+    <th class="tg-clkh">Oral Exam</th>
+    <th class="tg-clkh">Dismissal Point</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Wednesday, 12 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">P4</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">EL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2 to 2.30 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span><br><span style="font-weight:normal;color:#121212">(Paper-based)</span></td>
+    <td class="tg-kk00" rowspan="6"><span style="font-weight:normal;color:#121212"> </span><br><span style="font-weight:normal;color:#121212"> </span><br><span style="font-weight:normal;color:#121212"> </span><br><span style="font-weight:normal;color:#121212">Gate 1 (Primary School Gate)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Wednesday, 12 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">PS</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">MTL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">1.30 to 2 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 5.00 p.m.</span><br><span style="font-weight:normal;color:#121212">(E-Oral)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Thursday, 13 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">P3</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">MTL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2 to 2.30 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span><br><span style="font-weight:normal;color:#121212">(Paper-based)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Thursday, 13 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">P5</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">EL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">1.30 to 2 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span><br><span style="font-weight:normal;color:#121212">(Paper-based)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Friday, 14 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">P3</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">EL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2 to 2.30 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span><br><span style="font-weight:normal;color:#121212">(Paper-based)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Friday, 14 October</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">P4</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">MTL</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">1.30 to 2 p.m.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">2.30 to 4.30 p.m.</span><br><span style="font-weight:normal;color:#121212">(Paper-based)</span></td>
+  </tr>
+</tbody>
+</table>
