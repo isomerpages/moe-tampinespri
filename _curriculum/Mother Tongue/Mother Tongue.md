@@ -21,3 +21,5 @@ To instill in our students the love for their Mother Tongue Language and culture
 [Chinese Language](/curriculum/Mother-Tongue/Chinese-Language/)
 
 [Malay Language](/curriculum/Mother-Tongue/Malay-Language/)
+
+[Tamil Language](/curriculum/Mother-Tongue/Tamil-Language/)
