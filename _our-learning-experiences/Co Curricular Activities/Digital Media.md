@@ -69,3 +69,5 @@ The students are required to fix up and programme the Makebot, also known as Mbo
 ##### **Drone flying during CCA**
 
 The latest edition to the club is drone flying. Students learn to fly the drones free-style or by coding. They fly them through obstacle courses, and take photos and videos with them.
+
+<img src="/images/Digital2.jpeg" style="width:75%">
