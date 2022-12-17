@@ -47,3 +47,5 @@ School-wide green initiatives for all students are conducted throughout the acad
 ### **Experiential Learning - Science Field Trips**
 
 Students are provided with learning experiences beyond the school to places such as Singapore Science Centre, Gardens by the Bay and Sungei Buloh Wetland Reserve. Science field trips serve as rich avenues that provide the authentic experiences for students to construct meaning from the concepts they have acquired in school and apply them during these field trips using the spirit of inquiry. After the trips, students carry on with research or activities to further deepen their understanding.
+
+![](/images/Science3.png)
