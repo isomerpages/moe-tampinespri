@@ -27,3 +27,5 @@ In developing the Hallmark of a Tampinesian, the school has developed explicit C
 [Social Studies](/curriculum/CCE/Social-Studies/)
 
 [National Education](/curriculum/CCE/National-Education/)
+
+[CCE Awards & Recognition](/curriculum/CCE/CCE-Awards-and-Recognition/)
