@@ -2,6 +2,8 @@ collections:
   for-parents:
     output: true
     order:
+      - Financial Assistance Scheme/Application for Straits Times School Pocket
+        Money Fund.md
       - Financial Assistance Scheme/.keep
       - School Calendar.md
       - P1 (2023) Orientation Day.md
