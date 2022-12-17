@@ -48,3 +48,5 @@ The collaborative theatre making process is a platform for building rapport and 
 #### **Forum Theatre**
 
 ‘What if?’ is a platform for Forum Theatre which is held during assembly period. Forum Theatre is used as a vehicle for learning and thinking about issues. Students explore different perspectives and are empowered to make a change. The audience are able to participate and react to situations that are applicable to real life situations.
+
+![](/images/Forum%20Theatre.png)
