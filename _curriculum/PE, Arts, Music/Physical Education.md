@@ -36,3 +36,14 @@ Through analysis critique of peers’ performance of sport skills, students deve
 ### **P6 Sport Education**
 
 ![](/images/PE.png)
+
+Sport Education aims to develop students’ perception of sport to encompass non-playing roles that are prevalent in modern sport. Students participate in are responsible for the organisation of their teams throughout the season with the teacher as a facilitator. Reflection peer evaluations are done by the students to frame their learning experiences.
+
+### **Healthy Lifestyle Week**
+
+![](/images/PE2.png)
+
+The week serves as a lead up to the Senior Olympics, where all students participate in the “I am a Role Model” program - focussing on desired behaviour when participating in sport - conducted by our Parent Support Group members, as well as practice matches during recess to prepare for the Senior Olympics. Augmenting these is Eye Care Week activities with the key message to “Keep Myopia at Bay. Go Outdoors Play”.
+
+
+### **Senior Olympics**
