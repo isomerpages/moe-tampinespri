@@ -45,4 +45,4 @@ Registration for Webinar
 
 [20201109_Updates_on_PSLE_Scoring_and_Secondary_1_Posting_System_from_2021.pdf ](/files/Updates_on_PSLE_Scoring_and_Secondary_1_Posting_System_from_2021.pdf)
 
-[20201109\_Infographic\_on\_New\_PSLE\_Scoring\_&\_S1\_Posting\_System.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201109_Infographic_on_New_PSLE_Scoring_&_S1_Posting_System.pdf)
+[20201109_Infographic_on_New_PSLE_Scoring_&_S1_Posting_System.pdf](/files/Infographic_on_New_PSLE_Scoring_&_S1_Posting_System.pdf)
