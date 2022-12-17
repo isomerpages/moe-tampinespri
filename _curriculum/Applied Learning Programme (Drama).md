@@ -23,3 +23,6 @@ Based on the new EL Syllabus 2020, the learners’ outcomes and values match the
   
 
 Drama is a significant vehicle for language learning. The emphasis is for drama to bring out confident speakers and empathetic communicators. It provides a platform for exploring people-related issues through a powerful mode of expression. Drama as pedagogy also enables our learners to better hone their social and emotional competencies and to encourage self-expression. The school is exploring ways to increase opportunities for students to create and perform their own productions and presentations. These platforms can be seen as multimodal forms of expression for students to increase confidence. Drama as pedagogy is also a vehicle to develop creative inquirers and discerning readers.
+
+
+<img src="/images/ALP.png" style="width:50%">
