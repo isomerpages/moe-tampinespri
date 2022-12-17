@@ -57,3 +57,11 @@ General Leaders being the core programme which all Tampinesians will experienc
   
 
 Specialised Leaders are for students who have exhibited leadership qualities that could be further developed. These students are trained to be effective decision makers as they are given projects to participate in. Students are also provided with targeted training that will help them to be more effective leaders.
+
+![](/images/LLP2.png)
+
+##### **Tier 3 – Leaders of Leaders** 
+
+Leaders of Leaders are students who can lead the other student leaders and be mentors to them. They have shown the qualities that will enable them to serve a larger community. We provide them with opportunities to nurture their leadership potential as they journey through our education system.
+
+![](/images/LLP3.png)
