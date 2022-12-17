@@ -89,3 +89,16 @@ The table below provides more details on the programme structure.
   </tr>
 </tbody>
 </table>
+
+
+#### **Maker Space**
+
+Maker Space develops in students a growth mindset (learning and creating something out of nothing; exploration of own interest), craftsmanship (making), open sharing (sharing) and mutual respect.
+
+  
+
+Maker Space sessions are conducted termly during lunch breaks.
+
+  
+
+Sessions will be conducted surrounding various themes. This will engage students in building upon their knowledge learnt, reinforcing concepts, and helping them see how they can apply such knowledge to create hands-on objects. Through these sessions, we aim for students to learn to observe phenomena and question processes, enabling them to further their critical thinking skills by asking what, why, and how.
