@@ -17,3 +17,4 @@ Curriculum
 *   [PE/Arts/Music](/curriculum/PE-Arts-Music/Physical-Education/)
 *   [Innovation and Enterprise](/curriculum/Innovation-and-Enterprise/)
 *   [Learning for Life Programme (LLP)](/curriculum/Learning-for-Life-Programme/)
+*   [Applied Learning Programme (Drama)](/curriculum/Applied-Learning-Programme-Drama/)
