@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md
       - Financial Assistance Scheme/Application for Straits Times School Pocket
         Money Fund.md
       - Financial Assistance Scheme/.keep
