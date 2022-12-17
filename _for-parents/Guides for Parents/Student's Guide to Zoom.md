@@ -38,5 +38,4 @@ Tampines Primary School
   
 
 <b>Attachment</b>
-
-[20200403\_Students\_\_Guide\_to\_Video\_Conferencing\_with\_Teachers\_Using\_Zoom\_for\_HBL\_\_MOE\_ETD\_-\_Version\_21\_March\_2020\_.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20200403_Students__Guide_to_Video_Conferencing_with_Teachers_Using_Zoom_for_HBL__MOE_ETD_-_Version_21_March_2020_.pdf)
+[20200403\_Students\_\_Guide\_to\_Video\_Conferencing\_with\_Teachers\_Using\_Zoom\_for\_HBL\_\_MOE\_ETD\_-\_Version\_21\_March\_2020\_.pdf](/files/Students_Guide_to_Video_Conferencing_with_Teachers_Using_Zoom_for_HBL__MOE_ETD.pdf)
