@@ -18,3 +18,7 @@ Tampines\_Pulse\_Newsletter\_2020.pdf
 Note: Tampines Pulse Newsletter 2020 pdf exceeds 5mb.
 
 [Tampines_Pulse_Newsletter_2021.pdf](/files/Tampines_Pulse_Newsletter_2021.pdf)
+
+Tampines Pulse Newsletter 2022 - Sem 1 (online Flip book)
+
+Note: Tampines Pulse Newsletter 2022 - Sem 1 (online Flip book) exceeds 5mb.
