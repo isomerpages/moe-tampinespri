@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Guides for Parents/Registration for PayNow.md
       - Guides for Parents/.keep
       - Leave Of Absence (LOA).md
