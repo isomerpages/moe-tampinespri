@@ -25,3 +25,12 @@ In developing the Hallmark of a Tampinesian, the school has developed explicit C
 <b>CCE components</b>
 
 [Social Studies](/curriculum/CCE/Social-Studies/)
+
+
+
+
+| <b>CCE components</b> | 
+| -------- | 
+| [Social Studies](/curriculum/CCE/Social-Studies/) 
+| 
+
