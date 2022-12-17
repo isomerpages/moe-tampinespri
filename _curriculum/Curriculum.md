@@ -12,3 +12,4 @@ Curriculum
 *   [Mathematics](/curriculum/Mathematics/)
 *   [Science](/curriculum/Science/)
 *   [Mother Tongue](/curriculum/Mother-Tongue/Mother-Tongue/)
+*   [Infocomm and Technology (ICT)](/curriculum/Infocomm-and-Technology-ICT/)
