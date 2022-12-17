@@ -25,8 +25,7 @@ Thank you. 
 
 [https://www.myskillsfuture.sg/content/student/en/primary.html](https://www.myskillsfuture.sg/content/student/en/primary.html)
 
-  
+ Note: My Skills Future link broken. 
 
 <b>Attachment</b>  
-
-[20200923\_ECG\_2020.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20200923_ECG_2020.pdf)
+[20200923_ECG_2020.pdf](/files/ECG_2020.pdf)
