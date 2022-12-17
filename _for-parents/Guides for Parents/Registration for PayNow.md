@@ -50,6 +50,6 @@ Thank you.
 
 <u><b>File attachments</b></u>
 
-[20201122\_Guide\_on\_PayNow\_Registration.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201122_Guide_on_PayNow_Registration.pdf)   
+[20201122_Guide_on_PayNow_Registration.pdf](/files/Guide_on_PayNow_Registration.pdf)
 
 [20201122\_FAQ\_on\_PayNow.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201122_FAQ_on_PayNow.pdf)
