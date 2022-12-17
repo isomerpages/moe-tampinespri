@@ -68,7 +68,7 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 7.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
 
-<b>At Tampines Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:<b> 
+<b>At Tampines Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:</b> 
 
 
 ### **Primary 5**
@@ -76,3 +76,20 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 	
 	
 ### **Primary 6**
+	
+	
+	
+	
+	
+### **Information for Parents**
+
+8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
+      
+    
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/Growing_Years_2022_Parents_Opt-out_Form_New.pdf).  
+      
+    
+10.  Parents can contact the school at [tpps@moe.edu.sg](mailto:tpps@moe.edu.sg) or contact us at 67831190 for discussion or to seek clarification about the school’s sexuality education programme.  
+      
+    
+11.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
