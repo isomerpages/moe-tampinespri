@@ -28,3 +28,5 @@ P1 and P2 Portfolio Assessment initiatives give our students opportunities to in
 ### **Learning Packages**
 
 The department employs drama strategies in the teaching of the Malay language to help value-add to the students’ learning. It also provides opportunities for students to demonstrate thinking and communication skills. Our teachers also designed our own Composition and Oral packages aim to help students be equipped with essential composition and oral skills, respectively, to score better in their examinations. Parents’ workshops are conducted by our teachers to keep parents abreast of the latest exam formats, understand comprehension-answering techniques, and share some useful and effective study tips to help their children at home.
+
+![](/images/MalayLang5.png)
