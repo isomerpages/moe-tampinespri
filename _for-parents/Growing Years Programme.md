@@ -72,6 +72,7 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 
 
 ### **Primary 5**
-
 	
 	
+	
+### **Primary 6**
