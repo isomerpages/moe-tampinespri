@@ -33,8 +33,6 @@ Details on the list of schools
 
 [https://www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb)
 
-  
-
 Registration for Webinar
 
 [https://go.gov.sg/psle-dec-webinar](https://go.gov.sg/psle-dec-webinar)
