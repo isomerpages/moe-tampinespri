@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Learning for Life Programme.md
       - Applied Learning Programme (Drama).md
       - Student Development Department.md
