@@ -24,3 +24,21 @@ Exam Schedules
   </tr>
 </thead>
 </table>
+
+Dear Parents,
+
+The EYE will be held from Term 4 Week 5 to Week 8. We seek your help in supervising your child's revision for the upcoming examinations. You are also encouraged to help your child to plan his/her time so that he/she has sufficient time for rest and exercise.
+
+In view of the prevailing COVID-19 situation, kindly refer to the current Safe Management Measures and do not send your child to school if he/she is unwell. Please contact your child's Form Teacher if you have any queries. Students who are absent based on valid reasons will be able to sit for the examinations as practice at a later date. We appreciate your support in helping us keep Tampines Primary School (TPPS) safe.
+
+Please acknowledge receipt of the attached documents on the EYE Schedule and Topics to be Tested. Kindly also refer to the examination policy in our Assessment Information letter on 16 February 2022 (via Parents Gateway).
+
+Thank you.
+
+### **EYE EL/ MTL Oral Examination (Primary 3, 4 & 5)**
+
+Your child is scheduled to sit for the EL / MTL Oral Examinations between 12 to 14 October after curriculum hours. Kindly note that there are no remedial lessons on the oral examination days.
+
+The canteen will be open for students to have their lunch break before the oral examination. Kindly ensure that your child has sufficient pocket money. School bus services will not be provided after the oral examinations. Do make your own transport arrangement for your child.
+
+Kindly refer to the table below for a summary of the EL/ MTL Oral Examination.
