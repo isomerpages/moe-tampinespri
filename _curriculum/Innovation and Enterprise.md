@@ -32,3 +32,42 @@ In Tampines Primary School, project work is designed based on the TPPS PW Protoc
 <img src="/images/Design%20for%20Change%20and%20Design%20Thinking.png" style="width:80%">
 
 The table below shows how PW outcomes are achieved through the 5 stages in our PW Protocol.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">TPPS PW Protocol</th>
+    <th class="tg-clkh">Project Work Learning Outcomes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">Feel out a scenario</td>
+    <td class="tg-kk00" rowspan="2">Communication Independent Learning</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">Define a problem</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">Ideate to solve the problem</td>
+    <td class="tg-kk00" rowspan="2">Communication Knowledge Application Collaboration Independent Learning</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">Do what you can to make a change</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">Share your actions</td>
+    <td class="tg-kk00">Communication Collaboration Independent Learning</td>
+  </tr>
+</tbody>
+</table>
