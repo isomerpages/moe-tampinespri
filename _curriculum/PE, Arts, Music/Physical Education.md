@@ -25,4 +25,12 @@ Physical Education in Tampines Primary School is integral to the all-round devel
 The curriculum comprises of Athletics, Dance, Games & Sports, Gymnastics, Physical Health & Fitness and Swimming. Innovative initiatives leveraging technology collaborative practice, such as our Video Analysis & Critique of Sport Skills and P6 Sport Education - provide authentic contexts and experiences as the foundation to equip our students with skills competencies for the future.
 
  
-### **Video Analysis and Critique of Sport Skills** 
+### **Video Analysis and Critique of Sport Skills**
+
+<img src="/images/Video%20Analysis%20and%20Critique%20of%20Sport%20Skills-2.png" style="width:50%">
+
+Through analysis critique of peers’ performance of sport skills, students develop a deeper understanding of the biomechanical principles that contribute to good performance.
+
+  
+
+### **P6 Sport Education**
