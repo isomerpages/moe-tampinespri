@@ -72,3 +72,7 @@ Prefects taking their pledge
 
 ![](/images/LLP5.jpeg)
 Keeping our environment clean - VIA ambassadors in action
+
+
+![](/images/LLp6.png)
+Supporting our seniors - community leader in action
