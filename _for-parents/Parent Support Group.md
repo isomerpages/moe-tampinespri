@@ -17,3 +17,5 @@ The PSG members are engaged in school life and in dialogue first through recruit
 The school celebrates the support and contributions of the PSG through an investiture ceremony. PSG EXCO members are issued a special pass and members who are involved in helping in school activities are also given a PSG duty pass. An annual appreciation lunch is also organized for active PSG members.
 
 <u><b>Application Form</b></u>
+
+![](/images/PSG1.png)
