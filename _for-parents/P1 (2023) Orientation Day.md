@@ -45,3 +45,51 @@ c.  If you feel unwell, you should go home immediately to rest or see a doctor.
 We thank you for helping us to keep Tampines Primary School safe and healthy.
 
 #### **3) Completion of Administration Forms (Online)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wunr{background-color:#9FEC7B;color:#121212;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+.tg .tg-knsb{color:#1F2243;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wunr"><span style="font-weight:normal;color:#121212">Type of Form</span></th>
+    <th class="tg-wunr"><span style="font-weight:normal;color:#121212">Registration Website Link</span></th>
+    <th class="tg-wunr"><span style="font-weight:normal;color:#121212">Remarks</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">GIRO</span></td>
+    <td class="tg-knsb"><a href="https://www.moe.gov.sg/financial-matters/fees"><span style="font-weight:400;text-decoration:underline;color:#1F2243">School Fees | Ministry of Education (moe.gov.sg)</span></a><br><span style="font-weight:normal;color:#121212">Look for GIRO scheme and follow instructions on the website to complete GIRO registration.</span></td>
+    <td class="tg-kk00"><span style="font-weight:bold">Portal available from </span><span style="font-weight:bold;text-decoration:underline">26 Nov 2022</span><span style="font-weight:bold"> onwards.</span><br><br><span style="color:#121212">Parents are strongly encouraged to sign up for GIRO online for payment of school fees and charges. Parents will have up till 15 Jan 2023 to sign up for GIRO for the first deduction in Feb 2023.</span><br><br><span style="color:#121212">This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.</span><br><br>* Child Development Account (Baby Bonus Account) <span style="font-weight:bold">cannot be used</span> for GIRO application </td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Edusave Standing Order Form</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Website with details on usage of Edusave funds. Refer to</span> <a href="https://www.moe.gov.sg/financial-matters/edusave-account"><span style="font-weight:400;text-decoration:underline;color:#1F2243">link</span></a><br><span style="font-weight:normal;color:#121212">Complete the following form:</span><br><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59"><span style="font-weight:400;text-decoration:underline;color:#1F2243">Standing Order for Use of Edusave Account At Govt / Govt-Aided School (form.gov.sg)</span></a></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Parents are strongly encouraged to sign up for Edusave Fund; catered to cover school miscellaneous fees</span> <span style="font-weight:bold">(for Singapore Citizens only)</span><br><br><span style="font-weight:normal;color:#121212">Please Tick</span> <span style="font-weight:bold">“Yes”</span> <span style="font-weight:normal;color:#121212">for both questions on whether to use Edusave for 2nd Tier Miscellaneous fees and for local and overseas enrichment charges.</span> <br><br><span style="font-weight:bold">* School will seek your confirmation for any deduction of Edusave funds before the commencement of extra programmes.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Pupil Data Form</span> </td>
+    <td class="tg-knsb"><a href="https://pg.moe.edu.sg/forms/sdf"><span style="font-weight:400;text-decoration:underline;color:#1F2243">https://pg.moe.edu.sg/forms/sdf</span></a></td>
+    <td class="tg-clkh">Portal available from <span style="text-decoration:underline">28 Nov 2022</span> onwards.<br><br><span style="font-weight:normal;color:#121212">More details will be provided via PG for the completion on the final compulsory form.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Online Consent for Immunisation and Dental Services</span></td>
+    <td class="tg-knsb"><a href="https://childconsent.hpb.gov.sg/"><span style="font-weight:400;text-decoration:underline;color:#1F2243">https://childconsent.hpb.gov.sg/</span></a></td>
+    <td class="tg-clkh">Portal available from <span style="text-decoration:underline">25 Dec 2022</span> onwards.<br><br><span style="font-weight:normal;color:#121212">HPB provides free health services such as screening, immunisation and dental checks for students in school during school hours. Your consent is required for your child to benefit from these services.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">MOE Financial Assistance Scheme</span></td>
+    <td class="tg-knsb"><a href="https://www.moe.gov.sg/financial-matters/financial-assistance"><span style="font-weight:400;text-decoration:underline;color:#1F2243">Financial Assistance Scheme (FAS) (moe.edu.sg)</span></a><br><span style="font-weight:normal;color:#121212">Complete the following form:</span> <a href="https://go.gov.sg/moe-efas"><span style="font-weight:400;text-decoration:underline;color:#1F2243">https://go.gov.sg/moe-efas</span></a></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">* Please</span> <span style="font-weight:bold;text-decoration:underline">do not purchase books and uniforms prior to the outcome of the FAS application</span> <span style="font-weight:normal;color:#121212">if you intend to apply for FAS for your child for 2023. No refund will be given.</span></td>
+  </tr>
+</tbody>
+</table>
