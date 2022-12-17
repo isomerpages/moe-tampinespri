@@ -34,3 +34,5 @@ Through analysis critique of peers’ performance of sport skills, students deve
   
 
 ### **P6 Sport Education**
+
+![](/images/PE.png)
