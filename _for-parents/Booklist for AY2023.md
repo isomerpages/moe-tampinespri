@@ -14,7 +14,7 @@ Booklist for AY2023
 
 
 *   <b>Primary 1</b>: [Download File](/files/TPPS_Booklist_Primary_1_2023.pdf)
-*   <b>Primary 2:</b> [Download File](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2023/Booklist/TPPS_Booklist_Primary_2_2023.pdf)
+*   <b>Primary 2:</b> [Download File](/files/TPPS_Booklist_Primary_2_2023.pdf)
 *   <b>Primary 3:</b> [Download File](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2023/Booklist/TPPS_Booklist_Primary_3_2023.pdf)  
     
 *   <b>Primary 4:</b> [Download File](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2023/Booklist/TPPS_Booklist_Primary_4_2023.pdf)  
