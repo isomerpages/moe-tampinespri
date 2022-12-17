@@ -37,3 +37,5 @@ The programme is an initiative by the English Department in partnership with our
 They guide each student one-on-one at their own pace with a variety of materials and a range of books provided by the department in their reading. It is a child-directed approach. The students in the programme enjoy these weekly sessions and look forward to meeting their ‘Aunties and Uncles’. 
 
 A picture paints a thousand words and so, let the following pictures capture some wonderful moments during the sessions.
+
+![](/images/English.png)
