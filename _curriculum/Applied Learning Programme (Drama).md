@@ -26,3 +26,25 @@ Drama is a significant vehicle for language learning. The emphasis is for drama 
 
 
 <img src="/images/ALP.png" style="width:50%">
+
+ACTtituDE – a school-based drama publication produced. Drama strategies for beginners are included. This serves as a guide for teachers who have never used drama and would like to.
+
+  
+
+### **Background**
+
+In 1997, Ministry of Education (MOE) introduced “Thinking Schools,Learning Nation” (TSLN) an initiative which provides direction to the transformation in the education system in recent years. “Teach Less, Learn More” (TLLM) builds on the groundwork laid in place by the improvements made under the TSLN vision. TLLM continues the TSLN journey by focusing on improving the quality of interaction between teachers and learners, so that our learners can be more engaged in learning. TLLM is about shifting the focus from “quantity” to “quality” in education. TLLM aims to improve the quality of teaching and learning. It is about teaching better, to touch the hearts and engage the minds of our learners and prepare them for life, rather than teaching more, for tests and examinations.  
+  
+
+### **Drama Beyond the Classroom**
+--------------------------
+
+#### **Community Theatre**
+
+The collaborative theatre making process is a platform for building rapport and creativity in students, alumni, parents and teachers. Every year, drama CCA also known as Theatrics in Action creates theatre, revolving around social issues to raise awareness. Our first community theatre installation was in 2012 where we collaborated with Ageless Theatre, a senior citizens theatre group with the theme “Heart Strings, Heart Family.”   
+
+  
+
+#### **Forum Theatre**
+
+‘What if?’ is a platform for Forum Theatre which is held during assembly period. Forum Theatre is used as a vehicle for learning and thinking about issues. Students explore different perspectives and are empowered to make a change. The audience are able to participate and react to situations that are applicable to real life situations.
