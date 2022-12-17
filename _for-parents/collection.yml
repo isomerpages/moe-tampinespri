@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Guides for Parents/SLS Support for Home Based Learning.md
       - Guides for Parents/Student's Guide to Zoom.md
       - Guides for Parents/Positive Parenting Program® (Triple P).md
       - Guides for Parents/Education And Career Guidance (ECG) Portal.md
