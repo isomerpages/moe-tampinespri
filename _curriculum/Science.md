@@ -23,3 +23,5 @@ To nurture in every child a sense of wonder and curiosity in the world around th
 ### **Play@Work**
 
 The learning of science is infused within STELLAR where Primary 1 and 2 students acquire basic process skills like observing and comparing through selected science related topics in STELLAR.
+
+![](/images/Science.png)
