@@ -31,3 +31,5 @@ In developing the Hallmark of a Tampinesian, the school has developed explicit C
 [CCE Awards & Recognition](/curriculum/CCE/CCE-Awards-and-Recognition/)
 
 [Values in Action](/curriculum/CCE/Values-in-Action/)
+
+[Educational & Career Guidance](/curriculum/CCE/Educational-and-Career-Guidance/)
