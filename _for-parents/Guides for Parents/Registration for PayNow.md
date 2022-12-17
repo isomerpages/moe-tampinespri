@@ -30,3 +30,26 @@ Thank you.
   
 
 <i><b>Tampines Primary School</b></i>
+
+
+<u><b>Web Link</b></u>
+
+  
+
+<b>More information on PayNow</b>
+
+[https://go.gov.sg/abspaynow](https://go.gov.sg/abspaynow)
+
+  
+
+<b>Online form to set up PayNow</b>
+
+[https://go.gov.sg/paynowregister](https://go.gov.sg/paynowregister)
+
+  
+
+<b>File attachments</b>
+
+[20201122\_Guide\_on\_PayNow\_Registration.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201122_Guide_on_PayNow_Registration.pdf)   
+
+[20201122\_FAQ\_on\_PayNow.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/Announcements/dl/20201122_FAQ_on_PayNow.pdf)
