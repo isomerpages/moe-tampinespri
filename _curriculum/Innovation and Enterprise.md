@@ -18,3 +18,12 @@ Project Work provides students and teachers with opportunities to break away fro
 
 
 <img src="/images/Values%20Education.png" style="width:75%">
+
+
+<b>Framework & Rationale for Project Work</b>
+
+Project Work in Tampines Primary School aims to provide a platform, undergird by values, for students to progressively apply knowledge and skills in authentic learning contexts. Using the TPPS PW Protocol (adapted from Design Thinking) as our innovative approach, we wish to develop students who are self-directed learners, effective communicators and creative problem solvers with a focus on the four project work outcomes.
+
+  
+
+In Tampines Primary School, project work is designed based on the TPPS PW Protocol, which is adapted from the four phases of Design for Change and Design Thinking.
