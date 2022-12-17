@@ -18,3 +18,6 @@ Co-Curricular Activities
 
 
 ### **Uniformed Groups**
+
+
+### **Visual and Performing Arts**
