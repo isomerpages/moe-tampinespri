@@ -35,7 +35,7 @@ Through analysis critique of peers’ performance of sport skills, students deve
 
 ### **P6 Sport Education**
 
-![](/images/PE.png)
+![](/images/PE1.png)
 
 Sport Education aims to develop students’ perception of sport to encompass non-playing roles that are prevalent in modern sport. Students participate in are responsible for the organisation of their teams throughout the season with the teacher as a facilitator. Reflection peer evaluations are done by the students to frame their learning experiences.
 
