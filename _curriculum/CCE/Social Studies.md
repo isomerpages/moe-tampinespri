@@ -81,3 +81,7 @@ Through field-based learning, students contextualise their learning experience i
 </table>
 
 <i>* On-site visits to field-based locations depend on availability of slots due to the pandemic.</i>
+
+
+
+Figures 1: P4 virtual Field-based Learning Journey to Fort Canning
