@@ -13,3 +13,4 @@ Guides for Parents
 *   [Student's Guide to Zoom](/for-parents/Guides-for-Parents/Students-Guide-to-Zoom/)
 *   [Registration for PayNow](/for-parents/Guides-for-Parents/Registration-for-PayNow/)
 *   [Education And Career Guidance (ECG) Portal](/for-parents/Guides-for-Parents/Education-And-Career-Guidance-ECG-Portal/)
+*   [Updates on PSLE Scoring and Secondary 1 Posting System from 2021](/for-parents/Guides-for-Parents/Updates-on-PSLE-Scoring-and-Secondary-1-Posting-System-from-2021/)
