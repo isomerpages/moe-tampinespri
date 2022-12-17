@@ -86,7 +86,7 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.  
       
     
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2022/Growing_Years_2022_Parents_Opt-out_Form_New.pdf).  
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Growing_Years_2022_Parents_Opt-out_Form_New.pdf).  
       
     
 10.  Parents can contact the school at [tpps@moe.edu.sg](mailto:tpps@moe.edu.sg) or contact us at 67831190 for discussion or to seek clarification about the school’s sexuality education programme.  
