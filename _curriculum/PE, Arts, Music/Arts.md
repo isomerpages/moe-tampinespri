@@ -35,3 +35,8 @@ Leveraging the school environment as a learning tool, our students have art appr
 
 The Primary four students were exposed to Digital Art this year. They learnt how to create a digital landscape in impressionist style using the Wacom tablet and ArtRage software.
 ![](/images/Arts1.png)
+
+
+### **Primary Five Ceramic Art Programme**
+
+The Primary Five students were exposed to Ceramic Art this year. They learnt how to create ceramic sculptures in the 7-week lessons. They created a pencil holder and an animal sculpture each.
