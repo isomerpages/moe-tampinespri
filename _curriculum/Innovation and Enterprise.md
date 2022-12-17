@@ -88,3 +88,6 @@ Tampines Primary School has a wide variety of student-focused learning activitie
 
 
 <figure><img src="/images/ID1.jpeg" style="width:75%"><figcaption> “Permission to (RE)Play” - A creative production from Theatrics in Action</figcaption></figure>
+
+
+<figure><img src="/images/ID2.jpeg" style="width:75%"><figcaption> An enchanted audience enjoying the creative production at the BlackBox</figcaption></figure>
