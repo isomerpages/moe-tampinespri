@@ -20,9 +20,3 @@ Guides for Parents
 [Positive Parenting Program® (Triple P)](/for-parents/Guides-for-Parents/Positive-Parenting-Program-Triple-P/)
 
 
-Resources
----------
-
-[Parent Kit - Supporting your child during Full HBL.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/parents/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)  
-[Resource 2 Parent Kit on Student Vaccination Exercise.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/parents/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)  
-[Resource 3 One page Infographic on Student Vaccination Exercise.pdf](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf) 
