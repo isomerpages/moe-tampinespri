@@ -17,4 +17,4 @@ Guides for Parents
 
 
 ### **Other Useful Links**
-[Positive Parenting Program® (Triple P)](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/guides-for-parents/positive-parenting-program-triple-p)
+[Positive Parenting Program® (Triple P)](/for-parents/Guides-for-Parents/Positive-Parenting-Program-Triple-P/)
