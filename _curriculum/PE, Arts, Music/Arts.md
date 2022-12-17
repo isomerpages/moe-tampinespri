@@ -34,3 +34,4 @@ Leveraging the school environment as a learning tool, our students have art appr
 ### **Primary Four Digital Art Programme**
 
 The Primary four students were exposed to Digital Art this year. They learnt how to create a digital landscape in impressionist style using the Wacom tablet and ArtRage software.
+![](/images/Arts1.png)
