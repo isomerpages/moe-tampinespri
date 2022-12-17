@@ -203,3 +203,7 @@ Kindly refer to the table below for a summary of the EL/ MTL Oral Examination.
   </tr>
 </tbody>
 </table>
+
+<b>Primary 3 Lunch:</b> 11.30 a.m. to 12.00 p.m.
+
+### **P4 EYE Schedule 2022**
