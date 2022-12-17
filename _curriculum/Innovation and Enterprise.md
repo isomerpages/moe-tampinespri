@@ -74,3 +74,15 @@ The table below shows how PW outcomes are achieved through the 5 stages in our P
 
 
 This year, students were presented with the recycling issues in the canteen. By going through the PW protocol, students came up with many creative ideas to encourage their peers to recycle right. The lower primary students wrote a pledge to bring their own cutleries to consume their packed bento lunch in class; using Acrostic Poems and Limericks, the P3 and P4 students came up with humorous ways to remind their peers and themselves the right way to recycle. Through the use of Forum Theatre, the Graduating School students demonstrated the right way to educate the lower primary students on recycling.
+
+
+<img src="/images/Lets%20feel%20the%20problem.png" style="width:80%">
+
+Let’s feel the problem - The Woe of Mr Bin (A PW project in 2020)
+
+
+### **Innovation Day**
+
+Tampines Primary School has a wide variety of student-focused learning activities intended to achieve holistic education. The Innovation Day is a platform for the school to recognize students who have achieved outstanding progress in their strive for excellence and innovation. Since its inception in 2017, the Innovation Day has celebrated more than 70 innovative projects from different programmes and departments. It is a day looked forward yearly by both teachers and students as it marks the culmination of the innovation culture in Tampines Primary School.
+
+
