@@ -85,3 +85,6 @@ Through field-based learning, students contextualise their learning experience i
 
 
 Figures 1: P4 virtual Field-based Learning Journey to Fort Canning
+
+![](/images/SS3.png)
+Figure 2: A P1 student learning about marine creatures in the virtual Changi Biodiversity Intertidal Walk in a virtual field-based learning
