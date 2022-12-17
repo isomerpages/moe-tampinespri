@@ -30,7 +30,7 @@ The learning of science is infused within STELLAR where Primary 1 and 2 students
 
 Students in Tampines Primary School acquire scientific concepts through inquiry learning. Various strategies such as investigation, cooperative learning, problem-solving, drama, role-play, field trip and demonstration are employed using the 5E instructional model. Students experience the stages of Engage, Explore, Explain, Elaborate and Evaluate to discover their newly constructed knowledge and skills without forgetting the ethics and attitudes of a Young Scientist. Through this inquiry model approach, students are provided with regular hands-on experiments and learning experiences in a vibrant environment.
 
-<img src="/images/Science.gif" style="width:30%">
+<img src="/images/Sci.gif" style="width:70%">
 
 
 ### **E2K Science Enrichment Programme**
