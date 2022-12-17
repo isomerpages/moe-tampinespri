@@ -49,3 +49,9 @@ Our LLP is differentiated into 3 tiers
 General Leaders being the core programme which all Tampinesians will experience in the course of their 6 years in school. Students are provided with basic leadership skills that will enable them to be effective learners guided by strong moral compasses.
 
 ![](/images/LLP1.png)
+
+##### **Tier 2 – Specialised Leaders**
+
+  
+
+Specialised Leaders are for students who have exhibited leadership qualities that could be further developed. These students are trained to be effective decision makers as they are given projects to participate in. Students are also provided with targeted training that will help them to be more effective leaders.
