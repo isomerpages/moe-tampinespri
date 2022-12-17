@@ -43,6 +43,8 @@ This programme was adapted by the MOE’s Gifted Education Branch and is offered
 
 School-wide green initiatives for all students are conducted throughout the academic year. This is to heighten awareness on the importance of saving the Earth and to be a caring and concerned citizen for our environment. Level wide programmes, assembly talks as well as recess activities are carried out in school to educate our students on the steps they could follow to save the environment.
 
+<img src="/images/GO%20GREEN%20@%20TPPS.gif" style="width:70%">
+
 
 ### **Experiential Learning - Science Field Trips**
 
