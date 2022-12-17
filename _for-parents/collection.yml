@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Guides for Parents/.keep
       - Leave Of Absence (LOA).md
