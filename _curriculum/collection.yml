@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/.keep
       - PE, Arts, Music/Physical Education.md
       - PE, Arts, Music/Arts.md
       - PE, Arts, Music/Music.md
