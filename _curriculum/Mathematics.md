@@ -132,3 +132,54 @@ Congratulations to these students who achieved the following awards!
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bmem{background-color:#D9D9D9;color:#121212;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bmem">Name of student</th>
+    <th class="tg-bmem"><span style="color:black">Class</span></th>
+    <th class="tg-bmem"><span style="color:black">Competition</span></th>
+    <th class="tg-bmem"><span style="color:black">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">CHANG AN JIE</span></td>
+    <td class="tg-kk00" rowspan="3"><span style="color:black">P5 CARE</span></td>
+    <td class="tg-kk00" rowspan="5">RIPMWC</td>
+    <td class="tg-kk00" rowspan="5"><span style="color:black">Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">JAVEN EE WEN JIE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">ROHIT SINGARAM SENTHILKUMAR</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">ONG SI XUAN CORRINE</span></td>
+    <td class="tg-kk00" rowspan="2">P5 LOVE</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">CHANDRAMOULI SHARINI</span></td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">TAN KAH SHING RYAN</span></td>
+    <td class="tg-kk00"><span style="color:black">P5 CARE</span></td>
+    <td class="tg-kk00" rowspan="2">RIPMWC</td>
+    <td class="tg-kk00" rowspan="2">Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00"><span style="color:black">OM MAHTO</span></td>
+    <td class="tg-kk00">P5 LOVE</td>
+  </tr>
+</tbody>
+</table>
