@@ -20,8 +20,7 @@ Guides for Parents
 [Positive Parenting Program® (Triple P)](/for-parents/Guides-for-Parents/Positive-Parenting-Program-Triple-P/)
 
 
-Resources
----------
+### **Resources**
 
 [Parent Kit - Supporting your child during Full HBL.pdf](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
 
