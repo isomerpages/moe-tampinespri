@@ -23,6 +23,6 @@ Booklist for AY2023
     
 *   <b>Primary 5 (Standard):</b> [Download File](/files/TPPS_Booklist_Primary_5_STD_2023.pdf)  
     
-*   <b>Primary 6 (Foundation):</b> [Download File](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2023/Booklist/TPPS_Booklist_Primary_6_FDN_2023.pdf)  
+*   <b>Primary 6 (Foundation):</b> [Download File](/files/TPPS_Booklist_Primary_6_FDN_2023.pdf)
     
 *   <b>Primary 6 (Standard):</b> [Download File](https://tampinespri.moe.edu.sg/qql/slot/u175/files/2023/Booklist/TPPS_Booklist_Primary_6_STD_2023.pdf)
