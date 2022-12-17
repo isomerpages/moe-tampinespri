@@ -119,3 +119,5 @@ Mobile and Internet technologies are becoming increasingly pervasive in our worl
   
 
 #### **2\. Cyber Wellness Education**
+
+<figure><img src="/images/Cyber%20Wellness.png" style="width:100%"><figcaption> <b>Source: MOE Intranet</b></figcaption></figure>
