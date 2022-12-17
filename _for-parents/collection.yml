@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Growing Years Programme.md
       - DSA Information.md
       - Parent Support Group.md
       - Guides for Parents/Guides for Parents.md
