@@ -86,3 +86,5 @@ Let’s feel the problem - The Woe of Mr Bin (A PW project in 2020)
 Tampines Primary School has a wide variety of student-focused learning activities intended to achieve holistic education. The Innovation Day is a platform for the school to recognize students who have achieved outstanding progress in their strive for excellence and innovation. Since its inception in 2017, the Innovation Day has celebrated more than 70 innovative projects from different programmes and departments. It is a day looked forward yearly by both teachers and students as it marks the culmination of the innovation culture in Tampines Primary School.
 
 
+
+<figure><img src="/images/ID1.jpeg" style="width:75%"><figcaption> “Permission to (RE)Play” - A creative production from Theatrics in Action</figcaption></figure>
