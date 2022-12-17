@@ -102,3 +102,20 @@ Maker Space sessions are conducted termly during lunch breaks.
   
 
 Sessions will be conducted surrounding various themes. This will engage students in building upon their knowledge learnt, reinforcing concepts, and helping them see how they can apply such knowledge to create hands-on objects. Through these sessions, we aim for students to learn to observe phenomena and question processes, enabling them to further their critical thinking skills by asking what, why, and how.
+
+
+
+
+
+### **Cyber Wellness**
+--------------
+
+#### **1\. What is Cyber Wellness**
+
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
+
+Mobile and Internet technologies are becoming increasingly pervasive in our world.  The open nature of the Internet poses a danger to our students as it can expose them to undesirable content which can potentially corrupt their value systems. Students today face new challenges with online interactions. They need to be grounded on sound values and be equipped with the skills to guard their values.
+
+  
+
+#### **2\. Cyber Wellness Education**
