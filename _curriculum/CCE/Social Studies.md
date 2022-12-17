@@ -88,3 +88,27 @@ Figures 1: P4 virtual Field-based Learning Journey to Fort Canning
 
 ![](/images/SS3.png)
 Figure 2: A P1 student learning about marine creatures in the virtual Changi Biodiversity Intertidal Walk in a virtual field-based learning
+
+![](/images/SS4.png)
+Figure 3: P1 students experiencing a virtual trip to Changi Beach
+
+
+### **Local-based Internationalisation Programme**
+
+  
+
+The Local-based Internationalisation Programme (LIP) is a signature Social Studies program for the Primary five level. LIP are virtual exchanges with overseas counterparts that can provide valuable opportunities for students to learn with their overseas peers and pick up cross cultural skills. 
+
+The LIP focuses on Southeast Asian region as our primary five students would be introduced to the physical environment and cultural diversity of the region in their Social Studies syllabus in Semester two.  
+
+The programme is also designed to engage students to learn specific aspects of the countries e.g. food, language and culture to deepen their experience and gain more knowledge about these countries. 
+
+In addition , using design thinking framework , students collaborate virtually with their peers from overseas to propose sustainable solutions to environmental issues.  This is a significant part of our holistic development of students, and necessary for TPPS students to develop 21st CC so as to contribute meaningfully in a globalised world.
+
+![](/images/SS5.png)
+Figure 4: P5 students communicating with pupils from overseas during the Local-Internationalization Programme
+
+
+##### **Performance & Mini Tasks**
+
+Performance task assesses students’ ability to translate and transfer key knowledge, skills and values in a new context. Each level from Primary 3 to Primary 6 will do a performance task while the Primary 1s and 2s will do mini tasks. The suggested performance tasks in the Social Studies syllabus allow students to apply the knowledge, skills and values in a real-world context.
