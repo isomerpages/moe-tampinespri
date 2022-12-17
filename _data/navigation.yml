@@ -24,9 +24,11 @@ links:
       - title: Terms of Use
         url: /about-us/Terms-of-Use/
   - title: Our Learning Experiences
-    url: /permalink
+    url: /curriculum/Curriculum/
     sublinks:
       - title: Curriculum
+        url: /curriculum/Curriculum/
+      - title: Co-Curricular Activities
         url: /permalink
   - title: Contact Us
     url: /contact-us/
