@@ -11,7 +11,7 @@ Circulars
 
 ### **June 2021**
 
-*   [Enhanced Safe Management Measures 9-June-21.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/mk/Enhanced%20Safe%20Management%20Measures%209-June-21.pdf)
+*   [Enhanced Safe Management Measures 9-June-21.pdf](/files/Enhanced%20Safe%20Management%20Measures%209-June-21.pdf)
 
 ### **January 2022**
 
