@@ -22,7 +22,7 @@ Please see August Memo for more details.
 
   
 
-[Click here to download the Memo for August](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/letters-to-parents-2022)  
+[Click here to download the Memo for August](/for-parents/Letters-to-Parents-2022/)
 
   
 
