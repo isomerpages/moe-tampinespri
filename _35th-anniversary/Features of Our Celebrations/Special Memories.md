@@ -11,3 +11,6 @@ Special Memories
 ================
 
 ### **Our Principals**
+
+
+![](/images/OurPrincipals.gif)
