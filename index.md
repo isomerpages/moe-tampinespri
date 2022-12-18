@@ -19,7 +19,7 @@ sections:
           url: /quick-links/School-Calendar/
         - title: "Quick Links "
           description: ""
-          url: /privacy/
+          url: /quick-links/Useful-Links/Useful-Links/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
