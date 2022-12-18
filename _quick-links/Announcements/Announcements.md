@@ -10,7 +10,7 @@ third_nav_title: Announcements
 Announcements
 =============
 
-1.  [Student TraceTogether Tokens (TTT)](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/student-tracetogether-tokens-ttt)
+1.  [Student TraceTogether Tokens (TTT)](/quick-links/Announcements/Student-TraceTogether-Tokens-TTT/)
 2.  [January Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/january-memo-to-parents)  
     
 3.  [March Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/march-memo-to-parents)  
