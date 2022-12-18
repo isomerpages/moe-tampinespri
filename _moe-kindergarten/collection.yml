@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - About Us/Our Family.md
       - About Us/.keep
       - Our Learning Experiences.md
       - For Parents/For Parents.md
