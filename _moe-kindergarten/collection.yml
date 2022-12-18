@@ -2,4 +2,5 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Gallery/Parents’ Day Celebration.md
       - Gallery/.keep
