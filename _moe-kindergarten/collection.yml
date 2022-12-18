@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Gallery/Gallery.md
       - Gallery/Chinese New Year Celebration 2022.md
       - Gallery/Community Outreach Programme with All Saints Home.md
       - Gallery/Earth Day Celebration.md
