@@ -20,10 +20,4 @@ sections:
         - title: "Quick Links "
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
