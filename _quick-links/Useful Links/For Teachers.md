@@ -17,3 +17,5 @@ For Teachers
 <p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx"><img style="width:35%" src="/images/HR%20online.jpg"></a></p>
 
 Note: HR online link broken.
+
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width:35%" src="/images/MIMS.png"></a></p>
