@@ -43,7 +43,7 @@ To support our current students attending the SCC with the transition, please fi
     
 2. [Commit Learning SchoolHouse CLS Student Care Centre SCC Introduction Letter Tampines Primary School.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/scc/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%20Introduction%20Letter%20Tampines%20Primary%20School.pdf](/files/CLS%20Student%20Care%20Centre%20SCC%20Introduction%20Letter%20Tampines%20Primary%20School.pdf)
     
-3.  [Commit Learning SchoolHouse CLS Student Care Centre SCC Application Form For Existing Students Tampines Primary School.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/scc/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%20Application%20Form%20For%20Existing%20Students%20Tampines%20Primary%20School.pdf)  
+3.  [Commit Learning SchoolHouse CLS Student Care Centre SCC Application Form For Existing Students Tampines Primary School.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/scc/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%20Application%20Form%20For%20Existing%20Students%20Tampines%20Primary%20School.pdf](/files/SCC%20Application%20Form%20For%20Existing%20Students%20Tampines%20Primary%20School.pdf)
     
 
   
