@@ -35,36 +35,36 @@ For more information on MOE Kindergarten, you may wish to visit 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-temk{background-color:#dbddfd;border-color:#dbddfd;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-w1er{background-color:#dbddfd;border-color:#dbddfd;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-hmb0{background-color:#dae8fc;border-color:#dae8fc;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7tqb{background-color:#dae8fc;border-color:#dae8fc;font-size:14px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 264px">
+<table class="tg" style="undefined;table-layout: fixed; width: 321px">
 <colgroup>
-<col style="width: 264px">
+<col style="width: 321px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-temk">MOE Kindergarten @ Tampines Primary</th>
+    <th class="tg-hmb0">MOE Kindergarten @ Tampines Primary</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-w1er"></td>
+    <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-w1er"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
   </tr>
   <tr>
-    <td class="tg-w1er"></td>
+    <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-w1er"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
   </tr>
   <tr>
-    <td class="tg-w1er"></td>
+    <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-w1er"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
