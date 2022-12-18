@@ -19,7 +19,7 @@ Announcements
     
 5.  [May Memo to Parents](/quick-links/Announcements/May-Memo-to-Parents/)
     
-6.  [June Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/june-memo-to-parents)  
+6.  [June Memo to Parents](/quick-links/Announcements/June-Memo-to-Parents/)
     
 7.  [August Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/august-memo-to-parents-1)  
     
