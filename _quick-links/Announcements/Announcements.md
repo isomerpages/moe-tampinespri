@@ -33,7 +33,7 @@ Announcements
     
 12.  [Notification for Change of Student Care Centre (SCC) Operator (FAQs)](/quick-links/Announcements/Notification-for-Change-of-Student-Care-Centre-SCC-Operator-FAQs/)  
     
-13.  [In-conversation with Stakeholders 2022](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/in-conversation-with-stakeholders-2022)  
+13.  [In-conversation with Stakeholders 2022](/quick-links/Announcements/In-conversation-with-Stakeholders-2022/)
     
 14.  [Tampines Primary P1 (2023) Orientation Day](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/tampines-primary-p1-2023-orientation-day)  
     
