@@ -32,5 +32,6 @@ Co-Curricular Activities
 
 ### **Uniformed Groups**
 
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/brownies.jpg"></a></p>
 
 ### **Visual and Performing Arts**
