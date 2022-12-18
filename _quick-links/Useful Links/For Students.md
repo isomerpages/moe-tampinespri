@@ -16,4 +16,4 @@ For Students
 
 <p><a href="https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/user%20guide.mp4"><img style="width:45%" src="/images/user.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:45%" src="/images/2022_appreciate_teachers.jpg"></a></p>
+<p><a href="/quick-links/Announcements/2022-Appreciation-to-all-Teachers/"><img style="width:45%" src="/images/2022_appreciate_teachers.jpg"></a></p>
