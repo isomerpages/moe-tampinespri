@@ -28,3 +28,40 @@ MK@TPPS also provides Kindergarten Care (KCare) service for students enrolled in
 For more information on MOE Kindergarten, you may wish to visit 
 [https://www.moe.gov.sg/preschool/moe-kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bh20{background-color:#cbcefb;border-color:#ffffff;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-34vt{background-color:#cbcefb;border-color:#ffffff;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-34vt">MOE Kindergarten @ Tampines Primary</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bh20"></td>
+  </tr>
+  <tr>
+    <td class="tg-bh20"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bh20"></td>
+  </tr>
+  <tr>
+    <td class="tg-bh20"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bh20"></td>
+  </tr>
+  <tr>
+    <td class="tg-bh20"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
