@@ -35,3 +35,7 @@ On 25 Jan 2021, SAC members from TPPS SAC committee 2019 – 2020 were awarded w
 
 *   Dr Thomas Chong – Award Category : 20 Years and Above
 ![](/images/SAC.png)
+
+*   Mr Salauddin S S  - Award Category :  10 – 19 Years.
+![](/images/SAC1.png)
+We congratulate and thank them for all their past contributions to the school and their service to education in Singapore.
