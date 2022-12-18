@@ -21,3 +21,5 @@ Music department aims to provide a holistic education to all students in nurturi
 *   Opportunities are given for all students to showcase their Musical skills that they’ve learnt in Music lessons.
 *   Students are also exposed to “Feed your Imagination Series” at the Esplanade.
 *   Music Exposure programmes are also allows students to learn about music from other genres and cultures.
+
+Note: Pictures in gif exceed 5mb.
