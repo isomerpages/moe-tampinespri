@@ -13,7 +13,7 @@ Announcements
 1.  [Student TraceTogether Tokens (TTT)](/quick-links/Announcements/Student-TraceTogether-Tokens-TTT/)
 2.  [January Memo to Parents](/quick-links/Announcements/January-Memo-to-Parents/)
     
-3.  [March Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/march-memo-to-parents)  
+3.  [March Memo to Parents](/quick-links/Announcements/March-Memo-to-Parents/)
     
 4.  [April Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/april-memo-to-parents)  
     
