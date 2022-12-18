@@ -48,6 +48,6 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Malay-Dance/"><img style="width:60%" src="/images/malay_dance1.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/xxx.png"></a></p>
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/Modern_Dance.jpg"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/xxx.png"></a></p>
