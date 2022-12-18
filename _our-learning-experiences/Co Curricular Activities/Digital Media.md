@@ -58,7 +58,7 @@ Imagine, Create, Innovate
 
 ##### **Photography during CCA**
 
-
+<img src="/images/DM.gif" style="width:80%">
 
 ##### **Coding during CCA**
 
