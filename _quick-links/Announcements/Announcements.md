@@ -29,7 +29,7 @@ Announcements
     
 10.  [Application for 2023 MOE Financial Assistance Scheme](/quick-links/Announcements/Application-for-2023-MOE-Financial-Assistance-Scheme/)
     
-11.  [Notification for Change of Student Care Centre (SCC) Operator in Tampines Primary School](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/notification-for-change-of-student-care-centre-scc-operator-in-tampines-primary-school)  
+11.  [Notification for Change of Student Care Centre (SCC) Operator in Tampines Primary School](/quick-links/Announcements/Notification-for-Change-of-SCC-Operator-in-Tampines-Primary-School/) 
     
 12.  [Notification for Change of Student Care Centre (SCC) Operator (FAQs)](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/notification-for-change-of-student-care-centre-scc-operator-faqs)  
     
