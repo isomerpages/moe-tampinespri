@@ -8,3 +8,5 @@ third_nav_title: Useful Links
 
 Useful Links
 ============
+
+[For Teachers](/quick-links/Useful-Links/For-Teachers/)
