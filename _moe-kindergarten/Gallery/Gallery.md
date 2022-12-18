@@ -23,7 +23,7 @@ Gallery
 
 #### **Term 2**
 
-*   [Earth Day Celebration](https://tampinespri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/gallery/earth-day-celebration)  
+*   [Earth Day Celebration](/moe-kindergarten/Gallery/Earth-Day-Celebration/)
     
 *   [Hari Raya Celebration](https://tampinespri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/gallery/hari-raya-celebration)  
     
