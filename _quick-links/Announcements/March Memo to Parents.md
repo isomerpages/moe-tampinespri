@@ -44,13 +44,10 @@ Thank you.
 
 <u><b>Web Link</b></u>
 
+
 Experiences of the vaccination exercise
 
 [https://youtu.be/ZzdjXPV\_xWM](https://youtu.be/ZzdjXPV_xWM)
 
-  
-
 COVID-19 Updates  
 [https://www.covid.gov.sg/](https://www.covid.gov.sg/)
-
-
