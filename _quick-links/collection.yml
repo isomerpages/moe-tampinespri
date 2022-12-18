@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Useful Links/.keep
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Student TraceTogether Tokens (TTT).md
@@ -24,3 +23,4 @@ collections:
       - Announcements/November Memo to Parents.md
       - Announcements/2022 Appreciation to all Teachers.md
       - School Calendar.md
+      - Useful Links/.keep
