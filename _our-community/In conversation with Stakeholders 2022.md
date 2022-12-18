@@ -13,4 +13,4 @@ Dear ICS 2022 attendees, 
 Please scan the QR code below to access the ICS 2022 microsite.
 
 
-<img src="/images/QR.png" style="width:80%">
+<img src="/images/QR.png" style="width:70%">
