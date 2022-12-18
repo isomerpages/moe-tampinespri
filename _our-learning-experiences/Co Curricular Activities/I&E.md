@@ -97,3 +97,6 @@ The students are given the opportunity to be change makers and problem solvers t
 ### **Sale events for School Pocket Money Fund**
 
 Students handmade ‘Friendship bands’ with rubber looms, folded ‘Towel bears’ and packed stationaries...
+
+
+<figure><img src="/images/IandE.png" style="width:75%"><figcaption> <b>Wares for sale</b></figcaption></figure>
