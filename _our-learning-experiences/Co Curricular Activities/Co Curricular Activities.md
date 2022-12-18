@@ -46,8 +46,8 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Indian-Dance/"><img style="width:60%" src="/images/Indian_Dance.jpeg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/malay_dance1.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/xxx.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/xxx.png"></a></p>
