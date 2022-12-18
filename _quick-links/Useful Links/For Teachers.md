@@ -19,3 +19,11 @@ For Teachers
 Note: HR online link broken.
 
 <p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width:35%" src="/images/MIMS.png"></a></p>
+
+<p><a href="https://rbs.avero-tech.com"><img style="width:35%" src="/images/RBS.jpeg"></a></p>
+
+<p><a href="https://schoolcockpit.moe.gov.sg"><img style="width:35%" src="/images/SCP.png"></a></p>
+
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx"><img style="width:35%" src="/images/Intranet.png"></a></p>
+
+Note: MOE Intranet link broken.
