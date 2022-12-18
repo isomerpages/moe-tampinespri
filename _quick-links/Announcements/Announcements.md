@@ -38,4 +38,4 @@ Announcements
 14.  [Tampines Primary P1 (2023) Orientation Day](/quick-links/Announcements/Tampines-Primary-P1-2023-Orientation-Day/) 
     
 15.  [November Memo to Parents](/quick-links/Announcements/November-Memo-to-Parents/)
-16.  [2022 Appreciation to all teachers](https://tampinespri.moe.edu.sg/quick-links/announcements/2022-appreciation-to-all-teachers)
+16.  [2022 Appreciation to all teachers](/quick-links/Announcements/2022-Appreciation-to-all-Teachers/)
