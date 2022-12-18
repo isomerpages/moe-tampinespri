@@ -32,4 +32,6 @@ Note: MOE Intranet link broken.
 
 <p><a href="https://www.hrp.gov.sg/hrp/#/"><img style="width:35%" src="/images/HRP.png"></a></p>
 
+<p><a href="https://scmobile.moe.edu.sg/login"><img style="width:35%" src="/images/scmobile.png"></a></p>
+
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
