@@ -21,7 +21,7 @@ Please see September Memo to Parents for more details.
 
   
 
-[Click here to download the Memo for September](https://tampinespri.moe.edu.sg/for-parents/letters-to-parents-2022)  
+[Click here to download the Memo for September](/for-parents/Letters-to-Parents-2022/)
 
   
 
