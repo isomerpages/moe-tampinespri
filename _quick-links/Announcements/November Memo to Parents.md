@@ -22,7 +22,7 @@ Please see the November Memo for more details.
 
   
 
-[Click here to download the Memo for November](https://tampinespri.moe.edu.sg/for-parents/letters-to-parents-2022)
+[Click here to download the Memo for November](/for-parents/Letters-to-Parents-2022/)
 
   
 
