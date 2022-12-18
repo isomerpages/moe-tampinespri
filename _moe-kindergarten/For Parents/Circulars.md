@@ -15,4 +15,4 @@ Circulars
 
 ### **January 2022**
 
-*   [2022\_MK\_Virtual\_Open\_House\_-\_Letter\_to\_Parents.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/images/MK/2022_open_house/2022_MK_Virtual_Open_House_-_Letter_to_Parents.pdf)
+*   [2022_MK_Virtual_Open_House_-_Letter_to_Parents.pdf](/files/2022_MK_Virtual_Open_House_-_Letter_to_Parents.pdf)
