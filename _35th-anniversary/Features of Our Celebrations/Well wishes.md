@@ -8,3 +8,6 @@ third_nav_title: Features of Our Celebrations
 
 Well wishes
 ===========
+
+
+![](/images/Well%20wishes.gif)
