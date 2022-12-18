@@ -12,3 +12,5 @@ Useful Links
 [For Teachers](/quick-links/Useful-Links/For-Teachers/)
 
 [For Students](/quick-links/Useful-Links/For-Students/)
+
+[For Parents](/quick-links/Useful-Links/For-Parents/)
