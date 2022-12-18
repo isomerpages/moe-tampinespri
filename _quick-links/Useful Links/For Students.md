@@ -10,4 +10,4 @@ third_nav_title: Useful Links
 For Students
 ============
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
+<p><a href="https://vle.learning.moe.edu.sg/login"><img style="width:45%" src="/images/sls.png"></a></p>
