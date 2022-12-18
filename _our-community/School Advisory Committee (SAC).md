@@ -23,3 +23,14 @@ SAC members show their support for the school by gracing the event or by contrib
 
 
 ### **About the Committee Members**
+
+
+
+
+### **Achievements**
+
+On 25 Jan 2021, SAC members from TPPS SAC committee 2019 – 2020 were awarded with Service to Education Awards.
+
+  
+
+*   Dr Thomas Chong – Award Category : 20 Years and Above
