@@ -17,3 +17,5 @@ Special Memories
 
 
 ### **Our Staff**
+
+![](/images/Our%20Staff.gif)
