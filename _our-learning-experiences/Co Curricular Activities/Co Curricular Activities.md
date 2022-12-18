@@ -37,3 +37,5 @@ Co-Curricular Activities
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Scouts/"><img style="width:60%" src="/images/scouts.jpg"></a></p>
 
 ### **Visual and Performing Arts**
+
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/art_club.jpg"></a></p>
