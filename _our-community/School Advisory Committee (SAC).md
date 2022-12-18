@@ -24,9 +24,9 @@ SAC members show their support for the school by gracing the event or by contrib
 
 ### **About the Committee Members**
 
-<img src="/images/MRGunal.jpeg" style="width:183px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/MRGunal.jpeg" style="width:200px;height:240px;margin-right:10px;" align = "left">
 
-**Mr Gunal Kanna**
+<b>Mr Gunal Kanna</b>
 
 Mastering in Computer Engineering from Australia, Gunal is a technologist at heart who works in the IT Industry, focusing on Enterprise Solutions. He is a Father of 2 kids, both of whom did their schooling in TPPS. Gunal has been a key part of the school's DadsForLife program since 2015, bringing in a lot of new ideas and activities that brought the Dads and kids together. He is well traveled and carries a lot of experience working with people of various cultures and backgrounds. He also believes in holistic development of our children and looks to contribute to the school and community as much as possible.
 
