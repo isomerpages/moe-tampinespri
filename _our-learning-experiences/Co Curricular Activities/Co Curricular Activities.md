@@ -50,4 +50,4 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Modern-Dance/"><img style="width:60%" src="/images/Modern_Dance.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/theatrics_in_action.jpg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Theatrics-in-Action/"><img style="width:60%" src="/images/theatrics_in_action.jpg"></a></p>
