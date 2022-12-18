@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Gallery/Community Outreach Programme with All Saints Home.md
       - Gallery/Earth Day Celebration.md
       - Gallery/Hari Raya Celebration.md
       - Gallery/Parents’ Day Celebration.md
