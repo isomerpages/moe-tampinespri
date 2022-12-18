@@ -103,8 +103,7 @@ Maker Space sessions are conducted termly during lunch breaks.
 
 Sessions will be conducted surrounding various themes. This will engage students in building upon their knowledge learnt, reinforcing concepts, and helping them see how they can apply such knowledge to create hands-on objects. Through these sessions, we aim for students to learn to observe phenomena and question processes, enabling them to further their critical thinking skills by asking what, why, and how.
 
-
-
+<img src="/images/Maker%20Space.gif" style="width:80%">
 
 
 ### **Cyber Wellness**
