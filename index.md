@@ -16,7 +16,7 @@ sections:
           url: /quick-links/Announcements/Announcements/
         - title: Calendar
           description: ""
-          url: https://gmail.com
+          url: /quick-links/School-Calendar/
         - title: "Quick Links "
           description: ""
           url: /privacy/
