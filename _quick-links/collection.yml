@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/June Memo to Parents.md
       - Announcements/August Memo to Parents.md
       - Announcements/Teacher’s Day Appreciation Wall 2022.md
       - Announcements/September Memo to Parents.md
