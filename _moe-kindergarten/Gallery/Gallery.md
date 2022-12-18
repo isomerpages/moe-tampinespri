@@ -27,4 +27,4 @@ Gallery
     
 *   [Hari Raya Celebration](/moe-kindergarten/Gallery/Hari-Raya-Celebration/)
     
-*   [Parents’ Day Celebration](https://tampinespri-moe-edu-sg-admin.cwp.sg/moe-kindergarten/gallery/parents-day-celebration)
+*   [Parents’ Day Celebration](/moe-kindergarten/Gallery/Parents-Day-Celebration/)
