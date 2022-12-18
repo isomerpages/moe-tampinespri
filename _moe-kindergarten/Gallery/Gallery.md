@@ -13,7 +13,7 @@ Gallery
 
 #### **Term 1**
 
-*   [Chinese New Year Celebration 2022](https://tampinespri.moe.edu.sg/moe-kindergarten/gallery/chinese-new-year-celebration-2022)  
+*   [Chinese New Year Celebration 2022](/moe-kindergarten/Gallery/Chinese-New-Year-Celebration-2022/)
     
 *   [Community Outreach Programme with All Saints Home](https://tampinespri.moe.edu.sg/moe-kindergarten/gallery/community-outreach-programme-with-all-saints-home)  
     
