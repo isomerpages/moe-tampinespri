@@ -71,4 +71,4 @@ Tampines Primary School
 
 <b>Web Link:</b>
 
-[Click here for more information](https://tampinespri.moe.edu.sg/for-parents/p1-2023-orientation-day)
+[Click here for more information](/for-parents/P1-2023-Orientation-Day/)
