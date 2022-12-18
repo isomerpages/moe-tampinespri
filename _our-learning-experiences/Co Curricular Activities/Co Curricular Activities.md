@@ -25,7 +25,9 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Floorball/"><img style="width:60%" src="/images/floorball.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/football.jpg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Football/"><img style="width:60%" src="/images/football.jpg"></a></p>
+
+
 
 ### **Uniformed Groups**
 
