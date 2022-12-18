@@ -24,7 +24,7 @@ SAC members show their support for the school by gracing the event or by contrib
 
 ### **About the Committee Members**
 
-<img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/MRGunal.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 **Mr Gunal Kanna**
 
