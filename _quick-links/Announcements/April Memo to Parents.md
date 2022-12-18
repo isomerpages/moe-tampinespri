@@ -25,7 +25,7 @@ Please see April Memo on upcoming Fire Incident Drill and P6 Booster Camp.
 
   
 
-[Click here to download the Memo for April](https://tampinespri.moe.edu.sg/for-parents/letters-to-parents-2022)
+[Click here to download the Memo for April](/for-parents/Letters-to-Parents-2022/)
 
   
 
