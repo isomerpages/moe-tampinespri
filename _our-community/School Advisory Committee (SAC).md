@@ -34,3 +34,4 @@ On 25 Jan 2021, SAC members from TPPS SAC committee 2019 – 2020 were awarded w
   
 
 *   Dr Thomas Chong – Award Category : 20 Years and Above
+![](/images/SAC.png)
