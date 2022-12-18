@@ -31,4 +31,4 @@ Thank you.
 
 <b>Attachments:</b>
 
-[
+[Commit Learning SchoolHouse CLS Student Care Centre SCC 2023 FAQs Tampines Primary School.pdf](/files/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%202023%20FAQs%20Tampines%20Primary%20School.pdf)
