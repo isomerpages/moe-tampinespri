@@ -31,7 +31,7 @@ Announcements
     
 11.  [Notification for Change of Student Care Centre (SCC) Operator in Tampines Primary School](/quick-links/Announcements/Notification-for-Change-of-SCC-Operator-in-Tampines-Primary-School/) 
     
-12.  [Notification for Change of Student Care Centre (SCC) Operator (FAQs)](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/notification-for-change-of-student-care-centre-scc-operator-faqs)  
+12.  [Notification for Change of Student Care Centre (SCC) Operator (FAQs)](/quick-links/Announcements/Notification-for-Change-of-Student-Care-Centre-SCC-Operator-FAQs/)  
     
 13.  [In-conversation with Stakeholders 2022](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/in-conversation-with-stakeholders-2022)  
     
