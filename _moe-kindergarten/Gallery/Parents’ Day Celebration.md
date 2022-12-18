@@ -4,6 +4,8 @@ permalink: /moe-kindergarten/Gallery/Parents-Day-Celebration/
 description: ""
 third_nav_title: Gallery
 ---
+![](/images/mk%20kindergarten.jpg)
+
 Parents’ Day Celebration
 ========================
 
