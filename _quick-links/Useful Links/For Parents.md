@@ -29,4 +29,4 @@ Click on the links below to find out more.
   
 <b>Product Factsheet:</b> [Product Fact Sheet Year 2022 Sep 2022.pdf](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
 
-<b>User Guide:</b> [Student GPA User Guide - Parent.pdf (amazonaws.com)](https://s3.ap-southeast-1.amazonaws.com/mhc.static/Income/Student+GPA+User+Guide+-+Parent.pdf)
+<b>User Guide:</b> [Student GPA User Guide - Parent.pdf (amazonaws.com)](/files/StudentGPAUserGuide-Parent.pdf)
