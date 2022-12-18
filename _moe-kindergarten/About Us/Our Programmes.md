@@ -108,3 +108,5 @@ From 2022: K1, K2, KCare
   </tr>
 </tbody>
 </table>
+
+<i>KCare operates from 7 a.m. to 7 p.m. on Mondays to Fridays, including school holidays.</i>
