@@ -12,7 +12,7 @@ Co-Curricular Activities
 
 ### **Clubs and Societies**
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/digital_media_club.jpg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Digital-Media/"><img style="width:60%" src="/images/digital_media_club.jpg"></a></p>
 
 
 
