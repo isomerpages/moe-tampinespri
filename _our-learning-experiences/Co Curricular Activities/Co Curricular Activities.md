@@ -21,7 +21,7 @@ Co-Curricular Activities
 
 ### **Physical Sports**
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/Basketball.jpeg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Basketball/"><img style="width:60%" src="/images/Basketball.jpeg"></a></p>
 
 
 ### **Uniformed Groups**
