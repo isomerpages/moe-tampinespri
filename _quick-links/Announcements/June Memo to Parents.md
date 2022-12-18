@@ -25,7 +25,7 @@ Please see June Memo for details.
 
   
 
-[Click here to download the Memo for June](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/letters-to-parents-2022)  
+[Click here to download the Memo for June](/for-parents/Letters-to-Parents-2022/)
 
   
 
