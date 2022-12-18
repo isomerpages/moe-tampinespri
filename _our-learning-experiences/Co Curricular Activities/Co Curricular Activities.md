@@ -34,6 +34,6 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Brownies/"><img style="width:60%" src="/images/brownies.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/scouts.jpg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Scouts/"><img style="width:60%" src="/images/scouts.jpg"></a></p>
 
 ### **Visual and Performing Arts**
