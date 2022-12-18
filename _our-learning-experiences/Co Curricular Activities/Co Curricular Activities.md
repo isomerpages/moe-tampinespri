@@ -27,6 +27,7 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Football/"><img style="width:60%" src="/images/football.jpg"></a></p>
 
+[Sports Club](/our-learning-experiences/Co-Curricular-Activities/Sports-Club/)
 
 
 ### **Uniformed Groups**
