@@ -40,7 +40,7 @@ Co-Curricular Activities
 
 <p><a href="/our-learning-experiences/Co-Curricular-Activities/Art-Club/"><img style="width:60%" src="/images/art_club.jpg"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:60%" src="/images/choir.jpeg"></a></p>
+<p><a href="/our-learning-experiences/Co-Curricular-Activities/Choir/"><img style="width:60%" src="/images/choir.jpeg"></a></p>
 
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
 
