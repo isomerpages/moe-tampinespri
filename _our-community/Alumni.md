@@ -16,4 +16,4 @@ Alumni@TPPS was officially launched in 2007. The alumni was formed to foster clo
 
   
 
-_\* Please take note that Tampines Primary alumni is not registered under Alumni association. The Alumni information here is for us to reach out to our former student. Hence, it is not applicable for applicants who intends to apply for P1 registration, under Phase 2A1, for their children._
+<i>\* Please take note that Tampines Primary alumni is not registered under Alumni association. The Alumni information here is for us to reach out to our former student. Hence, it is not applicable for applicants who intends to apply for P1 registration, under Phase 2A1, for their children.</i>
