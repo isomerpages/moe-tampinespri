@@ -4,3 +4,4 @@ permalink: /moe-kindergarten/Gallery/Community-Outreach-Programme-with-All-Saint
 description: ""
 third_nav_title: Gallery
 ---
+![](/images/mk%20kindergarten.jpg)
