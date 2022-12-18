@@ -100,3 +100,5 @@ Floorball
 ### **Achievements / Prize Presentation**
 
 ![](/images/Floorball2.png)
+
+Floorball is a sport that is growing fast and rapid in this generation. Students will be able to work on their quick thinking and reaction. This sport is a fast pace sport that will help students to react and act upon faster in a game situation. Students will be learning on coordination,quick thinking, play and awareness. On the physical side, they will be learning how to dribble, shoot, control the ball, defence and attack. Floorball is a team sport that promotes unity and cohesiveness and involves every single individual. In floorball, we play, support and back each other up. We win together and we learn from each other. The values inculcated in floorball also ties in perfectly with the school values of resilience, excellence, adaptability and passion. Once a floorballer, always a floorballer!
