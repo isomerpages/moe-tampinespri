@@ -26,6 +26,10 @@ SAC members show their support for the school by gracing the event or by contrib
 
 <img src="/images/xxx.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
+**Mr Gunal Kanna**
+
+Mastering in Computer Engineering from Australia, Gunal is a technologist at heart who works in the IT Industry, focusing on Enterprise Solutions. He is a Father of 2 kids, both of whom did their schooling in TPPS. Gunal has been a key part of the school's DadsForLife program since 2015, bringing in a lot of new ideas and activities that brought the Dads and kids together. He is well traveled and carries a lot of experience working with people of various cultures and backgrounds. He also believes in holistic development of our children and looks to contribute to the school and community as much as possible.
+
 
 ### **Achievements**
 
