@@ -98,3 +98,5 @@ Floorball
 ![](/images/Floorball.png)
 
 ### **Achievements / Prize Presentation**
+
+![](/images/Floorball2.png)
