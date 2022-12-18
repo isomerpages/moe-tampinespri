@@ -39,7 +39,7 @@ To support our current students attending the SCC with the transition, please fi
 
   
 
-1.  [Kidz Treehouse Tampines Primary Letter of Closure.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/scc/Kidz%20Treehouse%20%20Tampines%20Primary%20Letter%20of%20Closure.pdf)  
+1.  [Kidz Treehouse Tampines Primary Letter of Closure.pdf](/files/Kidz%20Treehouse%20%20Tampines%20Primary%20Letter%20of%20Closure.pdf)
     
 2.  [Commit Learning SchoolHouse CLS Student Care Centre SCC Introduction Letter Tampines Primary School.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/scc/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%20Introduction%20Letter%20Tampines%20Primary%20School.pdf)  
     
