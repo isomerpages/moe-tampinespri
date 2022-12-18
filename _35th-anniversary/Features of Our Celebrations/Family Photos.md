@@ -8,3 +8,6 @@ third_nav_title: Features of Our Celebrations
 
 Family Photos
 =============
+
+
+<img src="/images/Family.gif" style="width:80%">
