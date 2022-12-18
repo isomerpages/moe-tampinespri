@@ -134,7 +134,49 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 	
 ### **Primary 6**
 	
-	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kf4z{color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-21zi{color:#121212;text-align:center;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 823px">
+<colgroup>
+<col style="width: 141px">
+<col style="width: 201px">
+<col style="width: 481px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-kf4z">UNIT</th>
+    <th class="tg-kf4z">LESSONS / DURATION</th>
+    <th class="tg-kf4z">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-21zi" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:normal;color:#121212">Gosh! I Am Changing</span></td>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">What Is Happening To Me?</span><br><span style="font-weight:normal;color:#121212">(30 min)</span></td>
+    <td class="tg-kk00"><br>• know what puberty is<br>• identify the physical changes during puberty<br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">What Can I Do? (Part 1)</span><br><span style="font-weight:normal;color:#121212">(30 min)</span></td>
+    <td class="tg-kk00"><br>• identify the stresses caused by physical and emotional changes during puberty<br>• describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>• describe the emotions caused by physical changes during puberty<br>• recognise that one’s identity does not change even when one's body is experiencing change due to puberty<br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">What Can I Do? (Part 2)</span><br><span style="font-weight:normal;color:#121212">(30 min)</span></td>
+    <td class="tg-kk00"><br>• identify the stresses caused by physical and emotional changes during puberty<br>• describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>• describe the emotions caused by physical changes during puberty<br>• recognise that one’s identity does not change even when one's body is experiencing change due to puberty<br></td>
+  </tr>
+  <tr>
+    <td class="tg-21zi"><span style="font-weight:normal;color:#121212">Main Task</span><br><span style="font-weight:normal;color:#121212">(30 min)</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Description of the Main Task:</span><br><br><span style="font-weight:normal;color:#121212">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span></td>
+  </tr>
+</tbody>
+</table>	
 	
 	
 	
