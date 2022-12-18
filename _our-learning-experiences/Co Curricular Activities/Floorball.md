@@ -95,5 +95,6 @@ Floorball
 
 ### **Friendly / Training Match**
 
+![](/images/Floorball.png)
 
 ### **Achievements / Prize Presentation**
