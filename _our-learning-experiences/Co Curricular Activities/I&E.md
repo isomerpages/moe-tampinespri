@@ -13,6 +13,70 @@ I&E
 
 ### **Overview**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Day &amp; Time</th>
+    <th class="tg-clkh">Venue</th>
+    <th class="tg-clkh">Teachers-in-Charge</th>
+    <th class="tg-clkh">Levels involved</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">Friday<br>8.30 to 10am<br><br>Monday ( Only if needed)<br>2.30 - 4.30pm</td>
+    <td class="tg-kk00">EL Resource Rm #04-09</td>
+    <td class="tg-kk00">Mrs Melissa Yow <br><span style="color:black">Mrs Janice Wang </span><br>Mdm Farhanah Binte Abdullah</td>
+    <td class="tg-kk00">P3 to P6</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-clkh">Year</th>
+    <th class="tg-clkh">Competition</th>
+    <th class="tg-clkh">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">2019</td>
+    <td class="tg-kk00">Design for Change</td>
+    <td class="tg-kk00">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2018</td>
+    <td class="tg-kk00">Design for Change</td>
+    <td class="tg-kk00">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">2017</td>
+    <td class="tg-kk00">Design for Change</td>
+    <td class="tg-kk00">Participation</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 
