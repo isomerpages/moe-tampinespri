@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/January Memo to Parents.md
       - Announcements/March Memo to Parents.md
       - Announcements/April Memo to Parents.md
       - Announcements/May Memo to Parents.md
