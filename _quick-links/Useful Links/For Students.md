@@ -20,4 +20,6 @@ For Students
 
 <p><a href="https://plus.moo-o.com"><img style="width:45%" src="/images/moo-o_web_logo.png"></a></p>
 
-<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
+<p><a href="https://classroom.google.com/u/0/h"><img style="width:45%" src="/images/GC.jpg"></a></p>
+
+<p><a href="https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login"><img style="width:45%" src="/images/koobitsmikomin.png"></a></p>
