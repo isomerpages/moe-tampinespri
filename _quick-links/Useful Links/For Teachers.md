@@ -28,4 +28,6 @@ Note: HR online link broken.
 
 Note: MOE Intranet link broken.
 
+<p><a href="https://iexams.seab.gov.sg"><img style="width:35%" src="/images/IEXAMS.png"></a></p>
+
 <p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
