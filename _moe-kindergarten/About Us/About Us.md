@@ -35,33 +35,36 @@ For more information on MOE Kindergarten, you may wish to visit 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v4mk{background-color:#cbcefb;border-color:#cbcefb;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-uber{background-color:#cbcefb;border-color:#cbcefb;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-temk{background-color:#dbddfd;border-color:#dbddfd;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-w1er{background-color:#dbddfd;border-color:#dbddfd;font-size:14px;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 264px">
+<colgroup>
+<col style="width: 264px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-v4mk">MOE Kindergarten @ Tampines Primary</th>
+    <th class="tg-temk">MOE Kindergarten @ Tampines Primary</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uber"></td>
+    <td class="tg-w1er"></td>
   </tr>
   <tr>
-    <td class="tg-uber"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
+    <td class="tg-w1er"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
   </tr>
   <tr>
-    <td class="tg-uber"></td>
+    <td class="tg-w1er"></td>
   </tr>
   <tr>
-    <td class="tg-uber"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
+    <td class="tg-w1er"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
   </tr>
   <tr>
-    <td class="tg-uber"></td>
+    <td class="tg-w1er"></td>
   </tr>
   <tr>
-    <td class="tg-uber"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
+    <td class="tg-w1er"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
