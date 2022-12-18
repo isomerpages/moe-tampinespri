@@ -25,7 +25,7 @@ Announcements
     
 8.  [Teacher’s Day Appreciation Wall 2022](/quick-links/Announcements/Teachers-Day-Appreciation-Wall-2022/)  
     
-9.  [September Memo to Parents](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/september-memo-to-parents)  
+9.  [September Memo to Parents](/quick-links/Announcements/September-Memo-to-Parents/)
     
 10.  [Application for 2023 MOE Financial Assistance Scheme](https://tampinespri-moe-edu-sg-admin.cwp.sg/quick-links/announcements/application-for-2023-moe-financial-assistance-scheme)  
     
