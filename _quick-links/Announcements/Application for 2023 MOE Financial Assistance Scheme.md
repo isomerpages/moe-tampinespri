@@ -24,7 +24,7 @@ The MOE Financial Assistance Scheme (FAS) for academic year 2023 is now open for
 
   
 
-[Kindly refer to the Information for Parents for MOE FAS application.](https://tampinespri.moe.edu.sg/for-parents/financial-assistance-scheme-fas)
+[Kindly refer to the Information for Parents for MOE FAS application.](/for-parents/Financial-Assistance-Scheme/Financial-Assistance-Scheme-FAS/)
 
   
 
