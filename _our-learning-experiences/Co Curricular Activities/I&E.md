@@ -85,3 +85,15 @@ I&E club allows the students to develop the much required 21st Century skills, s
   
 
 The students are given the opportunity to be change makers and problem solvers through the FIDS framework (adapted from Design for change - DFC). The 4 step FIDS (Feel, Imagine, Do and Share) process leads students to understand situations empathetically, think about possible solutions and put them into action. With this as an anchor, the students work towards participating in the annual DFC Singapore Challenge. Design for Change Singapore Challenge is one of Singapore’s largest Inter-School Challenges recognising young change makers and their meaningful work. Schools will submit their projects which are evaluated by an expert panel of judges to determine the winners. With this, students look forward to being part of the annual ‘Be the Change’ Celebration where they will celebrate and share the inspiring work of one another. At this platform, not only do they share what they have done, but also learn from the students of other schools on the projects that they have embarked on. It is a truly unique learning experience for them.
+
+
+### **The students will work in teams to work on a cause for ‘Design For Change’**
+
+<img src="/images/I&E.png" style="width:80%">
+
+
+### **Proper disposal and Recycling of plastic bottles**
+
+### **Sale events for School Pocket Money Fund**
+
+Students handmade ‘Friendship bands’ with rubber looms, folded ‘Towel bears’ and packed stationaries...
