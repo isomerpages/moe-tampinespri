@@ -9,7 +9,7 @@ School Crest
 ============
 
 
-<img src="/images/School%20Crest.png" style="width:80%">
+<img src="/images/School%20Crest.png" style="width:50%">
 
 The stylised typeface T and P stands for Tampines Primary School. It also signifies a child graduating from our school with an education towards the future incorporating IT.
 
