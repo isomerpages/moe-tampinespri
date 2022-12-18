@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - For Parents/For Parents.md
       - For Parents/Useful Information.md
       - For Parents/Circulars.md
       - For Parents/.keep
