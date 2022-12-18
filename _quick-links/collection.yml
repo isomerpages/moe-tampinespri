@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/November Memo to Parents.md
       - Announcements/2022 Appreciation to all Teachers.md
       - Announcements/.keep
