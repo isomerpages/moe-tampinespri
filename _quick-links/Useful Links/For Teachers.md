@@ -27,3 +27,5 @@ Note: HR online link broken.
 <p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx"><img style="width:35%" src="/images/Intranet.png"></a></p>
 
 Note: MOE Intranet link broken.
+
+<p><a href="[http://google.com/linkhere](http://google.com/linkhere)"><img style="width:25%" src="/images/xxx.png"></a></p>
