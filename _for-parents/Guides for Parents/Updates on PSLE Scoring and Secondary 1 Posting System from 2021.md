@@ -40,3 +40,5 @@ Registration for Webinar
   
 
 <b>Attachments:</b>
+
+[20201109_Updates_on_PSLE_Scoring_and_Secondary_1_Posting_System_from_2021.pdf](/files/UpdatesonPSLEScoring_and_Secondary_1PostingSystemfrom2021.pdf)
