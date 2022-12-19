@@ -96,3 +96,7 @@ To develop in students and staff
   </tr>
 </thead>
 </table>
+
+
+
+<img src="/images/Capture3.png" style="width:80%">
