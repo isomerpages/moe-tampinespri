@@ -50,7 +50,7 @@ To develop in students and staff
 </tbody>
 </table>
 
-<img src="/images/Capture1.png" style="width:70%">
+<img src="/images/Capture1.png" style="width:60%">
 
 
 <style type="text/css">
