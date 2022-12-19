@@ -34,14 +34,3 @@ In developing the Hallmark of a Tampinesian, the school has developed explicit C
 
 [Educational & Career Guidance](/curriculum/CCE/Educational-and-Career-Guidance/)
 
-
-
-
-| <b>CCE components</b> | 
-| -------- | 
-| [Social Studies](/curriculum/CCE/Social-Studies/)
-[National Education](/curriculum/CCE/National-Education/)
-[CCE Awards & Recognition](/curriculum/CCE/CCE-Awards-and-Recognition/)
-[Values in Action](/curriculum/CCE/Values-in-Action/)
-[Educational & Career Guidance](/curriculum/CCE/Educational-and-Career-Guidance/)    | 
-
