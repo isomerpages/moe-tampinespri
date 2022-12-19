@@ -93,3 +93,19 @@ To develop in students and staff
 </table>
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:bold">Primary 3</span><br><span style="font-style:italic">Appreciation of Frontline Workers SBS Transit Bus Captains</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Every year, in conjunction with SBS Transit Kindness Month, our P3 students pen down their gratitude to Bus Captains, accompanied by wonderful illustrations. These are then presented to SBS Transit to be given to the bus captains. As a school, we would want them to know that as they perform their duty, we greatly appreciate them and we know of the challenges that they have to go through.</span></td>
+  </tr>
+</thead>
+</table>
