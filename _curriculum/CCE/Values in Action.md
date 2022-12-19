@@ -130,7 +130,9 @@ To develop in students and staff
 <tbody>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 4</span><br><br><br><span style="font-style:italic">Eco-Stewardship Programme -Young-Agri Scientist (YAS) Programme</span><br><br></td>
-    <td class="tg-kk00"><br>Annually, Eco-Champs &amp; VIA Agents from each P4 class are chosen to be trained as YAS guides of the sustainability project at Tampines Park. They will then take their classes through a guided tour of how the sustainability project is carried out, starting with the waste food being collected from the community to the vertical farm where vegetables are grown using hydroponics. In this project, residents can use the green currency they get from giving away their food waste in exchange for the Tilapia fish reared and harvested under the project. Students learn how global warming is impacting the earth and how they can help by adopting a sustainable lifestyle. </td>
+    <td class="tg-kk00"><br>Annually, Eco-Champs &amp; VIA Agents from each P4 class are chosen to be trained as YAS guides of the sustainability project at Tampines Park. They will then take their classes through a guided tour of how the sustainability project is carried out, starting with the waste food being collected from the community to the vertical farm where vegetables are grown using hydroponics. In this project, residents can use the green currency they get from giving away their food waste in exchange for the Tilapia fish reared and harvested under the project. Students learn how global warming is impacting the earth and how they can help by adopting a sustainable lifestyle. <img src="/images/Capture5.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
+
+
