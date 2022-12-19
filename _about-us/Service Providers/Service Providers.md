@@ -145,4 +145,12 @@ Service Providers
 
 ### **School Student Care Centre**
 
-<b>Company</b>
+<b>Company:</b> 
+
+Kowabunga (Kidz Treehouse)  
+<i>\- until Dec 2022</i>
+
+Commit Learning SchoolHouse (CLS)  
+<i>\- from Jan 2023</i>
+
+<b>Website:</b> 
