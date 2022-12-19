@@ -51,3 +51,27 @@ To develop in students and staff
 </table>
 
 <img src="/images/Capture1.png" style="width:70%">
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xld2{border-color:inherit;color:#121212;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xld2" colspan="2">Developing Communities – Appreciating the work of the people in the community (Primary 1 to Primary 3)<br>Responsibility towards self, peers, environment &amp; the community<br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:bold">Primary 1</span><br><span style="font-style:italic">Appreciation of Frontline Workers School Cleaning Staff</span><br> <br> </td>
+    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better.</td>
+  </tr>
+</tbody>
+</table>
