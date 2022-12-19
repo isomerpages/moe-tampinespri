@@ -144,3 +144,5 @@ Service Providers
 
 
 ### **School Student Care Centre**
+
+<b>Company</b>
