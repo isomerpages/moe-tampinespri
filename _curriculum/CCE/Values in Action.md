@@ -78,3 +78,21 @@ To develop in students and staff
 
 
 <img src="/images/Capture2.png" style="width:70%">
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-kk00"><span style="font-weight:bold">Primary 2</span><br><span style="font-style:italic">Appreciation of Frontline Workers Police Officers (Police PAL Programe)</span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td>
+    <td class="tg-kk00">Students will get to know what the police officers do in their daily job scope &amp; understand the challenges that they face to keep the neighbourhood safe. Students get to complete a booklet of activities in getting to know the officers’ duties and at the same time know what they can do to help the police in keeping their neighbourhood safe.</td>
+  </tr>
+</thead>
+</table>
