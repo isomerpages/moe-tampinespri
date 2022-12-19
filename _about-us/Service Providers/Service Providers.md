@@ -153,4 +153,4 @@ Kowabunga (Kidz Treehouse)
 Commit Learning SchoolHouse (CLS)  
 <i>\- from Jan 2023</i>
 
-<b>Website:</b> 
+<b>Website:</b> [Click Here](/about-us/Service-Providers/Student-Care-Centre-SCC/)
