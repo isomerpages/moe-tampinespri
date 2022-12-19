@@ -71,7 +71,10 @@ To develop in students and staff
 <tbody>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 1</span><br><span style="font-style:italic">Appreciation of Frontline Workers School Cleaning Staff</span><br> <br> </td>
-    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better.</td>
+    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better. <img src="/images/Capture2.png" style="width:70%"></td>
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Capture2.png" style="width:70%">
