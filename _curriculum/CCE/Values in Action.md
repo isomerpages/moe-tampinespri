@@ -136,6 +136,8 @@ To develop in students and staff
 </table>
 
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -145,20 +147,14 @@ To develop in students and staff
 .tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 680px">
-<colgroup>
-<col style="width: 144px">
-<col style="width: 536px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
     <td class="tg-clkh">Primary 5<br> <br><span style="font-weight:normal;color:#121212">Lights of Our Future</span><br> <br> </td>
     <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">In partnership with JA (Junior Achievement), P5 &amp; P6 students learn about environmental challenges through a series of class-based lessons. They will understand about global warming and climate change, the causes and the steps needed to mitigate and reverse these to ensure a healthier planet. Students will be given opportunities to come with practical and personal day-to-day actions to ensure a more sustainable lifestyle. <img src="/images/Capture6.png" style="width:100%"></span><br> <br> </td>
   </tr>
   <tr>
-    <td class="tg-clkh">Primary 6<br> <br><span style="font-weight:normal;color:#121212">Green Means Cool!</span><br></td>
+    <td class="tg-clkh">Primary 6<br> <br><span style="font-weight:normal;color:#121212">Green Means Cool!</span></td>
   </tr>
 </thead>
 </table>
-
-
