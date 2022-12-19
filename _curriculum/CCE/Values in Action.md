@@ -45,7 +45,7 @@ To develop in students and staff
 <tbody>
   <tr>
     <td class="tg-21zi"><span style="font-weight:bold">Primary 1 to Primary 6 </span><br><span style="font-weight:bold;font-style:italic;text-decoration:underline">SINGAPORE KINDNESS MOVEMENT (SKM) – AGENTS OF KINDNESS</span><br><span style="font-style:italic;text-decoration:underline">Ambassadors of Kindness Programme:</span><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> </td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> </span><br><span style="font-weight:normal;color:#121212">Students of TPPS strive to be great servant leaders and contribute for the betterment of our school, family and the community. Termly, they will be given the SKM booklets to complete the</span> <span style="font-weight:bold">Friends Of Singa - Mission Card</span> <span style="font-weight:normal;color:#121212">found in the Kindsville Times Junior &amp; Adventures /A-OK Agents of Kindness newsletters during TPPS Spring lessons. They will then submit their Activity sheets to SKM via School Kindness Mailbox located at the amphitheatre. SKM will collect all submissions and reward students with mementos for their kindness efforts (badge, certificate, etc). Students will deepen their experience through short reflections. <img src="/images/Capture1.png" style="width:80%"></span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> </span><br><span style="font-weight:normal;color:#121212">Students of TPPS strive to be great servant leaders and contribute for the betterment of our school, family and the community. Termly, they will be given the SKM booklets to complete the</span> <span style="font-weight:bold">Friends Of Singa - Mission Card</span> <span style="font-weight:normal;color:#121212">found in the Kindsville Times Junior &amp; Adventures /A-OK Agents of Kindness newsletters during TPPS Spring lessons. They will then submit their Activity sheets to SKM via School Kindness Mailbox located at the amphitheatre. SKM will collect all submissions and reward students with mementos for their kindness efforts (badge, certificate, etc). Students will deepen their experience through short reflections. <img src="/images/Capture1.png" style="width:100%"></span></td>
   </tr>
 </tbody>
 </table>
@@ -69,7 +69,7 @@ To develop in students and staff
 <tbody>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 1</span><br><span style="font-style:italic">Appreciation of Frontline Workers School Cleaning Staff</span><br> <br> </td>
-    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better. <img src="/images/Capture2.png" style="width:80%"></td>
+    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better. <img src="/images/Capture2.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ To develop in students and staff
 <thead>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 2</span><br><span style="font-style:italic">Appreciation of Frontline Workers Police Officers (Police PAL Programe)</span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td>
-    <td class="tg-kk00">Students will get to know what the police officers do in their daily job scope &amp; understand the challenges that they face to keep the neighbourhood safe. Students get to complete a booklet of activities in getting to know the officers’ duties and at the same time know what they can do to help the police in keeping their neighbourhood safe. <img src="/images/Capture3.png" style="width:80%"></td>
+    <td class="tg-kk00">Students will get to know what the police officers do in their daily job scope &amp; understand the challenges that they face to keep the neighbourhood safe. Students get to complete a booklet of activities in getting to know the officers’ duties and at the same time know what they can do to help the police in keeping their neighbourhood safe. <img src="/images/Capture3.png" style="width:100%"></td>
   </tr>
 </thead>
 </table>
@@ -105,7 +105,8 @@ To develop in students and staff
 <thead>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 3</span><br><span style="font-style:italic">Appreciation of Frontline Workers SBS Transit Bus Captains</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Every year, in conjunction with SBS Transit Kindness Month, our P3 students pen down their gratitude to Bus Captains, accompanied by wonderful illustrations. These are then presented to SBS Transit to be given to the bus captains. As a school, we would want them to know that as they perform their duty, we greatly appreciate them and we know of the challenges that they have to go through.</span></td>
+    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Every year, in conjunction with SBS Transit Kindness Month, our P3 students pen down their gratitude to Bus Captains, accompanied by wonderful illustrations. These are then presented to SBS Transit to be given to the bus captains. As a school, we would want them to know that as they perform their duty, we greatly appreciate them and we know of the challenges that they have to go through. <img src="/images/Capture4.png" style="width:100%"></span></td>
   </tr>
 </thead>
 </table>
+
