@@ -50,8 +50,6 @@ To develop in students and staff
 </tbody>
 </table>
 
-<img src="/images/Capture1.png" style="width:60%">
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -71,13 +69,10 @@ To develop in students and staff
 <tbody>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 1</span><br><span style="font-style:italic">Appreciation of Frontline Workers School Cleaning Staff</span><br> <br> </td>
-    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better. <img src="/images/Capture2.png" style="width:70%"></td>
+    <td class="tg-kk00">P1 students show their appreciation to the cleaning uncles and aunties by penning down their gratitude and concern for the uncles and aunties who had been cleaning their classes daily in the second, third and fourth floor of the school building. At the same time, the students will also try to keep their classroom clean to minimise their workload. The cleaning staff will also share something personal about themselves so that the students can get to know them better. <img src="/images/Capture2.png" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
-
-
-<img src="/images/Capture2.png" style="width:70%">
 
 
 <style type="text/css">
@@ -92,11 +87,9 @@ To develop in students and staff
 <thead>
   <tr>
     <td class="tg-kk00"><span style="font-weight:bold">Primary 2</span><br><span style="font-style:italic">Appreciation of Frontline Workers Police Officers (Police PAL Programe)</span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td>
-    <td class="tg-kk00">Students will get to know what the police officers do in their daily job scope &amp; understand the challenges that they face to keep the neighbourhood safe. Students get to complete a booklet of activities in getting to know the officers’ duties and at the same time know what they can do to help the police in keeping their neighbourhood safe.</td>
+    <td class="tg-kk00">Students will get to know what the police officers do in their daily job scope &amp; understand the challenges that they face to keep the neighbourhood safe. Students get to complete a booklet of activities in getting to know the officers’ duties and at the same time know what they can do to help the police in keeping their neighbourhood safe. <img src="/images/Capture3.png" style="width:80%"></td>
   </tr>
 </thead>
 </table>
 
 
-
-<img src="/images/Capture3.png" style="width:80%">
