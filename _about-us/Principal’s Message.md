@@ -22,12 +22,10 @@ The MOE Kindergarten at Tampines Primary is now fully functioning with K1 and K2
 
 Despite the many challenges posed by COVID-19, the staff have been able to actively partner parents and help the students to continue with their learning, blending face-to-face interactions with on-line programmes.  The good enrolment figures and the keen interest from parents for both the primary and kindergarten sections show the trust that parents have in the school, making us a school of choice.
 
-My staff and I look forward to 2022, to you joining us in the journey, to realise our vision of “A Community School of Excellence, Caring Hearts and Creative Minds”.
+My staff and I look forward to 2023, to you joining us in the journey, to realise our vision of “A Community School of Excellence, Caring Hearts and Creative Minds”.
 
-Mrs Lay See Neufeld
-
-Principal
-
+Mrs Lay See Neufeld <br>
+Principal <br>
 Tampines Primary School
 
 ![](/images/stories-about-vaccination.png)
