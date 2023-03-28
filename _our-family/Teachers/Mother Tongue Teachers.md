@@ -46,3 +46,8 @@ Mother Tongue Teachers
 
 
 ### **Tamil Language Teachers**
+
+| Mrs Vimala Ravi | vimala_ravichandran@moe.edu.sg    |
+|-----------------|-----------------------------------|
+| Miss J Aswiniey | j_aswiniey@moe.edu.sg             |
+| Ms Aminah       | aminah_mohamed_shariff@moe.edu.sg |
