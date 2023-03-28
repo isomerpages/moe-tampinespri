@@ -15,6 +15,17 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 
 You may also download the brochure: [MOE FAS pamphlet 2023.pdf](/files/MOE%20FAS%20pamphlet%202023.pdf)
 
+You are <u><b>strongly encouraged</b></u> to apply for MOE FAS via the online e-FAS application.
+
+Please take note that, for families with the below mentioned conditions, you are to submit the hardcopy form with supporting documents to school.
+
+a.  Family with other dependents (Great grandparents, Aunties/ Uncles, Cousins and others) <br>
+b.  Family with more than 5 children in Government / Government Aided School <br>
+c.  Family with more than 4 unmarried Children not in Government/ Government Aided Schools <br>
+d.  Family with more than 3 grandparents in the household
+
+<u><b>Application Form</b></u>
+
 
 
 [FAQS for Redemption of School Meal Subsidies through School Smartcard During Extended Circuit Breaker Period](/files/FAQs_for_Redemption_of_School_Meal_Subsidies.pdf)
