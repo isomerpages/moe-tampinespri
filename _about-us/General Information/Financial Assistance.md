@@ -13,7 +13,7 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
-You may also download the brochure: [MOE FAS pamphlet 2023.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/fas/MOE%20FAS%20pamphlet%202023.pdf)
+You may also download the brochure: [MOE FAS pamphlet 2023.pdf](/files/MOE%20FAS%20pamphlet%202023.pdf)
 
 
 
