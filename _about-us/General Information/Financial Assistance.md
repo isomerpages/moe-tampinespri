@@ -26,14 +26,11 @@ d.  Family with more than 3 grandparents in the household
 
 <u><b>Application Form</b></u>
 
+<b>e-FAS Application Form:</b>: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) <br>
+<b>PDF Application Form:</b> [MOE FAS Application Form.pdf](/files/1MOE%20FAS%20Application%20Form.pdf)
 
 
-[FAQS for Redemption of School Meal Subsidies through School Smartcard During Extended Circuit Breaker Period](/files/FAQs_for_Redemption_of_School_Meal_Subsidies.pdf)
-
-  
-[FAQs on Provision of School Meal Subsidies During Extended Circuit Breaker Period](/files/FAQs_on_School_Meal_Subsidies_During_Extended_Circuit_Breaker_Period.pdf)
-
+### **ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME  (updated 14 Oct 2022)**
 
   
-
-[List of Suggested Merchants (updated 5 May 2020)](/files/List_of_Suggested_Merchants_(updated_5_May_2020).pdf)
+From 1 January 2023, Singapore Citizen students from households with gross monthly household income (GHI) of $3,000 and below, or per capita income\[1\] (PCI) of $750 and below, will be eligible for the MOE FAS.
