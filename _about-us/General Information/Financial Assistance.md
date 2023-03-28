@@ -13,6 +13,8 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
+You may also download the brochure: [MOE FAS pamphlet 2023.pdf](https://tampinespri.moe.edu.sg/qql/slot/u175/files/uploads/fas/MOE%20FAS%20pamphlet%202023.pdf)
+
 
 
 [FAQS for Redemption of School Meal Subsidies through School Smartcard During Extended Circuit Breaker Period](/files/FAQs_for_Redemption_of_School_Meal_Subsidies.pdf)
