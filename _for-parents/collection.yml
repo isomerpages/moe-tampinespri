@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Letter to Parents 2023.md
+      - Letter to Parents.md
       - Exam Schedules.md
       - Tampines Pulse.md
       - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md
@@ -14,6 +14,7 @@ collections:
       - Booklist for AY2023.md
       - Growing Years Programme.md
       - DSA Information.md
+      - 2023 TPPS Homework Policy.md
       - Parent Support Group.md
       - Guides for Parents/Guides for Parents.md
       - Guides for Parents/SLS Support for Home Based Learning.md
