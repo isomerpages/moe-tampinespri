@@ -14,7 +14,7 @@ School Executive Committee
 | **Vice-Principal<br>(Academic)**      | Mrs Zahira Mohamed Sedik   | tpps@moe.edu.sg                       |
 | **Vice-Principal<br>(Academic)**      | Ms Ariken Charmaine Carrie | tpps@moe.edu.sg                       |
 | **Vice-Principal<br>(Admin)**         | Mr Edmund Tin              | tpps@moe.edu.sg                       |
-| **Administration Manager<br> **       | Mr Kwong Chew Weng<br>     | tpps@moe.edu.sg                       |
+| **Administration Manager<br>**       | Mr Kwong Chew Weng<br>     | tpps@moe.edu.sg                       |
 | **Operations Manager 1**              | Mr Tan Yeow Heng           | tan_yeow_heng@moe.edu.sg              |
 | **Operations Manager 2**              | Mr Jonathan Seto           | seto_wee_ping@moe.edu.sg              |
 | **School Staff Developer**            | Mr Mohd Salleh             | mohamed_salleh_mohamed_yas@moe.edu.sg |
