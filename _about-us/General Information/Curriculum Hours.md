@@ -9,190 +9,53 @@ third_nav_title: General Information
 Curriculum Hours
 ================
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-clkh" colspan="5">Primary 1</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">7.50 a.m. - 2.00 p.m.</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">12.30 p.m.</span><br></td>
-    <td class="tg-kk00" rowspan="5"><span style="font-weight:normal;color:#121212">9.00 a.m. - 9.30 a.m.</span><br></td>
-    <td class="tg-kk00" rowspan="5"><span style="font-weight:normal;color:#121212">Gate 1 (Primary School Gate)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Tuesday</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Wednesday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - 12.30 p.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">11.30 a.m.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Thursday</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">7.50 a.m. - </span>2.00 p.m.</td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">12.30 p.m.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Friday</span></td>
-  </tr>
-</tbody>
-</table>
+| **Primary 1** |                        |                 |                       |                              |
+|---------------|------------------------|-----------------|-----------------------|------------------------------|
+|               | **School Hours**       | **Snack Break** | **Recess/Lunch**      | **Dismissal Point**          |
+| Monday        | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
+| Tuesday       | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
+| Wednesday     | 7.50 a.m. - 12.30 p.m. | 11.30 a.m.      |                       | Gate 1 (Primary School Gate) |
+| Thursday      | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
+| Friday        | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
 
+***
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-clkh" colspan="5">Primary 2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">7.50 a.m. - 2.00 p.m.</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">12.30 p.m.</span><br></td>
-    <td class="tg-kk00" rowspan="5"><span style="font-weight:normal;color:#121212">9.30 a.m. - 10.00 a.m.</span><br></td>
-    <td class="tg-kk00" rowspan="5"><span style="font-weight:normal;color:#121212">Gate 1A (Primary School Gate)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Tuesday</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Wednesday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - 12.30 p.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">11.30 a.m.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Thursday</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">7.50 a.m. - 2.00 p.m.</span></td>
-    <td class="tg-kk00" rowspan="2"><span style="font-weight:normal;color:#121212">12.30 p.m.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Friday</span></td>
-  </tr>
-</tbody>
-</table>
+| **Primary 2** |                        |                 |                        |                               |
+|---------------|------------------------|-----------------|------------------------|-------------------------------|
+|               | **School Hours**       | **Snack Break** | **Recess/Lunch**       | **Dismissal Point**           |
+| **Monday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
+| **Tuesday**   | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
+| **Wednesday** | 7.50 a.m. - 12.30 p.m. | 11.30 a.m.      |                        | Gate 1A (Primary School Gate) |
+| **Thursday**  | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
+| **Friday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
 
+***
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-clkh" colspan="5">Primary 3 </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday - Friday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - </span>2.00 p.m.</td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">9.30 a.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">11.30 a.m. - 12.00 p.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Gate 2 (Secondary School Gate)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-clkh" colspan="5">Primary 4</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday - Friday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - </span>2.00 p.m.</td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">9.30 a.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">11.00 a.m. - 11.30 a.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Gate 1 (Primary School Gate)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-clkh" colspan="5">Primary 5</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday - Friday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - </span>2.00 p.m.</td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">12.30 p.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">10.30 a.m. - 11.00 a.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Gate 2 (Secondary School Gate)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-clkh" colspan="5">Primary 6</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"></td>
-    <td class="tg-clkh">School Hours</td>
-    <td class="tg-clkh">Snack Break</td>
-    <td class="tg-clkh">Recess/Lunch</td>
-    <td class="tg-clkh">Dismissal Point</td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Monday - Friday</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">7.50 a.m. - </span>2.00 p.m.</td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">12.30 p.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">10.00 a.m. - 10.30 a.m.</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212">Gate 7 (Back gate)</span></td>
-  </tr>
-</tbody>
-</table>
+| **Primary 3** |                        |                 |                        |                               |
+|---------------------|-----------------------|-----------------|-------------------------|--------------------------------|
+|                     | **School Hours**      | **Snack Break** | **Recess/Lunch**        | **Dismissal Point**            |
+| **Monday - Friday** | 7.50 a.m. - 2.00 p.m. | 9.30 a.m.       | 11.30 a.m. - 12.00 p.m. | Gate 2 (Secondary School Gate) |
+  
+***
+  
+| **Primary 4** |                        |                 |                        |                               |
+|---------------------|-----------------------|-----------------|-------------------------|--------------------------------|
+|                     | **School Hours**      | **Snack Break** | **Recess/Lunch**        | **Dismissal Point**            |
+| **Monday - Friday** | 7.50 a.m. - 2.00 p.m. | 9.30 a.m.       | 11.00 a.m. - 11.30 a.m. | Gate 1 (Primary School Gate)   |  
 
+***
+| **Primary 5** |                        |                 |                        |                               |
+|---------------------|-----------------------|-----------------|-------------------------|--------------------------------|
+|                     | **School Hours**      | **Snack Break** | **Recess/Lunch**        | **Dismissal Point**            |
+| **Monday - Friday** | 7.50 a.m. - 2.00 p.m. | 9.30 a.m.       | 11.00 a.m. - 11.30 a.m. | Gate 1 (Primary School Gate)   |  
+
+***
+| **Primary 6** |                        |                 |                        |                               |
+|---------------------|-----------------------|-----------------|-------------------------|--------------------------------|
+|                     | **School Hours**      | **Snack Break** | **Recess/Lunch**        | **Dismissal Point**            |
+| **Monday - Friday** | 7.50 a.m. - 2.00 p.m. | 9.30 a.m.       | 11.00 a.m. - 11.30 a.m. | Gate 1 (Primary School Gate)   |  
+
+***
 
 \*\* Students will have a break from 2 p.m. – 2.30 p.m. if they have lesson/remedial after 2 p.m.
 
@@ -204,30 +67,10 @@ There will be a 10-min snack break for students at 9.30 a.m. or 12.30 p.m. Stude
 
 The table below indicates healthy snack food that are acceptable and those that are not acceptable.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-clkh">Acceptable Items for Snack Break</th>
-    <th class="tg-clkh">Unacceptable Items for Snack Break</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-kk00"><br>1. Biscuits<br>2. Buns (e.g. red bean bun)<br>3. Bread<br>4. Sandwich<br>5. Cereal (small box)<br>6. Dried Fruit<br>7. Energy Bar (e.g. muesli bar and oats bar)<br>8. Fruit (e.g. apple and banana)<br>9. Raisins<br>10. Nuts<br>11. Cheese Slice/Stick<br>12. Carrot/Cucumber Stick<br>13. Small Packet of Milo/Milk/Cereal Drink<br></td>
-    <td class="tg-kk00"><br>1. Fried Food<br>2. Rice, Porridge and Noodles<br>3. Sweets<br>4. Chocolate Bar<br>5. Tidbits (e.g. Potato Chips)</td>
-  </tr>
-</tbody>
-</table>
-
+| Acceptable Items for Snack Break                                                                                                                                                                                                                                                                                                    | Unacceptable Items for Snack Break                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1. Biscuits<br>2. Buns (e.g. red bean bun)<br>3. Bread<br>4. Sandwich<br>5. Cereal (small box)<br>6. Dried Fruit<br>7. Energy Bar (e.g. muesli bar and oats bar)<br>8. Fruit (e.g. apple and banana)<br>9. Raisins<br>10. Nuts<br>11. Cheese Slice/Stick<br>12. Carrot/Cucumber Stick<br>13. Small Packet of Milo/Milk/Cereal Drink | 1. Fried Food<br>2. Rice, Porridge and Noodles<br>3. Sweets<br>4. Chocolate Bar<br>5. Tidbits (e.g. Potato Chips) |
+***
 ### **Precautionary Measures to Ensure Safety Measures Management**
 
 Parents/Caregivers are to wait for their children outside the school at dismissal. Driving parents/caregivers are reminded that there is no waiting or parking in the school carpark. For CCA, Enrichment, Remedial or Supplementary dismissals, cars will only enter the school strictly at the dismissal times given. If you are early, please be advised to wait at the public carparks near the school.
