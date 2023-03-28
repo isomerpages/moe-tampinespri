@@ -8,10 +8,9 @@ description: ""
 Letters to Parents 2023
 =======================
 
-### **December 2022** ###
+### **December 2022**
 
 [TPPS-58-2022 Memo Dec 2022.pdf](/files/2023/TPPS-58-2022 Memo Dec 2022.pdf)
-
 
 ### **January**
 
