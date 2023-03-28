@@ -30,3 +30,7 @@ PE Art Music Teachers
 
 
 ### **Music Teachers**
+
+| Mrs Tan Shee Cher | kuek_shee_cher@moe.edu.sg |
+|-------------------|---------------------------|
+| Miss Kwa Shuar En | kwa_shaur_en@moe.edu.sg   |
