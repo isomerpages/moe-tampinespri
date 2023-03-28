@@ -44,49 +44,14 @@ In 2007, Programme for Rebuilding & Improving Existing Schools (PRIME) for the s
 Our journey of growth has been made possible with the strong stewardship of our past and present school leaders.
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-clkh"><span style="font-weight:normal;color:#121212"> </span>TENURE</th>
-    <th class="tg-clkh"><span style="font-weight:normal;color:#121212"> </span>PRINCIPAL</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 1986 - 1997</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mr Goh Liang Chuan</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 1998 - 2000</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mrs Ng Ai Lin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 2001 - 2003</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mr Law Chor Hoo</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 2004 - 2010</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mrs Wong Bin Eng</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 2011 - 2018</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Ms Veronica Tay</span></td>
-  </tr>
-  <tr>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> 2019 - Current</span></td>
-    <td class="tg-kk00"><span style="font-weight:normal;color:#121212"> Mrs Lay See Neufeld</span></td>
-  </tr>
-</tbody>
-</table>
+| **TENURE**      | **PRINCIPAL**        |
+|-----------------|----------------------|
+|  1986 - 1997    |  Mr Goh Liang Chuan  |
+|  1998 - 2000    |  Mrs Ng Ai Lin       |
+|  2001 - 2003    |  Mr Law Chor Hoo     |
+|  2004 - 2010    |  Mrs Wong Bin Eng    |
+|  2011 - 2018    |  Ms Veronica Tay     |
+|  2019 - Current |  Mrs Lay See Neufeld |
 
 
 ### **Moving Forward**
