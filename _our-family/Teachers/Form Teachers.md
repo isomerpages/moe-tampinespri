@@ -26,6 +26,16 @@ Form Teachers
 
 ### **P2**
 
+|  **Class** |                                                  **Form** | **Teachers**                                                                                                    |
+|:----------:|----------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------|
+|   P2 Care  |      <br>Mrs Wong Ling Nah<br>teo_ling_nah@moe.edu.sg     |                                   <br>Mdm Zalinah<br>zalinah_hassan@moe.edu.sg                                  |
+|  P2 Faith  |    <br>Mdm Sally Neo<br>neo_yuan_ting_sally@moe.edu.sg    |                             <br>Mdm Haslinah Bte Osman<br>haslinah_osman@moe.edu.sg                             |
+|  P2 Grace  |       <br>Mdm Diana Mamat<br>diana_mamat@moe.edu.sg       |                             <br>Mr Abdul Rahman<br>abdul_rahman_b_hussin@moe.edu.sg                             |
+|   P2 Hope  |  <br>Mrs Hidayah Ridzwan<br>nurhidayah_a_aziz@moe.edu.sg  |                           <br>Mrs Susila Neelakandan<br>neelakandan_susila@moe.edu.sg                           |
+|   P2 Joy   | <br>Mdm Azlinda Bte Ab Aziz<br>azlinda_ab_aziz@moe.edu.sg |      <br>Mrs Vimala Ravi<br>vimala_ravichandran@moe.edu.sg<br><br>Mdm Suriadi<br>suriadi_kassim@moe.edu.sg      |
+|   P2 Love  |      <br>Mdm Eng Lee Cher<br>eng_lee_cher@moe.edu.sg      |    <br>Mdm Norhana Khamis<br>norhana_khamis@moe.edu.sg<br><br>Ms Chua Gek Huang<br>chua_gek_huang@moe.edu.sg    |
+| P2 Passion |     <br>Mdm Juliana Ahmad<br>juliana_ahmad@moe.edu.sg     | <br>Mr Irwin Peh<br>peh_yen_yee_irwin@moe.edu.sg<br><br><br>Ms Melissa Tham<br>melissa_tham_sook_yee@moe.edu.sg |
+|  P2 Truth  | <br>Mdm Farhanah Abdullah<br>farhanah_abdullah@moe.edu.sg |                                   <br>Mdm Gao Qiaoyi<br>gao_qiaoyi@moe.edu.sg                                   |
 
 
 ### **P3**
