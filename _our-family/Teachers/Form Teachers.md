@@ -73,3 +73,11 @@ Form Teachers
 |  P5 Love  |      <br>Mrs Eileen Chong<br>ng_eileen_a@moe.edu.sg     |   <br>Mr Ethan Tan<br>tan_wu_siang_ethan@moe.edu.sg  |
 
 ### **P6**
+
+| **Class** |                        **Form Teachers**                        |                                                                                                                 |
+|:---------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+|  P6 Care  |        <br>Miss Germaine Ling<br>ling_lay_leng@moe.edu.sg       |                               <br>Mdm Chua Pei Cheon<br>chua_pei_cheon@moe.edu.sg                               |
+|  P6 Grace |              <br>Mrs Ivy Lim<br>Ivy_Goh@moe.edu.sg              | <br>Mrs Jeredith Hee<br>teo_sock_koon_jeredith@moe.edu.sg<br><br><br>Mr Desmond Tan<br>tan_chee_teck@moe.edu.sg |
+|  P6 Hope  |      <br>Mdm Nurdianna Malik<br>nurdianna_malik@moe.edu.sg      |                                 <br>Mdm Lee Wee Hoon<br>lee_wee_hoon@moe.edu.sg                                 |
+|   P6 Joy  | <br>Mdm Latifa Bte Abdul Razak<br>latifa_abdul_razak@moe.edu.sg |                                       <br>Miss Zhu Li<br>zhu_li@moe.edu.sg                                      |
+|  P6 Love  |          <br>Mr Chai Kae Min<br>chai_kae_min@moe.edu.sg         |        <br>Mdm Ng Hwee Gek<br>ng_hwee_gek@moe.edu.sg<br><br><br>Mdm Shen Jingyi<br>shen_jingyi@moe.edu.sg       |
