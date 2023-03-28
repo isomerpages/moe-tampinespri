@@ -63,5 +63,13 @@ Form Teachers
 ### **P5**
 
 
+| **Class** |                    **Form Teachers**                    |                                                      |
+|:---------:|:-------------------------------------------------------:|:----------------------------------------------------:|
+|  P5 Care  |      <br>Mdm Oh Ding Hui<br>oh_ding_hui@moe.edu.sg      |  <br>Mr Saravanan<br>saravanan_sadanandom@moe.edu.sg |
+|  P5 Faith |    <br>Mdm Nazreen Osman<br>nazreen_osman@moe.edu.sg    |     <br>Mdm Jalela Atan<br>jalela_atan@moe.edu.sg    |
+|  P5 Grace |       <br>Ms Lynn Wu Jieru<br>wu_jieru@moe.edu.sg       |     <br>Miss Lai Si Hui<br>lai_si_hui@moe.edu.sg     |
+|  P5 Hope  |    <br>Mr Kang Teck Beng<br>kang_teck_beng@moe.edu.sg   |  <br>Mr Jerome Ng<br>ng_ming_chang_jerome@moe.edu.sg |
+|   P5 Joy  | <br>Miss Queenie Low<br>low_jia_ling_queenie@moe.edu.sg | <br>Miss Chuan Boon Min<br>chuan_boon_min@moe.edu.sg |
+|  P5 Love  |      <br>Mrs Eileen Chong<br>ng_eileen_a@moe.edu.sg     |   <br>Mr Ethan Tan<br>tan_wu_siang_ethan@moe.edu.sg  |
 
 ### **P6**
