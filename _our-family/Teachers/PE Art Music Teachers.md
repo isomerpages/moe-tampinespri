@@ -22,6 +22,11 @@ PE Art Music Teachers
 
 ### **Art Teachers**
 
+| Mdm Chuang Bee Eng | chuang_bee_eng@moe.edu.sg        |
+|--------------------|----------------------------------|
+| Mdm Noorazean      | noorazean_abdul_rahim@moe.edu.sg |
+| Mdm Suriadi        | suriadi_kassim@moe.edu.sg        |
+
 
 
 ### **Music Teachers**
