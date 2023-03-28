@@ -34,15 +34,7 @@ In Tampines Primary School, project work is designed based on the TPPS PW Protoc
 The table below shows how PW outcomes are achieved through the 5 stages in our PW Protocol.
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -103,7 +95,7 @@ Tampines Primary School has a wide variety of student-focused learning activitie
 
 Leveraging on the spirit of I&E, students from Primary 3 to Primary 5 of the I&E club participated in the Design for Change Challenge since 2012. DESIGN FOR CHANGE is the largest global movement designed to give children an opportunity to express their own ideas for a better world and put them into action. The program encourages children to explore and identify aspects in their immediate surroundings or elsewhere, which they like to make a difference to. They are directly involved in designing and leading change in their community. Hands on! In 2012, one of the representing teams adopted the cause” Respecting elderly Low Wage Workers”. The team emerged as one of the winning teams in the annual challenge. They were also filmed and the feature was used to promote SoChinAction(Social Change in Action).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VkNRempmQXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch Video](https://www.youtube.com/embed/VkNRempmQXE)
 
 
 In 2013, the representing team that adopted the cause, “I may be different but that doesn’t mean that you can treat me this way… STOP BULLYING!” also emerged as one of the winning teams in the annual challenge.
