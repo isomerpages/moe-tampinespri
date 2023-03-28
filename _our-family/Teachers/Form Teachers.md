@@ -53,14 +53,13 @@ Form Teachers
 
 ### **P4**
 
-| **Class** |                                            **Form** | **Teachers**                                                                                              |
-|:---------:|----------------------------------------------------:|-----------------------------------------------------------------------------------------------------------|
-|  P4 Care  | <br>Mr Roy Wong<br>wong_chang_hou@moe.edu.sg        | <br>Mr Peter Chua<br>chua_kok_leong_peter@moe.edu.sg                                                      |
-|  P4 Faith | <br>Mdm Raihana Saadon<br>raihana_saadon@moe.edu.sg | <br>Miss Kwa Shaur En<br>kwa_shaur_en@moe.edu.sg                                                          |
-|  P4 Grace | <br>Mrs Eleanor Wong<br>eleanor_pang@moe.edu.sg     | <br>Mdm Chuang Bee Eng<br>chuang_bee_eng@moe.edu.sg<br><br><br>Ms Bok Siew Tin<br>bok_siew_tin@moe.edu.sg |
-|  P4 Hope  | <br>Mrs Melissa Yow<br>wee_liang_mei@moe.edu.sg     | <br>Mdm Rahimah Razali<br>rahimah_razali@moe.edu.sg<br>                                                   |
-|  P4 Love  | <br>Mdm Quek Ee Ling<br>quek_ee_ling@moe.edu.sg     | <br>Mdm Ni Jieren<br>ni_jieren@moe.edu.sg                                                                 |
-
+| **Class** |                  **Form Teachers**                  |                                                                                                           |
+|:---------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+|  P4 Care  |     <br>Mr Roy Wong<br>wong_chang_hou@moe.edu.sg    |                            <br>Mr Peter Chua<br>chua_kok_leong_peter@moe.edu.sg                           |
+|  P4 Faith | <br>Mdm Raihana Saadon<br>raihana_saadon@moe.edu.sg |                              <br>Miss Kwa Shaur En<br>kwa_shaur_en@moe.edu.sg                             |
+|  P4 Grace |   <br>Mrs Eleanor Wong<br>eleanor_pang@moe.edu.sg   | <br>Mdm Chuang Bee Eng<br>chuang_bee_eng@moe.edu.sg<br><br><br>Ms Bok Siew Tin<br>bok_siew_tin@moe.edu.sg |
+|  P4 Hope  |   <br>Mrs Melissa Yow<br>wee_liang_mei@moe.edu.sg   |                          <br>Mdm Rahimah Razali<br>rahimah_razali@moe.edu.sg<br>                          |
+|  P4 Love  |   <br>Mdm Quek Ee Ling<br>quek_ee_ling@moe.edu.sg   |                                 <br>Mdm Ni Jieren<br>ni_jieren@moe.edu.sg                                 |
 
 
 ### **P5**
