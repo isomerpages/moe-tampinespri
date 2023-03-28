@@ -12,6 +12,12 @@ Service Providers
 
 ### **School Bookshop**
 
+| **Company**               | **Overseas Associates Pte Ltd**                                                      |
+|---------------------------|--------------------------------------------------------------------------------------|
+|  Contact                  |  63826789 (HQ)                                                                       |
+|  Operating Time in School |  Mondays to Fridays, 8.00am – 3.00pm  Closed during school holidays unless specified |
+|  Timing for parents       |  After dismissal hours, 2 p.m. to 3 p.m.                                             |
+
 
 
 
