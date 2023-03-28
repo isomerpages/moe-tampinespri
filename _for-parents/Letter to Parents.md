@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents 2023
-permalink: /for-parents/Letters-to-Parents-2023/
+permalink: /for-parents/Letters-to-Parents/
 description: ""
 ---
 ![](/images/ForParents.jpg)
