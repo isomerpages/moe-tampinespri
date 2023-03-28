@@ -23,6 +23,11 @@ Service Providers
 
 ### **School Uniform & PE Attire Supplier**
 
+| **Company**               | **Shanghai School Uniforms Pte Ltd**                                                                                                                     |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Contact                  |  63 Ubi Avenue 1<br><br> #04-09, 63@Ubi <br> Singapore 408937 <br><br> Website: shanghai-uniforms.com<br> Retail: +65 6352 2741<br> Fax No:+65 6842 2741 |
+|  Operating Time in School |  Sales through school bookshop                                                                                                                           |
+
 
 
 
