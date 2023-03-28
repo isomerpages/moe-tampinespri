@@ -41,6 +41,41 @@ Service Providers
 
 ### **School Dental Clinic**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-w46r{color:#121212;font-size:15px;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">Monday - Thursday</span></th>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m. - 5.30 p.m.</span></th>
+    <th class="tg-w46r" rowspan="3"><br><br><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">All dental appointments in the afternoon/school holidays are by appointment only. Please call the clinic at</span> <span style="font-weight:bold">88098302 (HP)</span> <span style="font-weight:normal;color:#121212">to book an appointment.</span></th>
+  </tr>
+  <tr>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">Friday</span></th>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m. - 5.00 p.m.</span></th>
+  </tr>
+  <tr>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">School Holidays</span></th>
+    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m - 5.00 p.m.</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-w46r"><span style="font-weight:normal;color:#121212">Lunch-Time (closed)</span></td>
+    <td class="tg-w46r"><span style="font-weight:normal;color:#121212">1.00 p.m. - 2.00 p.m.</span></td>
+    <td class="tg-w46r" rowspan="2"><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">During school holidays or when the school dental clinic is closed, please call</span> <span style="font-weight:bold">Health Promotion Board (HPB) Call Centre: 64353782</span> <span style="font-weight:normal;color:#121212">for advice.</span><br><br><span style="font-weight:normal;color:#121212">Alternate week Dental Therapist in Tanjong Katong Primary School dental Clinic.</span><br><span style="font-weight:normal;color:#121212">Tel: 9112 8295</span></td>
+  </tr>
+  <tr>
+    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="color:#121212">2 - 6 January 2023</span><br><span style="color:#121212">16 - 23 January 2023</span><br><span style="color:#121212">23 - 24 January 2023 (Public Holiday)</span><br><span style="background-color:initial">30 - 31 October 2022</span><br></td>
+  </tr>
+</tbody>
+</table>
 
 
 
