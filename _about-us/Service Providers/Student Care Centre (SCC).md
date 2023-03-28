@@ -47,42 +47,6 @@ Yours sincerely,
 Management  
 Commit Learning SchoolHouse
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-q8wq{border-color:#ffffff;font-size:15px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-q8wq">We are committed to bringing out the best in every student</td>
-  </tr>
-</thead>
-</table>
-
-### **About Kidz Treehouse**
+<center> <b>We are committed to bringing out the best in every student</b> </center>
 
 
-Kidz Treehouse @ Tampines Primary School began operations in 2017 providing quality student care and education for children between the ages of 7 to 12.   We aim to provide children of Tampines Primary School with diverse education in an environment that promotes holistic care and nurtures strong character building. We have 11 branches nationwide encompassing both school-based and community-based centres. 
-
-  
-
-Inspired by the concept of a Treehouse, Kidz Treehouse offers an environment where children can learn, play and imagine in nature. Through our campus-based Care Services and Educational Products and Programmes, we harness the power of our children’s creativity and develop their character to make the world a better place.
-
-  
-
-Kidz Treehouse provides Quality Educational Programmes that focuses on Holistic Education, Children Empowerment and connecting with the Environment to achieve Sustainable Earth.
-
-  
-
-<u><b>Contact Us</b></u>
-
-For further enquiries, please us call us at 6850 5406 during the following hours:
-
-  
-
-We invite you to visit our homepage at [https://kidztreehouse.com.sg/](https://kidztreehouse.com.sg/).
