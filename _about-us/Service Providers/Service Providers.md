@@ -33,6 +33,10 @@ Service Providers
 
 ### **School Bus Service**
 
+| **Company** | **Hui Wang Bus Service**               |
+|-------------|----------------------------------------|
+|  Contact    |  Mr Vernon Tan<br> 92266622 / 96721464 |
+
 
 
 ### **School Dental Clinic**
