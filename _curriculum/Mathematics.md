@@ -66,15 +66,7 @@ The aim of the Math Olympiad Competitions is to generate greater interest in Mat
 
 Congratulations to these students who achieved the following awards!
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bmem{background-color:#D9D9D9;color:#121212;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -133,15 +125,7 @@ Congratulations to these students who achieved the following awards!
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bmem{background-color:#D9D9D9;color:#121212;text-align:left;vertical-align:top}
-.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
