@@ -70,7 +70,9 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 <b>At Tampines Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:</b> 
 
 
-### **Primary 5**
+### <center>**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**</center>
+
+### <center>**Primary 5** </center>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
