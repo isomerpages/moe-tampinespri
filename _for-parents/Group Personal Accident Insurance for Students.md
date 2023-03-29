@@ -55,3 +55,4 @@ Tampines Primary School
 
 
 <b>File attachments</b> <br>
+[2023 Product Fact Sheet_Student Income Group Personal Accident Insurance.pdf](/files/2023%20Product%20Fact%20SheetStudent%20Income%20Group%20Personal%20Accident%20Insurance.pdf)
