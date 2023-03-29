@@ -34,3 +34,8 @@ d.  Family with more than 3 grandparents in the household
 
   
 From 1 January 2023, Singapore Citizen students from households with gross monthly household income (GHI) of $3,000 and below, or per capita income\[1\] (PCI) of $750 and below, will be eligible for the MOE FAS.
+
+
+
+### **Application for Straits Times School Pocket Money Fund**
+
