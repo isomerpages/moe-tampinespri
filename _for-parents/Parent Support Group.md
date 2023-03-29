@@ -1,0 +1,53 @@
+---
+title: Parent Support Group
+permalink: /for-parents/Parent-Support-Group/
+description: ""
+---
+![](/images/ForParents.jpg)
+
+Parent Support Group
+====================
+
+The school celebrates the support and contributions of the PSG through an investiture ceremony. PSG EXCO members are issued a special pass and members who are involved in helping in school activities are also given a PSG duty pass. An annual appreciation lunch is also organized for active PSG members.  
+  
+The Parent Support Group (PSG) was incepted in 1999. The school recognises that there are parents who are able to volunteer their time and services to help out with school programmes and activities. The PSG EXCO was nominated by the Principal. Each PSG director is involved in different school programmes and activities under the various strategic thrusts.
+
+The PSG members are engaged in school life and in dialogue first through recruitment. At PSG meetings, members share the ways they can contribute to the school and pupils and the school shares with members the school’s philosophy and directions and areas in which PSG members can contribute. In addition, the school also conducts meetings with the PSG to get updates on the group’s activities and to engage members in dialogue about parents’ needs and expectations. Through these meetings, the school leader gathers feedback about school directions, programmes and operations and suggestions for improvement. Examples of suggestions that have been taken up are issuing fewer homework assignments during festive seasons and safety measures to further ensure pupil’s safety.
+
+The school celebrates the support and contributions of the PSG through an investiture ceremony. PSG EXCO members are issued a special pass and members who are involved in helping in school activities are also given a PSG duty pass. An annual appreciation lunch is also organized for active PSG members.
+
+<u><b>Application Form</b></u>
+
+![](/images/PSG1.png)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-clkh{color:#121212;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kk00{color:#121212;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-kk00">Name of Event</th>
+    <th class="tg-clkh">Parent Support Group Updates &amp;<br>PSG EXCO Termly Meetings with School Leaders</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kk00">Objectives</td>
+    <td class="tg-kk00">To provide PSG members with an overview of key initiatives and plans for 2022<br>To provide a platform for PSG members to support school events/programmes and provide opportunity to interact with other members.</td>
+  </tr>
+  <tr>
+    <td class="tg-kk00">Highlights<br> </td>
+    <td class="tg-kk00">Each term, PSG EXCO members attend termly meetings where our school leaders take them through the importance of school – home partnership, school updates and achievements. <br>The PSG team had their annual recruitment and get to know session on Saturday, March 19 2022. We would like to thank the PSG EXCO team under the leadership of Chairperson, Mdm Mahjabeen for their dedication and contribution in making this session possible. The session ended with a video by Mrs Zahira thanking the parents and acknowledging the PSG members as TPPS’s ambassadors. The PSG members truly enjoyed the session. They look forward to work together with the school and help to know every child and grow every child.<br><br><br><br><span style="font-weight:bold">PSG ONLINE REPOSITORY </span><br><br>This guide was specially prepared by MOE for Parent Support Groups (PSGs) to support PSG parents in their role as a Resource Supporter and Peer Supporter. Click on the <a href="https://sites.google.com/moe.edu.sg/psg-online-repository/other-psg-resources" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;text-decoration:underline;color:#1F2243">link</span></a>  provided.</td>
+  </tr>
+</tbody>
+</table>
+
+
+Note: PSG ONLINE REPOSITORY link broken.

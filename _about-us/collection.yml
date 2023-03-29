@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - School Vision, Mission and Values.md
+      - School Values – iREAP.md
+      - School Crest.md
+      - History.md
+      - General Information/Curriculum Hours.md
+      - General Information/School Rules and Regulations.md
+      - General Information/Financial Assistance.md
+      - General Information/.keep
+      - Service Providers/.keep
+      - Service Providers/Service Providers.md
+      - Service Providers/Student Care Centre (SCC).md
+      - Contact Us.md
+      - Terms of Use.md

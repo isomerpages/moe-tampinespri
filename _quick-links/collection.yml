@@ -1,0 +1,30 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/Student TraceTogether Tokens (TTT).md
+      - Announcements/January Memo to Parents.md
+      - Announcements/March Memo to Parents.md
+      - Announcements/April Memo to Parents.md
+      - Announcements/May Memo to Parents.md
+      - Announcements/June Memo to Parents.md
+      - Announcements/August Memo to Parents.md
+      - Announcements/Teacher’s Day Appreciation Wall 2022.md
+      - Announcements/September Memo to Parents.md
+      - Announcements/Application for 2023 MOE Financial Assistance Scheme.md
+      - Announcements/Notification for Change of Student Care Centre (SCC)
+        Operator in Tampines Primary School.md
+      - Announcements/Notification for Change of Student Care Centre (SCC)
+        Operator (FAQs).md
+      - Announcements/In conversation with Stakeholders 2022.md
+      - Announcements/Tampines Primary P1 (2023) Orientation Day.md
+      - Announcements/November Memo to Parents.md
+      - Announcements/2022 Appreciation to all Teachers.md
+      - School Calendar.md
+      - Useful Links/Useful Links.md
+      - Useful Links/For Teachers.md
+      - Useful Links/For Students.md
+      - Useful Links/For Parents.md
+      - Useful Links/.keep
