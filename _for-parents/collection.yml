@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Group Personal Accident Insurance for Students.md
       - Letter to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
@@ -10,6 +9,7 @@ collections:
       - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md
       - Financial Assistance Scheme/Application for Straits Times School Pocket
         Money Fund.md
+      - Group Personal Accident Insurance for Students.md
       - Exam Schedules.md
       - P1 (2023) Orientation Day.md
       - Booklist for AY2023.md
