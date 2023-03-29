@@ -22,4 +22,3 @@ First Day of School 2023 Info
 
 
 ### **PRIMARY 2 – PRIMARY 6**
-
