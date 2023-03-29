@@ -52,10 +52,10 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
    a.  Science  
       
     
-   b.  Form Teacher Guidance Period (FTGP)  
+
       
     
-   c.  Character and Citizenship Education (CCE)  
+  b.  Character and Citizenship Education (CCE)  
       
     
 
