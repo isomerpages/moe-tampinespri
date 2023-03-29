@@ -38,8 +38,7 @@ A picture paints a thousand words and so, let the following pictures capture som
 
 ![](/images/English.png)
 
-<b>kidsREAD Club</b>
-
+<b>kidsREAD Club</b> <br>
 It is a collaboration between the National Library Board (NLB) and our school to expose selected P1-P2 students to different book genres. We intend to inculcate in them the deep love for reading and hope that they carry on this habit for a lifetime. The students are involved in doing other interesting tasks that are found in their activity books provided by the NLB. To entice them, our very own PSG members also conduct craft activities that are related to the theme of the story.  
 
 <i>"I do believe something very magical can happen when you read a good book."</i>
