@@ -67,7 +67,7 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 7.The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
 
-<b>At Tampines Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:</b> 
+<b>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2023::</b> 
 
 
 ### <center>**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**</center>
