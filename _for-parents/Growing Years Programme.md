@@ -103,6 +103,3 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
       
     
 10.Parents can contact the school at [tpps@moe.edu.sg](mailto:tpps@moe.edu.sg) or contact us at 67831190 for discussion or to seek clarification about the school’s sexuality education programme.  
-      
-    
-11.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
