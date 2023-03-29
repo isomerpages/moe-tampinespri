@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Group Personal Accident Insurance for Students.md
       - Letter to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
