@@ -52,3 +52,6 @@ Tampines Primary School
 <u>Web Link</u> <br>
 <b>Insurance Claim Online Submission Link</b> <br>
 [https://studentgpa.incomegroupins.com.sg/](https://studentgpa.incomegroupins.com.sg/)
+
+
+<b>File attachments</b> <br>
