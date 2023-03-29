@@ -39,3 +39,4 @@ From 1 January 2023, Singapore Citizen students from households with gross month
 
 ### **Application for Straits Times School Pocket Money Fund**
 
+[Click here for more info](/for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/)
