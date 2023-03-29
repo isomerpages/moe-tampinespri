@@ -26,10 +26,8 @@ The English Department is committed to provide experiential and authentic learni
 
   
 
-<b>Reading Mum & Dad Programme</b>
-
-“The world belongs to those who read.”
-
+<b>Reading Mum & Dad Programme</b> <br>
+“The world belongs to those who read.” <br>
 – Rick Holland
 
 The programme is an initiative by the English Department in partnership with our Parent Volunteers (PV) to promote a love of reading among our P1 and P2 students. The weekly programme is helmed by the Learning Support Co-ordinators and dedicated PV to promote the joy of reading to selected students. 
