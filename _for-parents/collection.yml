@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - First Day of School 2023 Info.md
       - Letter to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
@@ -11,6 +10,7 @@ collections:
       - Financial Assistance Scheme/Application for Straits Times School Pocket
         Money Fund.md
       - Group Personal Accident Insurance for Students.md
+      - First Day of School 2023 Info.md
       - Exam Schedules.md
       - P1 (2023) Orientation Day.md
       - Booklist for AY2023.md
