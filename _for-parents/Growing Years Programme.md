@@ -24,7 +24,7 @@ Growing Years Programme
     
    c.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
-3.The key messages of Sexuality Education are:
+3.The Key Messages of Sexuality Education are:
 
    I.  Love and respect yourself as you love and respect others;  
       
@@ -36,9 +36,9 @@ Growing Years Programme
           
 IV.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-Note: MOE Sexuality Education page not found.
+
 
 ### **Overview of Tampines Primary School’s Sexuality Education Programme**
 
