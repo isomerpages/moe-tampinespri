@@ -91,7 +91,8 @@ Note: Scope of Sexuality Education in the school curriculum page not found.
 |                     | Are We More than Friends?<br>Lesson 2<br>(60 min) |                                                                                                In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.                                                                                                |              Term 3 Week 4              |
 |                     |          Did You Know? *<br>(60 min)<br>          | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |              Term 4 Week 8              |
 	
-	
+
+<b>Please Note: \*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.</b>
 	
 ### **Information for Parents**
 
