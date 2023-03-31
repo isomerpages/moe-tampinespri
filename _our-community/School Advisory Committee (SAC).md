@@ -12,8 +12,8 @@ Tampines Primary School is pleased to announce our School Advisory Committee for
 
 
 
-<figure><img src="/images/SAC.jpeg" style="width:75%"><figcaption> <b>Seated (from left to right):</b> Mrs Neufeld (Principal), Mdm Lee Weilin (Chairperson)
-<b>Standing (from left to right):</b> Mdm Lee Ai Ling, Mr Khairudin Saharom, Mr Ng Cheong Ann (VP Admin), Mr Gunal Kanna, Dr S A Aziz Noordin, Mrs Zahira Mohamed Sedik (VP Ed)</figcaption></figure>
+<figure><img src="/images/SAC.jpeg" style="width:75%"><figcaption> <b>Seated (from left to right):</b>&nbsp;Mrs Neufeld (Principal),&nbsp;Mdm Lee Weilin (Chairperson)
+<b>Standing (from left to right):</b>&nbsp;Mdm Lee Ai Ling, Mr Khairudin Saharom, Mr Ng Cheong Ann (VP Admin), Mr Gunal Kanna, Dr S A Aziz Noordin, Mrs Zahira Mohamed Sedik (VP Ed)</figcaption></figure>
 
 The school works collaboratively with the SAC to enrich school programmes. The school taps the expertise and networks of SAC members to provide learning opportunities for staff and pupils and to contribute towards pupil welfare. Updates on school events, programmes and achievements are provided to SAC members at meetings. These meetings are also platforms for SAC members to provide the school with feedback on its directions and programmes. SAC members are invited to be with the school community at special school events as Guest-of-Honour for special school events such as the school’s Academic Excellence Ceremony, Open House and Teachers’ Day Dinner.
 
@@ -24,7 +24,7 @@ SAC members show their support for the school by gracing the event or by contrib
 
 ### **About the Committee Members**
 
-<img src="/images/MRGunal.jpeg" style="width:200px;height:240px;margin-right:10px;" align = "left">
+<img src="/images/MRGunal.jpeg" style="width:200px;height:240px;margin-right:10px;" align="left">
 
 <b>Mr Gunal Kanna</b>
 
@@ -40,6 +40,6 @@ On 25 Jan 2021, SAC members from TPPS SAC committee 2019 – 2020 were awarded w
 *   Dr Thomas Chong – Award Category : 20 Years and Above
 ![](/images/SAC.png)
 
-*   Mr Salauddin S S  - Award Category :  10 – 19 Years.
+*   Mr Salauddin S S&nbsp; - Award Category :&nbsp; 10 – 19 Years.
 ![](/images/SAC1.png)
 We congratulate and thank them for all their past contributions to the school and their service to education in Singapore.
