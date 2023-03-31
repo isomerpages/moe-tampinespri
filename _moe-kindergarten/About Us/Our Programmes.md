@@ -30,7 +30,7 @@ From 2022: K1, K2, KCare
 |             AM Session            | 8 a.m. to 12 p.m. |
 |             PM Session            |  1 p.m. to 5 p.m. |
 
-<i>MK@TPPS follows MOE's calendar of school terms and school holidays.</i>
+<center> <i>MK@TPPS follows MOE's calendar of school terms and school holidays. </i> </center>
 
 
 <style type="text/css">
