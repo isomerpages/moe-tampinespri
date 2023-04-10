@@ -21,7 +21,7 @@ Service Providers
 
 
 
-### **School Uniform & PE Attire Supplier**
+### **School Uniform &amp; PE Attire Supplier**
 
 | **Company**               | **Shanghai School Uniforms Pte Ltd**                                                                                                                     |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
