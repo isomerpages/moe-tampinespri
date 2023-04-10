@@ -44,9 +44,8 @@ Students must:
 *   Students are to wear the prescribed school uniform and modification to the school uniform is not allowed.&nbsp;
 *   Students must be in full school uniform at all times except during PE lessons when they are to be in the official PE attire.&nbsp;
 
-a. <b>School Uniform</b>
-
-   <b>GIRLS:</b>&nbsp;A white, short sleeved blouse with collar and school crest sewn on the top left of the blouse, and a blue skirt with the hem no shorter than 2 cm above the knee. Blouse to be tucked out.  
+a. <b>School Uniform</b> <br>
+<b>GIRLS:</b>&nbsp;A white, short sleeved blouse with collar and school crest sewn on the top left of the blouse, and a blue skirt with the hem no shorter than 2 cm above the knee. Blouse to be tucked out.  
       
    <b>BOYS:</b>&nbsp;A white, short-sleeved shirt with collar and school crest sewn on the pocket, a pair of blue shorts that are not too baggy, tight or hung low at the waist. Shirt to be tucked out.  
       
