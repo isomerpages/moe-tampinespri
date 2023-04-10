@@ -37,7 +37,7 @@ From 2004, the school has taken on the multi-approach of furthering the frontier
 
   
 
-In 2007, Programme for Rebuilding & Improving Existing Schools (PRIME) for the school was confirmed and single session for all levels was also experimented on the Monday of each week. By going single session, more facilities were freed up for after school enrichment programmes. The school has implemented single session, starting lessons at 8.00am from 2008. Come December 2009, when PRIME is completed, students can look forward to a new school building blessed with better and improved facilities for an enriched teaching and learning experience.
+In 2007, Programme for Rebuilding &amp; Improving Existing Schools (PRIME) for the school was confirmed and single session for all levels was also experimented on the Monday of each week. By going single session, more facilities were freed up for after school enrichment programmes. The school has implemented single session, starting lessons at 8.00am from 2008. Come December 2009, when PRIME is completed, students can look forward to a new school building blessed with better and improved facilities for an enriched teaching and learning experience.
 
   
 
