@@ -18,7 +18,7 @@ Curriculum Hours
 | Thursday      | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
 | Friday        | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.00 a.m. - 9.30 a.m. | Gate 1 (Primary School Gate) |
 
-***
+_\*until further notice_
 
 | **Primary 2** |                        |                 |                        |                               |
 |---------------|------------------------|-----------------|------------------------|-------------------------------|
