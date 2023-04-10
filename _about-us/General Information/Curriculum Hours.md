@@ -23,11 +23,11 @@ _\*until further notice_
 | **Primary 2** |                        |                 |                        |                               |
 |---------------|------------------------|-----------------|------------------------|-------------------------------|
 |               | **School Hours**       | **Snack Break** | **Recess/Lunch**       | **Dismissal Point**           |
-| **Monday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
-| **Tuesday**   | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
-| **Wednesday** | 7.50 a.m. - 12.30 p.m. | 11.30 a.m.      |                        | Gate 1A (Primary School Gate) |
-| **Thursday**  | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
-| **Friday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 9.30 a.m. - 10.00 a.m. | Gate 1A (Primary School Gate) |
+| **Monday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 10.30 a.m. - 11.00 a.m. | Gate 1A (Primary School Gate) |
+| **Tuesday**   | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 10.30 a.m. - 11.00 a.m. | Gate 1A (Primary School Gate) |
+| **Wednesday** | 7.50 a.m. - 12.30 p.m. | 11.30 a.m.      | 10.30 a.m. - 11.00 a.m.                       | Gate 1A (Primary School Gate) |
+| **Thursday**  | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 10.30 a.m. - 11.00 a.m. | Gate 1A (Primary School Gate) |
+| **Friday**    | 7.50 a.m. - 2.00 p.m.  | 12.30 p.m.      | 10.30 a.m. - 11.00 a.m. | Gate 1A (Primary School Gate) |
 
 ***
 
