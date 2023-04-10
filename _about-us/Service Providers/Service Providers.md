@@ -82,6 +82,8 @@ Service Providers
 ### **School Student Care Centre**
 
 
-| <b>Company</b> | Kowabunga (Kidz Treehouse) <i>\- until Dec 2022</i> | Commit Learning SchoolHouse (CLS)  <i>\- from Jan 2023</i> |
-| -------- | -------- | -------- |
-| <b>Website</b>     |   [Click Here](/about-us/Service-Providers/Student-Care-Centre-SCC/)    |
+
+|  Company |  Commit Learning SchoolHouse (CLS)<br>- <i>from Jan 2023</i> |
+|----------|-------------------------------------------------------|
+|  Contact |                     Tel: 89319438                     |
+|  Website |                       [Click Here](/about-us/Service-Providers/Student-Care-Centre-SCC/)                      |
