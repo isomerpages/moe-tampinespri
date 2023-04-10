@@ -33,12 +33,6 @@ The round shape represents a holistic education for our students with the total 
 
 ### **Student's Creed**
 
-|            We, the students of Tampines Primary,            |
-|:-----------------------------------------------------------:|
-|           Pledge to be diligent, caring and loyal,          |
-|         To persevere and succeed in all that we do,         |
-|      To strive and be prepared to face new challenges,      |
-| To work as a team, bringing glory to our school and nation. |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
