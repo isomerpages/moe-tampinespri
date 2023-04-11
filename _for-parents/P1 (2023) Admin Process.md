@@ -27,11 +27,11 @@ Welcome to Tampines Primary School!
 
 | Type of Service       | Service Provider Information      | Remarks                                                                                                                                          |
 |-----------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| School Bus Services   | Hui Wang Bus Service              | Bus Booking form hardcopy will be given out on Orientation Day.                                                                                  |
-| Student Care Services | Commit Learning SchoolHouse (CLS) | Refer to the Frequently Asked Questions (FAQ) on Student Care Centre Matters.<br>Commit Learning SchoolHouse CLS SCC 2023 FAQs-1 Nov 22 TPPS.pdf |
-| School Books          | Overseas Associates Pte Ltd       | Booklist 2023_TPPS_PRIMARY 1.pdf                                                                                                                 |
-| School Uniform        | Shanghai School Uniforms Pte Ltd  | Uniform Letter for P1 Parents 2022.pdf<br>TPPS Uniforms sizing chart 2020_Final.jpg                                                              |
-| Name Tags             | Overseas Associates Pte Ltd       | https://oapl.sg/product/productdetails/of-TPP/ii-2.<br><br>All Name Tags Orders placed will be given to your child on the first day of school.   |
+| School Bus Services   | <b>Hui Wang Bus Service</b>              | Bus Booking form hardcopy will be given out on Orientation Day.                                                                                  |
+| Student Care Services | <b>Commit Learning SchoolHouse (CLS)</b> | Refer to the Frequently Asked Questions (FAQ) on Student Care Centre Matters.<br>Commit Learning SchoolHouse CLS SCC 2023 FAQs-1 Nov 22 TPPS.pdf |
+| School Books          | <b>Overseas Associates Pte Ltd</b>       | Booklist 2023_TPPS_PRIMARY 1.pdf                                                                                                                 |
+| School Uniform        | <b>Shanghai School Uniforms Pte Ltd</b>  | Uniform Letter for P1 Parents 2022.pdf<br>TPPS Uniforms sizing chart 2020_Final.jpg                                                              |
+| Name Tags             | <b>Overseas Associates Pte Ltd</b>       | https://oapl.sg/product/productdetails/of-TPP/ii-2.<br><br>All Name Tags Orders placed will be given to your child on the first day of school.   |
 
 
 If you miss the orientation sales day, school uniforms and books can still be ordered online and opt for delivery or self-collection, please follow the dates allocated during checkout via the respective vendor’s sales website. Please note that there will be delivery charges.
