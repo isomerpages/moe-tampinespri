@@ -37,7 +37,7 @@ First Day of School 2023 Info
   </tr>
   <tr>
     <td>Dismissal points</td>
-    <td>*Parents are only allowed to drive into the school after 2.15pm.</td>
+		<td><img style="width:80%" src="/images/firstday.png">*Parents are only allowed to drive into the school after 2.15pm.</td>
   </tr>
   <tr>
     <td>Items to bring</td>
