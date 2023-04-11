@@ -22,27 +22,26 @@ To build in our students a strong foundation in the English Language through the
 
 ### **Towards a Rich Language Learning Experience**
 
-The English Department is committed to provide experiential and authentic learning experiences to enable students to explore and integrate knowledge and skills. 
+The English Department is committed to provide experiential and authentic learning experiences to enable students to explore and integrate knowledge and skills.&nbsp;
 
   
 
-<b>Reading Mum & Dad Programme</b> <br>
+<b>Reading Mum &amp; Dad Programme</b> <br>
 “The world belongs to those who read.” <br>
 – Rick Holland
 
-The programme is an initiative by the English Department in partnership with our Parent Volunteers (PV) to promote a love of reading among our P1 and P2 students. The weekly programme is helmed by the Learning Support Co-ordinators and dedicated PV to promote the joy of reading to selected students. 
+The programme is an initiative by the English Department in partnership with our Parent Volunteers (PV) to promote a love of reading among our P1 and P2 students. The weekly programme is helmed by the Learning Support Co-ordinators and dedicated PV to promote the joy of reading to selected students.&nbsp;
 
-They guide each student one-on-one at their own pace with a variety of materials and a range of books provided by the department in their reading. It is a child-directed approach. The students in the programme enjoy these weekly sessions and look forward to meeting their ‘Aunties and Uncles’. 
+They guide each student one-on-one at their own pace with a variety of materials and a range of books provided by the department in their reading. It is a child-directed approach. The students in the programme enjoy these weekly sessions and look forward to meeting their ‘Aunties and Uncles’.&nbsp;
 
 A picture paints a thousand words and so, let the following pictures capture some wonderful moments during the sessions.
 
 ![](/images/English.png)
 
 <b>kidsREAD Club</b> <br>
-It is a collaboration between the National Library Board (NLB) and our school to expose selected P1-P2 students to different book genres. We intend to inculcate in them the deep love for reading and hope that they carry on this habit for a lifetime. The students are involved in doing other interesting tasks that are found in their activity books provided by the NLB. To entice them, our very own PSG members also conduct craft activities that are related to the theme of the story.  
+It is a collaboration between the National Library Board (NLB) and our school to expose selected P1-P2 students to different book genres. We intend to inculcate in them the deep love for reading and hope that they carry on this habit for a lifetime. The students are involved in doing other interesting tasks that are found in their activity books provided by the NLB.&nbsp;To entice them, our very own PSG members also conduct craft activities that are related to the theme of the story.&nbsp;&nbsp;
 
-<i>"I do believe something very magical can happen when you read a good book."</i>
-
+<i>"I do believe something very magical can happen when you read a good book."</i> <br>
 <i>\- J.K. Rowling</i>
 
 ![](/images/English2.png)
