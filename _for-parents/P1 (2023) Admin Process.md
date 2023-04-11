@@ -31,7 +31,7 @@ Welcome to Tampines Primary School!
 | Student Care Services | <b>Commit Learning SchoolHouse (CLS)</b> | Refer to the Frequently Asked Questions (FAQ) on Student Care Centre Matters.<br>[Commit Learning SchoolHouse CLS SCC 2023 FAQs-1 Nov 22 TPPS.pdf](/files/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%202023%20FAQs%20Tampines%20Primary%20School.pdf) |
 | School Books          | <b>Overseas Associates Pte Ltd</b>       | [Booklist 2023_TPPS_PRIMARY 1.pdf](/files/booklist%202023_tpps_primary%201.pdf)                                                                                                                 |
 | School Uniform        | <b>Shanghai School Uniforms Pte Ltd</b>  | [Uniform Letter for P1 Parents 2022.pdf](/files/uniform%20letter%20for%20p1%20parents%202022.pdf)                                                              |
-| Name Tags             | <b>Overseas Associates Pte Ltd</b>       | https://oapl.sg/product/productdetails/of-TPP/ii-2.<br><br>All Name Tags Orders placed will be given to your child on the first day of school.   |
+| Name Tags             | <b>Overseas Associates Pte Ltd</b>       | [https://oapl.sg/product/productdetails/of-TPP/ii-2.](https://oapl.sg/product/productdetails/of-TPP/ii-2)<br><br>All Name Tags Orders placed will be given to your child on the first day of school.   |
 
 
 If you miss the orientation sales day, school uniforms and books can still be ordered online and opt for delivery or self-collection, please follow the dates allocated during checkout via the respective vendor’s sales website. Please note that there will be delivery charges.
