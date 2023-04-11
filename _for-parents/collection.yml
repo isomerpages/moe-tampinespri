@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Letter to Parents.md
+      - Letters to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
       - Financial Assistance Scheme/.keep
