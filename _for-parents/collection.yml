@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 (2023) Admin Process.md
       - Letters to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
@@ -12,6 +11,7 @@ collections:
         Money Fund.md
       - Group Personal Accident Insurance for Students.md
       - First Day of School 2023 Info.md
+      - P1 (2023) Admin Process.md
       - Booklist for AY2023.md
       - Exam Schedules.md
       - P1 (2023) Orientation Day.md
