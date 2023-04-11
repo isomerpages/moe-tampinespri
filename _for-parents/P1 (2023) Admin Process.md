@@ -29,10 +29,9 @@ Welcome to Tampines Primary School!
 |-----------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | School Bus Services   | <b>Hui Wang Bus Service</b>              | Bus Booking form hardcopy will be given out on Orientation Day.                                                                                  |
 | Student Care Services | <b>Commit Learning SchoolHouse (CLS)</b> | Refer to the Frequently Asked Questions (FAQ) on Student Care Centre Matters.<br>[Commit Learning SchoolHouse CLS SCC 2023 FAQs-1 Nov 22 TPPS.pdf](/files/Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%202023%20FAQs%20Tampines%20Primary%20School.pdf) |
-| School Books          | <b>Overseas Associates Pte Ltd</b>       | Booklist 2023_TPPS_PRIMARY 1.pdf                                                                                                                 |
+| School Books          | <b>Overseas Associates Pte Ltd</b>       | [Booklist 2023_TPPS_PRIMARY 1.pdf](/files/booklist%202023_tpps_primary%201.pdf)                                                                                                                 |
 | School Uniform        | <b>Shanghai School Uniforms Pte Ltd</b>  | Uniform Letter for P1 Parents 2022.pdf<br>TPPS Uniforms sizing chart 2020_Final.jpg                                                              |
 | Name Tags             | <b>Overseas Associates Pte Ltd</b>       | https://oapl.sg/product/productdetails/of-TPP/ii-2.<br><br>All Name Tags Orders placed will be given to your child on the first day of school.   |
-
 
 
 
