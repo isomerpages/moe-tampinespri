@@ -41,7 +41,7 @@ First Day of School 2023 Info
   </tr>
   <tr>
     <td>Items to bring</td>
-    <td>1) Personal Thermometer<br><br>2) Personal hand sanitiser<br>3) Wet wipes<br>4) Extra masks<br>5) Healthy Snack (please refer <a href="https://tampinespri.moe.edu.sg/about-us/general-information/curriculum-hours">here</a>)<br>6) Pencil Case<br>7) Water Bottle<br>8) Colouring materials<br>9) Story Book<br>10) TPPS Student Diary<br>11) Report book (if not returned yet)<br> <br>*Students do not need to bring books on the 1st day of school.</td>
+    <td>1) Personal Thermometer<br><br>2) Personal hand sanitiser<br>3) Wet wipes<br>4) Extra masks<br>5) Healthy Snack (please refer <a href="/about-us/General-Information/Curriculum-Hours/">here</a>)<br>6) Pencil Case<br>7) Water Bottle<br>8) Colouring materials<br>9) Story Book<br>10) TPPS Student Diary<br>11) Report book (if not returned yet)<br> <br>*Students do not need to bring books on the 1st day of school.</td>
   </tr>
 </tbody>
 </table>
