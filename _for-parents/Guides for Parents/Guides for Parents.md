@@ -22,12 +22,8 @@ Guides for Parents
 
 ### **Resources**
 
-[Parent Kit - Supporting your child during Full HBL.pdf](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
-
-[Resource 2 Parent Kit on Student Vaccination Exercise.pdf](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
-
-[Resource 3 One page Infographic on Student Vaccination Exercise.pdf](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
-
-[Parent Kit - Family Fun for the Holidays.pdf](/files/Parent%20Kit%20-%20Family%20Fun%20for%20the%20Holidays.pdf)
-
+[Parent Kit - Supporting your child during Full HBL.pdf](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)<br>
+[Resource 2 Parent Kit on Student Vaccination Exercise.pdf](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)<br>
+[Resource 3 One page Infographic on Student Vaccination Exercise.pdf](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)<br>
+[Parent Kit - Family Fun for the Holidays.pdf](/files/Parent%20Kit%20-%20Family%20Fun%20for%20the%20Holidays.pdf)<br>
 [Cyber Wellness for Your Child](/files/cyber-wellness-for-your-child.pdf)
