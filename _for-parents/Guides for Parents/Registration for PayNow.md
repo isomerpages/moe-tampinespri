@@ -36,20 +36,16 @@ Thank you.
 
   
 
-<b>More information on PayNow</b>
-
+<b>More information on PayNow</b> <br>
 [https://go.gov.sg/abspaynow](https://go.gov.sg/abspaynow)
 
   
 
-<b>Online form to set up PayNow</b>
-
+<b>Online form to set up PayNow</b> <br>
 [https://go.gov.sg/paynowregister](https://go.gov.sg/paynowregister)
 
   
 
-<u><b>File attachments</b></u>
-
-[20201122_Guide_on_PayNow_Registration.pdf](/files/Guide_on_PayNow_Registration.pdf)
-
+<u><b>File attachments</b></u> <br>
+[20201122_Guide_on_PayNow_Registration.pdf](/files/Guide_on_PayNow_Registration.pdf) <br>
 [20201122_FAQ_on_PayNow.pdf](/files/FAQ_on_PayNow.pdf)
