@@ -41,13 +41,13 @@ Principal
 
 Kindly take note of the following assessment details:
 
-1.  P1 &amp; P2 students do not sit for Weighted Assessment (WA) or End-of-Year Examinations. Termly reviews and performance tasks (NWA) will be conducted formatively for these students throughout the academic year.
+1.P1 &amp; P2 students do not sit for Weighted Assessment (WA) or End-of-Year Examinations. Termly reviews and performance tasks (NWA) will be conducted formatively for these students throughout the academic year.
   
-3.  Reviews and performance tasks (NWA) are also conducted throughout the academic year for P3 to P6 students. More information on NWA &amp; WA will be provided in a separate PG memo through the Year Heads.
+2.Reviews and performance tasks (NWA) are also conducted throughout the academic year for P3 to P6 students. More information on NWA &amp; WA will be provided in a separate PG memo through the Year Heads.
   
-5.  There are no weightings for all reviews and performance tasks (NWA) conducted in school.
+3.There are no weightings for all reviews and performance tasks (NWA) conducted in school.
   
-7.  WA denotes Weighted Assessment  
+4.WA denotes Weighted Assessment  
     NWA denotes Non-Weighted Assessment EYE denotes End-of-Year Examination  
     PSLE denotes Primary School Leaving Examination
 		
@@ -55,3 +55,24 @@ Kindly take note of the following assessment details:
 ### <center> **Weighted Assessment &amp; Examination Policy 2023** </center>
 
 #### **For: Weighted Assessments &amp; End-of-Year Examinations (All P3 to P6 students)**
+
+
+1.Any absence from the weighted assessments or examinations must be covered by a valid medical certificate from a private or government clinic/hospital. Students are required to submit their medical certificate(s) to their Form Teachers on the day they return to school. Students who are absent without a valid reason or a medical certificate will not be awarded any marks for the assessment(s) they have missed. Medical certificates or letters issued by traditional medical practitioners will not be accepted.
+  
+2.Students who are absent with valid medical certificates will rest at home for the entire duration of their medical leave. They will be marked as absent with valid reason. Their results will be accordingly adjusted so that they are not penalized for being absent with valid reason.
+  
+3.Students who are absent for any written papers can sit for them as independent practice when they are well and back in school. However, the marks attained will not be recorded in their Holistic Development Profile (HDP) for it to be used for award purposes.
+  
+4.Students are required to be punctual for all weighted assessments and examinations. Students who are late (no later than 15 minutes) can sit for the remaining duration of the papers with no additional time provided.
+  
+5.There is no make up for P3 to P6 students who are absent for their Weighted Assessments, Listening Comprehension and End-of-Year Examinations. For students who are absent from the oral component, teachers will use the reserve date(s).
+  
+6.Students who are absent for any of the language components with valid medical certificate(s)/compassionate reasons will be given Valid Reason (V.R.) for the subject.
+  
+7.Students are required to bring all necessary materials e.g., approved dictionaries, calculators, geometry sets, 2B pencils and erasers for their weighted assessments and examinations. During the conduct of the weighted assessments and examinations, students are not allowed to borrow stationery from other students.
+  
+8.The duration for each paper includes the time spent for reading the questions. No extra time will be provided.
+  
+9.Students are strongly encouraged to write their answers legibly without the use of any correction tape/fluid and erasable pen. They should persevere and attempt all items in the question paper(s).
+  
+10.No extra time will be provided to students who visit the washrooms during the conduct of the weighted assessments and examinations.
