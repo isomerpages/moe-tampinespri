@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Assessment Information 2023.md
       - Letters to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
