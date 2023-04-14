@@ -80,3 +80,23 @@ Kindly take note of the following assessment details:
 
 
 #### **Code of Conduct/Behaviour**
+
+11.Students must not have in their possession:
+  
+
+a. Any unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information within the weighted assessment and examination venues.
+  
+b. Any unauthorized materials/notes even if they do not intend to use them within the weighted assessment and examination venues. E.g., conversion table/mathematical formula sheet printed on the math instrument box.
+  
+c. Any calculator or dictionary that are not listed in the list of approved calculators/dictionaries.
+  
+
+12.Students who are found in possession of any unauthorized devices/materials are liable to the same penalty as those who are caught cheating.
+  
+13.Students should not communicate or attempt to communicate (verbal or non-verbal) with other students during the conduct of the weighted assessments and examinations and the collection of the answer scripts.
+  
+14.Students are not to remove any used/unused papers and/or answer scripts from the weighted assessment and examination venues.
+  
+15.Disciplinary actions will be taken on students who cheat, attempt to cheat or misbehave during the examinations and this includes the issuance of a warning letter and/or forfeiture of the weighted assessment/examination results.
+  
+16.Students who are found to have changed or attempted to change their answers on their weighted assessment/examination scripts while teachers go through the papers, will face disciplinary consequences which may include having their results forfeited.
