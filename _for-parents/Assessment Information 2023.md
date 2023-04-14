@@ -26,3 +26,14 @@ Principal
 
 
 ### <center> **Assessment Plan 2023** </center>
+
+| **Term / Level** | **Term 1**                 | **Term 2**              | **Term 3**        | **Term 4**  | **Weighting (Total)** |
+|------------------|----------------------------|-------------------------|-------------------|-------------|-----------------------|
+| **P3**           | NWA                        | 15% (WA)                | 15% (WA)          | 70% (EYE)   | 100%                  |
+| **P4**           | NWA                        | 15% (WA)                | 15% (WA)          | 70% (EYE)   | 100%                  |
+| **P5**           | NWA                        | 15% (WA)                | 15% (WA)          | 70% (EYE)   | 100%                  |
+| **P6**           | NWA<br>(Diagnostic Review) | NWA<br>(Timed Practice) | 100%<br>(Prelims) | 100% (PSLE) | 100%<br>(Independent) |
+| **P5 Fdn**       | NWA                        | 15% (WA)                | 15% (WA)          | 70% (EYE)   | 100%                  |
+| **P6 Fdn**       | NWA<br>(Diagnostic Review) | NWA<br>(Timed Practice) | 100%<br>(Prelims) | 100% (PSLE) | 100%<br>(Independent) |
+| **P5 HMTL**      | NWA                        | 15% (WA)                | 15% (WA)          | 70% (EYE)   | 100%                  |
+| **P6 HMTL**      | NWA<br>(Diagnostic Review) | NWA<br>(Timed Practice) | 100%<br>(Prelims) | 100% (PSLE) | 100%<br>(Independent) |
