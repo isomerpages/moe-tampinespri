@@ -53,3 +53,5 @@ Kindly take note of the following assessment details:
 		
 		
 ### <center> **Weighted Assessment &amp; Examination Policy 2023** </center>
+
+#### **For: Weighted Assessments &amp; End-of-Year Examinations (All P3 to P6 students)**
