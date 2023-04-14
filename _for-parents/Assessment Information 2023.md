@@ -76,3 +76,7 @@ Kindly take note of the following assessment details:
 9.Students are strongly encouraged to write their answers legibly without the use of any correction tape/fluid and erasable pen. They should persevere and attempt all items in the question paper(s).
   
 10.No extra time will be provided to students who visit the washrooms during the conduct of the weighted assessments and examinations.
+
+
+
+#### **Code of Conduct/Behaviour**
