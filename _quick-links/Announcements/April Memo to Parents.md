@@ -25,7 +25,7 @@ Please click on the link below for the April Memo.
 
   
 
-[Click here to download the Memo for April](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/letters-to-parents-2022)
+[Click here to download the Memo for April](/for-parents/letters-to-parents/)
 
   
 
