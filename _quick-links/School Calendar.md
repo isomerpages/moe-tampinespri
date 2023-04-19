@@ -8,4 +8,3 @@ description: ""
 School Calendar
 ===============
 
-Note: School Calendar can be ported to google calendar to be embedded onto isomer
