@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/School Health Visit for Primary 1 to 6 Students.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
@@ -11,6 +10,7 @@ collections:
       - Announcements/February Memo to Parents.md
       - Announcements/March Memo to Parents.md
       - Announcements/April Memo to Parents.md
+      - Announcements/School Health Visit for Primary 1 to 6 Students.md
       - Announcements/Assessment Information 2023.md
       - Announcements/May Memo to Parents.md
       - Announcements/June Memo to Parents.md
