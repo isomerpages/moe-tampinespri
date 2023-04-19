@@ -11,4 +11,4 @@ Announcements
 =============
 
 1.  [January Memo to Parents](/quick-links/Announcements/January-Memo-to-Parents/)
-    
+2.  [Group Personal Accident Insurance for Students](/quick-links/announcements/group-personal-accident-insurance-for-students/)
