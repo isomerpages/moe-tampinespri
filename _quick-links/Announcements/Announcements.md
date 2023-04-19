@@ -15,3 +15,4 @@ Announcements
 3.  [Say No to Single-Use Plastic](/quick-links/announcements/say-no-to-single-use-plastic/)
 4.  [Application for Straits Times School Pocket Money Fund](/for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/)
 5.  [Assessment Information 2023](/quick-links/announcements/assessment-information-2023/)
+6.  [February Memo to Parents](/quick-links/announcements/february-memo-to-parents/)
