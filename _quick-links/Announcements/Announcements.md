@@ -17,3 +17,4 @@ Announcements
 5.  [Assessment Information 2023](/quick-links/announcements/assessment-information-2023/)
 6.  [February Memo to Parents](/quick-links/announcements/february-memo-to-parents/)
 7.  [March Memo to Parents](/quick-links/announcements/march-memo-to-parents/)
+8.  [April Memo to Parents](/quick-links/announcements/april-memo-to-parents/)
