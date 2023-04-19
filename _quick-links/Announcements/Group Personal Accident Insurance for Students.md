@@ -18,7 +18,7 @@ Group Personal Accident Insurance for Students
 
   
 
-MOE has purchased the Group Personal Accident Insurance from Income Insurance Limited for all students for 2023. This is a basic accident insurance plan.  Do refer [here](https://tampinespri.moe.edu.sg/for-parents/group-personal-accident-insurance-for-students) for the details of the Group Personal Accident Insurance for students.
+MOE has purchased the Group Personal Accident Insurance from Income Insurance Limited for all students for 2023. This is a basic accident insurance plan.  Do refer [here](/for-parents/group-personal-accident-insurance-for-students/) for the details of the Group Personal Accident Insurance for students.
 
   
 
