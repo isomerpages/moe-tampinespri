@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/Assessment Information 2023.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
