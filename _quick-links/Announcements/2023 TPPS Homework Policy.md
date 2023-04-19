@@ -13,7 +13,7 @@ Dear parents,
 
   
 
-Kindly refer [here](https://tampinespri-moe-edu-sg-admin.cwp.sg/for-parents/2023-tpps-homework-policy) on our Homework Policy 2023.
+Kindly refer [here](/for-parents/2023-tpps-homework-policy/) on our Homework Policy 2023.
 
   
 
