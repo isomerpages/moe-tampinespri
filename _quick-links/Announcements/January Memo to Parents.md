@@ -25,7 +25,7 @@ Thank you.
 
   
 
-[Click here to download the memo](https://tampinespri.moe.edu.sg/for-parents/letter-to-parents)
+[Click here to download the memo](/for-parents/letters-to-parents/)
 
   
 
