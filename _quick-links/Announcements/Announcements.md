@@ -18,3 +18,4 @@ Announcements
 6.  [February Memo to Parents](/quick-links/announcements/february-memo-to-parents/)
 7.  [March Memo to Parents](/quick-links/announcements/march-memo-to-parents/)
 8.  [April Memo to Parents](/quick-links/announcements/april-memo-to-parents/)
+9.  [School Health Visit for Primary 1 to 6 Students](/quick-links/announcements/school-health-visit-for-primary-1-to-6-students/)
