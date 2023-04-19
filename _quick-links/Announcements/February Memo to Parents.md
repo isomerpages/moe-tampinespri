@@ -8,3 +8,17 @@ third_nav_title: Announcements
 
 February Memo to Parents
 ========================
+
+Dear Parents/Guardians,
+
+  
+
+[Click here to download the letter](https://tampinespri.moe.edu.sg/for-parents/letter-to-parents)&nbsp;
+
+  
+
+Thank you.
+
+  
+
+<b>Tampines Primary School</b>
