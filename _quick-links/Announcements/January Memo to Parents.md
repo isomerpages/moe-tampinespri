@@ -9,7 +9,7 @@ third_nav_title: Announcements
 January Memo to Parents
 =======================
 
-21 Jan 2022
+6 Jan 2023  
 
   
 
@@ -17,19 +17,20 @@ Dear Parents and Guardians,
 
   
 
-With your encouragement and support, our students have been able to settle down quickly to their new class routines.
-
-Please refer to the memo for details.
+Please refer to the attachment for the January memo to parents.
 
   
 
-[Click here to download the memo](/for-parents/Letters-to-Parents-2022/)
+Thank you.
+
+  
+
+[Click here to download the memo](https://tampinespri.moe.edu.sg/for-parents/letter-to-parents)
 
   
 
   
 
-Thank you and take care.
 
   
 
