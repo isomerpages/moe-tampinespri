@@ -27,5 +27,7 @@ Thank you.
 
 Tampines Primary School
 
-<b>File attachments</b>
 
+
+<b>File attachments</b> <br>
+[TPPS-07-2023 - Say No to Single-Use Plastic Memo.pdf](/files/tpps-07-2023%20-%20say%20no%20to%20single-use%20plastic%20memo.pdf)
