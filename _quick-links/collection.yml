@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/School Health Visit for Primary 1 to 6 Students.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
