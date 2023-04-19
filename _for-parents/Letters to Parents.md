@@ -15,6 +15,7 @@ Letters to Parents
 
 ### **January 2023**
 
+[TPPS-03-2023 - Memo Jan 2023.pdf](/files/tpps-03-2023%20-%20memo%20jan%202023.pdf)
 
 
 ### **February 2023**
