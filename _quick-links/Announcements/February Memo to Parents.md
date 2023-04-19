@@ -13,7 +13,7 @@ Dear Parents/Guardians,
 
   
 
-[Click here to download the letter](https://tampinespri.moe.edu.sg/for-parents/letter-to-parents)&nbsp;
+[Click here to download the letter](/for-parents/letters-to-parents/)
 
   
 
