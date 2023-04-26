@@ -17,7 +17,7 @@ For Parents
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-efvi{border-color:#ffffff;color:#d900ff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 736px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 736px">
 <colgroup>
 <col style="width: 736px">
 </colgroup>

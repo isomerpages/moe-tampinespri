@@ -10,32 +10,12 @@ third_nav_title: Announcements
 Announcements
 =============
 
-1.  [Student TraceTogether Tokens (TTT)](/quick-links/Announcements/Student-TraceTogether-Tokens-TTT/)
-2.  [January Memo to Parents](/quick-links/Announcements/January-Memo-to-Parents/)
-    
-3.  [March Memo to Parents](/quick-links/Announcements/March-Memo-to-Parents/)
-    
-4.  [April Memo to Parents](/quick-links/Announcements/April-Memo-to-Parents/)
-    
-5.  [May Memo to Parents](/quick-links/Announcements/May-Memo-to-Parents/)
-    
-6.  [June Memo to Parents](/quick-links/Announcements/June-Memo-to-Parents/)
-    
-7.  [August Memo to Parents](/quick-links/Announcements/August-Memo-to-Parents/)
-    
-8.  [Teacher’s Day Appreciation Wall 2022](/quick-links/Announcements/Teachers-Day-Appreciation-Wall-2022/)  
-    
-9.  [September Memo to Parents](/quick-links/Announcements/September-Memo-to-Parents/)
-    
-10.  [Application for 2023 MOE Financial Assistance Scheme](/quick-links/Announcements/Application-for-2023-MOE-Financial-Assistance-Scheme/)
-    
-11.  [Notification for Change of Student Care Centre (SCC) Operator in Tampines Primary School](/quick-links/Announcements/Notification-for-Change-of-SCC-Operator-in-Tampines-Primary-School/) 
-    
-12.  [Notification for Change of Student Care Centre (SCC) Operator (FAQs)](/quick-links/Announcements/Notification-for-Change-of-Student-Care-Centre-SCC-Operator-FAQs/)  
-    
-13.  [In-conversation with Stakeholders 2022](/quick-links/Announcements/In-conversation-with-Stakeholders-2022/)
-    
-14.  [Tampines Primary P1 (2023) Orientation Day](/quick-links/Announcements/Tampines-Primary-P1-2023-Orientation-Day/) 
-    
-15.  [November Memo to Parents](/quick-links/Announcements/November-Memo-to-Parents/)
-16.  [2022 Appreciation to all teachers](/quick-links/Announcements/2022-Appreciation-to-all-Teachers/)
+1.  [January Memo to Parents](/quick-links/Announcements/January-Memo-to-Parents/)
+2.  [Group Personal Accident Insurance for Students](/quick-links/announcements/group-personal-accident-insurance-for-students/)
+3.  [Say No to Single-Use Plastic](/quick-links/announcements/say-no-to-single-use-plastic/)
+4.  [Application for Straits Times School Pocket Money Fund](/for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/)
+5.  [Assessment Information 2023](/quick-links/announcements/assessment-information-2023/)
+6.  [February Memo to Parents](/quick-links/announcements/february-memo-to-parents/)
+7.  [March Memo to Parents](/quick-links/announcements/march-memo-to-parents/)
+8.  [April Memo to Parents](/quick-links/announcements/april-memo-to-parents/)
+9.  [School Health Visit for Primary 1 to 6 Students](/quick-links/announcements/school-health-visit-for-primary-1-to-6-students/)

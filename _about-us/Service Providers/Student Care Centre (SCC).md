@@ -9,13 +9,13 @@ third_nav_title: Service Providers
 Student Care Centre (SCC)
 =========================
 
-<i><b>Note:</b> Kidz Treehouse will cease its operations at Tampines Primary School with effect from <u>31 December 2022</u>. Commit Learning Schoolhouse (CLS) will be the new school-based Student Care Centre (SSCC) from <u>1 Jan 2023</u>.</i>
+<i><b>Note:</b>&nbsp;Kidz Treehouse will cease its operations at Tampines Primary School with effect from&nbsp;<u>31 December 2022</u>. Commit Learning Schoolhouse (CLS) will be the new school-based Student Care Centre (SSCC) from&nbsp;<u>1 Jan 2023</u>.</i>
 
 The school’s school-based Student Care Centre (SCC) seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.
 
 If you are keen to enrol your child in our SCC, please refer to the information below.
 
-<b>Application form:</b> [Link to Online Form](https://forms.gle/CS81S1v22FxKpGUaA)
+<b>Application form:</b>&nbsp;[Link to Online Form](https://forms.gle/CS81S1v22FxKpGUaA)
 
 
 ### **Commit Learning Schoolhouse (CLS)**
@@ -48,5 +48,3 @@ Management
 Commit Learning SchoolHouse
 
 <center> <b>We are committed to bringing out the best in every student</b> </center>
-
-

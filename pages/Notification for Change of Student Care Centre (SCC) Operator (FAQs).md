@@ -2,7 +2,6 @@
 title: Notification for Change of Student Care Centre (SCC) Operator (FAQs)
 permalink: /quick-links/Announcements/Notification-for-Change-of-Student-Care-Centre-SCC-Operator-FAQs/
 description: ""
-third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
@@ -13,7 +12,7 @@ Notification for Change of Student Care Centre (SCC) Operator (FAQs)
 
   
 
-Dear Parents of Students @ Tampines Primary School Student Care Centre (SCC)   
+Dear Parents of Students @ Tampines Primary School Student Care Centre (SCC)&nbsp;  
 
   
 

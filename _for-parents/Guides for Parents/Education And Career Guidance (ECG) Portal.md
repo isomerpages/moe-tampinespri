@@ -9,15 +9,15 @@ third_nav_title: Guides for Parents
 Education And Career Guidance (ECG) Portal
 ==========================================
 
-23 Sep 2020   
+23 Sep 2020&nbsp;  
   
-The ECG program from the MySkillsFuture student portal gives an opportunity to equip your child/ward to make informed decisions regarding his/her post primary education.   
+The ECG program from the MySkillsFuture student portal gives an opportunity to equip your child/ward to make informed decisions regarding his/her post primary education.&nbsp;  
   
-The activities in the portal are meant for your child to explore and think and be curious about their interests, abilities and passion. You and your child can log-on to the MySkillsfuture Student Portal to continue their journey and discover more.   
+The activities in the portal are meant for your child to explore and think and be curious about their interests, abilities and passion. You and your child can log-on to the MySkillsfuture Student Portal to continue their journey and discover more.&nbsp;  
   
-Please see attached letter for details.   
+Please see attached letter for details.&nbsp;  
   
-Thank you.   
+Thank you.&nbsp;  
 <b>Tampines Primary School</b>  
   
 

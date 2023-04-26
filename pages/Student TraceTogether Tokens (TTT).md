@@ -2,7 +2,6 @@
 title: Student TraceTogether Tokens (TTT)
 permalink: /quick-links/Announcements/Student-TraceTogether-Tokens-TTT/
 description: ""
-third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
@@ -56,4 +55,4 @@ Token Go Where
 [https://token.gowhere.gov.sg/](https://token.gowhere.gov.sg/)
 
 
-Note: Protocol 3 link broken. 
+Note: Protocol 3 link broken.

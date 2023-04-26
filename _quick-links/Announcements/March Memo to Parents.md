@@ -1,6 +1,6 @@
 ---
 title: March Memo to Parents
-permalink: /quick-links/Announcements/March-Memo-to-Parents/
+permalink: /quick-links/announcements/march-memo-to-parents/
 description: ""
 third_nav_title: Announcements
 ---
@@ -10,7 +10,7 @@ third_nav_title: Announcements
 March Memo to Parents
 =====================
 
-2 Mar 2022  
+28 Feb 2023  
 
   
 
@@ -22,32 +22,12 @@ Please see the March Memo for more information.
 
   
 
-[Click here to download the Memo](/for-parents/Letters-to-Parents-2022/)
+[Click here to download the Memo](/for-parents/letters-to-parents/)
 
   
 
-We wish you a happy and relaxing March vacation!
-
-  
-
-Stay Safe and Stay Healthy.
-
-  
-
-Thank you.
+Thank you.  
 
   
 
 <b>Tampines Primary School</b>
-
-  
-
-<u><b>Web Link</b></u>
-
-
-Experiences of the vaccination exercise
-
-[https://youtu.be/ZzdjXPV\_xWM](https://youtu.be/ZzdjXPV_xWM)
-
-COVID-19 Updates  
-[https://www.covid.gov.sg/](https://www.covid.gov.sg/)

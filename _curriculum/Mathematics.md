@@ -60,7 +60,7 @@ Together with the English and Science Departments, integrated trails are organis
 
 ### **Math Olympiad Competitions Semester 1**
 
-In Semester 1, a group of P5 and P6 students had participated in two Math Olympiad Competitions, namely, the Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022 and Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2022.
+In Semester 1, a group of P5 and P6 students had participated in two Math Olympiad Competitions, namely, the&nbsp;Raffles Institution Primary Mathematics World Contest (RIPMWC) 2022 and Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2022.
 
 The aim of the Math Olympiad Competitions is to generate greater interest in Mathematics among students in primary schools. It is also an opportunity for them to identify and explore their talents in Mathematics.
 

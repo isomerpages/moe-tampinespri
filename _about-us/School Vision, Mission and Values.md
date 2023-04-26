@@ -8,12 +8,10 @@ description: ""
 School Vision, Mission and Values
 =================================
 
+|  Vision  |  A Community School of Excellence<br> Caring Hearts and Creative Minds |
+|----------|------------------------------------------------------------------------|
+|  Mission |  To Nurture Life-Long Learners of Good Character                       |
+|  Values  |  Integrity, Resilience, Excellence, Adaptability, Passion (iREAP)      |
+|  Motto   |  To Persevere And Succeed                                              |
 
-
-|  Vision  |  A Community School of Excellence  Caring Hearts and Creative Minds |
-|----------|---------------------------------------------------------------------|
-|  Mission |  To Nurture Life-Long Learners of Good Character                    |
-|  Values  |  Integrity, Resilience, Excellence, Adaptability, Passion (iREAP)   |
-|  Motto   |  To Persevere And Succeed                                           |
-
-<img src="/images/diary.jpg" style="width:70%">
+<img src="/images/school_handbook_2023.jpg" style="width:70%">

@@ -1,6 +1,6 @@
 ---
 title: April Memo to Parents
-permalink: /quick-links/Announcements/April-Memo-to-Parents/
+permalink: /quick-links/announcements/april-memo-to-parents/
 description: ""
 third_nav_title: Announcements
 ---
@@ -9,7 +9,11 @@ third_nav_title: Announcements
 April Memo to Parents
 =====================
 
-5 May 2022
+TPPS/27/2023
+
+  
+
+4 April 2023
 
   
 
@@ -17,15 +21,17 @@ Dear Parents/Guardians,
 
   
 
-We look forward to meeting with you face-to-face on 27th May to update you regarding your child/ren’s holistic growth and progress.
+Please click on the link below for the April Memo.  
 
   
 
-Please see April Memo on upcoming Fire Incident Drill and P6 Booster Camp.
+[Click here to download the Memo for April](/for-parents/letters-to-parents/)
 
   
 
-[Click here to download the Memo for April](/for-parents/Letters-to-Parents-2022/)
+<u><b>Web Linkz</b></u> <br>
+<b>Home Education Award Nominations (TPPS)</b> <br>
+[https://form.gov.sg/63b3dbfbe0c05e00130e79f8](https://form.gov.sg/63b3dbfbe0c05e00130e79f8)
 
   
 

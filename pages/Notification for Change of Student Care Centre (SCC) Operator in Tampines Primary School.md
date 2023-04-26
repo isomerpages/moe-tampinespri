@@ -3,7 +3,6 @@ title: Notification for Change of Student Care Centre (SCC) Operator in Tampines
   Primary School
 permalink: /quick-links/Announcements/Notification-for-Change-of-SCC-Operator-in-Tampines-Primary-School/
 description: ""
-third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
@@ -23,11 +22,11 @@ Dear Parents of Students @ Tampines Primary School Student Care Centre (SCC)
 
   
 
-Kidz Treehouse has been our SCC operator since 2017.  The current contract with the company will expire on 31 December 2022.  
+Kidz Treehouse has been our SCC operator since 2017.&nbsp; The current contract with the company will expire on 31 December 2022.  
 
   
 
-In accordance with the government’s financial protocol and guidelines, the school has appointed Commit Learning Schoolhouse Pte Ltd as the new SCC operator from 1 January 2023. 
+In accordance with the government’s financial protocol and guidelines, the school has appointed Commit Learning Schoolhouse Pte Ltd as the new SCC operator from 1 January 2023.&nbsp;
 
   
 
@@ -48,7 +47,7 @@ To support our current students attending the SCC with the transition, please fi
 
   
 
- Thank you.
+&nbsp;Thank you.
 
   
 
@@ -62,4 +61,4 @@ Tampines Primary School
 
   
 
-<i>\*  Parents may submit the Application Form to the school’s General Office.  Existing SCC students will have a priority of a place in SCC 2023.</i>
+<i>\*&nbsp; Parents may submit the Application Form to the school’s General Office.&nbsp; Existing SCC students will have a priority of a place in SCC 2023.</i>

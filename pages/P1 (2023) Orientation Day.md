@@ -14,16 +14,16 @@ Welcome to Tampines Primary School!
 
 #### **1) Orientation Day Details**
 
-We are pleased to inform you that this year’s P1 Orientation will be held physically face to face after a 2-year hiatus. It will take place on Friday, 11 November 2022, 2pm at the school hall. Registration starts from 1.30pm. 
+We are pleased to inform you that this year’s P1 Orientation will be held physically face to face after a 2-year hiatus. It will take place on Friday, 11 November 2022, 2pm at the school hall. Registration starts from 1.30pm.&nbsp;
 
 <b>Detail of P1/2022 Orientation Day as follows:</b>  
-Date: <b>11 November 2022, Friday</b>  
-Time: <b>2pm – 4pm</b>  
-Venue: <b>School Hall, Level 2</b>  
-<b>Note:</b> School books and School uniforms for 2023 P1 students can be purchased on the same day.  
+Date:&nbsp;<b>11 November 2022, Friday</b>  
+Time:&nbsp;<b>2pm – 4pm</b>  
+Venue:&nbsp;<b>School Hall, Level 2</b>  
+<b>Note:</b>&nbsp;School books and School uniforms for 2023 P1 students can be purchased on the same day.  
 Sales will strictly commence only after the end of Orientation Programme in the school hall.
 
-Entry is limited to 2 parents per child. We strongly encourage you to make alternate childcare arrangement for siblings of incoming P1 students, should both parents wish to attend the Orientation Day. 
+Entry is limited to 2 parents per child. We strongly encourage you to make alternate childcare arrangement for siblings of incoming P1 students, should both parents wish to attend the Orientation Day.&nbsp;
 
 Incoming P1 (2023) children are strongly encouraged to attend the orientation as there are activities/short tour arranged for them.
 
@@ -150,7 +150,7 @@ If you miss the orientation sales day, school uniforms and books can still be or
 
 #### **5) Enquiries**
 
-Should you have any queries or require assistance, please contact the school via [tpps@moe.edu.sg](https://tampinespri.moe.edu.sg/for-parents/tpps@moe.edu.sg) or 67831190.
+Should you have any queries or require assistance, please contact the school via&nbsp;[tpps@moe.edu.sg](https://tampinespri.moe.edu.sg/for-parents/tpps@moe.edu.sg)&nbsp;or 67831190.
 
 Best Regards  
 School Admin Team  

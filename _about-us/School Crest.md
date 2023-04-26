@@ -33,6 +33,7 @@ The round shape represents a holistic education for our students with the total 
 
 ### **Student's Creed**
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -96,4 +97,4 @@ The round shape represents a holistic education for our students with the total 
 </table>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mhej_QA_BmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mhej_QA_BmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

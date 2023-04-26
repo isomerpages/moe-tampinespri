@@ -41,14 +41,13 @@ Students must:
 ### 3\. School Uniform and Attire
 
 
-*   Students are to wear the prescribed school uniform and modification to the school uniform is not allowed. 
-*   Students must be in full school uniform at all times except during PE lessons when they are to be in the official PE attire. 
+*   Students are to wear the prescribed school uniform and modification to the school uniform is not allowed.&nbsp;
+*   Students must be in full school uniform at all times except during PE lessons when they are to be in the official PE attire.&nbsp;
 
-a. <b>School Uniform</b>
-
-   <b>GIRLS:</b> A white, short sleeved blouse with collar and school crest sewn on the top left of the blouse, and a blue skirt with the hem no shorter than 2 cm above the knee. Blouse to be tucked out.  
+a. <b>School Uniform</b> <br>
+<b>GIRLS:</b>&nbsp;A white, short sleeved blouse with collar and school crest sewn on the top left of the blouse, and a blue skirt with the hem no shorter than 2 cm above the knee. Blouse to be tucked out.  
       
-   <b>BOYS:</b> A white, short-sleeved shirt with collar and school crest sewn on the pocket, a pair of blue shorts that are not too baggy, tight or hung low at the waist. Shirt to be tucked out.  
+   <b>BOYS:</b>&nbsp;A white, short-sleeved shirt with collar and school crest sewn on the pocket, a pair of blue shorts that are not too baggy, tight or hung low at the waist. Shirt to be tucked out.  
       
    <b>PE Attire:</b>  
     Tampines Primary School PE T-shirt and shorts.  
@@ -70,9 +69,9 @@ d.  <b>Accessories</b>
 *   Spectacles worn should comprise simple plastic or metal frames in gold, silver or black. Luminous/striking coloured frames are not allowed. Only clear plastic lenses are allowed.
 
 e.  <b>Hair Style</b>  
-    <b>GIRLS:</b> Hair should be kept short or neatly tied up with black ribbons not wider than 1 cm. Only simple black plastic or fabric hair bands not wider than 1 cm are allowed. The fringe must be kept above eye brows. Hair that reaches below the collar must be tied up or cut.   
+    <b>GIRLS:</b> Hair should be kept short or neatly tied up with black ribbons not wider than 1 cm. Only simple black plastic or fabric hair bands not wider than 1 cm are allowed. The fringe must be kept above eye brows. Hair that reaches below the collar must be tied up or cut.&nbsp;  
       
-   <b>BOYS:</b> Hair should be short and neatly combed at the back and sides. Hair should be above the eyebrows. Hair should not touch the collar or the tip of the ear. Avoid perming, designs on scalp or extreme shaving of hair at sides to show contrast.  
+   <b>BOYS:</b>&nbsp;Hair should be short and neatly combed at the back and sides. Hair should be above the eyebrows. Hair should not touch the collar or the tip of the ear. Avoid perming, designs on scalp or extreme shaving of hair at sides to show contrast.  
       
    Coloured or tinted hair is not allowed.  
    Students must be neat and tidy at all times. All boys must be clean shaven and no wearing of beards and moustache.
@@ -92,14 +91,14 @@ Students who are not present during the singing of National Anthem will be deeme
 
   
 
-### 5. Absence from School
+### 5.&nbsp;Absence from School
 
 
-Students are expected to be in school every school day. If a student is unable to come to school, parents/guardian are expected to notify the school. When a student is unwell, he/she should see a doctor and remain at home to recover. Any absence from school must be covered by a doctor’s medical certificate or a letter from the parent (for compassionate reasons). This should be handed to the Form Teacher when the student returns to school. 
+Students are expected to be in school every school day. If a student is unable to come to school, parents/guardian are expected to notify the school. When a student is unwell, he/she should see a doctor and remain at home to recover. Any absence from school must be covered by a doctor’s medical certificate or a letter from the parent (for compassionate reasons). This should be handed to the Form Teacher when the student returns to school.&nbsp;
 
   
 
-However, if a student falls sick in school, the parents/guardian will be informed to bring him/her home. 
+However, if a student falls sick in school, the parents/guardian will be informed to bring him/her home.&nbsp;
 
   
 
@@ -112,27 +111,27 @@ Parents should not take their child/children away from school for holidays befor
 Students are not allowed to leave the school during the school hours unless parents or an adult authorised by the parents come personally and obtain permission. They are to sign out at the General Office when fetching the student home.
 
 
-### 7\. Use of devices capable of capturing, storing, displaying and/or transmitting visual, audio and verbal information 
+### 7\. Use of devices capable of capturing, storing, displaying and/or transmitting visual, audio and verbal information&nbsp;
 
 
 <i>Examples of such devices are: mobile phones, fitness trackers and smart wrist watches (including the POSB Smart Buddy)</i>
 
   
 
-Students, with the permission of their parents, must submit a written request for the use of these devices within the school premises. A pass will be issued to the student when permission is granted. 
+Students, with the permission of their parents, must submit a written request for the use of these devices within the school premises. A pass will be issued to the student when permission is granted.&nbsp;
 
   
 
-These devices can only be used within the school premises for emergency purposes. The devices should not be brought into examination rooms. Photography, video and voice recordings and gaming are prohibited within the school premises. Mobile phones must be switched off or put on silent mode at all times within the school premises.  
+These devices can only be used within the school premises for emergency purposes. The devices should not be brought into examination rooms. Photography, video and voice recordings and gaming are prohibited within the school premises. Mobile phones must be switched off or put on silent mode at all times within the school premises.&nbsp;&nbsp;
 
   
 
 The student is solely responsible for their own devices. The school is not liable for any loss, theft or damage to the devices. Violation of the rules will result in withdrawal of permission and the devices will be kept by the school until a parent comes to claim it.
 
 
-### 8. Safety of Students in School
+### 8.&nbsp;Safety of Students in School
 
-For the safety of the students, visitors are not allowed into the school building without valid passes. All visitors are to report to the General Office. Parents who bring their children to school are to take them only as far as the gates. Every student should learn to be independent and to carry his/her own bag. 
+For the safety of the students, visitors are not allowed into the school building without valid passes. All visitors are to report to the General Office. Parents who bring their children to school are to take them only as far as the gates. Every student should learn to be independent and to carry his/her own bag.&nbsp;
 
   
 
@@ -144,7 +143,7 @@ Parents will not be allowed into the school during the recess/lunch break.
 
   
 
-### 9. Dismissal
+### 9.&nbsp;Dismissal
 
 Parents are to take note of the pick up points and dismissal times. They should be punctual. Cars can only enter the school compound after the departure of school buses. There is no waiting and parking of cars in the school. Parents waiting to fetch their children home should wait at the gates.
 
@@ -172,7 +171,7 @@ Parents are to take note of the pick up points and dismissal times. They should 
 </tbody>
 </table>
 
-At Tampines Primary School, we believe that good discipline is important so that all students can learn in a warm and caring environment. Whilst the staff will try our best to instil self-discipline and desirable behaviour, we seek the co-operation of parents and caregivers to help reinforce good discipline. If students were to violate the school rules and need to be disciplined, the school seeks the support of parents so that the students can understand the consequences of their actions.   
+At Tampines Primary School, we believe that good discipline is important so that all students can learn in a warm and caring environment. Whilst the staff will try our best to instil self-discipline and desirable behaviour, we seek the co-operation of parents and caregivers to help reinforce good discipline. If students were to violate the school rules and need to be disciplined, the school seeks the support of parents so that the students can understand the consequences of their actions.&nbsp;  
   
 
 <b>Student Management Department  
