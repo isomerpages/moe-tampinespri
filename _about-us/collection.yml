@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - 35th Anniversary/Family Photos.md
-      - 35th Anniversary/Well wishes.md
-      - 35th Anniversary/Special Memories.md
-      - 35th Anniversary/Heritage Wall.md
-      - 35th Anniversary/Foreword.md
       - 35th Anniversary/.keep
+      - 35th Anniversary/Foreword.md
+      - 35th Anniversary/Heritage Wall.md
+      - 35th Anniversary/Special Memories.md
+      - 35th Anniversary/Well wishes.md
+      - 35th Anniversary/Family Photos.md
       - Principal’s Message.md
       - School Vision, Mission and Values.md
       - School Values – iREAP.md
