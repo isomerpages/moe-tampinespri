@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 35th Anniversary/Special Memories.md
       - 35th Anniversary/Heritage Wall.md
       - 35th Anniversary/Foreword.md
       - 35th Anniversary/.keep
