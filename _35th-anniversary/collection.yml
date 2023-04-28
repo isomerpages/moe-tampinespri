@@ -2,5 +2,4 @@ collections:
   35th-anniversary:
     output: true
     order:
-      - Features of Our Celebrations/Family Photos.md
       - Features of Our Celebrations/.keep
