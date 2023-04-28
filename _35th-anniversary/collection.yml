@@ -2,7 +2,6 @@ collections:
   35th-anniversary:
     output: true
     order:
-      - Foreword.md
       - Heritage Wall.md
       - Features of Our Celebrations/Special Memories.md
       - Features of Our Celebrations/Well wishes.md
