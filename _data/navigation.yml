@@ -13,6 +13,8 @@ links:
         url: /about-us/School-Crest/
       - title: History
         url: /about-us/History/
+      - title: 35th Anniversary
+        url: /about-us/35th-anniversary/foreword/
       - title: General Information
         url: /about-us/General-Information/Curriculum-Hours/
       - title: Our Family
@@ -23,8 +25,6 @@ links:
         url: /about-us/Contact-Us/
       - title: Terms of Use
         url: /about-us/Terms-of-Use/
-      - title: 35th Anniversary
-        url: /about-us/35th-anniversary/foreword/
   - title: Our Learning Experiences
     url: /curriculum/Curriculum/
     sublinks:
