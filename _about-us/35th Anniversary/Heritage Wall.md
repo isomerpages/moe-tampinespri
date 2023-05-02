@@ -1,6 +1,6 @@
 ---
 title: Heritage Wall
-permalink: /35th-anniversary/heritage-hall/
+permalink: /about-us/35th-anniversary/heritage-hall/
 description: ""
 third_nav_title: 35th Anniversary
 ---
