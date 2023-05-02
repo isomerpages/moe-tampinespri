@@ -1,6 +1,6 @@
 ---
 title: Foreword
-permalink: /35th-anniversary/foreword/
+permalink: /about-us/35th-anniversary/foreword/
 description: ""
 third_nav_title: 35th Anniversary
 ---
