@@ -13,6 +13,8 @@ links:
         url: /about-us/School-Crest/
       - title: History
         url: /about-us/History/
+      - title: 35th Anniversary
+        url: /about-us/35th-anniversary/foreword/
       - title: General Information
         url: /about-us/General-Information/Curriculum-Hours/
       - title: Our Family
@@ -38,5 +40,3 @@ links:
     collection: our-community
   - title: MOE Kindergarten
     collection: moe-kindergarten
-  - title: 35th Anniversary
-    collection: 35th-anniversary
