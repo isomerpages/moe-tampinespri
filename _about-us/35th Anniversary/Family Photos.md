@@ -1,6 +1,6 @@
 ---
 title: Family Photos
-permalink: /35th-anniversary/Features-of-Our-Celebrations/Family-Photos/
+permalink: /about-us/35th-anniversary/Features-of-Our-Celebrations/Family-Photos/
 description: ""
 third_nav_title: 35th Anniversary
 ---
