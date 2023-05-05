@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/Vesak Day (2023).md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
@@ -15,6 +14,7 @@ collections:
       - Announcements/2023 TPPS Homework Policy.md
       - Announcements/Assessment Information 2023.md
       - Announcements/May Memo to Parents.md
+      - Announcements/Vesak Day (2023).md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
