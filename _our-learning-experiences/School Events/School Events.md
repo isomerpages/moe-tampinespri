@@ -9,7 +9,7 @@ third_nav_title: School Events
 School Events
 =============
 
-*   [Chinese New Year celebrations](/our-learning-experiences/School-Events/Chinese-New-Year-celebrations/)
+<!--*   [Chinese New Year celebrations](/our-learning-experiences/School-Events/Chinese-New-Year-celebrations/)
 *   [Hari Raya Celebrations](/our-learning-experiences/School-Events/Hari-Raya-Celebration/)
 *   [Mother Tongue Fortnight](/our-learning-experiences/School-Events/Mother-Tongue-Fortnight/)
 *   [Total Defence Day](/our-learning-experiences/School-Events/Total-Defence-Day/)
@@ -17,13 +17,13 @@ School Events
 *   [International Friendship Day](/our-learning-experiences/School-Events/International-Friendship-Day/)
 *   [Cyber Wellness Carnival](/our-learning-experiences/School-Events/Cyber-Wellness-Carnival/)
     
-*   [Fire Incident Drill](/our-learning-experiences/School-Events/Fire-Incident-Drill/)
+*   [Fire Incident Drill](/our-learning-experiences/School-Events/Fire-Incident-Drill/)-->
     
 *   [TPPS Superstars](/our-learning-experiences/School-Events/TPPS-Superstars/)
-*   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
+<!--*   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
 *   [P4 and P5 Anti-Drug Ambassador Activity](/our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/)
 *   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](/our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/)
     
 *   [Children's Day](/our-learning-experiences/School-Events/Childrens-Day/)
 *   [Racial Harmony Day](/our-learning-experiences/School-Events/Racial-Harmony-Day/)
-*   [National Day](/our-learning-experiences/School-Events/National-Day/)
+*   [National Day](/our-learning-experiences/School-Events/National-Day/)-->
