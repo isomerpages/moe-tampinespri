@@ -8,7 +8,7 @@ third_nav_title: School Events
 
 Mother Tongue Fortnight
 =======================
-
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,4 +49,4 @@ Mother Tongue Fortnight
 
 ![](/images/Mother%20Tongue%20Fortnight4.jpeg)
 
-![](/images/Mother%20Tongue%20Fortnight5.png)
+![](/images/Mother%20Tongue%20Fortnight5.png)-->
