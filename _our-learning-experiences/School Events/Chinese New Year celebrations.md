@@ -8,7 +8,7 @@ third_nav_title: School Events
 
 Chinese New Year celebrations
 =============================
-
+<!---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -59,4 +59,4 @@ Chinese New Year celebrations
 <i>Students dancing along to the videos created for the concert</i>
 
 ![](/images/cny4.jpg)
-<i>Fun moments during the celebration</i>
+<i>Fun moments during the celebration</i>-->
