@@ -17,13 +17,13 @@ School Events
 *   [International Friendship Day](/our-learning-experiences/School-Events/International-Friendship-Day/)
 *   [Cyber Wellness Carnival](/our-learning-experiences/School-Events/Cyber-Wellness-Carnival/)
     
-*   [Fire Incident Drill](/our-learning-experiences/School-Events/Fire-Incident-Drill/)-->
-    
-*   [TPPS Superstars](/our-learning-experiences/School-Events/TPPS-Superstars/)
-<!---*   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
+*   [Fire Incident Drill](/our-learning-experiences/School-Events/Fire-Incident-Drill/)
+*   [Spark The Dream Financial Literacy](/our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/)
 *   [P4 and P5 Anti-Drug Ambassador Activity](/our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/)
 *   [SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’](/our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/)
     
 *   [Children's Day](/our-learning-experiences/School-Events/Childrens-Day/)
 *   [Racial Harmony Day](/our-learning-experiences/School-Events/Racial-Harmony-Day/)
-*   [National Day](/our-learning-experiences/School-Events/National-Day/)-->
+*   [National Day](/our-learning-experiences/School-Events/National-Day/) -->
+    
+*   [TPPS Superstars](/our-learning-experiences/School-Events/TPPS-Superstars/)
