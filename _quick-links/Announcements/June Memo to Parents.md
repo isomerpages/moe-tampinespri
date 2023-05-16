@@ -19,5 +19,5 @@ Thank you.
 
 Tampines Primary School
 
-**Web Link**
+**Web Link**<br>
 [ICA information and updates](https://www.ica.gov.sg/enter-transit-depart)
