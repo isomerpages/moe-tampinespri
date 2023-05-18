@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Register for MK@TPPS.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission, Values & Belief.md
@@ -13,6 +12,7 @@ collections:
       - For Parents/For Parents.md
       - For Parents/Useful Information.md
       - For Parents/Circulars.md
+      - Register for MK@TPPS.md
       - Gallery/.keep
       - Gallery/Gallery.md
       - Gallery/Chinese New Year Celebration 2022.md
