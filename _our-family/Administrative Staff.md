@@ -18,6 +18,7 @@ Administrative Staff
 | Mr Jonathan Seto Wee Ping  | OM 2                   |
 | Miss Nandini               | AE                     |
 | Mdm Salinah Bte Salleh     | AE(MK)                 |
+| Ms Sri Nur Aien Bte Tanuri               | AE                     |
 | Mr Adrian Lau              | CSO                    |
 | Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
