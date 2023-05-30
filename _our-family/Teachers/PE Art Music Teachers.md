@@ -17,6 +17,7 @@ PE Art Music Teachers
 | Mr Abdul Rahman | abdul_rahman_b_hussin@moe.edu.sg |
 | Mr Guo Li Ren   | guo_li_ren@moe.edu.sg            |
 | Miss Lai Si Hui | lai_si_hui@moe.edu.sg            |
+| Mr Hoo Kang, Sean | hoo_kang_sean@moe.edu.sg            |
 
 
 
