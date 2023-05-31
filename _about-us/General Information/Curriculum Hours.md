@@ -75,9 +75,7 @@ The table below indicates healthy snack food that are acceptable and those that 
 		<td>1. Fried Food<br>2. Rice, Porridge and Noodles<br>3. Sweets<br>4. Chocolate Bar<br>5. Tidbits (e.g. Potato Chips)</td>
 		</tr></tbody></table>
 		
-|                   Acceptable Items for Snack Break                                   |                    Unacceptable Items for Snack Break                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 1. Biscuits<br>2. Buns (e.g. red bean bun)<br>3. Bread<br>4. Sandwich<br>5. Cereal (small box)<br>6. Dried Fruit<br>7. Energy Bar (e.g. muesli bar and oats bar)<br>8. Fruit (e.g. apple and banana)<br>9. Raisins<br>10. Nuts<br>11. Cheese Slice/Stick<br>12. Carrot/Cucumber Stick<br>13. Small Packet of Milo/Milk/Cereal Drink | 1. Fried Food<br>2. Rice, Porridge and Noodles<br>3. Sweets<br>4. Chocolate Bar<br>5. Tidbits (e.g. Potato Chips) |
+
 ***
 ### **Precautionary Measures to Ensure Safety Measures Management**
 
