@@ -18,3 +18,5 @@ Tampines Pulse
 [Tampines_Pulse_Newsletter_2021.pdf](/files/Tampines_Pulse_Newsletter_2021.pdf)
 
 [Tampines Pulse Newsletter 2022 - Sem 1.pdf](/files/Tampines_Pulse_Newsletter_2022-Sem1.pdf)
+
+[Tampines Pulse Newsletter June 2023.pdf](/files/tampinespulse_newsletter_june2023.pdf)
