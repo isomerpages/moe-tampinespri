@@ -17,7 +17,3 @@ Learning and Behavioural Support Staff
 | Mdm Nurfazilah Abdul Aziz          | Special Educational Needs Officer (SEN Officer)         | Nurfazilah_Abdul_Aziz@ moe.edu.sg       |
 | Ms Ma Su Tsyh                      | Special Educational Needs Officer (SEN Officer)         | Ma_Su_Tsyh@moe.edu.sg                   |
 | Ms Nur Idayu Arifin                      | Special Educational Needs Officer (SEN Officer)         | nur_idayu_arifin@moe.edu.sg                   |
-
-
-
-
