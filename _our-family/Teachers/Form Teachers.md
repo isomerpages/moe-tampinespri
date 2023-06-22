@@ -26,13 +26,13 @@ Form Teachers
 
 |  **Class** |                   **Form Teachers**                   |                                                                                                             |
 |:----------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|   P2 Care  |      Mrs Wong Ling Nah<br>teo_ling_nah@moe.edu.sg     |                                   Mdm Zalinah<br>zalinah_hassan@moe.edu.sg                                  |
-|  P2 Faith  |    Mdm Sally Neo<br>neo_yuan_ting_sally@moe.edu.sg    |                             Mdm Haslinah Bte Osman<br>haslinah_osman@moe.edu.sg                             |
+|   P2 Care  |      Mrs Wong Ling Nah<br>teo_ling_nah@moe.edu.sg     |                                   Mdm Zalinah<br>zalinah_hassan@moe.edu.sg <br><br>Ms Wei Shuang<br>wei_shuang@moe.edu.sg                                 |
+|  P2 Faith  |    Mdm Sally Neo<br>neo_yuan_ting_sally@moe.edu.sg    |                             Mdm Nur Liyana<br>nur_liyana_abdul_ghani@moe.edu.sg                             |
 |  P2 Grace  |       Mdm Diana Mamat<br>diana_mamat@moe.edu.sg       |                             Mr Abdul Rahman<br>abdul_rahman_b_hussin@moe.edu.sg                             |
 |   P2 Hope  |  Mrs Hidayah Ridzwan<br>nurhidayah_a_aziz@moe.edu.sg  |                           Mrs Susila Neelakandan<br>neelakandan_susila@moe.edu.sg                           |
-|   P2 Joy   | Mdm Azlinda Bte Ab Aziz<br>azlinda_ab_aziz@moe.edu.sg |      Mrs Vimala Ravi<br>vimala_ravichandran@moe.edu.sg<br><br>Mdm Suriadi<br>suriadi_kassim@moe.edu.sg      |
-|   P2 Love  |      Mdm Eng Lee Cher<br>eng_lee_cher@moe.edu.sg      |    Mdm Norhana Khamis<br>norhana_khamis@moe.edu.sg<br><br>Ms Chua Gek Huang<br>chua_gek_huang@moe.edu.sg    |
-| P2 Passion |     Mdm Juliana Ahmad<br>juliana_ahmad@moe.edu.sg     | Mr Irwin Peh<br>peh_yen_yee_irwin@moe.edu.sg<br><br><br>Ms Melissa Tham<br>melissa_tham_sook_yee@moe.edu.sg |
+|   P2 Joy   | Mdm Azlinda Bte Ab Aziz<br>azlinda_ab_aziz@moe.edu.sg |      Mrs Vimala Ravi<br>vimala_ravichandran@moe.edu.sg      |
+|   P2 Love  |      Mdm Eng Lee Cher<br>eng_lee_cher@moe.edu.sg      |    Mdm Norhana Khamis<br>norhana_khamis@moe.edu.sg    |
+| P2 Passion |     Mdm Juliana Ahmad<br>juliana_ahmad@moe.edu.sg     | Mr Irwin Peh<br>peh_yen_yee_irwin@moe.edu.sg<br><br>Ms Melissa Tham<br>melissa_tham_sook_yee@moe.edu.sg |
 |  P2 Truth  | Mdm Farhanah Abdullah<br>farhanah_abdullah@moe.edu.sg |                                   Mdm Gao Qiaoyi<br>gao_qiaoyi@moe.edu.sg                                   |
  
 
@@ -42,10 +42,10 @@ Form Teachers
 |:---------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
 |  P3 Care  | Mr Shahdon Bin Mohd Jamil<br>shahdon_mohammed_jamil@moe.edu.sg |                              Mrs Janice Wang<br>luo_jiahui_janice@moe.edu.sg                              |
 |  P3 Faith |           Miss Jessica Lum<br>lum_yen_ning@moe.edu.sg          |                            Mdm Norliela Ramadan<br>norliela_ramadan@moe.edu.sg                            |
-|  P3 Grace |  Miss Sarah Binte Ahmad Subor<br>sarah_ahmad_subor@moe.edu.sg  | Mdm Tan Khing Khing<br>tan_khing_khing@moe.edu.sg<br><br><br>Miss Ng Chuey Tin<br>ng_chuey_tin@moe.edu.sg |
+|  P3 Grace |  Miss Sarah Binte Ahmad Subor<br>sarah_ahmad_subor@moe.edu.sg  | Mdm Tan Khing Khing<br>tan_khing_khing@moe.edu.sg<br><br>Mdm Marilyn Choy<br>teo_choy_pui_jing@moe.edu.sg |
 |  P3 Hope  |          Mrs Agnes Lim<br>agnes_ng_li_xuan@moe.edu.sg          |                        Mr Muhd Iftitah<br>muhammad_iftitah_mohamed_said@moe.edu.sg                        |
 |   P3 Joy  |   Mr Muhd Faizul Hashim<br>muhammad_faizul_hashim@moe.edu.sg   |                          Mdm Aminah Shariff<br>aminah_mohamed_shariff@moe.edu.sg                          |
-|  P3 Love  |         Mrs Ng-Chan Jing Bo<br>chan_jing_bo@moe.edu.sg         |      Mr Guo Liren<br>guo_li_ren@moe.edu.sg<br><br><br>Mdm Toh Chiew Hoon<br>toh_chiew_hoon@moe.edu.sg     |
+|  P3 Love  |         Mrs Ng-Chan Jing Bo<br>chan_jing_bo@moe.edu.sg         |      Mr Guo Liren<br>guo_li_ren@moe.edu.sg<br><br>Mdm Toh Chiew Hoon<br>toh_chiew_hoon@moe.edu.sg     |
 
 
 
