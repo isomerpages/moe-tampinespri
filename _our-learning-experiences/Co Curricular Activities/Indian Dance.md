@@ -13,7 +13,7 @@ Indian Dance
 
 #### **Vision**
 
-Confident and passionate Dance students exploring and  expressing the joy of Indian Dance  
+Confident and passionate Dance students exploring and&nbsp; expressing the joy of Indian Dance  
   
 
 ### **Overview**
@@ -49,7 +49,7 @@ In addition, the CCA also prepares pupils for competitions like SYF Performing A
   <tr>
     <td class="tg-kk00">Friday<br>8.30-10am<br><br>Monday (Only if needed)<br>2.30 - 4.30pm</td>
     <td class="tg-kk00">TLLM Rm</td>
-    <td class="tg-kk00">Mrs Vimala Ravichandran <br>Miss Aswiniey Mrs Susila Neelakandan <br></td>
+    <td class="tg-kk00">Mrs Vimala Ravichandran <br>Mdm Marilyn Choy </td>
     <td class="tg-kk00">P3-P6 students</td>
   </tr>
 </tbody>
