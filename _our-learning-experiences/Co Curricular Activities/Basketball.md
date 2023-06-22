@@ -39,7 +39,7 @@ Basketball
   <tr>
     <td class="tg-kk00">Monday<br>3.30pm – 5.30pm<br><br>Friday<br>8.30am - 10am</td>
     <td class="tg-kk00">ISH / Outdoor basketball court</td>
-    <td class="tg-kk00">Mr Guo Liren <br>Mdm Chuan Boon Min <br>Mdm Shen Jingyi <br><br>Mdm Tan Sok Keng Mdm Nurul Asyikin </td>
+    <td class="tg-kk00">Mr Guo Liren <br>Mdm Chuan Boon Min <br>Mdm Shen Jingyi <br>Mr Sean Hoo<br>Mdm Tan Sok Keng Mdm Nurul Asyikin </td>
     <td class="tg-kk00">P3 - P6</td>
   </tr>
 </tbody>
