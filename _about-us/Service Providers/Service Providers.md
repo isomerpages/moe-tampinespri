@@ -72,8 +72,9 @@ Service Providers
     <td class="tg-w46r" rowspan="2"><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">During school holidays or when the school dental clinic is closed, please call</span> <span style="font-weight:bold">Health Promotion Board (HPB) Call Centre: 64353782</span> <span style="font-weight:normal;color:#121212">for advice.</span><br><br><span style="font-weight:normal;color:#121212">Alternate week Dental Therapist in Tanjong Katong Primary School dental Clinic.</span><br><span style="font-weight:normal;color:#121212">Tel: 9112 8295</span></td>
   </tr>
   <tr>
-    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="color:#121212">2 - 6 January 2023</span><br><span style="color:#121212">16 - 23 January 2023</span><br><span style="color:#121212">23 - 24 January 2023 (Public Holiday)</span><br><span style="background-color:initial">30 - 31 October 2022</span><br></td>
-  </tr>
+    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="color:#121212">1 - 9 June 2023</span><br><span style="color:#121212">16 - 23 June 2023</span><br><span style="color:#121212">29 June 2023 (Public Holiday)</span><br><span style="background-color:initial">30 June 2023</span><br>
+		<span style="background-color:initial">3 - 7 July 2023</span><br><span style="background-color:initial">14 - 21 July 2023</span><br><span style="background-color:initial">28 - 31 July 2023</span><br></td>  
+	</tr>
 </tbody>
 </table>
 
