@@ -13,7 +13,7 @@ Theatrics in Action
 
 #### **Vision**
 
-To nurture and develop every Theatrics in Action member into a confident and creative inquirer who is collaborative and socially responsible in the community. 
+To nurture and develop every Theatrics in Action member into a confident and creative inquirer who is collaborative and socially responsible in the community.&nbsp;
 
   
 
@@ -25,22 +25,22 @@ To develop creativity through student agency and empower students to advocate go
 
 #### **Motto**
 
-Empowerment through play and theatre
+Empowerment through play&nbsp;and theatre
 
   
 
 ### **Overview**
 
 
-Drama in TPPS aims to develop creative, adaptable and confident Tampinesians. Through exposure to creative play and stimulation of imagination in and beyond the classroom, students experience the love for the art form. Drama Club also known as Theatrics in Action provides a platform in developing our drama talents.
+Drama in TPPS aims to develop creative, adaptable and confident Tampinesians. Through exposure to&nbsp;creative play and stimulation of imagination in and beyond the classroom, students experience the love&nbsp;for the art form. Drama Club also known as Theatrics in Action provides a platform in developing our&nbsp;drama talents.
 
   
 
-Our signature annual play production is Community Theatre. Community Theatre focuses on themes to raise awareness on social and global issues. 
+Our signature annual play production is Community Theatre. Community Theatre focuses on themes&nbsp;to raise awareness on social and global issues.&nbsp;
 
   
 
-Through Community Theatre, the school aims to build community bonds through the theatre experience. It is an exciting platform for students and teachers to devise theatre. In Community Theatre, students and teachers are involved in the playbuilding process in which they devise and perform a play. We are also privileged to have a performance space which we share with the community - “The Blackbox Theatre”. Our wish in Theatrics in Action is to build a strong nexus for our students, educators and the community to bond and learn more about humanity through a common theatre experience.
+Through Community Theatre, the school aims to build community bonds through the theatre&nbsp;experience. It is an exciting platform for students and teachers to devise theatre. In Community&nbsp;Theatre, students and teachers are involved in the playbuilding process in which they devise and perform a play. We are also privileged to have a performance space which we share with the&nbsp;community - “The Blackbox Theatre”. Our wish in Theatrics in Action is to build a strong nexus for our&nbsp;students, educators and the community to bond and learn more about humanity through a common&nbsp;theatre experience.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,7 +64,7 @@ Through Community Theatre, the school aims to build community bonds through the 
   <tr>
     <td class="tg-kk00">Friday<br>8.30-10am<br><br>Monday (Only if needed)<br>2.30 - 4.30pm</td>
     <td class="tg-kk00">CCA Rooms 1 &amp; 2 (MK Building)</td>
-    <td class="tg-kk00">Mdm Nazreen <br>Mr Shahdon Bin Mohd Jamil <br>Miss Tay Yun Yi (Jewel) </td>
+    <td class="tg-kk00">Mdm Nazreen <br>Mr Shahdon Bin Mohd Jamil <br>Miss Tay Yun Yi (Jewel)<br>Miss Amanda Yong </td>
     <td class="tg-kk00">P3-P6 students</td>
   </tr>
 </tbody>
@@ -100,7 +100,7 @@ Through Community Theatre, the school aims to build community bonds through the 
 
 * * *
 
-\[1\] Collaboration for SYF Drama with Xinmin Secondary School
+\[1\]&nbsp;Collaboration for SYF Drama with Xinmin Secondary School
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
