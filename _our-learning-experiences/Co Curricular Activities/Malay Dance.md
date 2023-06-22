@@ -17,7 +17,7 @@ To be individuals who exude resilience and commitment in dance
 
 ### **Overview**
 
-Malay Dance CCA provides our Malay dancers with the opportunity to learn the 5 different genres of Malay traditional dance; Asli, Inang, Joget, Zapin and Masri. They are given various platforms via school events, external performances and competitions for the pupils to showcase their talents. 
+Malay Dance CCA provides our Malay dancers with the opportunity to learn the 5 different genres of Malay traditional dance; Asli, Inang, Joget, Zapin and Masri. They are given various platforms via school events, external performances and competitions for the pupils to showcase their talents.&nbsp;
 
   
 
@@ -50,7 +50,7 @@ In Malay Dance CCA, apart from presenting opportunities for students at various 
   <tr>
     <td class="tg-kk00">Friday<br>8.30-10am<br><br>Monday (Only if needed)<br>2.30 - 4.30pm</td>
     <td class="tg-kk00">Dance Room<br>(MK building)</td>
-    <td class="tg-kk00">Mdm Haslinah <br>Mdm Norleila Ramadan <br>Mdm Raihana </td>
+    <td class="tg-kk00">Mdm Nur Liyana <br>Mdm Norleila Ramadan <br>Mdm Raihana </td>
     <td class="tg-kk00">P3-P6 students</td>
   </tr>
 </tbody>
