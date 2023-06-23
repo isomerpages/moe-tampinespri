@@ -38,7 +38,7 @@ Mother Tongue Teachers
 |---------------------------|------------------------------------------|
 | Mdm Norliela              | norliela_ramadan@moe.edu.sg              |
 | Mdm Juliana               | juliana_ahmad@moe.edu.sg                 |
-| Mdm Haslinah              | haslinah_osman@moe.edu.sg                |
+| Mdm Nur Liyana              | nur_liyana_abdul_ghani@moe.edu.sg                |
 | Mr Iftitah                | muhammad_iftitah_mohamed_said@moe.edu.sg |
 | Mdm Norhana Khamis        | norhana_khamis@moe.edu.sg                |
 | Mdm Zalinah Bte Hassan    | zalinah_hassan@moe.edu.sg                |

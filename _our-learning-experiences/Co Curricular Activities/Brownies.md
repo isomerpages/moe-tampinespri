@@ -43,7 +43,7 @@ Every Friday, Brownies will meet at the Amphitheatre where they will learn to wo
   <tr>
     <td class="tg-kk00">Friday<br>8.30 am to 10 am<br><br>Monday or Saturday (Only if needed)<br>2.30 - 4.30pm</td>
     <td class="tg-kk00">Amphitheatre</td>
-    <td class="tg-kk00">Mdm Juliana Ahmad <br> Ms Lee Wee Nee <br> Mdm Lynn Wu Jieru <br> Miss Jolyn Ngo </td>
+    <td class="tg-kk00">Mdm Juliana Ahmad <br> Mdm Lynn Wu Jieru <br> Miss Jolyn Ngo <br> Mdm Wei Shuang</td>
     <td class="tg-kk00">Primary 3 - Primary 6</td>
   </tr>
 </tbody>
