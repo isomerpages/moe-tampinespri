@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/July Memo to Parents.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
@@ -17,6 +16,7 @@ collections:
       - Announcements/May Memo to Parents.md
       - Announcements/Vesak Day (2023).md
       - Announcements/June Memo to Parents.md
+      - Announcements/July Memo to Parents.md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
