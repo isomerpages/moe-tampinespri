@@ -21,3 +21,5 @@ Announcements
 9.  [School Health Visit for Primary 1 to 6 Students](/quick-links/announcements/school-health-visit-for-primary-1-to-6-students/)
 10. [May Memo to Parents]((/quick-links/announcements/may-memo-to-parents/))
 11. [Vesak Day (2023)](/quick-links/announcements/vesak-day-2023)
+12. [June Memo to Parents]((/quick-links/announcements/jun-memo-to-parents/))
+13. [July Memo to Parents]((/quick-links/announcements/jul-memo-to-parents/))
