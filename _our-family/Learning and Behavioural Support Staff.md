@@ -10,7 +10,7 @@ Learning and Behavioural Support Staff
 
 ### **Our Learning and Behavioural Support Staff**
 
-| Mrs Lynn Lim                       | Senior School Counsellor                                | lim_cixian@moe.edu.sg                   |
+| Name                       | Designation                                | Email                   |
 |------------------------------------|---------------------------------------------------------|-----------------------------------------|
 | Mr Iskandar Bin Ishahak Bahroocha  | School Counsellor                                       | iskandar_b_ishahak_bahroocha@moe.edu.sg |
 | Mdm Tutek Amir                     | Senior Special Educational Needs Officer (SSEN Officer) | tutek_alauyah_amir@moe.edu.sg           |
