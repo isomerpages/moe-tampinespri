@@ -35,7 +35,7 @@ Service Providers
 
 | **Company** | **Hui Wang Bus Service**               |
 |-------------|----------------------------------------|
-|  Contact    |  Mr Vernon Tan<br> 92266622 / 96721464 |
+|  Contact    |  Mr Brian Lim<br> 9101 5551 / 9672 1464 |
 
 
 
@@ -72,8 +72,7 @@ Service Providers
     <td class="tg-w46r" rowspan="2"><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">During school holidays or when the school dental clinic is closed, please call</span> <span style="font-weight:bold">Health Promotion Board (HPB) Call Centre: 64353782</span> <span style="font-weight:normal;color:#121212">for advice.</span><br><br><span style="font-weight:normal;color:#121212">When school dental  clinic is closed and  pupils need urgent treatment,  please call the following school  dental clinics for an appointment.</span><br><br><span style="font-weight:normal;color:#121212">Tanjong Katong Primary School (Tel: 9112 8295)</span><br>Junyuan Primary School (8940 3520)<br>Tampines North Primary School	(9112 4295)</td>
   </tr>
   <tr>
-    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="color:#121212">1 - 9 June 2023</span><br><span style="color:#121212">16 - 23 June 2023</span><br><span style="color:#121212">29 June 2023 (Public Holiday)</span><br><span style="background-color:initial">30 June 2023</span><br>
-		<span style="background-color:initial">3 - 7 July 2023</span><br><span style="background-color:initial">14 - 21 July 2023</span><br><span style="background-color:initial">28 - 31 July 2023</span><br></td>  
+    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="background-color:initial">3 - 7 July 2023</span><br><span style="background-color:initial">14 - 21 July 2023</span><br><span style="background-color:initial">28 - 31 July 2023</span><br></td>  
 	</tr>
 </tbody>
 </table>
