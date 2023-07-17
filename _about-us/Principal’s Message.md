@@ -28,4 +28,8 @@ Mrs Lay See Neufeld <br>
 Principal <br>
 Tampines Primary School
 
+![](/images/p-message-precovid.png)
+<!--
 ![](/images/stories-about-vaccination.png)
+-- >
+-->
