@@ -2,6 +2,8 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/Reminder on Road Safety and Traffic Regulations (With
+        Immediate Effect).md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/January Memo to Parents.md
