@@ -28,4 +28,11 @@ Mrs Lay See Neufeld <br>
 Principal <br>
 Tampines Primary School
 
+![](/images/p-message-precovid.png)
+
+[Straits Times Article - Preparing Children for P1 ( 27-06-2023)](/files/straits_time_article_p1_2023-06-27.pdf)<br>
+*The article was published on Straits Times website on 27<sup>th</sup> June 2023*
+<!--
 ![](/images/stories-about-vaccination.png)
+-- >
+-->

@@ -23,3 +23,6 @@ Announcements
 11. [Vesak Day (2023)](/quick-links/announcements/vesak-day-2023)
 12. [June Memo to Parents]((/quick-links/announcements/jun-memo-to-parents/))
 13. [July Memo to Parents]((/quick-links/announcements/jul-memo-to-parents/))
+14. [Reminder on Road Safety and Traffic Regulations (With Immediate Effect)]((/quick-links/announcements/road-safety/))
+
+
