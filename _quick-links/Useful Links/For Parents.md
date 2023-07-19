@@ -14,15 +14,13 @@ For Parents
 
 ### **Information for Parents**
 
-[P1 e orientation 2022](https://tampinespri.moe.edu.sg/for-parents/p1-e-orientation-2022)  
-[P1 2022 administration process](https://tampinespri.moe.edu.sg/for-parents/p1-2022-administration-process)  
-
-Note: P1 e orientation 2022 &amp; P1 2022 administration process links broken.
 
 To get started with Parents Gateway, you may refer to this video for more information:
 
 [Watch Video](https://www.youtube.com/embed/tW9jwyuovOo)
 
+Please refer to the FAQs for further clarification.<br>
+PG FAQs: [Click here](https://pg.moe.edu.sg/faq)
 
 ### **Group Personal Accident (GPA) Insurance for Students**
 ----------------------------------------------------
