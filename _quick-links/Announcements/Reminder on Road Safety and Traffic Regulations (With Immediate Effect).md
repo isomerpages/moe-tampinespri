@@ -4,8 +4,6 @@ permalink: /quick-links/announcements/road-safety/
 description: ""
 third_nav_title: Announcements
 ---
-
-
 **19 Jul 2023**
 
 Dear Parents/Guardians,
