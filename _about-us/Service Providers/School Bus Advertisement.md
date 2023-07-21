@@ -25,4 +25,6 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Address:** 250 Tampines Street 12, Singapore 529426 <br>
 **Contact No:** 67831190<br>
 **Email:** [tpps@moe.edu.sg](tpps@moe.edu.sg) <br>
-**Contact Person:** Mr Darren Kwong--&gt;
+**Contact Person:** Mr Darren Kwong
+
+
