@@ -15,7 +15,11 @@ sections:
         - title: Calendar
           description: ""
           url: /quick-links/School-Calendar/
-        - title: "Quick Links "
+        - title: Quick Links
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
+  - infobar:
+      title: School Bus Advertisement
+      button: Click here for more
+      url: /about-us/service-providers/school-bus-ad/
 ---
