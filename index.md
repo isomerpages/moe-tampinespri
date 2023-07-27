@@ -22,4 +22,12 @@ sections:
       title: School Bus Advertisement
       button: Click here for more
       url: /about-us/service-providers/school-bus-ad/
+  - infopic:
+      title: Teachers' Day Wishes
+      description: Click on the button below or scan the QR code to submit your
+        well-wishes for the teachers in Tampines Primary School.
+      button: Click here
+      url: https://padlet.com/welovetampines/teachers-day-well-wishes-2023-un6fdz6eo0f4d8ee
+      image: /images/teachers' day 2023.png
+      alt: Image alt text
 ---
