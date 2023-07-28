@@ -57,4 +57,4 @@ Letters to Parents
 
 ### **August 2023**
 
-[August Memo to Parents](/files/tpps-46-2023%20-%20memo%20aug%202023.pdf)
+[TPPS-46-2023 - Memo Aug 2023.pdf](/files/tpps-46-2023%20-%20memo%20aug%202023.pdf)
