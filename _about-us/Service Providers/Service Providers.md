@@ -72,7 +72,7 @@ Service Providers
     <td class="tg-w46r" rowspan="2"><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">During school holidays or when the school dental clinic is closed, please call</span> <span style="font-weight:bold">Health Promotion Board (HPB) Call Centre: 64353782</span> <span style="font-weight:normal;color:#121212">for advice.</span><br><br><span style="font-weight:normal;color:#121212">When school dental  clinic is closed and  pupils need urgent treatment,  please call the following school  dental clinics for an appointment.</span><br><br><span style="font-weight:normal;color:#121212">Tanjong Katong Primary School (Tel: 9112 8295)</span><br>Junyuan Primary School (8940 3520)<br>Tampines North Primary School	(9112 4295)</td>
   </tr>
   <tr>
-    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br><span style="background-color:initial">3 - 7 July 2023</span><br><span style="background-color:initial">14 - 21 July 2023</span><br><span style="background-color:initial">28 - 31 July 2023</span><br></td>  
+    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br>1 - 4 August 2023<br>7 August 2023 (PM only)<br>10 - 18 August 2023<br>25 - 31 August 2023<br></td>  
 	</tr>
 </tbody>
 </table>
