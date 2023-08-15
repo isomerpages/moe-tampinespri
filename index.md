@@ -18,10 +18,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
-  - infobar:
-      title: School Bus Advertisement
-      button: Click here for more
-      url: /about-us/service-providers/school-bus-ad/
   - infopic:
       title: Teachers' Day Wishes
       description: Click on the button below or scan the QR code to submit your
