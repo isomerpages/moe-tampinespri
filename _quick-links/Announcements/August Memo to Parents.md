@@ -6,13 +6,13 @@ third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
-August Memo to Parents
+September Memo to Parents
 ========================
-28 July 2023
+18 August 2023
 
 Dear Parents and Guardians
 
-[Click here to download August Memo](/for-parents/letters-to-parents/)
+[Click here to download September Memo](/for-parents/letters-to-parents/)
 
 
 Thank you.
