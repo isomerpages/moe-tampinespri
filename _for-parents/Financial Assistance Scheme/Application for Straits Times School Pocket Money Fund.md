@@ -12,4 +12,4 @@ Please download and submit the following files to apply:
 2. [Annex B - Income Declaration Form.pdf](/files/annex%20b%20-%20income%20declaration%20form.pdf)
 
 
-**Application Window:** 3 August 2023 - 11 August 2023
+**Application Window:** 3 August 2023 - 11 September 2023
