@@ -24,5 +24,5 @@ Announcements
 12. [June Memo to Parents]((/quick-links/announcements/jun-memo-to-parents/))
 13. [July Memo to Parents]((/quick-links/announcements/jul-memo-to-parents/))
 14. [Reminder on Road Safety and Traffic Regulations (With Immediate Effect)]((/quick-links/announcements/road-safety/))
-
-
+15. [September Memo to Parents](/quick-links/announcements/sep-memo-to-parents-2023/)
+16. [2024 P1 Administration cum Orientation Day](/quick-links/announcements/p1-admin-day-2023/)
