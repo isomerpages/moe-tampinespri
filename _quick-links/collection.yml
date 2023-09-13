@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/Example Title.md
+      - Announcements/2024 P1 Administration cum Orientation Day.md
       - Announcements/September Memo to Parents.md
       - Announcements/.keep
       - Announcements/Announcements.md
