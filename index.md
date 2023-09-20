@@ -18,12 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
-  - infopic:
-      title: Teachers' Day Wishes
-      description: Click on the button below or scan the QR code to submit your
-        well-wishes for the teachers in Tampines Primary School.
-      button: Click here to submit
-      url: https://padlet.com/welovetampines/teachers-day-well-wishes-2023-un6fdz6eo0f4d8ee
-      image: /images/teachers' day 2023.png
-      alt: Image alt text
 ---
