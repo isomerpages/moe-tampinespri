@@ -3,7 +3,7 @@ title: P1 (2024) Admin Process
 permalink: /for-parents/p1-2024-admin-process/
 description: ""
 ---
-!\[\](/images/ForParents.jpg)
+![](/images/ForParents.jpg)
 
 P1 (2024) Admin Process
 =======================
