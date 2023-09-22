@@ -27,7 +27,7 @@ Venue: **School Hall, Level 2**<br>
 
 Parents Gateway (PG) is a mobile app specially designed for parents and it is important for you to come onboard. The app allows parents to receive information and perform a range of administrative functions such as receiving announcements from school, giving consent for school programmes and activities, as well as performing declaration of travel plans. 
 
-Parent Gateway (PG)  is the school’s primary means of correspondence with parents, and this includes important P1 administration instructions which shall be disseminated to you subsequently. As such, you are strongly encouraged to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time on boarding process.  Please refer to Annex A for the step-by-step guide. 
+Parent Gateway (PG)  is the school’s primary means of correspondence with parents, and this includes important P1 administration instructions which shall be disseminated to you subsequently. As such, you are strongly encouraged to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time on boarding process.  Please refer to [Annex A](/files/annex%20a_2024%20one-time%20onboarding.pdf) for the step-by-step guide. 
 
 P1 2024 child’s information will be available in the system from 20th October 2023. Should you have difficulties in accessing PG, please contact the school for assistance.
 
