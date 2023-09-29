@@ -28,6 +28,7 @@ Service Providers
 |  Contact                  |  63 Ubi Avenue 1<br><br> #04-09, 63@Ubi <br> Singapore 408937 <br><br> Website: shanghai-uniforms.com<br> Retail: +65 6352 2741<br> Fax No:+65 6842 2741 |
 |  Operating Time in School |  Sales through school bookshop                                                                                                                           |
 
+[2023 Year End Uniform Sales and Collection](/files/tpps%20-%202023%20year%20end%20and%20fas%20collection%20date.pdf)
 
 
 

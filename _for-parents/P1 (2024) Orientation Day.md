@@ -36,9 +36,12 @@ P1 2024 child’s information will be available in the system from 20th October 
 For 2024 P1 cohort registration, parents are requested to complete the administration process online. Under this process, there are a few forms that require your immediate attention to submit online as well as a few more which will only be available later.  The instructions for these submissions will be disseminated to you via the Parent Gateway (PG) announcement in due process.
 
 **4) Vendor Based Services** 
-Our school’s service providers’ details can also be found at our school [website](https://www.tampinespri.moe.edu.sg/). Information on purchase of school books / school uniforms and registering interest for school bus and school student care services will be provided in our subsequent PG broadcast.
+
+Our school’s service providers’ details can also be found at our school [website](https://www.tampinespri.moe.edu.sg/about-us/Service-Providers/Service-Providers/). Information on purchase of school books / school uniforms and registering interest for school bus and school student care services will be provided in our subsequent PG broadcast.
 
 If you miss the orientation sales day, school uniforms and books can still be ordered online with option for delivery or self-collection. Please follow the dates allocated during checkout via the respective vendor’s sales website. Kindly note that there will be delivery charges.
+
+[2023 Year End Uniform Sales and Collection](/files/tpps%20-%202023%20year%20end%20and%20fas%20collection%20date.pdf)
 
 **5) Name Tag Order (Online Order)**
 
