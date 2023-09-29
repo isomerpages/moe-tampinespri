@@ -41,6 +41,8 @@ Our school’s service providers’ details can also be found at our school [web
 
 If you miss the orientation sales day, school uniforms and books can still be ordered online with option for delivery or self-collection. Please follow the dates allocated during checkout via the respective vendor’s sales website. Kindly note that there will be delivery charges.
 
+[2023 Year End Uniform Sales and Collection](/files/tpps%20-%202023%20year%20end%20and%20fas%20collection%20date.pdf)
+
 **5) Name Tag Order (Online Order)**
 
 Name Tag is compulsory for school uniform. It serves as an identification for students, both in and out of school especially in times of emergency. They are to be ironed onto both School Shirt &amp; PE T-shirt (above the school logo). Kindly refer to School diary for photo reference.
