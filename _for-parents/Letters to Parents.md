@@ -63,3 +63,8 @@ Letters to Parents
 ### **September 2023**
 
 [TPPS-51-2023 - Memo Sep 2023.pdf](/files/tpps-51-2023%20-%20memo%20sep%202023.pdf)
+
+
+### **October 2023**
+
+[TPPS-54-2023 - Memo Oct 2023.pdf](/files/tpps-54-2023%20-%20memo%20oct%202023.pdf)
