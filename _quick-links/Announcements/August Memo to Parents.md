@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
-September Memo to Parents
+August Memo to Parents
 ========================
 18 August 2023
 
