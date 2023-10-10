@@ -63,7 +63,7 @@ If you miss the orientation sales day, school uniforms and books can still be or
 
 Name Tags are considered a compulsory part of the school uniform. It serves as an identification for students, both in and out of school especially in times of emergency. They are to be ironed onto both School Shirt &amp; PE T-shirt (above the school logo) - Refer to School diary for photo reference.
 
-The Name Tag can be ordered via the provided link: . All Name Tags ordered before 20<sup>th</sup> October will be given out during Orientation Day. Orders placed on or after 20<sup>th</sup> October, will be given to your child on the first day of school.
+The Name Tag can be ordered via the provided link: [https://oapl.sg/product/productdetails/oc-TPP/ii-2](https://oapl.sg/product/productdetails/oc-TPP/ii-2). All Name Tags ordered before 20<sup>th</sup> October will be given out during Orientation Day. Orders placed on or after 20<sup>th</sup> October, will be given to your child on the first day of school.
 
 **6) Enquiries**
 
