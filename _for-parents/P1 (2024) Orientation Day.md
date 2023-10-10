@@ -8,51 +8,68 @@ description: ""
 P1 (2024) Orientation Day
 =======================
 
+**P1 (2024) Class Allocation**
+
 Dear Parents of P1 (2024) Students,
 
 A very warm welcome to Tampines Primary School!
 
 **1) Orientation Day Details**
 
-We are pleased to inform you that this year’s P1 Orientation will be held on Friday, 10 November 2023 at 2pm at the school hall. Registration starts from 1.30pm. Kindly be punctual. 
+We are pleased to inform you that this year’s P1 Orientation will take place on Friday, 10 November 2023, 2pm at the school hall. Registration starts from 1.30pm. Please be punctual. Parking is not allowed on the school premises; you can park in the nearby carparks around the school compound instead.
 
-**Detail of P1/2024 Orientation Day as follows:**<br>
-Date: **Friday, 10 November 2023**<br>
-Time: **2.00 pm – 4.00 pm**<br>
-Venue: **School Hall, Level 2**<br>
-**Note:** School books and School uniforms for 2024 P1 students are purchased on the same day. Sales will strictly commence only after the end of Orientation Programme at the school hall. You may also register your interest in school bus services and school student care services after the end of the Orientation Programme at the school canteen.
+**Detail of P1/2024 Orientation Day as follows:**
+
+Date: **10 November 2023, Friday**
+
+Time: **2pm – 4pm** (Registration starts from 1.30pm)
+
+Venue: **School Hall, Level 2**
+
+**Note:** School books and School uniforms for 2024 P1 students can be purchased on the same day. Sales will **strictly commence only after the end of Orientation Programme**. You can also express your interest in school bus services and school student care services at the booth setup in the school canteen after the end of the Orientation Programme.
 
 
 **2) Parent Gateway (PG)**
 
-Parents Gateway (PG) is a mobile app specially designed for parents and it is important for you to come onboard. The app allows parents to receive information and perform a range of administrative functions such as receiving announcements from school, giving consent for school programmes and activities, as well as performing declaration of travel plans. 
+**All future correspondences from school including important P1 administration processes, will be send out via Parents Gateway**. You are strongly encouraged to download** the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time on boarding process. 
 
-Parent Gateway (PG)  is the school’s primary means of correspondence with parents, and this includes important P1 administration instructions which shall be disseminated to you subsequently. As such, you are strongly encouraged to download the free Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time on boarding process.  Please refer to [Annex A](/files/annex%20a_2024%20one-time%20onboarding.pdf) for the step-by-step guide. 
-
-P1 2024 child’s information will be available in the system from 20th October 2023. Should you have difficulties in accessing PG, please contact the school for assistance.
+Please refer to [Annex A](https://file.for.edu.sg/pg-one-time-onboarding.pdf) for the step-by-step guide. P1 2023 child’s information will tentatively be available in the system from 20th October 2023. Should you have difficulties in accessing PG, please notify the school at the soonest for assistance.
 
 **3) Completion of Administration Forms (Online)**
 
-For 2024 P1 cohort registration, parents are requested to complete the administration process online. Under this process, there are a few forms that require your immediate attention to submit online as well as a few more which will only be available later.  The instructions for these submissions will be disseminated to you via the Parent Gateway (PG) announcement in due process.
+For P1 registration for 2024 cohort, all parents are requested to complete the administration process online. There are several forms that requires your immediate completion. Please adhere to the stated timeline to complete the administrative forms. 
 
-**4) Vendor Based Services** 
+|**Type of Form**|**Registration Website Link**|**Remarks**|
+| :- | :- | :- |
+|GIRO|[School Fees - Ministry of Education](https://www.moe.gov.sg/financial-matters/fees) <br><br>Look for **GIRO** scheme and follow instructions on the website to complete GIRO registration.|Parents are strongly encouraged to sign up for GIRO online. <br><br>Child Development Account (Baby Bonus Account) <b><u>cannot be used</u></b> for GIRO application.<br><br><b>Submission <u>will start</u> from 1 Oct 2023.</b>|
+|Edusave Standing Order Form|Website with details on usage of Edusave funds. Refer to [link](https://www.moe.gov.sg/financial-matters/edusave-account)<br><br>Complete the following form:<br>[Standing Order for Use of Edusave Account At Govt / Govt-Aided School](https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59)|Parents are strongly encouraged to sign up for Edusave Fund; catered to cover school miscellaneous fees **(for Singapore Citizens only)** <br><br>Please Tick **“Yes”** for both questions on whether to use Edusave for 2<sup>nd</sup> Tier Miscellaneous fees and for local and overseas enrichment charges. <br><br>School will seek your confirmation for any deduction of Edusave funds before the commencement of extra programmes.<br><br><b>Submission <u>will start</u> from 1 Oct 2023.</b>|
+|Student Details Portal Data Capture |[https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)|More details will be provided via PG for the completion on the final compulsory form.<br><br><b>Submission <u>starts</u> from 27 Nov 2023, 10am</b>|
+|Online Consent for Immunisation and Dental Services|[https://childconsent.hpb.gov.sg/](https://childconsent.hpb.gov.sg/) |HPB provides free health services such as screening, immunisation and dental checks for students in school during school hours. Your consent is required for your child to benefit from these services.<br><br>**Portal <u>only</u> available from 26 Dec 2023.**|
+|MOE Financial Assistance Scheme|[Financial Assistance Scheme (FAS) (moe.edu.sg)](https://www.moe.gov.sg/financial-matters/financial-assistance)<br><br>Link for 2024 e-FAS application to be provided in PG once available|\* Please **<font style="color: red">do not buy books and/or uniforms on Orientation Day</font> and/or before the outcome of the FAS application** if you intend to apply for FAS for your child for 2024. No refund will be provided.<br><br>**Estimated timeframe: Mid Oct 2023**|
 
-Our school’s service providers’ details can also be found at our school [website](https://www.tampinespri.moe.edu.sg/about-us/Service-Providers/Service-Providers/). Information on purchase of school books / school uniforms and registering interest for school bus and school student care services will be provided in our subsequent PG broadcast.
+**4) Vendor Based Services** (Details can also be found on our [school website](https://www.tampinespri.moe.edu.sg/about-us/Service-Providers/Service-Providers/))
 
-If you miss the orientation sales day, school uniforms and books can still be ordered online with option for delivery or self-collection. Please follow the dates allocated during checkout via the respective vendor’s sales website. Kindly note that there will be delivery charges.
+1. School Bus Services – **Booking to be done via Vendor on orientation day in the canteen**
+1. [Student Care Services Interest Application Form](https://cutt.ly/CLS_Tampines_SCC_programme_interest_form) (for 2024 P1 students only)
+	- Please indicate your interest to our vendor before 16 October and you will be contacted by them. Result of application will be informed by vendor around end October 2023.
+1. Sales of School Uniform and Books
+	1. [School Books](https://www.oapl.sg/outlets/tpp)
+	2. [School Uniform](https://shop.shanghai-uniforms.com/) 
 
-[2023 Year End Uniform Sales and Collection](/files/tpps%20-%202023%20year%20end%20and%20fas%20collection%20date.pdf)
+If you miss the orientation sales day, school uniforms and books can still be ordered online and opt for delivery or self-collection, please follow the dates allocated during checkout via the respective vendor’s sales website. Please note that there will be delivery charges.
+
 
 **5) Name Tag Order (Online Order)**
 
-Name Tag is compulsory for school uniform. It serves as an identification for students, both in and out of school especially in times of emergency. They are to be ironed onto both School Shirt &amp; PE T-shirt (above the school logo). Kindly refer to School diary for photo reference.
+Name Tags are considered a compulsory part of the school uniform. It serves as an identification for students, both in and out of school especially in times of emergency. They are to be ironed onto both School Shirt &amp; PE T-shirt (above the school logo) - Refer to School diary for photo reference.
 
-The Name Tag link will be provided closer to the date via Parent Gateway (PG) announcement. Kindly adhere to the stated deadline to place your orders so that you may receive them on Orientation Day.
+The Name Tag can be ordered via the provided link: [https://oapl.sg/product/productdetails/oc-TPP/ii-2](https://oapl.sg/product/productdetails/oc-TPP/ii-2). All Name Tags ordered before 20<sup>th</sup> October will be given out during Orientation Day. Orders placed on or after 20<sup>th</sup> October, will be given to your child on the first day of school.
 
 **6) Enquiries**
 
-Should you have any queries or require assistance, please contact the school via tpps@moe.edu.sg or 67831190.
+Should you have any queries or require assistance, please contact the school via  or 67831190.
 
-We look forward to meeting you and your child at our school.
 
-Thank you.
+Best Regards<br>
+School Admin Team<br>
+Tampines Primary School
