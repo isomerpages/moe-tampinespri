@@ -54,7 +54,9 @@ For P1 registration for 2024 cohort, all parents are requested to complete the a
 	- Please indicate your interest to our vendor before 16 October and you will be contacted by them. Result of application will be informed by vendor around end October 2023.
 1. Sales of School Uniform and Books
 	1. [School Books](https://www.oapl.sg/outlets/tpp)
-	2. [School Uniform](https://shop.shanghai-uniforms.com/) 
+	2. [School Uniform](https://shop.shanghai-uniforms.com/)
+		* [(Shanghai Uniforms) Letter to 2024 P1 Parents](/files/tpps_letter_for_2024_p1_parents.pdf)
+		* [Uniform Sizing Chart](https://www.tampinespri.moe.edu.sg/images/tpps_uniform_2024_sizing_chart.jpg)
 
 If you miss the orientation sales day, school uniforms and books can still be ordered online and opt for delivery or self-collection, please follow the dates allocated during checkout via the respective vendor’s sales website. Please note that there will be delivery charges.
 
