@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Partnership.md
-      - In conversation with Stakeholders 2022.md
       - Alumni.md
       - Ministry of Social and Family Development (MSF).md
       - School Advisory Committee (SAC).md
