@@ -67,3 +67,5 @@ Letters to Parents
 
 
 ### **November 2023**
+
+[TPPS-59-2023 - Nov Memo 2023.pdf](/files/tpps-59-2023-memo_nov_2023.pdf)
