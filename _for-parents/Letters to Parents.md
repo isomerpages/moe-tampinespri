@@ -3,11 +3,7 @@ title: Letters to Parents
 permalink: /for-parents/letters-to-parents/
 description: ""
 ---
-```
-```
-
-```
-```![](/images/ForParents.jpg)
+![](/images/ForParents.jpg)
 
 Letters to Parents
 =======================
@@ -68,3 +64,8 @@ Letters to Parents
 ### **October 2023**
 
 [TPPS-54-2023 - Memo Oct 2023.pdf](/files/tpps-54-2023%20-%20memo%20oct%202023.pdf)
+
+
+### **November 2023**
+
+[TPPS-59-2023 - Nov Memo 2023.pdf](/files/tpps-59-2023-memo_nov_2023.pdf)
