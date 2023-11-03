@@ -13,4 +13,4 @@ Dear ICS 2023 attendees,&nbsp;
   
 Please scan the QR code below to access the ICS 2023 microsite.
 
-
+![](/images/tppsics2023.png)
