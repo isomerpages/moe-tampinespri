@@ -2,6 +2,7 @@
 title: P1 (2024) Orientation Day
 permalink: /for-parents/p1-2024-orientation/
 description: ""
+variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
@@ -54,6 +55,7 @@ For P1 registration for 2024 cohort, all parents are requested to complete the a
 	- Please indicate your interest to our vendor before 16 October and you will be contacted by them. Result of application will be informed by vendor around end October 2023.
 1. Sales of School Uniform and Books
 	1. [School Books](https://www.oapl.sg/outlets/tpp)
+		* [Booklist for 2024 Primary 1](/files/2024/primary_1_2024.pdf)
 	2. [School Uniform](https://shop.shanghai-uniforms.com/)
 		* [(Shanghai Uniforms) Letter to 2024 P1 Parents](/files/tpps_letter_for_2024_p1_parents.pdf)
 		* [Uniform Sizing Chart](/images/tpps_uniform_2024_sizing_chart.jpg)
