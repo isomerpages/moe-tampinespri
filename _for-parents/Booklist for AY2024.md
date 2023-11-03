@@ -14,11 +14,11 @@ Booklist for AY2024
 
 
 
-*   <b>Primary 1</b>
-*   <b>Primary 2:</b>
-*   <b>Primary 3:</b>    
-*   <b>Primary 4:</b>    
-*   <b>Primary 5 (Foundation):</b>
-*   <b>Primary 5 (Standard):</b>
-*   <b>Primary 6 (Foundation):</b>
-*   <b>Primary 6 (Standard):</b>
+*   <b>Primary 1:</b>&nbsp;&nbsp;[Click here to download](/files/2024/primary_1_2024.pdf)
+*   <b>Primary 2:</b>&nbsp;&nbsp;[Click here to download](/files/2024/primary_2_2024.pdf)
+*   <b>Primary 3:</b>&nbsp;&nbsp;[Click here to download](/files/2024/primary_3_2024.pdf)
+*   <b>Primary 4:</b>&nbsp;&nbsp;[Click here to download](/files/2024/primary_4_2024.pdf)
+*   <b>Primary 5 (Foundation):</b>&nbsp;&nbsp;
+*   <b>Primary 5 (Standard):</b>&nbsp;&nbsp;
+*   <b>Primary 6 (Foundation):</b>&nbsp;&nbsp;
+*   <b>Primary 6 (Standard):</b>&nbsp;&nbsp;
