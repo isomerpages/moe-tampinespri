@@ -3,6 +3,7 @@ title: Form Teachers
 permalink: /our-family/Teachers/Form-Teachers/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 ![](/images/AboutUs.jpg)
 
@@ -13,14 +14,14 @@ Form Teachers
 
 |  **Class** |                      **Form Teachers**                      |                                                               |
 |:----------:|:-----------------------------------------------------------:|:-------------------------------------------------------------:|
-|   P1 Care  |       Miss Jolyn Ngo<br>jolyn_ngo_pei_xian@moe.edu.sg       |           Miss J. Aswiniey<br>j_aswiniey@moe.edu.sg           |
-|  P1 Faith  |        Mrs Catherine Ow<br>tan_catherine_b@moe.edu.sg       |            Miss Jewel Tay<br>tay_yun_yi@moe.edu.sg            |
-|  P1 Grace  |        Mdm Janet Kan<br>kan_yan_wen_janet@moe.edu.sg        |          Mrs Ang Sok Keng<br>tan_sok_keng@moe.edu.sg          |
-|   P1 Hope  |   Mr Mohd Salleh<br>mohamed_salleh_mohamed_yas@moe.edu.sg   |    Miss Nurhidaya Sidik<br>nurhidaya_mohd_sidik@moe.edu.sg    |
-|   P1 Joy   |           Miss Connie Tan<br>connie_tan@moe.edu.sg          |         Mrs Tan Shee Cher<br>kuek_shee_cher@moe.edu.sg        |
-|   P1 Love  |  Miss Nurul Asyikin<br>nurul_asyikin_mohamed_am@moe.edu.sg  |      Mdm Nurdiyanah Yahya<br>nurdiyanah_yahya@moe.edu.sg      |
-| P1 Passion | Mdm Siti Fauziah Bte Ahmad<br>siti_fauziah_ahmad@moe.edu.sg |          Miss Isabella Lai<br>lai_mei_sze@moe.edu.sg          |
-|  P1 Truth  |           Ms Lee Wee Nee<br>lee_wee_nee@moe.edu.sg          | Mdm Noorazean Abdul Rahim<br>noorazean_abdul_rahim@moe.edu.sg |
+|   P1 Care  |       Miss Jolyn Ngo       |           Miss J. Aswiniey          |
+|  P1 Faith  |        Mrs Catherine Ow       |            Miss Jewel Tay            |
+|  P1 Grace  |        Mdm Janet Kan        |          Mrs Ang Sok Keng          |
+|   P1 Hope  |   Mr Mohd Salleh   |    Miss Nurhidaya Sidik    |
+|   P1 Joy   |           Miss Connie Tan          |         Mrs Tan Shee Cher        |
+|   P1 Love  |  Miss Nurul Asyikin  |      Mdm Nurdiyanah Yahya      |
+| P1 Passion | Mdm Siti Fauziah Bte Ahmad |          Miss Isabella Lai          |
+|  P1 Truth  |           Ms Lee Wee Nee          | Mdm Noorazean Abdul Rahim |
 
 ### **P2**
 
