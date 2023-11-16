@@ -27,14 +27,14 @@ Form Teachers
 
 |  **Class** |                   **Form Teachers**                   |                                                                                                             |
 |:----------:|:-----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|   P2 Care  |      Mrs Wong Ling Nah<br>teo_ling_nah@moe.edu.sg     |                                   Mdm Zalinah<br>zalinah_hassan@moe.edu.sg <br><br>Ms Wei Shuang<br>wei_shuang@moe.edu.sg                                 |
-|  P2 Faith  |    Mdm Sally Neo<br>neo_yuan_ting_sally@moe.edu.sg    |                             Mdm Nur Liyana<br>nur_liyana_abdul_ghani@moe.edu.sg                             |
-|  P2 Grace  |       Mdm Diana Mamat<br>diana_mamat@moe.edu.sg       |                             Mr Abdul Rahman<br>abdul_rahman_b_hussin@moe.edu.sg                             |
-|   P2 Hope  |  Mrs Hidayah Ridzwan<br>nurhidayah_a_aziz@moe.edu.sg  |                           Mrs Susila Neelakandan<br>neelakandan_susila@moe.edu.sg                           |
-|   P2 Joy   | Mdm Azlinda Bte Ab Aziz<br>azlinda_ab_aziz@moe.edu.sg |      Mrs Vimala Ravi<br>vimala_ravichandran@moe.edu.sg      |
-|   P2 Love  |      Mdm Eng Lee Cher<br>eng_lee_cher@moe.edu.sg      |    Mdm Norhana Khamis<br>norhana_khamis@moe.edu.sg    |
-| P2 Passion |     Mdm Juliana Ahmad<br>juliana_ahmad@moe.edu.sg     | Mr Irwin Peh<br>peh_yen_yee_irwin@moe.edu.sg<br><br>Ms Melissa Tham<br>melissa_tham_sook_yee@moe.edu.sg |
-|  P2 Truth  | Mdm Farhanah Abdullah<br>farhanah_abdullah@moe.edu.sg |                                   Mdm Gao Qiaoyi<br>gao_qiaoyi@moe.edu.sg                                   |
+|   P2 Care  |      Mrs Wong Ling Nah     |                                   Mdm Zalinah <br><br>Ms Wei Shuang                                 |
+|  P2 Faith  |    Mdm Sally Neo    |                             Mdm Nur Liyana                             |
+|  P2 Grace  |       Mdm Diana Mamat       |                             Mr Abdul Rahman                             |
+|   P2 Hope  |  Mrs Hidayah Ridzwan  |                           Mrs Susila Neelakandan                           |
+|   P2 Joy   | Mdm Azlinda Bte Ab Aziz |      Mrs Vimala Ravi      |
+|   P2 Love  |      Mdm Eng Lee Cher      |    Mdm Norhana Khamis    |
+| P2 Passion |     Mdm Juliana Ahmad     | Mr Irwin Peh<br>Ms Melissa Tham |
+|  P2 Truth  | Mdm Farhanah Abdullah |                                   Mdm Gao Qiaoyi                                   |
  
 
 ### **P3**
