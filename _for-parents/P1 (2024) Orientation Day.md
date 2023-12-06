@@ -71,6 +71,10 @@ The Name Tag can be ordered via the provided link: [https://oapl.sg/product/prod
 
 **6) Enquiries**
 
+Packing list for P1 (2024) Students: [Download Packing List](/files/2024/2024_P1_Packing_List_Jan_3_to_5.pdf)
+
+**7) Enquiries**
+
 Should you have any queries or require assistance, please contact the school via  or 67831190.
 
 
