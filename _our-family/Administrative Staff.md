@@ -21,13 +21,11 @@ Administrative Staff
 | Miss Nandini               | AE                     |
 | Mdm Salinah Bte Salleh     | AE(MK)                 |
 | Ms Sri Nur Aien Bte Tanuri               | AE                     |
-| Mr Adrian Lau              | CSO                    |
+| Ms Chua Chen Sin (Veron)              | CSO                    |
 | Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
 | Mr Affendi Bin Sarib       | OSO                    |
-| Mdm Magie Goh              | OSO                    |
 | Mdm Lai Hoi Ling           | OSO                    |
 | Mdm Jayasri d/o Mutu Sammy | OSO                    |
 | Mr Goh Teck Heng           | OSO                    |
 | Mr Zainuddin               | OSO                    |
-| Ms Rosy Tay                | Receptionist           |
