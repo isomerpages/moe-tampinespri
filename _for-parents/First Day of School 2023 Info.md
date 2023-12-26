@@ -2,46 +2,6 @@
 title: First Day of School 2023 Info
 permalink: /for-parents/first-day-of-school-2023-info/
 description: ""
+variant: tiptap
 ---
-![](/images/ForParents.jpg)
-
-First Day of School 2023 Info
-=============================
-
-### **PRIMARY 1**
-
-
-| Reporting Date                                                                          | Tuesday 3 January 2023                                                                                                                                                                                                                                                                                                     |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| School Hours on Tuesday 4 January                                                       | 7.50 a.m. – 12 p.m.                                                                                                                                                                                                                                                                                                        |
-| Dismissal point                                                                         | Gate 1 (Primary School Gate)<br>*Parents are only allowed to drive into the school after 2.15pm or after the school buses have left the premises                                                                                                                                                                           |
-| Items to bring                                                                          | 1) Personal Thermometer (to be issued by Form Teachers)<br><br>2) Personal hand sanitiser<br>3) Wet wipes<br>4) Extra masks<br>5) Healthy Snack (please refer here)<br>6) Pencil Case<br>7) Water Bottle<br>8) Colouring materials<br>9) Story Book<br> <br>*Students do not need to bring books on the 1st day of school. |
-| *Parents will be informed of the First Day of School Program via Parent’s Gateway.<br>  |                                                                                                                                                                                                                                                                                                                            |
-
-
-
-
-### **PRIMARY 2 – PRIMARY 6**
-
-<table>
-<thead>
-  <tr>
-    <th>Reporting Date</th>
-    <th>Wednesday 4 January 2023</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>School Hours</td>
-    <td><br>P1: 7.50 a.m. – 1.45 p.m. (Mon, Tue, Thu, Fri)*<br>      7.50 a.m. – 12.15 p.m. (Wed)*<br><br>P2: 7.50 a.m. – 2 p.m. (Mon, Tue, Thu, Fri)<br>      7.50 a.m. – 12.30 p.m. (Wed)<br>P3: 7.50 a.m. – 2 p.m.<br>P4: 7.50 a.m. – 2 p.m.<br>P5: 7.50 a.m. – 2 p.m.<br>P6: 7.50 a.m. – 2 p.m.<br>* until further notice</td>
-  </tr>
-  <tr>
-    <td>Dismissal points</td>
-		<td><img style="width:80%" src="/images/firstday.png">*Parents are only allowed to drive into the school after 2.15pm.</td>
-  </tr>
-  <tr>
-    <td>Items to bring</td>
-    <td>1) Personal Thermometer<br><br>2) Personal hand sanitiser<br>3) Wet wipes<br>4) Extra masks<br>5) Healthy Snack (please refer <a href="/about-us/General-Information/Curriculum-Hours/">here</a>)<br>6) Pencil Case<br>7) Water Bottle<br>8) Colouring materials<br>9) Story Book<br>10) TPPS Student Diary<br>11) Report book (if not returned yet)<br> <br>*Students do not need to bring books on the 1st day of school.</td>
-  </tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg"></div><h1>First Day of School 2024 Info</h1><h3><strong>PRIMARY 1</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Reporting Date</p></th><th rowspan="1" colspan="1"><p>Tuesday 2 January 2024</p></th></tr><tr><td rowspan="1" colspan="1"><p>School Hours on Tuesday 2 January</p></td><td rowspan="1" colspan="1"><p>7.40 a.m. – 12 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Dismissal point</p></td><td rowspan="1" colspan="1"><p>Gate 1 (Primary School Gate)<br>*Parents are only allowed to drive into the school after 2.15pm or after the school buses have left the premises</p></td></tr><tr><td rowspan="1" colspan="1"><p>Items to bring</p></td><td rowspan="1" colspan="1"><p>1) Pencil Case<br>2) Colouring materials<br>3) Wet wipes/tissue<br>4) Water Bottle<br>5) Lunch Box (if needed)<br>6) Story Book<br>7) Student Diary<br>8) Personal Folder<br>9) Mask (optional)<br><br>*Students do not need to bring books on the 1st day of school. School books will only be collected by Form Teachers from 3rd January 2024 onwards. Please pack according to the packing list given during the P1 Orientation in Nov 2023.</p></td></tr><tr><td rowspan="1" colspan="1"><p>*Parents will be informed of the First Day of School Program via Parent’s Gateway.<br></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3><strong>PRIMARY 2 – PRIMARY 6</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Reporting Date</p></th><th rowspan="1" colspan="1"><p>Wednesday 3 January 2024</p></th></tr><tr><td rowspan="1" colspan="1"><p>School Hours</p></td><td rowspan="1" colspan="1"><p><br>P1: 7.50 a.m. – 1.45 p.m. (Mon, Tue, Thu, Fri)*<br>7.50 a.m. – 12.15 p.m. (Wed)*<br><br>P2: 7.50 a.m. – 2 p.m. (Mon, Tue, Thu, Fri)<br>7.50 a.m. – 12.30 p.m. (Wed)<br>P3: 7.50 a.m. – 2 p.m.<br>P4: 7.50 a.m. – 2 p.m.<br>P5: 7.50 a.m. – 2 p.m.<br>P6: 7.50 a.m. – 2 p.m.<br>* until further notice</p></td></tr><tr><td rowspan="1" colspan="1"><p>Dismissal points</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:80%" height="auto" width="100%" src="/images/firstday.png"></div><p>*Parents are only allowed to drive into the school after 2.15pm.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Items to bring</p></td><td rowspan="1" colspan="1"><p>1) Personal Thermometer<br><br>2) Personal hand sanitiser<br>3) Wet wipes<br>4) Extra masks<br>5) Healthy Snack (please refer <a href="/about-us/General-Information/Curriculum-Hours/" rel="noopener noreferrer nofollow" target="_blank">here</a>)<br>6) Pencil Case<br>7) Water Bottle<br>8) Colouring materials<br>9) Story Book<br>10) TPPS Student Diary<br>11) Report book (if not returned yet)<br><br>*Students do not need to bring books on the 1st day of school.</p></td></tr></tbody></table><p></p>
