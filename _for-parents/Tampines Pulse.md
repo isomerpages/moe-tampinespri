@@ -2,6 +2,7 @@
 title: Tampines Pulse
 permalink: /for-parents/Tampines-Pulse/
 description: ""
+variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
@@ -20,3 +21,5 @@ Tampines Pulse
 [Tampines Pulse Newsletter 2022 - Sem 1.pdf](/files/Tampines_Pulse_Newsletter_2022-Sem1.pdf)
 
 [Tampines Pulse Newsletter June 2023.pdf](/files/tampinespulse_newsletter_june2023.pdf)
+
+[Tampines_Pulse_Newsletter_2023_Nov.pdf](/files/2023/Tampines_Pulse_Newsletter_2023_Nov.pdf)
