@@ -18,4 +18,14 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Tampines Pulse November 2023 Issue
+          date: 26 December 2023
+          announcement: "The latest issue of the Tampines Pulse is available for viewing. "
+          link_text: Click here for more...
+          link_url: /for-parents/Tampines-Pulse/
 ---
