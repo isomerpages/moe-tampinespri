@@ -2,6 +2,7 @@
 title: School Vision, Mission and Values
 permalink: /about-us/School-Vision-Mission-and-Values/
 description: ""
+variant: markdown
 ---
 ![](/images/AboutUs.jpg)
 
@@ -10,7 +11,7 @@ School Vision, Mission and Values
 
 |  Vision  |  A Community School of Excellence<br> Caring Hearts and Creative Minds |
 |----------|------------------------------------------------------------------------|
-|  Mission |  To Nurture Life-Long Learners of Good Character                       |
+|  Mission |  #KnowEveryChild, #GrowEveryChild, #CelebrateEveryChild                       |
 |  Values  |  Integrity, Resilience, Excellence, Adaptability, Passion (iREAP)      |
 |  Motto   |  To Persevere And Succeed                                              |
 
