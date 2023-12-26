@@ -18,11 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/Useful-Links/Useful-Links/
-  - infopic:
-      title: Happy Graduation!
-      subtitle: Class of 2023
-      id: infopic
-      description: Scan the QR code to express your gratitude to all teachers.
-      image: /images/2023_Appreciation_to_all_teachers.jpg
-      alt: Image alt text
 ---
