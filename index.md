@@ -27,4 +27,10 @@ sections:
           announcement: The latest issue of the Tampines Pulse is available for viewing.
           link_text: Click here for more...
           link_url: /for-parents/Tampines-Pulse/
+        - title: First Day of School (2024)
+          date: 27 December 2023
+          announcement: Dear parents, information for the students for 2024 is available
+            for viewing.
+          link_text: Click here for more...
+          link_url: /for-parents/first-day-of-school-2024-info/
 ---
