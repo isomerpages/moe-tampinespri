@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Letters to Parents.md
-      - Letters to Parents (2023).md
       - Tampines Pulse.md
       - School Calendar.md
       - Financial Assistance Scheme/.keep
