@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements.md
       - Announcements 2023/.keep
       - Announcements 2023/Announcements (2023).md
       - Announcements 2023/January Memo to Parents.md
