@@ -1,14 +1,12 @@
 ---
-title: May Memo to Parents
-permalink: /quick-links/announcements/may-memo-to-parents/
+title: February Memo to Parents
+permalink: /quick-links/announcements/february-memo-to-parents/
 description: ""
-third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 
-May Memo to Parents
+February Memo to Parents
 ========================
-2 May 2023
 
 Dear Parents/Guardians,
 

@@ -2,7 +2,6 @@
 title: 2024 P1 Administration cum Orientation Day
 permalink: /quick-links/announcements/p1-admin-day-2023/
 description: ""
-third_nav_title: Announcements
 ---
 ![](/images/AboutUs.jpg)
 

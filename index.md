@@ -33,4 +33,14 @@ sections:
             for viewing.
           link_text: Click here for more...
           link_url: /for-parents/first-day-of-school-2024-info/
+        - title: December 2023 Memo for Parents
+          date: 29 December 2023
+          announcement: |-
+            Dear Parents,
+
+            Please refer to the link below for the December memo to parents.
+
+            Thank you.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
 ---

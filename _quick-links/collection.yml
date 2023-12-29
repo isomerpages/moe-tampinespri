@@ -2,28 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/.keep
       - Announcements/Announcements.md
-      - Announcements/January Memo to Parents.md
-      - Announcements/Group Personal Accident Insurance for Students.md
-      - Announcements/Say No to Single Use Plastic.md
-      - Announcements/February Memo to Parents.md
-      - Announcements/March Memo to Parents.md
-      - Announcements/April Memo to Parents.md
-      - Announcements/School Health Visit for Primary 1 to 6 Students.md
-      - Announcements/2023 TPPS Homework Policy.md
-      - Announcements/Assessment Information 2023.md
-      - Announcements/May Memo to Parents.md
-      - Announcements/Vesak Day (2023).md
-      - Announcements/June Memo to Parents.md
-      - Announcements/July Memo to Parents.md
-      - Announcements/Reminder on Road Safety and Traffic Regulations (With
-        Immediate Effect).md
-      - Announcements/August Memo to Parents.md
-      - Announcements/September Memo to Parents.md
-      - Announcements/2024 P1 Administration cum Orientation Day.md
-      - Announcements/October Memo to Parents.md
-      - Announcements/November Memo to Parents.md
+      - Announcements/.keep
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
