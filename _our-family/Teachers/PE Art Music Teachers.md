@@ -14,7 +14,7 @@ PE Art Music Teachers
 
 |    |
 |-----------------|
-| Mr Peter Chua   |
+| Miss Evelyn Yeow   |
 | Mr Irwin Peh    |
 | Mr Abdul Rahman |
 | Mr Guo Li Ren   |
@@ -37,3 +37,4 @@ PE Art Music Teachers
 |-------------------|
 | Mrs Tan Shee Cher |
 | Miss Kwa Shuar En |
+| Miss Tiara Sabrina |
