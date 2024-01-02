@@ -28,7 +28,7 @@ PE Art Music Teachers
 |--------------------|
 | Mdm Chuang Bee Eng |
 | Mdm Noorazean      |
-
+| Miss Tiara Sabrina |
 
 
 ### **Music Teachers**
@@ -37,4 +37,3 @@ PE Art Music Teachers
 |-------------------|
 | Mrs Tan Shee Cher |
 | Miss Kwa Shuar En |
-| Miss Tiara Sabrina |
