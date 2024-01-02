@@ -29,3 +29,4 @@ Administrative Staff
 | Mdm Jayasri d/o Mutu Sammy | OSO                    |
 | Mr Goh Teck Heng           | OSO                    |
 | Mr Zainuddin               | OSO                    |
+| Mr Martin Leow           | Receptionist       |
