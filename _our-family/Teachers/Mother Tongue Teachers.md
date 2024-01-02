@@ -24,11 +24,11 @@ Mother Tongue Teachers
 | Miss Zhu Li           |
 | Miss Tay Yun Yi       |
 | Mrs Ang Sok Keng      |
-| Mdm  Gao Qiaoyi       |
+| Mdm Gao Qiaoyi       |
 | Mdm Ni Jieren         |
 | Mdm Tan Khing Khing   |
 | Mdm Toh Chiew Hoon    |
-| Mdm Chua Gek Huang    |
+| Ms Yeo Kim Keow    |
 | Mdm Wei Shuang        |
 
 
@@ -44,7 +44,7 @@ Mother Tongue Teachers
 | Mdm Nur Liyana              |
 | Mr Iftitah                |
 | Mdm Norhana Khamis        |
-| Mdm Zalinah Bte Hassan    | 
+| Mdm Zalinah Hassan    | 
 
 
 ### **Tamil Language Teachers**
@@ -53,4 +53,4 @@ Mother Tongue Teachers
 |-----------------|
 | Mrs Vimala Ravi | 
 | Miss J Aswiniey |
-| Ms Aminah       |
+| Mdm Aminah Shariff      |
