@@ -32,6 +32,7 @@ School Executive Committee
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
 | **LH English**                        | Mrs Melissa Yow            |
+| **LH English**                        | Ms Eileen Ng            |
 | **LH Math**                           | Mrs Janice Wang            |
 | **LH Science**                        | Mdm Eleanor Pang           |
 | **LH Chinese**                        | Mdm Shen Jingyi            |
