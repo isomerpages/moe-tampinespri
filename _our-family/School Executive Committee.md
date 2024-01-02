@@ -25,18 +25,17 @@ School Executive Committee
 | **HOD Science**                       | Mr Jerome Ng               |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
-| **HOD (PE/CCA/Aesthetics)**           | Mr Peter Chua              |
 | **HOD CCE**                           | Mr Saravanan               |
 | **HOD Student Development**           | Mr Ethan Tan               |
 | **Year Head Primary 3 &amp; 4**           | Mrs Ng-Chan Jing Bo        |
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
 | **LH English**                        | Mrs Melissa Yow            |
-| **LH English**                        | Ms Eileen Ng            |
+| **LH English**                        | Mrs Eileen Chong            |
 | **LH Math**                           | Mrs Janice Wang            |
 | **LH Science**                        | Mdm Eleanor Pang           |
 | **LH Chinese**                        | Mdm Shen Jingyi            |
+| **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
 | **SH Malay &amp; Partnership**            | Miss Nur Hidaya            |
 | **SH ICT**                            |  Mrs Agnes Lim<br>         |
-| **Assistant Year Head Primary 1 &amp; 2** | Mdm Eng Lee Cher           |
 | **Assistant Year Head Primary 1 &amp; 2** | Mdm Nurul Asyikin          |
