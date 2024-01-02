@@ -47,3 +47,25 @@ Management
 Commit Learning SchoolHouse
 
 <center> <b>We are committed to bringing out the best in every student</b> </center>
+<hr>
+
+# SCC Class Deployment 2024:
+
+<u>Main centre:</u><br>
+**P1(A):** Teacher Zheng Hui Qing<br>
+**P1(B):** Teacher Humairah
+
+<u>Primary 2:</u><br>
+**CCA ROOM 2:** Teacher Eka<br>
+**CCA ROOM 3:** Teacher Nurul
+
+<u>Primary 3:</u><br>
+**CCA ROOM 1:** Teacher Yati<br>
+**P2 FAITH:** Teacher Danial
+
+<u>Primary 4:</u><br> 
+**P2 GRACE:** Teacher Shah
+
+<u>Primary 5 &amp; 6:</u><br> 
+**P2 CARE:** Teacher Putri
+
