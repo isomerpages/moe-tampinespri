@@ -39,6 +39,7 @@ Mother Tongue Teachers
 |  |
 |---------------------------|
 | Miss Nurhidaya Mohd Sidik |
+| Mr Faizal Mohamed Yusoff  |
 | Mdm Norliela              |
 | Mdm Juliana               |
 | Mdm Nur Liyana              |
