@@ -14,3 +14,4 @@ Teacher Leaders
 | **Lead Teacher (EL)**        | Mdm Nazreen Osman |
 | **Senior Teacher (TL)**      | Mrs Vimala Ravi   |
 | **Senior Teacher (Science)** | Mdm Jalela        |
+| **Senior Teacher (ML)**      | Mr Faizal    |
