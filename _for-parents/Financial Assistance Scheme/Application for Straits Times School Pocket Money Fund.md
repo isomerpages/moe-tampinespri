@@ -16,5 +16,5 @@ Please download and submit the following files to apply:
 
 
 
-**Application Window:** 10 January 2024 - 7 February 2024 
+**Application Window:** 10 January 2024 - 7 February 2024 <br>
 *Note: This application window is only for students who are in Primary 1 level in 2024.*
