@@ -11,11 +11,7 @@ Student Care Centre (SCC)
 =========================
 
 The school’s school-based Student Care Centre (SCC) seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.
-<!--
-If you are keen to enrol your child in our SCC, please refer to the information below.
 
-<b>Application form:</b>&nbsp;[Link to Online Form](https://forms.gle/CS81S1v22FxKpGUaA)
--->
 
 ### **Commit Learning Schoolhouse (CLS)**
 
@@ -68,4 +64,3 @@ Commit Learning SchoolHouse
 
 <u>Primary 5 &amp; 6:</u><br> 
 **P2 CARE:** Teacher Putri
-
