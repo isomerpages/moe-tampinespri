@@ -12,6 +12,9 @@ Student Care Centre (SCC)
 
 The school’s school-based Student Care Centre (SCC) seeks to provide an integral platform of support for students in the school who need a structured and supportive environment after school hours.
 
+If you are keen to enrol your child in our SCC, please register your interest via the link below.
+
+<b>Registration of Interest:</b>&nbsp;[Link to Online Form](https://docs.google.com/forms/d/e/1FAIpQLSdBa_gCj1eoHL6CEG8K3Tg7PWlGxRMe7Gaqxfho6N6De8scPw/viewform)
 
 ### **Commit Learning Schoolhouse (CLS)**
 
