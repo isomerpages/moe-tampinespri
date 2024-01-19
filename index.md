@@ -43,4 +43,13 @@ sections:
             Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: MK 2024 Registration Exercise
+          date: 19 January 2024
+          announcement: >-
+            2024 MOE Kindergarten Registration Exercise
+
+
+            Online Registration for MK Sibling Priority Admission (Priority Order 2)
+          link_text: Click here for more...
+          link_url: /quick-links/announcements/mk-2024-reg-ex/
 ---
