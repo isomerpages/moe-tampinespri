@@ -4,4 +4,4 @@ permalink: /for-parents/letters-to-parents-2024/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg"></div><h1>Letters to Parents (2024)</h1><h3><strong>December 2023</strong></h3><p><a href="/files/2024/TPPS_60_2023___Memo_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-60-2023 - Memo Dec 2023.pdf</a></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg"></div><h1>Letters to Parents (2024)</h1><h3><strong>December 2023</strong></h3><p><a href="/files/2024/TPPS_60_2023___Memo_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-60-2023 - Memo Dec 2023.pdf</a></p><p></p><p>January 2023</p><p>Link</p>
