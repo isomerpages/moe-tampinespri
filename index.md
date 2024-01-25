@@ -52,4 +52,14 @@ sections:
             Online Registration for MK Sibling Priority Admission (Priority Order 2)
           link_text: Click here for more...
           link_url: /quick-links/announcements/mk-2024-reg-ex/
+        - title: January 2024 Memo to Parents
+          date: 25 January 2024
+          announcement: |-
+            Dear Parents,
+
+            Please refer to the link below for the January memo to parents.
+
+            Thank you.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
 ---
