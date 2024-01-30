@@ -5,3 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p></p>
+<p></p>
+<p>MK@Tampines Primary will host an open house on Saturday, 17 Feb 2024.
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+sign up.</p>
+<p>Open house hours: 8:30 a.m. – 12:30 p.m. (last admission at 12:15 p.m.)</p>
+<p></p>
