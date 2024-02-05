@@ -3,6 +3,7 @@ title: Our Family
 permalink: /moe-kindergarten/About-Us/Our-Family/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ![](/images/mk%20kindergarten.jpg)
 
@@ -17,11 +18,13 @@ Our Family
 |  Ms Renice Ong   | English Language Teacher |  renice_ong_ling_qian@moe.edu.sg    |
 |  Ms Nur Atiqah           | English Language Teacher |  nur_atiqah_zolkefle@moe.edu.sg             |
 |  Ms Shannon Sim           | English Language Teacher |  shannon_sim_yee_xuan@moe.edu.sg             |
+|  Miss Nuratiqah Insyira Hisham           | English Language Teacher |  nuratiqah_insyira_hisham@moe.edu.sg     |
+|  Miss Tan Siao Min           | English Language Teacher |  tan_siao_min@moe.edu.sg             |
 |  Mdm Chen Lifeng                   | Chinese Language Teacher |  chen_lifeng@moe.edu.sg                    |
-|  Miss Chia Ci En                   | Chinese Language Teacher |  chia_ci_en@moe.edu.sg                     |
 |  Miss Joyce Ong Yu Yi              | Chinese Language Teacher |  joyce_ong_yu_yi@moe.edu.sg                |
 |  Mdm Zhang Ying                    | Chinese Language Teacher |  zhang_ying_a@moe.edu.sg                   |
+|  Mdm Yang Junxia                    | Chinese Language Teacher |  yang_junxia@moe.edu.sg                   |
+|  Mdm Ong Bee Leng                    | Chinese Language Teacher |  ong_bee_leng@moe.edu.sg                   |
 |  Ms Nursyazana Binte Abdul Aziz    |  Malay Language Teacher  |  nursyazana_abdul_aziz@moe.edu.sg          |
 |  Mdm Salina Bte Sulaiman           | Malay Language Teacher   |  salina_bte_sulaiman@moe.edu.sg            |
 |  Miss Kuzhali                      | Tamil Language Teacher   |  kuzhali@moe.edu.sg                        |
-|  Mdm Sikkandar Shakila             | Tamil Language Teacher   |  sikkander_shakila@moe.edu.sg              |
