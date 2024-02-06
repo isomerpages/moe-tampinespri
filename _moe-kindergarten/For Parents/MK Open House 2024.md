@@ -1,7 +1,7 @@
 ---
 title: MK Open House 2024
 permalink: /moe-kindergarten/for-parents/mk-open-house-2024/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: For Parents
 ---
@@ -21,7 +21,7 @@ at the school. Parking is available in nearby HDB blocks.</p>
 <p>Parents are encouraged to view the following briefing video before the
 visit. This will enable them to clarify their questions (if any) with our
 teachers during the visit.</p>
-<p>&lt;Insert briefing video here&gt;</p>
+<p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iIvVJnIz-OE?si=toQHtqVNERBxVg92" height="315" width="560"></iframe></p>
 <p>We will also be broadcasting the video during the following times on open
 house day in our Music and Movement Rooms at Level 2:</p>
 <p>Session 1: 9:00 a.m.</p>
