@@ -9,7 +9,7 @@ third_nav_title: For Parents
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk kindergarten.jpg">
 </div>
-<p></p>
+<p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/iIvVJnIz-OE?si=toQHtqVNERBxVg92" height="315" width="560"></iframe></p>
 <p>MK@Tampines Primary will host an open house on <strong>Saturday, 17 Feb 2024</strong>.
 Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 sign up.</p>
