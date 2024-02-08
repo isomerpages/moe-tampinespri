@@ -1,0 +1,24 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - School Vision, Mission and Values.md
+      - School Values – iREAP.md
+      - School Crest.md
+      - History.md
+      - 35th Anniversary/.keep
+      - 35th Anniversary/Foreword.md
+      - 35th Anniversary/Heritage Wall.md
+      - 35th Anniversary/Special Memories.md
+      - 35th Anniversary/Well wishes.md
+      - 35th Anniversary/Family Photos.md
+      - General Information/.keep
+      - General Information/Curriculum Hours.md
+      - General Information/School Rules and Regulations.md
+      - General Information/Financial Assistance.md
+      - Service Providers/.keep
+      - Service Providers/Service Providers.md
+      - Service Providers/Student Care Centre (SCC).md
+      - Contact Us.md
+      - Terms of Use.md

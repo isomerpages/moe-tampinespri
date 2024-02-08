@@ -1,0 +1,29 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Mother Tongue/.keep
+      - Infocomm and Technology (ICT).md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/Social Studies.md
+      - CCE/National Education.md
+      - CCE/CCE Awards & Recognition.md
+      - CCE/Values in Action.md
+      - CCE/Educational & Career Guidance.md
+      - CCE/.keep
+      - PE, Arts, Music/Physical Education.md
+      - PE, Arts, Music/Arts.md
+      - PE, Arts, Music/Music.md
+      - PE, Arts, Music/.keep
+      - Innovation and Enterprise.md
+      - Learning for Life Programme.md
+      - Applied Learning Programme (Drama).md
+      - Student Development Department.md

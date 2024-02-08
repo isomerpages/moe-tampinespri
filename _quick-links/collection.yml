@@ -1,0 +1,13 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Announcements/MK 2024 Registration Exercise.md
+      - Announcements/Announcements.md
+      - Announcements/.keep
+      - School Calendar.md
+      - Useful Links/Useful Links.md
+      - Useful Links/For Teachers.md
+      - Useful Links/For Students.md
+      - Useful Links/For Parents.md
+      - Useful Links/.keep

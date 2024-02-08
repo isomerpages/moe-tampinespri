@@ -1,0 +1,42 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    url: /about-us/Principals-Message/
+    sublinks:
+      - title: Principal’s Message
+        url: /about-us/Principals-Message/
+      - title: School Vision Mission & Values
+        url: /about-us/School-Vision-Mission-and-Values/
+      - title: School Values – iREAP
+        url: /about-us/School-Values-iREAP/
+      - title: School Crest
+        url: /about-us/School-Crest/
+      - title: History
+        url: /about-us/History/
+      - title: 35th Anniversary
+        url: /about-us/35th-anniversary/foreword/
+      - title: General Information
+        url: /about-us/General-Information/Curriculum-Hours/
+      - title: Our Family
+        url: /our-family/School-Executive-Committee/
+      - title: Service Providers
+        url: /about-us/Service-Providers/Service-Providers/
+      - title: Contact Us
+        url: /about-us/Contact-Us/
+      - title: Terms of Use
+        url: /about-us/Terms-of-Use/
+  - title: Our Learning Experiences
+    url: /curriculum/Curriculum/
+    sublinks:
+      - title: Curriculum
+        url: /curriculum/Curriculum/
+      - title: Co-Curricular Activities
+        url: /our-learning-experiences/Co-Curricular-Activities/Co-Curricular-Activities/
+      - title: School Events
+        url: /our-learning-experiences/School-Events/School-Events/
+  - title: For Parents
+    collection: for-parents
+  - title: Our Community
+    collection: our-community
+  - title: MOE Kindergarten
+    collection: moe-kindergarten

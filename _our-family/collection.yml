@@ -1,0 +1,12 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Teacher Leaders.md
+      - Teachers/Form Teachers.md
+      - Teachers/Mother Tongue Teachers.md
+      - Teachers/PE Art Music Teachers.md
+      - Teachers/.keep
+      - Learning and Behavioural Support Staff.md
+      - Administrative Staff.md

@@ -1,0 +1,30 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Letters to Parents.md
+      - Tampines Pulse.md
+      - School Calendar.md
+      - Financial Assistance Scheme/.keep
+      - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md
+      - Financial Assistance Scheme/Application for Straits Times School Pocket
+        Money Fund.md
+      - Group Personal Accident Insurance for Students.md
+      - P1 (2024) Orientation Day.md
+      - MoneySense.md
+      - First Day of School 2024 Info.md
+      - Booklist for AY2024.md
+      - Growing Years Programme.md
+      - Parent Support Group.md
+      - Guides for Parents/.keep
+      - Guides for Parents/Guides for Parents.md
+      - Guides for Parents/SLS Support for Home Based Learning.md
+      - Guides for Parents/Student's Guide to Zoom.md
+      - Guides for Parents/Positive Parenting Program® (Triple P).md
+      - Guides for Parents/Education And Career Guidance (ECG) Portal.md
+      - Guides for Parents/Updates on PSLE Scoring and Secondary 1 Posting
+        System from 2021.md
+      - Guides for Parents/Registration for PayNow.md
+      - Leave Of Absence (LOA).md
+      - 2024 TPPS Homework Policy.md
+      - Assessment Information 2023.md
