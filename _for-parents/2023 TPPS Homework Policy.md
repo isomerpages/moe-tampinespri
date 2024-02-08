@@ -1,7 +1,8 @@
 ---
 title: 2023 TPPS Homework Policy
-permalink: /for-parents/2023-tpps-homework-policy/
+permalink: /2023-tpps-homework-policy/
 description: ""
+variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
