@@ -116,9 +116,17 @@ etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Daily reading for enjoyment</p>
+</li>
+<li>
 <p>Either English Language, Mathematics and/or Mother Tongue Language homework</p>
+</li>
+<li>
 <p>About 0.5 to 1 hour in total every weekday</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -129,9 +137,17 @@ etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Daily reading for enjoyment</p>
+</li>
+<li>
 <p>English Language, Mathematics, Science and Mother Tongue Language homework</p>
+</li>
+<li>
 <p>About 1 to 1.5 hours in total every weekday</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -142,8 +158,14 @@ etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>English Language, Mathematics, Science and Mother Tongue Language homework</p>
+</li>
+<li>
 <p>About 1.5 to 2 hours in total every weekday</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -154,36 +176,38 @@ etc.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Foundation English Language, Foundation Mathematics, Foundation Science
 and Foundation Mother Tongue Language homework</p>
+</li>
+<li>
 <p>About 1 to 1.5 hours in total every weekday</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Note: P6 students may have more homework as they progress towards PSLE.</p>
-<p>&nbsp;</p>
-<p>Students who are unable to finish the work set in class will also need
-to complete it at home.&nbsp; They may also do corrections as part of their
-homework. In addition, teachers may ask the students to do some journal
-writing, reading (fiction and non-fiction), Music and Art. In the course
-of the year, students may also need to do some research as part of their
-homework for their group/class projects. There may be some homework set
-over the weekends and school holidays depending on the needs of the class.&nbsp;</p>
-<p>&nbsp;</p>
-<p>These are general guidelines for reference and may be differentiated to
-meet the needs and interests of different students.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>In 2024, for classes with spelling, Mother Tongue spelling will be conducted
-on Wednesdays (P3 &amp; P4) or Thursdays (P1, P2, P5 &amp; P6) and English
-spelling will be on any of the other weekdays. If there is a public or
-school holiday, spelling will be postponed to the next school day. Homework
-to be given for the day will be clearly written on the class whiteboards.
-Teachers will remind students to note the homework in their diaries.</p>
-<p>&nbsp;</p>
-<p>Teachers will <u>not</u> be setting assessment practice for the students
+<p>&nbsp;Students who are unable to finish the work set in class will also
+need to complete it at home.&nbsp; They may also do corrections as part
+of their homework. In addition, teachers may ask the students to do some
+journal writing, reading (fiction and non-fiction), Music and Art. In the
+course of the year, students may also need to do some research as part
+of their homework for their group/class projects. There may be some homework
+set over the weekends and school holidays depending on the needs of the
+class.&nbsp;</p>
+<p>&nbsp;These are general guidelines for reference and may be differentiated
+to meet the needs and interests of different students.</p>
+<p>&nbsp;In 2024, for classes with spelling, Mother Tongue spelling will
+be conducted on Wednesdays (P3 &amp; P4) or Thursdays (P1, P2, P5 &amp;
+P6) and English spelling will be on any of the other weekdays. If there
+is a public or school holiday, spelling will be postponed to the next school
+day. Homework to be given for the day will be clearly written on the class
+whiteboards. Teachers will remind students to note the homework in their
+diaries.</p>
+<p>&nbsp;Teachers will <u>not</u> be setting assessment practice for the students
 on a regular basis.&nbsp; Assessment practice is only useful when students
 are going to sit for coming examinations. The aim of learning and homework
 extends beyond examination practice. If there is any need for tests, these
@@ -191,22 +215,21 @@ will be spaced out and be set on different days. Please help your child
 by making sure that homework is done before tuition work. If you want your
 child to learn, do not do the work for him/her. Help us to guide your child
 to good study habits.</p>
-<p>&nbsp;</p>
-<p>It is useful and important for all parents to ensure that their children
-check their student diaries daily so as to be updated regarding school
-matters or homework set. Children sometimes take a long time over their
-homework not because of a lack of understanding but because they are unable
-to remain focused and disciplined.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>With close partnership between school and home, students will learn to
-note down work that needs to be done and learn the life-skill of being
+<p>&nbsp;It is useful and important for all parents to ensure that their
+children check their student diaries daily so as to be updated regarding
+school matters or homework set. Children sometimes take a long time over
+their homework not because of a lack of understanding but because they
+are unable to remain focused and disciplined.&nbsp;&nbsp;</p>
+<p>&nbsp;With close partnership between school and home, students will learn
+to note down work that needs to be done and learn the life-skill of being
 self-disciplined regarding work. We look forward to a meaningful year,
 working hand-in-hand with you to nurture our students’ potential.</p>
-<p>&nbsp;</p>
-<p>Yours in partnership,</p>
-<p>&nbsp;</p>
-<p>Mrs Lay See Neufeld</p>
+<p>&nbsp;Yours in partnership,</p>
+<p>&nbsp;Mrs Lay See Neufeld</p>
 <p>Principal</p>
-<p>#KnowEveryChild</p>
-<p>#GrowEveryChild</p>
-<p>#CelebrateEveryChild</p>
+<p><em>#KnowEveryChild</em>
+</p>
+<p><em>#GrowEveryChild</em>
+</p>
+<p><em>#CelebrateEveryChild</em>
+</p>
