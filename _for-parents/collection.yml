@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - 2024 TPPS Homework Policy.md
       - Letters to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
@@ -27,5 +26,6 @@ collections:
         System from 2021.md
       - Guides for Parents/Registration for PayNow.md
       - Leave Of Absence (LOA).md
+      - 2024 TPPS Homework Policy.md
       - 2023 TPPS Homework Policy.md
       - Assessment Information 2023.md
