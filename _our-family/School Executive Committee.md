@@ -30,7 +30,6 @@ School Executive Committee
 | **Year Head Primary 3 &amp; 4**           | Mrs Ng-Chan Jing Bo        |
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
-| **LH English**                        | Mrs Melissa Yow            |
 | **LH English**                        | Mrs Eileen Chong            |
 | **LH Math**                           | Mrs Janice Wang            |
 | **LH Science**                        | Mdm Eleanor Pang           |
@@ -38,4 +37,4 @@ School Executive Committee
 | **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
 | **SH Malay &amp; Partnership**            | Miss Nur Hidaya            |
 | **SH ICT**                            |  Mrs Agnes Lim<br>         |
-| **Assistant Year Head Primary 1 &amp; 2** | Mdm Nurul Asyikin          |
+| **Assistant Year Head Primary 1 &amp; 2** | Miss Nurul Asyikin          |
