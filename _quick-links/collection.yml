@@ -2,9 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/MK 2024 Registration Exercise.md
-      - Announcements/Announcements.md
       - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/MK 2024 Registration Exercise.md
+      - Announcements/Parents Engagement Session 2024.md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md

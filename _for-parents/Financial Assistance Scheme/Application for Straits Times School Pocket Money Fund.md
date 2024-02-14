@@ -7,9 +7,9 @@ variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
-<!-- Applications have closed.
--->
+ The application window has closed.
 
+<!-- 
 Please download and submit the following files to apply:
 1. [Annex A - 2024 STSPMF Application Form for Schools.pdf](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)
 2. [Annex B - Income Declaration Form.pdf](/files/annex%20b%20-%20income%20declaration%20form.pdf)
@@ -18,3 +18,4 @@ Please download and submit the following files to apply:
 
 **Application Window:** 10 January 2024 - 7 February 2024 <br>
 *Note: This application window is only for students who are in Primary 1 level in 2024.*
+ -->

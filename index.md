@@ -22,11 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Tampines Pulse November 2023 Issue
-          date: 26 December 2023
-          announcement: The latest issue of the Tampines Pulse is available for viewing.
-          link_text: Click here for more...
-          link_url: /for-parents/Tampines-Pulse/
         - title: First Day of School (2024)
           date: 27 December 2023
           announcement: Dear parents, information for the students for 2024 is available
@@ -62,4 +57,10 @@ sections:
             Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: Parents Engagement Zoom Session
+          date: 14 February 2024
+          announcement: Dear Parents, please refer to the link below for the details of
+            the Zoom Session.
+          link_text: Parents Engagement Session 2024
+          link_url: /quick-links/announcements/parents-engagement-2024/
 ---
