@@ -57,4 +57,10 @@ sections:
             Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: New Announcement
+          date: 14 February 2024
+          announcement: Dear Parents, please refer to the link below for the details of
+            the Zoom Session.
+          link_text: Parents Engagement Session 2024
+          link_url: /quick-links/announcements/parents-engagement-2024/
 ---
