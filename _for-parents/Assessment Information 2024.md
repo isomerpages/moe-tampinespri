@@ -379,7 +379,7 @@ the conduct of the Weighted Assessments and Examinations.</p>
 </li>
 <li>
 <p>Students must not have in their possession:</p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Any unauthorized electronic, communication, entertainment or gaming devices
 capable of capturing, storing, displaying and/or transmitting visual, audio
@@ -393,6 +393,8 @@ formula sheet printed on the math instrument box.</p>
 <li>
 <p>Any calculator or dictionary that are not listed in the list of approved
 calculators/dictionaries.</p>
+</li>
+</ol>
 </li>
 <li>
 <p>Students who are found in possession of any unauthorised devices/materials
