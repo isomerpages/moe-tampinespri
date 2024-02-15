@@ -296,9 +296,9 @@ to the information, you will be duly informed.</p>
 </tr>
 </tbody>
 </table>
-<p>WA: Weighted Assessment</p>
-<p>NWA: Non-Weighted Assessment</p>
-<p>EYE: End-of-Year Examination</p>
+<p>WA: Weighted Assessment<br>
+NWA: Non-Weighted Assessment<br>
+EYE: End-of-Year Examination</p>
 <p><u>Kindly take note of the following</u>:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -379,7 +379,7 @@ the conduct of the Weighted Assessments and Examinations.</p>
 </li>
 <li>
 <p>Students must not have in their possession:</p>
-<ol data-tight="true" class="tight">
+<ol type="a" data-tight="true" class="tight">
 <li>
 <p>Any unauthorized electronic, communication, entertainment or gaming devices
 capable of capturing, storing, displaying and/or transmitting visual, audio
