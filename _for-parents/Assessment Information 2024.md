@@ -298,7 +298,8 @@ to the information, you will be duly informed.</p>
 </table>
 <p>WA: Weighted Assessment<br>
 NWA: Non-Weighted Assessment<br>
-EYE: End-of-Year Examination</p>
+EYE: End-of-Year Examination<br>
+PSLE: Primary School Leaving Examination</p>
 <p><u>Kindly take note of the following</u>:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -423,4 +424,3 @@ their results forfeited.</p>
 <p></p>
 </li>
 </ol>
-<p>PSLE: Primary School Leaving Examination</p>
