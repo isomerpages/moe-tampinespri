@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/2024 MOE Kindergarten Open House.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/MK 2024 Registration Exercise.md
