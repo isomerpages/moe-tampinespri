@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: First Day of School (2024)
-          date: 27 December 2023
-          announcement: Dear parents, information for the students for 2024 is available
-            for viewing.
-          link_text: Click here for more...
-          link_url: /for-parents/first-day-of-school-2024-info/
         - title: December 2023 Memo for Parents
           date: 29 December 2023
           announcement: |-
@@ -63,4 +57,12 @@ sections:
             the Zoom Session.
           link_text: Parents Engagement Session 2024
           link_url: /quick-links/announcements/parents-engagement-2024/
+        - title: 2024 MOE Kindergarten Open House
+          date: 14 February 2024
+          announcement: >-
+            Dear Parents,
+
+            Please click on the link below for more information about the MK Open House.
+          link_text: Click here for more...
+          link_url: /quick-links/announcements/2024-mk-open-house/
 ---
