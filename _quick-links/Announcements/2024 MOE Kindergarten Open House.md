@@ -5,9 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Announcements
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
+</div>
 <p>14 February 2024</p>
-<h4> <strong>ON TO A STRONG START!</strong></h4>
+<h4><strong>ON TO A STRONG START!</strong></h4>
 <p>Dear Parents,</p>
 <p>We warmly welcome you and your child to sign up for the <strong>2024 MOE Kindergarten Open House</strong> to
 find out why MK is the quality preschool choice and how we ignite joy of
