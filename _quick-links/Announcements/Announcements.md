@@ -22,9 +22,5 @@ third_nav_title: Announcements
 <p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">January 2024 Memo for Parents</a>
 </p>
 </li>
-<li>
-<p><a href="/quick-links/announcements/parents-engagement-2024/" rel="noopener noreferrer nofollow" target="_blank">Parents Engagement Session (2024)</a>
-</p>
-</li>
 </ol>
 <p></p>
