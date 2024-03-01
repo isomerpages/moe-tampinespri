@@ -59,4 +59,10 @@ sections:
             Please click on the link below for more information about the MK Open House.
           link_text: Click here for more...
           link_url: /quick-links/announcements/2024-mk-open-house/
+        - title: March 2024 Memo to Parents
+          date: 01 March 2024
+          announcement: Dear Parents, Please refer to the link below for the March memo to
+            parents. Thank you.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
 ---
