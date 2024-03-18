@@ -25,4 +25,4 @@ If your child is offered a place, you will need to indicate your acceptance onli
 
 Places will be first allocated to applications received during the registration period. Applications submitted after the registration period are subject to available vacancies. If there are no vacancies, your application will be placed on the waitlist.
 
-For those who missed out on the online registration exercise and wish to register for MOE Kindergarten @ Tampines Primary, you can fill in the form via this [link](https://go.gov.sg/mktppswaitlist2023-2024).  The person-in-charge of our MK will inform you if there is a vacancy for your child.
+For those who missed out on the online registration exercise and wish to register for MOE Kindergarten @ Tampines Primary, you can fill in the form via this [link](https://go.gov.sg/mktppswaitlist2024).  The person-in-charge of our MK will inform you if there is a vacancy for your child.
