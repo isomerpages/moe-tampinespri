@@ -22,16 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: December 2023 Memo for Parents
-          date: 29 December 2023
-          announcement: |-
-            Dear Parents,
-
-            Please refer to the link below for the December memo to parents.
-
-            Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: MK 2024 Registration Exercise
           date: 19 January 2024
           announcement: >-
@@ -65,4 +55,11 @@ sections:
             parents. Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: School Health Visit for Primary 1 to 6 Students
+          date: 18 March 2024
+          announcement: Dear parents, Health Promotion Board (HPB) will be conducting
+            annual school health visit at your child’s school from 8-Apr-2024 to
+            16-Apr-2024.
+          link_text: Click here for more...
+          link_url: /quick-links/announcements/school-health-visit-2024/
 ---
