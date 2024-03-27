@@ -305,8 +305,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurdianna Malik
-<br>Mrs Azizah Malek</p>
-<p>Mr Lim Wei Hung</p>
+<br>Mr Lim Wei Hung</p>
 </td>
 </tr>
 </tbody>
