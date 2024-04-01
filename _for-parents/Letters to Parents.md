@@ -20,4 +20,8 @@ description: ""
 <p><a href="/files/2024/TPPS_25_2024___March_Memo_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-25-2024 - March Memo 2024.pdf</a>
 </p>
 <p></p>
+<h3><strong>April 2024</strong></h3>
+<p><a href="/files/2024/TPPS_32_2024___April_Memo_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-32-2024 - April Memo 2024.pdf</a>
+</p>
+<p></p>
 <p></p>
