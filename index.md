@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /quick-links/Announcements/Announcements/
+          url: /quick-links/announcements/announcements/
         - title: Calendar
           description: ""
           url: /quick-links/School-Calendar/
