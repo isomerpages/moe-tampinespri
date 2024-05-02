@@ -22,22 +22,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: January 2024 Memo to Parents
-          date: 25 January 2024
-          announcement: |-
-            Dear Parents,
-
-            Please refer to the link below for the January memo to parents.
-
-            Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: 2024 MOE Kindergarten Open House
           date: 14 February 2024
           announcement: >-
             Dear Parents,
 
-            Please click on the link below for more information about the MK Open House.
+            Please click on the link below for more information about the MK
+            Open House.
           link_text: Click here for more...
           link_url: /quick-links/announcements/2024-mk-open-house/
         - title: March 2024 Memo to Parents
@@ -59,6 +50,16 @@ sections:
             Dear Parents,
 
             Please refer to the link below for the April memo to parents.
+
+            Thank you.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
+        - title: May 2024 Memo to Parents
+          date: 02 May 2024
+          announcement: |-
+            Dear Parents,
+
+            Please refer to the link below for the May memo to parents.
 
             Thank you.
           link_text: Click here for more...
