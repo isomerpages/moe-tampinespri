@@ -3,48 +3,71 @@ title: TPPS Superstars
 permalink: /our-learning-experiences/School-Events/TPPS-Superstars/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
-![](/images/Our%20Learning%20Experiences.jpg)
-
-TPPS Superstars
-===============
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k7n2{color:#121212;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-svcv{color:#121212;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k7n2">Name of Event</th>
-    <th class="tg-svcv">TPPS Superstars 2023</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
+</div>
+<h1>TPPS Superstars</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-k7n2">Objectives</td>
-    <td class="tg-k7n2">TPPS Superstars is a platform that encourages creativity and confidence among our students; and acknowledges their effort and talents. It also provides an opportunity for students to embrace and appreciate diversity through the performing arts, and practise being gracious audience.</td>
-  </tr>
-  <tr>
-    <td class="tg-k7n2">Date</td>
-    <td class="tg-k7n2">During Term 2 Week 1, the following took place:<br>
-* 		Showcase of the combined P1 to P6 performance video snippets on 21 March Tuesday<br>
-* 			Showcase of Honorary Mention Participants, Finalists and Award Winners’ video snippets on 22 March Wednesday<br>
-* 			TPPS Superstars Award Ceremony on 23 March Thursday<br><br>
-			(The whole process started from 26 January 2023 and ended on 23 March 2023.)
-		</td>
-  </tr>
-  <tr>
-    <td class="tg-k7n2">Time</td>
-    <td class="tg-k7n2">During the Early Bird Morning Programme (from 7.40-7.50 am)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TPPS Superstars 2024</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Objectives</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TPPS Superstars is a platform that encourages creativity and confidence
+among our students; and acknowledges their effort and talents. It also
+provides an opportunity for students to embrace and appreciate diversity
+through the performing arts, and practise being gracious audience.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During Term 2 Week 1, the following took place:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Showcase of performance video snippets of Honorary Mention Participants
+on 19 March Tuesday</p>
+</li>
+<li>
+<p>Showcase of performance video snippets of Finalists and Award Winners
+on 20 March Wednesday</p>
+</li>
+<li>
+<p>TPPS Superstars Award Ceremony on 21 March Thursday</p>
+</li>
+</ul>
+<p></p>
+<p>(The whole process started from 25 January 2024 and ended on 21 March
+2024.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During the Early Bird Morning Programme (from 7.40-7.50 am)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/School%20Events%202023/tpps_superstars_2023_overall1.gif)<br>
-![](/images/School%20Events%202023/tpps_superstars_2023_overall2.gif)
+<p>
+<br>
+</p>
