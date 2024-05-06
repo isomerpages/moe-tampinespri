@@ -60,6 +60,57 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Choir AP 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 April 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Programme Highlights:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Events 2024/choir_syf_2024.gif">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Year</p>
 </th>
@@ -102,31 +153,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Choir1.png">
-</div>
-<p>Choir members work hard and play hard! Jan 2020</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Choir2.png">
-</div>
-<p>Choir members recorded original Bilingual Songs at a&nbsp;professional
-studiofor the LKY Bilingulism project Jan 2019.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Choir3.png">
-</div>
-<p>Choir members took up lead singing roles for theBicentennial Community
-Theatre Productions, July 2019,&nbsp;at Our Tampines Hub.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Choir4.png">
-</div>
-<p>Performed at the National Day Celebrations organised by TWCC, Aug 2018.</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Choir5.png">
-</div>
-<p>Performed a Flash mob at the Bi-annual Arts Education Conference, Nov
-2018</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Choir6.png">
-</div>
-<p>Choir members assisted Mrs Losey in the community drum circles at Tampines
-Learning Fiesta, Apr 2018.</p>
+<p></p>
+<p>Apr 2018.</p>
