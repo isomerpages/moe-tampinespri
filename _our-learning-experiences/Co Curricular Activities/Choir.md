@@ -154,4 +154,4 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>Apr 2018.</p>
+<p></p>
