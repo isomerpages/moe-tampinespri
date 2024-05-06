@@ -68,6 +68,10 @@ on 20 March Wednesday</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School Events 2024/TPPS_Superstars_Slides_2024.gif">
+</div>
 <p>
 <br>
 </p>
