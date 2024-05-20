@@ -63,7 +63,7 @@ on 20 March Wednesday</p>
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During the Early Bird Morning Programme (from 7.40-7.50 am)</p>
+<p>During the Early Bird Morning Programme (from 7.40-7.50 am).</p>
 </td>
 </tr>
 </tbody>
