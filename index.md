@@ -22,15 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2024 MOE Kindergarten Open House
-          date: 14 February 2024
-          announcement: >-
-            Dear Parents,
-
-            Please click on the link below for more information about the MK
-            Open House.
-          link_text: Click here for more...
-          link_url: /quick-links/announcements/2024-mk-open-house/
         - title: March 2024 Memo to Parents
           date: 01 March 2024
           announcement: Dear Parents, Please refer to the link below for the March memo to
@@ -64,4 +55,10 @@ sections:
             Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: New Issue of Tampines Pulse (June 2024)
+          date: 30 May 2024
+          announcement: Dear Parent, the latest issue of Tampines Pulse newsletter is
+            available for your viewing.
+          link_text: Click here for more...
+          link_url: /for-parents/Tampines-Pulse/
 ---
