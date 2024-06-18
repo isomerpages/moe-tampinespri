@@ -41,6 +41,6 @@ As part of the programme, children have the opportunity to experiment with diffe
 
 To celebrate their creativity and hard work, the children's completed artworks, along with photographs capturing their creative processes, are proudly displayed along the staircases leading to their classrooms. This vibrant gallery not only showcases the children's artistic journeys but also transforms our school environment into an inspiring and colorful space for all to enjoy. The "Little Artist Programme" aims to instill a lifelong love for art in our young students and to recognize the value of their unique artistic voices.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZksWdVMZeR8" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZksWdVMZeR8?si=o-XLu_a5TGIZL51D" height="315" width="560"></iframe>
 
 For more information on our curriculum, you may also wish to visit [MOE Kindergarten website](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment) to find out more!
