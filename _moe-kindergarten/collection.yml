@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Our Curriculum.md
-      - About Us/.keep
-      - About Us/About Us.md
-      - About Us/Vision, Mission, Values & Belief.md
-      - About Us/Our Programmes.md
-      - About Us/Our Family.md
+      - General Information/.keep
+      - General Information/About Us.md
+      - General Information/Vision, Mission, Values & Belief.md
+      - General Information/Our Programmes.md
+      - General Information/Our Family.md
       - Our Learning Experiences.md
       - For Parents/.keep
       - For Parents/For Parents.md
