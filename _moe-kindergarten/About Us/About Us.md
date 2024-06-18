@@ -3,10 +3,11 @@ title: About Us
 permalink: /moe-kindergarten/About-Us/About-Us/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ![](/images/mk%20kindergarten.jpg)
 
-About Us
+General Information
 ========
 
 
@@ -37,6 +38,46 @@ For more information on MOE Kindergarten, you may wish to visit&nbsp;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-hmb0{background-color:#dae8fc;border-color:#dae8fc;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-7tqb{background-color:#dae8fc;border-color:#dae8fc;font-size:14px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 321px">
+<colgroup>
+<col style="width: 321px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-hmb0">MOE Kindergarten @ Tampines Primary</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7tqb"></td>
+  </tr>
+  <tr>
+    <td class="tg-7tqb"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7tqb"></td>
+  </tr>
+  <tr>
+    <td class="tg-7tqb"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7tqb"></td>
+  </tr>
+  <tr>
+    <td class="tg-7tqb"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hmb0{background-color:#dae8fc;border-color:#dae8fc;font-size:14px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7tqb{background-color:#dae8fc;border-color:#fee3da;font-size:14px;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 321px">
 <colgroup>
