@@ -85,7 +85,7 @@ For more information on MOE Kindergarten, you may wish to visit&nbsp;
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-hmb0">MOE Kindergarten @ Tampines Primary</th>
+    <th class="tg-hmb0">KCare @ Tampines Primary<br>By Commit Learning Schoolhouse</th>
   </tr>
 </thead>
 <tbody>
@@ -93,19 +93,21 @@ For more information on MOE Kindergarten, you may wish to visit&nbsp;
     <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-7tqb"><span style="font-weight:bold">Address</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Tampines Primary School </span><br><span style="font-weight:400;font-style:normal;text-decoration:none">250 Tampines Street 12</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Singapore 529426</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Email:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">admission_cls_tpps_kcare@commitlearning.com.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-7tqb"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">6783 1190</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Tel</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">8035 9338</span></td>
   </tr>
   <tr>
     <td class="tg-7tqb"></td>
   </tr>
   <tr>
-    <td class="tg-7tqb"><span style="font-weight:bold">Email</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">mk_tpps@moe.edu.sg</span></td>
+    <td class="tg-7tqb"><span style="font-weight:bold">Operating Hours:</span><br><span style="font-weight:400;font-style:normal;text-decoration:none">Monday to Friday 7am to 7pm, including school holidays.<br>
+(Closed on Saturdays, Sundays, Public Holidays and up to 6 additional days each year)
+</span></td>
   </tr>
 </tbody>
 </table>
