@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Our Curriculum.md
       - General Information/.keep
       - General Information/About Us.md
       - General Information/Vision, Mission, Values & Belief.md
       - General Information/Our Programmes.md
       - General Information/Our Family.md
+      - Our Curriculum.md
       - Our Learning Experiences.md
       - For Parents/.keep
       - For Parents/For Parents.md
