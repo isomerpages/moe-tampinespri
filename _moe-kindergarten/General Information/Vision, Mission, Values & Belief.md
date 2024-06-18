@@ -1,8 +1,8 @@
 ---
-title: Vision, Mission, Values &amp; Belief
+title: Vision, Mission, Values & Belief
 permalink: /moe-kindergarten/About-Us/Vision-Mission-Values-and-Belief/
 description: ""
-third_nav_title: About Us
+third_nav_title: General Information
 ---
 ![](/images/mk%20kindergarten.jpg)
 

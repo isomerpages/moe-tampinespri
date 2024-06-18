@@ -1,8 +1,8 @@
 ---
-title: Hari Raya Celebration
-permalink: /moe-kindergarten/Gallery/Hari-Raya-Celebration/
+title: Hari Raya Celebration (MK)
+permalink: /moe-kindergarten/gallery/hari-raya-celebration-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

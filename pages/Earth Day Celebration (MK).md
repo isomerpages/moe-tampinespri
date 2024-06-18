@@ -1,8 +1,8 @@
 ---
-title: Earth Day Celebration
-permalink: /moe-kindergarten/Gallery/Earth-Day-Celebration/
+title: Earth Day Celebration (MK)
+permalink: /moe-kindergarten/gallery/earth-day-celebration-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

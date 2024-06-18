@@ -2,7 +2,7 @@
 title: Our Programmes
 permalink: /moe-kindergarten/About-Us/Our-Programmes/
 description: ""
-third_nav_title: About Us
+third_nav_title: General Information
 ---
 ![](/images/mk%20kindergarten.jpg)
 

@@ -1,8 +1,8 @@
 ---
-title: Gallery
-permalink: /moe-kindergarten/Gallery/Gallery/
+title: Gallery (MK)
+permalink: /moe-kindergarten/gallery/gallery-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

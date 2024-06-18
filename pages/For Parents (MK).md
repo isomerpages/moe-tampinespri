@@ -1,8 +1,8 @@
 ---
-title: For Parents
-permalink: /moe-kindergarten/For-Parents/For-Parents/
+title: For Parents (MK)
+permalink: /moe-kindergarten/for-parents/for-parents-mk/
 description: ""
-third_nav_title: For Parents
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

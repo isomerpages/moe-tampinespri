@@ -1,8 +1,8 @@
 ---
-title: Parents’ Day Celebration
-permalink: /moe-kindergarten/Gallery/Parents-Day-Celebration/
+title: Parents’ Day Celebration (MK)
+permalink: /moe-kindergarten/gallery/parents-day-celebration-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

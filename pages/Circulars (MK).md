@@ -1,8 +1,8 @@
 ---
-title: Circulars
-permalink: /moe-kindergarten/For-Parents/Circulars/
+title: Circulars (MK)
+permalink: /moe-kindergarten/for-parents/circulars-mk/
 description: ""
-third_nav_title: For Parents
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

@@ -1,8 +1,8 @@
 ---
-title: Community Outreach Programme with All Saints Home
-permalink: /moe-kindergarten/Gallery/Community-Outreach-Programme-with-All-Saints-Home/
+title: Community Outreach Programme with All Saints Home (MK)
+permalink: /moe-kindergarten/gallery/community-outreach-programme-with-all-saints-home-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

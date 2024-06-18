@@ -1,8 +1,8 @@
 ---
-title: Chinese New Year Celebration 2022
-permalink: /moe-kindergarten/Gallery/Chinese-New-Year-Celebration-2022/
+title: Chinese New Year Celebration 2022 (MK)
+permalink: /moe-kindergarten/gallery/chinese-new-year-celebration-2022-mk/
 description: ""
-third_nav_title: Gallery
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 
