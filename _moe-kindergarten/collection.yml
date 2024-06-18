@@ -2,9 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Follow Us.md
-      - Our Collaboration.md
-      - Our Environment.md
       - General Information/.keep
       - General Information/About Us.md
       - General Information/Vision, Mission, Values & Belief.md
@@ -12,6 +9,9 @@ collections:
       - General Information/Our Family.md
       - Our Curriculum.md
       - Our Learning Experiences.md
+      - Our Environment.md
+      - Our Collaboration.md
       - For Parents/.keep
       - For Parents/Useful Information.md
       - Register for MK@TPPS.md
+      - Follow Us.md
