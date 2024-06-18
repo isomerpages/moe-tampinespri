@@ -4,4 +4,6 @@ permalink: /our-curriculum/
 variant: markdown
 description: ""
 ---
-<p></p>
+![](/images/mk%20kindergarten.jpg)
+
+
