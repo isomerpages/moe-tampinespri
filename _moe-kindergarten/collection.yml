@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Our Collaboration.md
       - Our Environment.md
       - General Information/.keep
       - General Information/About Us.md
