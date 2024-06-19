@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage4.gif
+      background: /images/homepage5.gif
       key_highlights:
         - title: Announcements
           description: ""
@@ -37,22 +37,14 @@ sections:
           link_url: /quick-links/announcements/school-health-visit-2024/
         - title: April 2024 Memo to Parents
           date: 01 April 2024
-          announcement: |-
-            Dear Parents,
-
-            Please refer to the link below for the April memo to parents.
-
-            Thank you.
+          announcement: Dear Parents,  Please refer to the link below for the April memo
+            to parents.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
         - title: May 2024 Memo to Parents
           date: 02 May 2024
-          announcement: |-
-            Dear Parents,
-
-            Please refer to the link below for the May memo to parents.
-
-            Thank you.
+          announcement: Dear Parents,  Please refer to the link below for the May memo to
+            parents.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
         - title: New Issue of Tampines Pulse (June 2024)
