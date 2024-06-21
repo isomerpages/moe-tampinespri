@@ -22,11 +22,10 @@ School Executive Committee
 | **School Staff Developer**            | Mr Mohd Salleh             |
 | **HOD English**                       | Mrs Jeredith Hee           |
 | **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
-| **HOD Science**                       | Mr Jerome Ng               |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
 | **HOD CCE**                           | Mr Saravanan               |
-| **HOD Student Development**           | Mr Ethan Tan               |
+| **Year Head Primary 1 &amp; 2** | Miss Esther Kuek          |
 | **Year Head Primary 3 &amp; 4**           | Mrs Ng-Chan Jing Bo        |
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
