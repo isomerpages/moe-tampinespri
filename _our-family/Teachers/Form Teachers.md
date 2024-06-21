@@ -10,7 +10,12 @@ variant: tiptap
 </div>
 <h1>Form Teachers</h1>
 <h4><strong>P1</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,7 +46,7 @@ variant: tiptap
 <p>P1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Badma Devi</p>
+<p>Miss Esther Kuek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chuan Boon Min</p>
@@ -116,7 +121,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>P2</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,8 +160,7 @@ variant: tiptap
 <p>Miss Evelyn Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Melissa Tham
-<br>Miss Jewel Tay</p>
+<p>Mdm Melissa Tham</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +182,7 @@ variant: tiptap
 <p>Mr Mohd Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aminah Shariff</p>
+<p>Mdm Norhana Khamis</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +232,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>P3</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -243,10 +257,10 @@ variant: tiptap
 <p>P3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marilyn Choy</p>
+<p>Mdm Noorazean Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noorazean Abdul Rahim
+<p>Mdm Marilyn Choy
 <br>Mr Desmond Tan</p>
 </td>
 </tr>
@@ -270,7 +284,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Azhani Ismail
-<br>Mr Jerome Ng</p>
+<br>Mdm Eleanor Pang</p>
 </td>
 </tr>
 <tr>
@@ -301,17 +315,21 @@ variant: tiptap
 <p>P3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss J Aswiniey</p>
+<p>Mdm Nurdianna Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdianna Malik
-<br>Mr Lim Wei Hung</p>
+<p>Miss J Aswiniey</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>P4</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -335,7 +353,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Balasubramanian Revathi</p>
-<p>Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -343,11 +360,11 @@ variant: tiptap
 <p>P4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jessica Lum</p>
+<p>Mdm Nurdiyanah Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chuang Bee Eng
-<br>Mdm Norhana Khamis</p>
+<p>Mdm Chuang Bee Eng</p>
+<p>Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +415,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>P5</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -472,7 +494,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>P6</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
