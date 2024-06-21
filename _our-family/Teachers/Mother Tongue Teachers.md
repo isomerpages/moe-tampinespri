@@ -22,7 +22,6 @@ Mother Tongue Teachers
 | Miss Chuan Boon Min   |
 | Miss Isabella Lai     |
 | Miss Zhu Li           |
-| Miss Tay Yun Yi       |
 | Mrs Ang Sok Keng      |
 | Mdm Gao Qiaoyi       |
 | Mdm Ni Jieren         |
@@ -54,5 +53,4 @@ Mother Tongue Teachers
 |-----------------|
 | Mrs Vimala Ravi | 
 | Miss J Aswiniey |
-| Mdm Aminah Shariff      |
 | Mdm Balasubramanian Revathi    |
