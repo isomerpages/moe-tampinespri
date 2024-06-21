@@ -454,8 +454,8 @@ variant: tiptap
 <p>Mrs Jeredith Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Arif Rahman
-<br>Miss Zhu Li</p>
+<p>Miss Zhu Li</p>
+<p>Mr Arif Rahman</p>
 </td>
 </tr>
 <tr>
