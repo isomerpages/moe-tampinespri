@@ -20,6 +20,7 @@ PE Art Music Teachers
 | Mr Guo Li Ren   |
 | Miss Lai Si Hui |
 | Mr Hoo Kang, Sean | 
+| Mr Thineash |
 
 
 ### **Art Teachers**
