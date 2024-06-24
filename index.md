@@ -52,5 +52,5 @@ sections:
           announcement: Dear Parents,  Please refer to the link below for the June memo to
             parents.
           link_text: Click here for more...
-          link_url: /for-parents/
+          link_url: /for-parents/letters-to-parents-2024/
 ---
