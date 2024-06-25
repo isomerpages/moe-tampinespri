@@ -28,3 +28,10 @@ description: ""
 <p><a href="/files/2024/TPPS_40_2024___May_Memo_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-40-2024 - May Memo 2024.pdf</a>
 </p>
 <p></p>
+<h3><strong>June 2024</strong></h3>
+<p><a href="/files/2024/TPPS_52_2024___June_Memo_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TPPS-52-2024 - June Memo 2024.pdf</a>
+</p>
+<p><a href="/files/2024/Sem_2_Calendar_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Sem 2 Calendar 2024 Final.pdf</a>
+</p>
+<p></p>
+<p></p>

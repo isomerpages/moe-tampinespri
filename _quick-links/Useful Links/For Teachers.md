@@ -1,8 +1,9 @@
 ---
 title: For Teachers
-permalink: /quick-links/Useful-Links/For-Teachers/
+permalink: /quick-links/useful-links/for-teachers/
 description: ""
 third_nav_title: Useful Links
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

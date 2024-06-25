@@ -14,20 +14,14 @@ sections:
           url: /quick-links/announcements/announcements/
         - title: Calendar
           description: ""
-          url: /quick-links/School-Calendar/
+          url: /quick-links/school-calendar/
         - title: Quick Links
           description: ""
-          url: /quick-links/Useful-Links/Useful-Links/
+          url: /quick-links/useful-links/useful-links/
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: March 2024 Memo to Parents
-          date: 01 March 2024
-          announcement: Dear Parents, Please refer to the link below for the March memo to
-            parents. Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: School Health Visit for Primary 1 to 6 Students
           date: 18 March 2024
           announcement: Dear parents, Health Promotion Board (HPB) will be conducting
@@ -53,4 +47,10 @@ sections:
             available for your viewing.
           link_text: Click here for more...
           link_url: /for-parents/Tampines-Pulse/
+        - title: June 2024 Memo to Parents
+          date: 24 June 2024
+          announcement: Dear Parents,  Please refer to the link below for the June memo to
+            parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
 ---

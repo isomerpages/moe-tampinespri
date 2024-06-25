@@ -1,8 +1,9 @@
 ---
 title: For Parents
-permalink: /quick-links/Useful-Links/For-Parents/
+permalink: /quick-links/useful-links/for-parents/
 description: ""
 third_nav_title: Useful Links
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 
