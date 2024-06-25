@@ -14,10 +14,10 @@ sections:
           url: /quick-links/announcements/announcements/
         - title: Calendar
           description: ""
-          url: /quick-links/School-Calendar/
+          url: /quick-links/school-calendar/
         - title: Quick Links
           description: ""
-          url: /quick-links/Useful-Links/Useful-Links/
+          url: /quick-links/useful-links/useful-links/
   - announcements:
       title: Announcements
       id: announcements
