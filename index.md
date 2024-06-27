@@ -18,6 +18,13 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+  - infopic:
+      title: Community Theatre
+      id: infopic
+      button: Click here for more details
+      url: /our-learning-experiences/community-theatre/the-invisible-backpack/
+      image: /images/School Events 2024/INVITE.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
