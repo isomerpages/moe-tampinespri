@@ -2,9 +2,7 @@ collections:
   our-learning-experiences:
     output: true
     order:
-      - Community Theatre/The Invisible Backpack.md
-      - Community Theatre/List of Performances.md
-      - Community Theatre/.keep
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities.md
       - Co Curricular Activities/Digital Media.md
       - Co Curricular Activities/I&E.md
@@ -21,7 +19,7 @@ collections:
       - Co Curricular Activities/Malay Dance.md
       - Co Curricular Activities/Modern Dance.md
       - Co Curricular Activities/Theatrics in Action.md
-      - Co Curricular Activities/.keep
+      - School Events/.keep
       - School Events/School Events.md
       - School Events/Chinese New Year celebrations.md
       - School Events/Hari Raya Celebration.md
@@ -38,4 +36,6 @@ collections:
       - School Events/Children’s Day.md
       - School Events/Racial Harmony Day.md
       - School Events/National Day.md
-      - School Events/.keep
+      - Community Theatre/.keep
+      - Community Theatre/The Invisible Backpack.md
+      - Community Theatre/List of Performances.md
