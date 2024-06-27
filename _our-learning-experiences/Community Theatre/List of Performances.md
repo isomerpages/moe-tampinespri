@@ -7,4 +7,5 @@ third_nav_title: Community Theatre
 ---
 <p></p>
 <h3><u>Friday, 05 July 2024</u></h3>
-<p></p>
+<p><a href="/our-learning-experiences/community-theatre/the-invisible-backpack/" rel="noopener noreferrer nofollow" target="_blank">The Invisible Backpack</a>
+</p>
