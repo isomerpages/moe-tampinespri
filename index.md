@@ -53,4 +53,11 @@ sections:
             parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+  - infopic:
+      title: Community Theatre
+      id: infopic
+      button: Click here for more details
+      url: /our-learning-experiences/community-theatre/the-invisible-backpack/
+      image: /images/School Events 2024/INVITE.jpg
+      alt: Image alt text
 ---
