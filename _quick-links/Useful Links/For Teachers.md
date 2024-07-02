@@ -5,34 +5,35 @@ description: ""
 third_nav_title: Useful Links
 variant: tiptap
 ---
-![](/images/AboutUs.jpg)
-
-For Teachers
-============
-
-
-<p><a href="https://admin.google.com/ac/accountchooser?continue=https://workspace.google.com/dashboard"><img style="width:20%" src="/images/Icon.png"></a></p>
-
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/the-singapore-teaching-practice"><img style="width:20%" src="/images/STP.png"></a></p>
-
-<p><a href="[https://intranet.moe.gov.sg/hronline/Pages/Home.aspx](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)"><img style="width:20%" src="/images/HR%20online.jpg"></a> (Accessible via Intranet only)</p>
-
-<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width:20%" src="/images/MIMS.png"></a></p>
-
-<p><a href="https://rbs.avero-tech.com"><img style="width:20%" src="/images/RBS.jpeg"></a></p>
-
-<p><a href="https://schoolcockpit.moe.gov.sg"><img style="width:20%" src="/images/SCP.png"></a></p>
-
-<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx"><img style="width:20%" src="/images/Intranet.png"></a> (Accessible via Intranet only)</p>
-
-<p><a href="https://iexams.seab.gov.sg"><img style="width:20%" src="/images/IEXAMS.png"></a></p>
-
-<p><a href="https://www.hrp.gov.sg/hrp/#/"><img style="width:20%" src="/images/HRP.png"></a></p>
-
-<p><a href="https://scmobile.moe.edu.sg/login"><img style="width:20%" src="/images/scmobile.png"></a></p>
-
-<p><a href="[https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DMd0zAqUf9hs35ln35yp1tsQbwdtphUrx9o0Luy9ntIoqA%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3D36l-H2gqUODRM3W3Iryy6VM7u7ExofJMmeS_7fmhyXY%26code_challenge_method%3DS256%26nonce%3DMd0zAqUf9hs35ln35yp1tsQbwdtphUrx9o0Luy9ntIoqA](https://www.opal2.moe.edu.sg/app/learner)"><img style="width:20%" src="/images/opal2.png"></a></p>
-
-<p><a href="https://pg.moe.edu.sg"><img style="width:20%" src="/images/PG.png"></a></p>
-
-<p><a href="https://form.gov.sg"><img style="width:20%" src="/images/Form.png"></a></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
+</div>
+<h1>For Teachers</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Schools Learning Space</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+</p>
+</li>
+<li>
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears</a>
+</p>
+</li>
+<li>
+<p><a href="https://scmobile.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+<p></p>
+</li>
+</ul>
+<p></p>
