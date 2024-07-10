@@ -1,14 +1,14 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    url: /about-us/Principals-Message/
+    url: /about-us/principals-message/
     sublinks:
       - title: Principal’s Message
-        url: /about-us/Principals-Message/
+        url: /about-us/principals-message/
       - title: School Vision Mission & Values
-        url: /about-us/School-Vision-Mission-and-Values/
+        url: /about-us/school-vision-mission-and-values/
       - title: School Values – iREAP
-        url: /about-us/School-Values-iREAP/
+        url: /about-us/school-values-ireap/
       - title: School Crest
         url: /about-us/School-Crest/
       - title: History
