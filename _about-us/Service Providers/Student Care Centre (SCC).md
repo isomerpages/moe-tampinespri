@@ -1,6 +1,6 @@
 ---
 title: Student Care Centre (SCC)
-permalink: /about-us/Service-Providers/Student-Care-Centre-SCC/
+permalink: /about-us/service-providers/student-care-centre-scc/
 description: ""
 third_nav_title: Service Providers
 variant: markdown

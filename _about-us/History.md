@@ -1,7 +1,8 @@
 ---
 title: History
-permalink: /about-us/History/
+permalink: /about-us/history/
 description: ""
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

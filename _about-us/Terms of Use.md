@@ -1,14 +1,15 @@
 ---
 title: Terms of Use
-permalink: /about-us/Terms-of-Use/
+permalink: /about-us/terms-of-use/
 description: ""
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 
 Terms of Use
 ============
 
-Thank you for visiting [https://tampinespri.moe.edu.sg/](https://tampinespri.moe.edu.sg/). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
+Thank you for visiting&nbsp;[https://tampinespri.moe.edu.sg/](https://tampinespri.moe.edu.sg/). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
   
 

@@ -1,8 +1,9 @@
 ---
 title: Service Providers
-permalink: /about-us/Service-Providers/Service-Providers/
+permalink: /about-us/service-providers/service-providers/
 description: ""
 third_nav_title: Service Providers
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

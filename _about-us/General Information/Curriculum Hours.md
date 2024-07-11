@@ -1,9 +1,9 @@
 ---
 title: Curriculum Hours
-permalink: /about-us/General-Information/Curriculum-Hours/
+permalink: /about-us/general-information/curriculum-hours/
 description: ""
 third_nav_title: General Information
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -144,6 +144,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -284,6 +285,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -352,6 +354,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -420,6 +423,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -488,6 +492,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>

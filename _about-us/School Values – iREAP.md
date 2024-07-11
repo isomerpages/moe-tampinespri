@@ -1,6 +1,6 @@
 ---
 title: School Values – iREAP
-permalink: /about-us/School-Values-iREAP/
+permalink: /about-us/school-values-ireap/
 description: ""
 variant: markdown
 ---

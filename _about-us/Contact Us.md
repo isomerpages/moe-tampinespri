@@ -1,7 +1,8 @@
 ---
 title: Contact Us
-permalink: /about-us/Contact-Us/
+permalink: /about-us/contact-us/
 description: ""
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

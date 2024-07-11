@@ -1,30 +1,30 @@
 logo: /images/logo.png
 links:
   - title: About Us
-    url: /about-us/Principals-Message/
+    url: /about-us/principals-message/
     sublinks:
       - title: Principal’s Message
-        url: /about-us/Principals-Message/
+        url: /about-us/principals-message/
       - title: School Vision Mission & Values
-        url: /about-us/School-Vision-Mission-and-Values/
+        url: /about-us/school-vision-mission-and-values/
       - title: School Values – iREAP
-        url: /about-us/School-Values-iREAP/
+        url: /about-us/school-values-ireap/
       - title: School Crest
-        url: /about-us/School-Crest/
+        url: /about-us/school-crest/
       - title: History
-        url: /about-us/History/
+        url: /about-us/history/
       - title: 35th Anniversary
         url: /about-us/35th-anniversary/foreword/
       - title: General Information
-        url: /about-us/General-Information/Curriculum-Hours/
+        url: /about-us/general-information/curriculum-hours/
       - title: Our Family
-        url: /our-family/School-Executive-Committee/
+        url: /our-family/school-executive-committee/
       - title: Service Providers
-        url: /about-us/Service-Providers/Service-Providers/
+        url: /about-us/service-providers/service-providers/
       - title: Contact Us
-        url: /about-us/Contact-Us/
+        url: /about-us/contact-us/
       - title: Terms of Use
-        url: /about-us/Terms-of-Use/
+        url: /about-us/terms-of-use/
   - title: Our Learning Experiences
     url: /curriculum/Curriculum/
     sublinks:

@@ -1,7 +1,8 @@
 ---
 title: School Crest
-permalink: /about-us/School-Crest/
+permalink: /about-us/school-crest/
 description: ""
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

@@ -1,8 +1,9 @@
 ---
 title: Financial Assistance
-permalink: /about-us/General-Information/Financial-Assistance/
+permalink: /about-us/general-information/financial-assistance/
 description: ""
 third_nav_title: General Information
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 

@@ -1,8 +1,9 @@
 ---
 title: School Rules and Regulations
-permalink: /about-us/General-Information/School-Rules-and-Regulations/
+permalink: /about-us/general-information/school-rules-and-regulations/
 description: ""
 third_nav_title: General Information
+variant: tiptap
 ---
 ![](/images/AboutUs.jpg)
 
