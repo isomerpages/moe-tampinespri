@@ -16,4 +16,3 @@ School Vision, Mission and Values
 |  **Values**  |  Integrity, Resilience, Excellence, Adaptability, Passion (iREAP)      |
 |  **Motto**   |  To Persevere And Succeed                                              |
 
-<img src="/images/school_handbook_2023.jpg" style="width:70%">
