@@ -18,6 +18,15 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+  - infopic:
+      title: Teacher's Day Wishes
+      id: infopic
+      description: Click on the link below or scan the QR code to express your well-wishes
+      button: Click here to access the padlet link
+      url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
+      image: /images/School Events
+        2024/Purple_Pink_Happy_World_Teachers__Day_Instagram_Post_.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
