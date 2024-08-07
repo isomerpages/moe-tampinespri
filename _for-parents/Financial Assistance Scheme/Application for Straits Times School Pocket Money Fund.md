@@ -9,9 +9,9 @@ variant: markdown
 
 Dear Parents/ Guardians,
 
-The application period for Straits Times Pocket Money Fund is open from now till 11 September 2024. The application window is only for students who will be continuing in Tampines Primary School next year. For students who will be graduating or enrolling into another school in 2025, a separate application period will be opened for them.
+The application period for Straits Times Pocket Money Fund is open from **now till 11 September 2024**. The application window is only for students who will be continuing in Tampines Primary School next year. For students who will be graduating or enrolling into another school in 2025, a separate application period will be opened for them.
 
-Kindly submit completed forms to General Office. For more information, please refer to the attachments.
+Kindly submit completed forms to **General Office**. For more information, please refer to the attachments.
 
 Thank you.
 
