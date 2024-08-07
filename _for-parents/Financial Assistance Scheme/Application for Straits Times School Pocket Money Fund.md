@@ -7,15 +7,16 @@ variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
- The application window has closed.
+Dear Parents/ Guardians,
 
-<!-- 
-Please download and submit the following files to apply:
-1. [Annex A - 2024 STSPMF Application Form for Schools.pdf](/files/annex%20a%20-%202024%20stspmf%20application%20form%20for%20schools.pdf)
-2. [Annex B - Income Declaration Form.pdf](/files/annex%20b%20-%20income%20declaration%20form.pdf)
+The application period for Straits Times Pocket Money Fund is open from now till 11 September 2024. The application window is only for students who will be continuing in Tampines Primary School next year. For students who will be graduating or enrolling into another school in 2025, a separate application period will be opened for them.
 
+Kindly submit completed forms to General Office. For more information, please refer to the attachments.
 
+Thank you.
 
-**Application Window:** 10 January 2024 - 7 February 2024 <br>
-*Note: This application window is only for students who are in Primary 1 level in 2024.*
- -->
+Tampines Primary School
+
+**Attachments:**
+* [Annex A - 2025 STSPMF Application Form.pdf](/files/Annex_A___2025_STSPMF_Application_Form.pdf)
+* [Annex B - Income declaration form](/files/annex%20b%20-%20income%20declaration%20form.pdf)
