@@ -63,10 +63,8 @@ sections:
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Student Assistance
       id: textcards
-      description: Text card description
       cards:
         - title: School Helpdesk
           description: For reset of password or unlocking of account, please click on the
