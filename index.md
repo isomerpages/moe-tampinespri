@@ -62,4 +62,20 @@ sections:
             parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: School Helpdesk
+          description: For reset of password or unlocking of account, please click on the
+            link below.
+          linktext: Password Reset Form
+          url: https://go.gov.sg/tpps-pw-reset
+        - title: SLS Helpdesk
+          description: Having Problems Logging In?  Click on the link below for further
+            details.
+          linktext: Learn more
+          url: https://vle.learning.moe.edu.sg/helpdesk
 ---
