@@ -75,5 +75,5 @@ sections:
           description: Having Problems Logging In?  Click on the link below for further
             details.
           linktext: Learn more
-          url: https://vle.learning.moe.edu.sg/helpdesk
+          url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
 ---
