@@ -31,13 +31,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School Health Visit for Primary 1 to 6 Students
-          date: 18 March 2024
-          announcement: Dear parents, Health Promotion Board (HPB) will be conducting
-            annual school health visit at your child’s school from 8-Apr-2024 to
-            16-Apr-2024.
-          link_text: Click here for more...
-          link_url: /quick-links/announcements/school-health-visit-2024/
         - title: April 2024 Memo to Parents
           date: 01 April 2024
           announcement: Dear Parents,  Please refer to the link below for the April memo
@@ -62,6 +55,12 @@ sections:
             parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: September 2024 Memo to Parents
+          date: 09 September 2024
+          announcement: Dear Parents,  Please refer to the link below for the September
+            memo to parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
   - textcards:
       title: Student Assistance
       id: textcards
@@ -75,5 +74,5 @@ sections:
           description: Having Problems Logging In?  Click on the link below for further
             details.
           linktext: Learn more
-          url: https://vle.learning.moe.edu.sg/helpdesk
+          url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
 ---
