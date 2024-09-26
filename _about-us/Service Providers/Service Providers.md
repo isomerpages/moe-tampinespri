@@ -198,13 +198,26 @@ please call the following school dental clinics for an appointment.
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Clinic Open on:</strong>
-<br>3 - 4 September 2024
-<br>5 - 6 September 2024 (PM only)</p>
-<p>16 September 2024 (PM only)
-<br>17 - 20 September 2024
-<br>30 September 2024
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 - 4 September 2024</p>
+</li>
+<li>
+<p>5 - 6 September 2024 (PM only)</p>
+</li>
+<li>
+<p>16 September 2024 (PM only)</p>
+</li>
+<li>
+<p>17 - 20 September 2024</p>
+</li>
+<li>
+<p>30 September 2024
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
