@@ -234,9 +234,7 @@ please call the following school dental clinics for an appointment.
 <p>Company</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Commit Learning SchoolHouse (CLS)
-<br>- <em>from Jan 2023</em>
-</p>
+<p>Commit Learning SchoolHouse (CLS)</p>
 </th>
 </tr>
 <tr>
