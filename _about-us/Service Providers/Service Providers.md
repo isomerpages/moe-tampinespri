@@ -5,88 +5,243 @@ description: ""
 third_nav_title: Service Providers
 variant: tiptap
 ---
-![](/images/AboutUs.jpg)
-
-
-Service Providers
-=================
-
-### **School Bookshop**
-
-| **Company**               | **Overseas Associates Pte Ltd**                                                      |
-|---------------------------|--------------------------------------------------------------------------------------|
-|  Contact                  |  63826789 (HQ)                                                                       |
-|  Operating Time in School |  Mondays to Fridays, 8.00am – 3.00pm  Closed during school holidays unless specified |
-|  Timing for parents       |  After dismissal hours, 2 p.m. to 3 p.m.                                             |
-
-
-
-
-### **School Uniform &amp; PE Attire Supplier**
-
-| **Company**               | **Shanghai School Uniforms Pte Ltd**                                                                                                                     |
-|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Contact                  |  63 Ubi Avenue 1<br><br> #04-09, 63@Ubi <br> Singapore 408937 <br><br> Website: shanghai-uniforms.com<br> Retail: +65 6352 2741<br> Fax No:+65 6842 2741 |
-|  Operating Time in School |  Sales through school bookshop                                                                                                                           |
-
-[2023 Year End Uniform Sales and Collection](/files/tpps%20-%202023%20year%20end%20and%20fas%20collection%20date.pdf)
-
-
-
-### **School Bus Service**
-
-| **Company** | **Hui Wang Bus Service**               |
-|-------------|----------------------------------------|
-|  Contact    |  Mr Vernon Tan<br> 92266622 |
-|                   |  Mr Rahmat<br> 96721464 |
-
-
-
-### **School Dental Clinic**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-w46r{color:#121212;font-size:15px;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">Monday - Thursday</span></th>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m. - 5.30 p.m.</span></th>
-    <th class="tg-w46r" rowspan="3"><br><br><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">All dental appointments in the afternoon/school holidays are by appointment only. Please call the clinic at</span> <span style="font-weight:bold">88098302 (HP)</span> <span style="font-weight:normal;color:#121212">to book an appointment.</span></th>
-  </tr>
-  <tr>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">Friday</span></th>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m. - 5.00 p.m.</span></th>
-  </tr>
-  <tr>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">School Holidays</span></th>
-    <th class="tg-w46r"><span style="font-weight:normal;color:#121212">8.00 a.m - 5.00 p.m.</span></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
+</div>
+<h1>Service Providers</h1>
+<h3><strong>School Bookshop</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-w46r"><span style="font-weight:normal;color:#121212">Lunch-Time (closed)</span></td>
-    <td class="tg-w46r"><span style="font-weight:normal;color:#121212">1.00 p.m. - 2.00 p.m.</span></td>
-    <td class="tg-w46r" rowspan="2"><span style="font-weight:normal;color:#121212">Note:</span><br><span style="font-weight:normal;color:#121212">During school holidays or when the school dental clinic is closed, please call</span> <span style="font-weight:bold">Health Promotion Board (HPB) Call Centre: 64353782</span> <span style="font-weight:normal;color:#121212">for advice.</span><br><br><span style="font-weight:normal;color:#121212">When school dental  clinic is closed and  pupils need urgent treatment,  please call the following school  dental clinics for an appointment.</span><br><br><span style="font-weight:normal;color:#121212">Tanjong Katong Primary School (Tel: 9112 8295)</span><br>Junyuan Primary School (8940 3520)<br>Tampines North Primary School	(9112 4295)</td>
-  </tr>
-  <tr>
-    <td class="tg-w46r" colspan="2"><span style="font-weight:bold">Clinic Closed on:</span><br>4 September 2023 (AM only)<br>7 September 2023 (PM only)<br>6, 8 - 15 September 2023<br>22 - 29 September 2023<br></td>  
-	</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Company</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Overseas Associates Pte Ltd</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63826789 (HQ)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Time in School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays to Fridays, 8.00am – 3.00pm Closed during school holidays unless
+specified</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timing for parents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>After dismissal hours, 2 p.m. to 3 p.m.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-### **School Student Care Centre**
-
-
-
-|  Company |  Commit Learning SchoolHouse (CLS)<br>- <i>from Jan 2023</i> |
-|----------|-------------------------------------------------------|
-|  Contact |                     Tel: 89319438                     |
-|  Website |                       [Click Here](/about-us/Service-Providers/Student-Care-Centre-SCC/)                      |
+<h3><strong>School Uniform &amp; PE Attire Supplier</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Company</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Shanghai School Uniforms Pte Ltd</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>63 Ubi Avenue 1
+<br>
+<br>#04-09, 63@Ubi
+<br>Singapore 408937
+<br>
+<br>Website: shanghai-uniforms.com
+<br>Retail: +65 6352 2741
+<br>Fax No:+65 6842 2741</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Time in School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sales through school bookshop</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/files/2024/2024_Year_End_Uniform_Sales_and_Collection.pdf" rel="noopener nofollow" target="_blank">2024 Year End Uniform Sales and Collection</a>
+</p>
+<h3><strong>School Bus Service</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Company</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Hui Wang Bus Service</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vernon Tan
+<br>92266622</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rahmat
+<br>96721464</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>School Dental Clinic</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Monday - Thursday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>8.00 a.m. - 5.30 p.m.</p>
+</th>
+<th rowspan="3" colspan="1">
+<p>
+<br>
+<br>Note:
+<br>All dental appointments in the afternoon/school holidays are by appointment
+only. Please call the clinic at <strong>88098302 (HP)</strong> to book an
+appointment.</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Friday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>8.00 a.m. - 5.00 p.m.</p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Holidays</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>8.00 a.m - 5.00 p.m.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunch-Time (closed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00 p.m. - 2.00 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Note:
+<br>During school holidays or when the school dental clinic is closed, please
+call <strong>Health Promotion Board (HPB) Call Centre: 64353782</strong> for
+advice.
+<br>
+<br>When school dental clinic is closed and pupils need urgent treatment,
+please call the following school dental clinics for an appointment.
+<br>
+<br>Tanjong Katong Primary School (Tel: 9112 8295)
+<br>Junyuan Primary School (8940 3520)
+<br>Tampines North Primary School (9112 4295)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Clinic Closed on:</strong>
+<br>4 September 2023 (AM only)
+<br>7 September 2023 (PM only)
+<br>6, 8 - 15 September 2023
+<br>22 - 29 September 2023
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>School Student Care Centre</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Company</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Commit Learning SchoolHouse (CLS)
+<br>- <em>from Jan 2023</em>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel: 89319438</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Website</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/about-us/Service-Providers/Student-Care-Centre-SCC/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
