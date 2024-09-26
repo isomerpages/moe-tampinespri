@@ -197,11 +197,12 @@ please call the following school dental clinics for an appointment.
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Clinic Closed on:</strong>
-<br>4 September 2023 (AM only)
-<br>7 September 2023 (PM only)
-<br>6, 8 - 15 September 2023
-<br>22 - 29 September 2023
+<p><strong>Clinic Open on:</strong>
+<br>3 - 4 September 2024
+<br>5 - 6 September 2024 (PM only)</p>
+<p>16 September 2024 (PM only)
+<br>17 - 20 September 2024
+<br>30 September 2024
 <br>
 </p>
 </td>
