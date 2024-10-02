@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: April 2024 Memo to Parents
-          date: 01 April 2024
-          announcement: Dear Parents,  Please refer to the link below for the April memo
-            to parents.  Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: May 2024 Memo to Parents
           date: 02 May 2024
           announcement: Dear Parents,  Please refer to the link below for the May memo to
@@ -50,6 +44,12 @@ sections:
           date: 09 September 2024
           announcement: Dear Parents,  Please refer to the link below for the September
             memo to parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
+        - title: October 2024 Memo to Parents
+          date: 02 October 2024
+          announcement: Dear Parents,  Please refer to the link below for the October memo
+            to parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
   - textcards:
