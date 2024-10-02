@@ -42,8 +42,7 @@ be sent to parents.&nbsp;</p>
 <br><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/</a>
 </p>
 <p><strong>File attachments</strong>
-</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2024)</a>
+<br><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2024)</a>
 </p>
 <p></p>
 <p></p>
