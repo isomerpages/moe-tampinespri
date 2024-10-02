@@ -38,4 +38,7 @@ description: ""
 <p><a href="/files/2024/TPPS_74_2024___September_Memo_2024.pdf" rel="noopener nofollow" target="_blank">TPPS-74-2024 - September Memo 2024.pdf</a>
 </p>
 <p></p>
+<h3><strong>October 2024</strong></h3>
+<p></p>
+<p></p>
 <p></p>
