@@ -139,7 +139,7 @@ is required for your child to benefit from these services.</p>
 <p>MOE Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Scheme (FAS)</a> 
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Scheme (FAS)</a>
 </p>
 <p><em>Link for 2025 e-FAS application to be provided in PG once available</em>
 </p>
@@ -155,11 +155,28 @@ be processed promptly.</p>
 </tbody>
 </table>
 <h4>4) Vendor Based Services</h4>
-<p>Our school’s service providers’ details <a href="/about-us/service-providers/service-providers/" rel="noopener noreferrer nofollow" target="_blank">can be found on our school website</a>.
-More information on the purchase of school uniform and books will be provided
-in our subsequent PG broadcast. For school bus services and school-based
-student care service, booths will be set up in the school canteen after
-the Orientation Programme, for your information and subscription if needed.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>School Bus Services</p>
+<p>- Please refer to Parent Gateway for more details. Please apply by <strong>Friday, 22 November 2024</strong>.
+Parents will be informed of the application outcome by Monday, 9 December
+2024.]</p>
+</li>
+<li>
+<p><a href="https://form.jotform.com/242669376409469" rel="noopener nofollow" target="_blank">Student Care Services Interest Application Form</a> (for
+2025 P1 students only)</p>
+<p>- Please refer to Parent Gateway for more details. Please apply by <strong>Monday, 28 October 2024</strong>.
+Parents will be informed by SCC of the application outcome by 8 November
+2024.</p>
+</li>
+<li>
+<p>Sales of School Uniform and Books</p>
+<p>a. <a href="https://www.oapl.sg/outlets/tpp" rel="noopener nofollow" target="_blank">School Books</a>
+</p>
+<p>b. <a href="https://shop.shanghai-uniforms.com/" rel="noopener nofollow" target="_blank">School Uniform</a> (10-cent
+(coin) charge will be applied per plastic bag wef 1 Jan 2024)</p>
+</li>
+</ol>
 <p>If you are not able to purchase school uniform and books on the orientation
 day, they can still be ordered online. You may opt for delivery or self-collection.
 Please follow the dates allocated during checkout via the respective vendor’s
@@ -169,13 +186,14 @@ sales website and note that there will be delivery charges.</p>
 as an identification for students. They are to be ironed onto both the
 school shirt and PE t-shirt (above the school logo). You may refer to the
 School Diary for more information.</p>
-<p>A link for the ordering of the name tags will be provided via Parent Gateway
-(PG). Please adhere to the stated deadline to place your orders so that
-you can receive them on the Orientation Day. For placement of orders after
-the stated deadline, please refer to the vendor’s website for more information.</p>
+<p>The Name Tag can be ordered via the provided link: <a href="https://oapl.sg/product/productdetails/oc-TPP/ii-2" rel="noopener noreferrer nofollow" target="_blank">https://oapl.sg/product/productdetails/oc-TPP/ii-2</a>.
+Please adhere to the stated deadline to place your orders so that you can
+receive them on the Orientation Day. For placement of orders after the
+stated deadline, please refer to the vendor’s website for more information.</p>
 <h4>6) Enquiries</h4>
 <p>Should you have any queries or require assistance, please contact the
-school via tpps@moe.edu.sg or 67831190.</p>
+school via <a href="tpps@moe.edu.sg" rel="noopener nofollow" target="_blank">tpps@moe.edu.sg</a> or
+67831190.</p>
 <p>Best Regards
 <br>School Admin Team
 <br>Tampines Primary School</p>
