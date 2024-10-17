@@ -66,7 +66,7 @@ the administrative forms.</p>
 <p>GIRO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees | Ministry of Education</a> 
+<p><a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">School Fees | Ministry of Education</a>
 </p>
 <p></p>
 <p>Look for GIRO scheme and follow instructions on the website to complete
@@ -84,10 +84,20 @@ GIRO application.</p>
 <p>Edusave Standing Order Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Website with details on usage of Edusave funds. Refer to <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">link</a>
+</p>
+<p>Complete the following form:</p>
+<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Parents are strongly encouraged to sign up for Edusave Fund; catered to
+cover school miscellaneous fees (for Singapore Citizens only)</p>
+<p>Please Tick “Yes” for both questions on whether to use Edusave for 2nd
+Tier Miscellaneous fees and for local and overseas enrichment charges.</p>
+<p>School will seek your confirmation for any deduction of Edusave funds
+before the commencement of extra programmes.</p>
+<p>Submission will start from 14 Oct 2024.</p>
 </td>
 </tr>
 </tbody>
