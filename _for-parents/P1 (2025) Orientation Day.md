@@ -87,17 +87,69 @@ GIRO application.</p>
 <p>Website with details on usage of Edusave funds. Refer to <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p>Complete the following form:</p>
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a> 
+<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents are strongly encouraged to sign up for Edusave Fund; catered to
-cover school miscellaneous fees (for Singapore Citizens only)</p>
-<p>Please Tick “Yes” for both questions on whether to use Edusave for 2nd
-Tier Miscellaneous fees and for local and overseas enrichment charges.</p>
+cover school miscellaneous fees <strong>(for Singapore Citizens only)</strong>
+</p>
+<p>Please Tick <strong>“Yes”</strong> for both questions on whether to use
+Edusave for 2nd Tier Miscellaneous fees and for local and overseas enrichment
+charges.</p>
 <p>School will seek your confirmation for any deduction of Edusave funds
 before the commencement of extra programmes.</p>
-<p>Submission will start from 14 Oct 2024.</p>
+<p><strong>Submission will start from 14 Oct 2024.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Details Portal Data Capture</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be provided via PG for the completion on the final compulsory
+form.</p>
+<p><strong>Submission starts from 25 Nov 2024, 10am</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Consent for Immunisation and Dental Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://consent.hpb.gov.sg/" rel="noopener nofollow" target="_blank">https://consent.hpb.gov.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HPB provides free health services such as screening, immunisation and
+dental checks for students in school during school hours. Your consent
+is required for your child to benefit from these services.</p>
+<p><strong>Portal only available from 26 Dec 2024.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Financial Assistance Scheme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Scheme (FAS)</a> 
+</p>
+<p><em>Link for 2025 e-FAS application to be provided in PG once available</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>* Please do not buy books and/or uniforms on Orientation Day or online
+before the outcome of the FAS application is announced if you intend to
+apply for FAS for your child for 2025. No refund will be provided.</p>
+<p>Please apply by <strong>31 Oct 2024</strong> so that your application may
+be processed promptly.</p>
 </td>
 </tr>
 </tbody>
