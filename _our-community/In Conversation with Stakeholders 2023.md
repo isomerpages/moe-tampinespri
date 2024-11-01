@@ -13,3 +13,4 @@ Dear ICS 2024 attendees,&nbsp;
   
 Please scan the QR code below to access the ICS 2024 microsite.
 
+![](/images/School%20Events%202024/https___go_gov_sg_tppsics2024.png)
