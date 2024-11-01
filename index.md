@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: May 2024 Memo to Parents
-          date: 02 May 2024
-          announcement: Dear Parents,  Please refer to the link below for the May memo to
-            parents.  Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: New Issue of Tampines Pulse (June 2024)
           date: 30 May 2024
           announcement: Dear Parent, the latest issue of Tampines Pulse newsletter is
@@ -50,6 +44,12 @@ sections:
           date: 02 October 2024
           announcement: Dear Parents,  Please refer to the link below for the October memo
             to parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2024/
+        - title: November 2024 Memo to Parents
+          date: 01 November 2024
+          announcement: Dear Parents,  Please refer to the link below for the November
+            memo to parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
   - textcards:
