@@ -23,6 +23,14 @@ the school premises.</p>
 <p><strong>Note:</strong> School uniforms and books for 2025 P1 students can
 be purchased at the school canteen on the same day, only after the end
 of the Orientation Programme.</p>
+<p>To facilitate a smoother P1 (2025) Orientation Sales process, P1 (2025)
+parents coming to school on 8 November 2024 for our Orientation, will now
+be able to pay for the books online and choose school collection on the
+8 Nov 2024. To allow our bookshop vendor to be able to pack all online
+orders in time for Orientation, all Orientation day school pick up orders
+must be ordered by 5 November 2024.</p>
+<p>Website link: <a href="http://www.oapl.sg" rel="noopener noreferrer nofollow" target="_blank">www.oapl.sg</a>
+</p>
 <h4>2) Parent Gateway (PG)</h4>
 <p>Parents Gateway is a mobile app specially designed for parents. The app
 allows parents to receive information and perform a range of administrative
