@@ -6,11 +6,10 @@ description: ""
 ---
 ![](/images/Our%20Community.jpg)
 
-In-conversation with Stakeholders 2023
+In-conversation with Stakeholders 2024
 ======================================
 
-Dear ICS 2023 attendees,&nbsp;  
+Dear ICS 2024 attendees,&nbsp;  
   
-Please scan the QR code below to access the ICS 2023 microsite.
+Please scan the QR code below to access the ICS 2024 microsite.
 
-![](/images/tppsics2023.png)
