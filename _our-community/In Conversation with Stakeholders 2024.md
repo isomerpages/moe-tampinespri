@@ -1,6 +1,6 @@
 ---
-title: In Conversation with Stakeholders 2023
-permalink: /our-community/ics-2023/
+title: In Conversation with Stakeholders 2024
+permalink: /our-community/ics-2024/
 variant: markdown
 description: ""
 ---
