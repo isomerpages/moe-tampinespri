@@ -171,11 +171,9 @@ Parents will be informed of the application outcome by Monday, 9 December
 2024.]</p>
 </li>
 <li>
-<p><a href="https://form.jotform.com/242669376409469" rel="noopener nofollow" target="_blank">Student Care Services Interest Application Form</a> (for
-2025 P1 students only)</p>
-<p>- Please refer to Parent Gateway for more details. Please apply by <strong>Monday, 28 October 2024</strong>.
-Parents will be informed by SCC of the application outcome by 8 November
-2024.</p>
+<p>Student Care Services Interest Application Form (for 2025 P1 students
+only)</p>
+<p>- Registrations are closed.</p>
 </li>
 <li>
 <p>Sales of School Uniform and Books</p>

@@ -14,7 +14,7 @@ The school’s school-based Student Care Centre (SCC) seeks to provide an integr
 
 If you are keen to enrol your child in our SCC, please register your interest via the link below.
 
-<b>Registration of Interest:</b>&nbsp;[Link to Online Form](https://docs.google.com/forms/d/e/1FAIpQLSdBa_gCj1eoHL6CEG8K3Tg7PWlGxRMe7Gaqxfho6N6De8scPw/viewform)
+<b>Registration of Interest:</b>&nbsp;[Link to Online Form](https://form.jotform.com/242669376409469)
 
 ### **Commit Learning Schoolhouse (CLS)**
 
