@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /about-us/service-providers/service-providers/
 description: ""
 third_nav_title: Service Providers
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -242,7 +242,7 @@ please call the following school dental clinics for an appointment.
 <p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="admission_cls_tpps@commitlearning.com.sg" rel="noopener nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>
+<p>Email: <a href="mailto:admission_cls_tpps@commitlearning.com.sg">admission_cls_tpps@commitlearning.com.sg</a>
 </p>
 </td>
 </tr>
