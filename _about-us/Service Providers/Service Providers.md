@@ -251,7 +251,7 @@ please call the following school dental clinics for an appointment.
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/about-us/Service-Providers/Student-Care-Centre-SCC/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<p><a href="/about-us/service-providers/student-care-centre-scc/" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
