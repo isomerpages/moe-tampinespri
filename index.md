@@ -18,6 +18,13 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+  - infopic:
+      title: CLASS OF 2024
+      id: infopic
+      description: HAPPY GRADUATION!  Scan the QR code to express your gratitude to
+        all teachers.
+      image: /images/School Events 2024/2024Appreciation_to_all_teachers.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -66,11 +73,4 @@ sections:
             details.
           linktext: Learn more
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
-  - infopic:
-      title: CLASS OF 2024
-      id: infopic
-      description: HAPPY GRADUATION!  Scan the QR code to express your gratitude to
-        all teachers.
-      image: /images/School Events 2024/2024Appreciation_to_all_teachers.jpg
-      alt: Image alt text
 ---
