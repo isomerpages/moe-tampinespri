@@ -23,6 +23,6 @@ variant: tiptap
 <p><a href="/files/2023/Tampines_Pulse_Newsletter_2023_Nov.pdf" rel="noopener noreferrer nofollow" target="_blank">Tampines_Pulse_Newsletter_2023_Nov.pdf</a>
 </p>
 <p><a href="/files/2024/TampinesPulse_Newsletter_Issue1_2024_NEW.pdf" rel="noopener nofollow" target="_blank">Tampines Pulse Newsletter Issue 1 (June 2024).pdf</a>
+<br>
 </p>
-<p></p>
 <p></p>
