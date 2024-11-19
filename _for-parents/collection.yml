@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Booklist for 2025.md
+      - Booklist for AY2025.md
       - Letters to Parents.md
       - Tampines Pulse.md
       - School Calendar.md
