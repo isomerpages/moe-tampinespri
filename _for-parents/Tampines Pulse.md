@@ -1,8 +1,8 @@
 ---
 title: Tampines Pulse
-permalink: /for-parents/Tampines-Pulse/
+permalink: /for-parents/tampines-pulse/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
@@ -24,5 +24,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2024/TampinesPulse_Newsletter_Issue1_2024_NEW.pdf" rel="noopener nofollow" target="_blank">Tampines Pulse Newsletter Issue 1 (June 2024).pdf</a>
 </p>
-<p></p>
-<p></p>
+<p><a href="/files/2024/TampinesPulse_Newsletter_Issue2_2024_FAview_LR.pdf" rel="noopener nofollow" target="_blank">Tampines Pulse Newsletter Issue 2 (November 2024).pdf</a>
+</p>
