@@ -11,6 +11,14 @@ description: ""
 <h3>P1 Orientation Day Details</h3>
 <p>Dear Parents of P1 (2025) Students,</p>
 <p>A very warm welcome to Tampines Primary School!</p>
+<p><strong>Slides for Parents:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024/P1_Orientation_2024___Slides_For_2025_P1_Parents.pdf" rel="noopener nofollow" target="_blank">P1 Orientation 2024 - Slides For 2025 P1 Parents.pdf</a>
+</p>
+</li>
+</ul>
 <h4>1) Orientation Day Details</h4>
 <p>We are pleased to inform you that this year’s P1 Orientation will take
 place on Friday, 8 November 2024, 2pm at the school hall. Registration
