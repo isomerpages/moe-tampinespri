@@ -158,14 +158,14 @@ parents or an adult authorised by the parents come personally and obtain
 permission. They are to sign out at the General Office when fetching the
 student home.</p>
 <h3>7. Use of devices capable of capturing, storing, displaying and/or transmitting visual, audio and verbal information&nbsp;</h3>
-<p><em>Examples of such devices are: mobile phones, fitness trackers, smart watches (including the POSB Smart Buddy) and e-book readers.</em>
+<p><em>Examples of such devices are: mobile phones, fitness trackers, smart watches (excluding the POSB Smart Buddy) and e-book readers.</em>
 </p>
 <p>Students are responsible for their own e-devices. All e-devices should
-be put in the school bags except for smart watches and POSB Smart Buddy.
-The school is not liable for any loss, theft or damage to the devices.
-All devices, if used inappropriately, will be confiscated and be kept by
-the school until a parent comes to claim it. Subsequently, students will
-not be allowed to bring the devices to school.</p>
+be put in the school bags except for the POSB Smart Buddy. The school is
+not liable for any loss, theft or damage to the devices. All devices, if
+used inappropriately, will be confiscated and be kept by the school until
+a parent comes to claim it. Subsequently, students will not be allowed
+to bring the devices to school.</p>
 <p><u>Use of Mobile Phones and Smart Watches</u>
 </p>
 <p>Students are discouraged from bringing their handphones or wearing smart
