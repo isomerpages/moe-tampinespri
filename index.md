@@ -29,12 +29,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: New Issue of Tampines Pulse (June 2024)
-          date: 30 May 2024
-          announcement: Dear Parent, the latest issue of Tampines Pulse newsletter is
-            available for your viewing.
-          link_text: Click here for more...
-          link_url: /for-parents/Tampines-Pulse/
         - title: June 2024 Memo to Parents
           date: 24 June 2024
           announcement: Dear Parents,  Please refer to the link below for the June memo to
@@ -59,6 +53,14 @@ sections:
             memo to parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2024/
+        - title: Shanghai School Uniforms' Ubi Retail Operating Hours During Sec 1 Posting
+            2024
+          date: 02 December 2024
+          announcement: Dear Parents, This is to inform you about the operating schedule
+            for Shanghai Uniforms' Ubi retail outlet during the Sec 1 posting
+            period
+          link_text: Click here for more...
+          link_url: /shanghai-school-uniforms-ubi-retail-operating-hours-during-sec-1-posting-2024/
   - textcards:
       title: Student Assistance
       id: textcards
