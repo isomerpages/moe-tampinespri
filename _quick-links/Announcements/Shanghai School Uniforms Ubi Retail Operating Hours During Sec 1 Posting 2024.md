@@ -24,6 +24,6 @@ exchanges.</p>
 and close at 1:00 PM.</p>
 </li>
 </ul>
-<p>The rest of the days our retail will operate as usual from Monday to Saturday,
-10am to 6pm (Lunch hour 1-2pm). All scheduled school sales during this
-period will continue as planned without any changes.</p>
+<p>The rest of the days the retail outlet will operate as usual from Monday
+to Saturday, 10am to 6pm (Lunch hour 1-2pm). All scheduled school sales
+during this period will continue as planned without any changes.</p>
