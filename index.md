@@ -29,12 +29,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: June 2024 Memo to Parents
-          date: 24 June 2024
-          announcement: Dear Parents,  Please refer to the link below for the June memo to
-            parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: September 2024 Memo to Parents
           date: 09 September 2024
           announcement: Dear Parents,  Please refer to the link below for the September
@@ -61,6 +55,11 @@ sections:
             period
           link_text: Click here for more...
           link_url: /shanghai-school-uniforms-ubi-retail-operating-hours-during-sec-1-posting-2024/
+        - title: First Day of School 2025 Info
+          date: 04 December 2024
+          announcement: Dear Parents, please refer to the link below for more details.
+          link_text: Click here for more...
+          link_url: /for-parents/first-day-of-school-2025-info/
   - textcards:
       title: Student Assistance
       id: textcards
