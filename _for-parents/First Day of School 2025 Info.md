@@ -56,7 +56,7 @@ the school buses have left the premises</p>
 <br>8) Personal Folder
 <br>9) Mask (optional)
 <br>
-<br><em>*On the first day of school, students are to also pack according to the packing list given during the P1 Orientation in Nov 2024.</em> 
+<br><em>*On the first day of school, students are to also pack according to the packing list given during the P1 Orientation in Nov 2024.</em>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ the school buses have left the premises</p>
 <td rowspan="1" colspan="1">
 <p>
 <br>P1: 7.40 a.m. – 1.45 p.m. (Mon, Tue, Thu, Fri)*
-<br>7.40 a.m. – 12.30 p.m. (Wed)*
+<br>7.40 a.m. – 12.30 p.m. (Wed)
 <br>
 <br>P2: 7.40 a.m. – 2 p.m. (Mon, Tue, Thu, Fri)
 <br>7.40 a.m. – 12.30 p.m. (Wed)
