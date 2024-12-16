@@ -123,15 +123,6 @@ specified</p>
 <br>92266622</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Rahmat
-<br>96721464</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>School Dental Clinic</strong></h3>
