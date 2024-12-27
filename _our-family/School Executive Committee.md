@@ -17,13 +17,14 @@ School Executive Committee
 | **Vice-Principal<br>(Academic)**      | Mr Ho Wee Min Kelvin    |
 | **Vice-Principal<br>(Admin)**         | Mr Edmund Tin              |
 | **Administration Manager<br>**       | Mr Kwong Chew Weng<br>     |
+| **Administration Manager<br>**       | Mdm Salinah bte Salleh<br>     |
 | **Operations Manager**              | Mr Jonathan Seto           |
 | **Operations Manager**              | Mdm Lee Chui Leng           |
 | **School Staff Developer**            | Mr Mohd Salleh             |
 | **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
-| **HOD PE, CCA &amp; Aesthetics**       | Mr Chao Wei Nien Bryan            |
+| **HOD PE, CCA &amp; Aesthetics**       | Mr Bryan Chao Wei Nien            |
 | **HOD CCE**                           | Mr Saravanan               |
 | **Year Head Primary 1 &amp; 2** | Miss Esther Kuek          |
 | **Year Head Primary 3 &amp; 4**           | Mrs Ng-Chan Jing Bo        |
