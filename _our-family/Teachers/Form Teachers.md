@@ -593,6 +593,3 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3></h3>
-<p></p>
-<p></p>
