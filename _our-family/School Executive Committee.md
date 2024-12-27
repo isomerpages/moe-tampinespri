@@ -37,5 +37,5 @@ School Executive Committee
 | **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
 | **SH Malay &amp; Partnership**            | Miss Nur Hidaya Sidik           |
 | **SH ICT**                            |  Mrs Agnes Lim<br>         |
-| **Assistant Year Head Primary 1 &amp; 2** | Mdm Eng Lee Cher          |
+| **Assistant Year Head Primary 1 &amp; 2** | Mrs Lim Lee Cher          |
 | **Assistant Year Head Primary 3 &amp; 4** | Miss Nurul Asyikin          |
