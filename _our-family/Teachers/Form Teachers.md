@@ -363,10 +363,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Quek Ee Ling</p>
-<p>Mrs Ang Sok Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chye Chong</p>
+<p>Mrs Ang Sok Keng</p>
 <p>Ms Bok Siew Tin</p>
 </td>
 </tr>
