@@ -13,17 +13,17 @@ School Executive Committee
 | **Designation**                         | Name                       |
 |---------------------------------------|----------------------------|
 | **Principal**                         | Mrs Lay See Neufeld        |
-| **Vice-Principal<br>(Academic)**      | Mrs Zahira Mohamed Sedik   |
 | **Vice-Principal<br>(Academic)**      | Ms Ariken Charmaine Carrie |
+| **Vice-Principal<br>(Academic)**      | Mr Ho Wee Min Kelvin    |
 | **Vice-Principal<br>(Admin)**         | Mr Edmund Tin              |
 | **Administration Manager<br>**       | Mr Kwong Chew Weng<br>     |
 | **Operations Manager**              | Mr Jonathan Seto           |
 | **Operations Manager**              | Mdm Lee Chui Leng           |
 | **School Staff Developer**            | Mr Mohd Salleh             |
-| **HOD English**                       | Mrs Jeredith Hee           |
 | **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
+| **HOD PE, CCA &amp; Aesthetics**       | Mr Chao Wei Nien Bryan            |
 | **HOD CCE**                           | Mr Saravanan               |
 | **Year Head Primary 1 &amp; 2** | Miss Esther Kuek          |
 | **Year Head Primary 3 &amp; 4**           | Mrs Ng-Chan Jing Bo        |
@@ -31,9 +31,10 @@ School Executive Committee
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
 | **LH English**                        | Mrs Eileen Chong            |
 | **LH Math**                           | Mrs Janice Wang            |
-| **LH Science**                        | Mdm Eleanor Pang           |
+| **LH Science**                        | Mr Joseph Christopher Chong Kin Mun           |
 | **LH Chinese**                        | Mdm Shen Jingyi            |
 | **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
-| **SH Malay &amp; Partnership**            | Miss Nur Hidaya            |
+| **SH Malay &amp; Partnership**            | Miss Nur Hidaya Sidik           |
 | **SH ICT**                            |  Mrs Agnes Lim<br>         |
-| **Assistant Year Head Primary 1 &amp; 2** | Miss Nurul Asyikin          |
+| **Assistant Year Head Primary 1 &amp; 2** | Mdm Eng Lee Cher          |
+| **Assistant Year Head Primary 3 &amp; 4** | Miss Nurul Asyikin          |
