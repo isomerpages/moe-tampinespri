@@ -52,5 +52,5 @@ Mother Tongue Teachers
 |   |
 |-----------------|
 | Mrs Vimala Ravi | 
-| Miss J Aswiniey |
-| Mdm Balasubramanian Revathi    |
+| Miss Aswiniey |
+| Mr Mohammed Shaheer    |

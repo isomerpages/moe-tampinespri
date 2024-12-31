@@ -14,13 +14,13 @@ PE Art Music Teachers
 
 |    |
 |-----------------|
+| Mr Bryan Chao    |
 | Miss Evelyn Yeow   |
 | Mr Irwin Peh    |
 | Mr Abdul Rahman |
 | Mr Guo Li Ren   |
 | Miss Lai Si Hui |
 | Mr Hoo Kang, Sean | 
-| Mr Thineash |
 
 
 ### **Art Teachers**
@@ -36,5 +36,5 @@ PE Art Music Teachers
 
 |   |
 |-------------------|
-| Mrs Tan Shee Cher |
 | Miss Kwa Shuar En |
+| Miss Dorothy Goh |
