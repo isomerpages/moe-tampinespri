@@ -22,24 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: September 2024 Memo to Parents
-          date: 09 September 2024
-          announcement: Dear Parents,  Please refer to the link below for the September
-            memo to parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
-        - title: October 2024 Memo to Parents
-          date: 02 October 2024
-          announcement: Dear Parents,  Please refer to the link below for the October memo
-            to parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
-        - title: November 2024 Memo to Parents
-          date: 01 November 2024
-          announcement: Dear Parents,  Please refer to the link below for the November
-            memo to parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2024/
         - title: Shanghai School Uniforms' Ubi Retail Operating Hours During Sec 1 Posting
             2024
           date: 02 December 2024
@@ -53,6 +35,12 @@ sections:
           announcement: Dear Parents, please refer to the link below for more details.
           link_text: Click here for more...
           link_url: /for-parents/first-day-of-school-2025-info/
+        - title: December 2024 Memo to Parents
+          date: 31 December 2024
+          announcement: Dear Parents,  Please refer to the link below for the December
+            memo to parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
   - infopic:
       title: CLASS OF 2024
       id: infopic
