@@ -41,6 +41,12 @@ sections:
             memo to parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: Student Details Form (SDF) Updating Exercise
+          date: 02 January 2025
+          announcement: Dear Parents/Guardians, please submit the information through the
+            SDF portal.
+          link_text: Click here for more...
+          link_url: /student-details-form-sdf-updating-exercise/
   - infopic:
       title: CLASS OF 2024
       id: infopic
