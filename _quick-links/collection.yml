@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/Student Details Form (SDF) Updating Exercise.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Health Visit for Primary 1 to 6 Students.md
