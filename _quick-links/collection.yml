@@ -2,12 +2,12 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/Student Details Form (SDF) Updating Exercise.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Health Visit for Primary 1 to 6 Students.md
       - Announcements/Shanghai School Uniforms Ubi Retail Operating Hours During
         Sec 1 Posting 2024.md
+      - Announcements/Student Details Form (SDF) Updating Exercise.md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
