@@ -1,12 +1,12 @@
 ---
 title: School Calendar
-permalink: /quick-links/School-Calendar/
+permalink: /quick-links/school-calendar/
 description: ""
+variant: markdown
 ---
 ![](/images/AboutUs.jpg)
 
 School Calendar
 ===============
 
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;src=Y18xM2VlMzVmZGE1MDVlYWM5MDczODVmOGJlZmNiYThiMWE4ZDNmZDU4ZGUxYmFlYmVjMzVlZGQ2MDY5ZDY2YzIwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23A79B8E&amp;color=%230B8043"></iframe>
-
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_53c9891b028bb90bdd103bfa507a30f4c6432b9b7815a5fc17ba6cc89ba300a6%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>

@@ -11,27 +11,11 @@ third_nav_title: Announcements
 <h1>Announcements</h1>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">December 2023 Memo for Parents</a>
+<p><a href="/for-parents/letters-to-parents-2025/" rel="noopener nofollow" target="_blank">December 2024 Memo to Parents</a>
 </p>
 </li>
 <li>
-<p><a href="/quick-links/announcements/mk-2024-reg-ex/" rel="noopener noreferrer nofollow" target="_blank">MK 2024 Registration Exercise-Online Registration for MK Sibling Priority Admission (Priority Order 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">January 2024 Memo for Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">March 2024 Memo to Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">April 2024 Memo to Parents</a>
-</p>
-</li>
-<li>
-<p><a href="/for-parents/letters-to-parents-2024/" rel="noopener noreferrer nofollow" target="_blank">May 2024 Memo to Parents</a>
+<p><a href="/student-details-form-sdf-updating-exercise/" rel="noopener nofollow" target="_blank">Student Details Form (SDF) Updating Exercise</a>
 </p>
 </li>
 </ol>
