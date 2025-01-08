@@ -47,13 +47,6 @@ sections:
             SDF portal.
           link_text: Click here for more...
           link_url: /student-details-form-sdf-updating-exercise/
-  - infopic:
-      title: CLASS OF 2024
-      id: infopic
-      description: HAPPY GRADUATION!  Scan the QR code to express your gratitude to
-        all teachers.
-      image: /images/School Events 2024/2024Appreciation_to_all_teachers.jpg
-      alt: Image alt text
   - textcards:
       title: Student Assistance
       id: textcards
