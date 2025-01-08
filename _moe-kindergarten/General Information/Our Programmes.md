@@ -3,6 +3,7 @@ title: Our Programmes
 permalink: /moe-kindergarten/About-Us/Our-Programmes/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ![](/images/mk%20kindergarten.jpg)
 
@@ -20,7 +21,7 @@ From 2022: K1, K2, KCare
 |:-----------------------------------------------------------------:|:-------------------------------------------:|
 |                        Kindergarten 1 (K1)                        | Children turning 5 in the year of enrolment |
 |                        Kindergarten 2 (K2)                        | Children turning 6 in the year of enrolment |
-|                     Kindergarten Care (KCare)                     |         Children enrolled in MK@TPPS        |
+|                     Kindergarten Care (KCare)                     |         Children enrolled in MK@TP        |
 
 
 <b>Programme Hours</b>
@@ -30,7 +31,7 @@ From 2022: K1, K2, KCare
 |             AM Session            | 8 a.m. to 12 p.m. |
 |             PM Session            |  1 p.m. to 5 p.m. |
 
-<center> <i>MK@TPPS follows MOE's calendar of school terms and school holidays. </i> </center>
+<center> <i>MK@TP follows MOE's calendar of school terms and school holidays. </i> </center>
 
 
 |         **K1 &amp; K2 (Full day MK &amp; KCare Programme)**         |                                                                                 |
