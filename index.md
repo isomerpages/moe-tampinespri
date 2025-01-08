@@ -47,6 +47,13 @@ sections:
             SDF portal.
           link_text: Click here for more...
           link_url: /student-details-form-sdf-updating-exercise/
+        - title: Photo-Taking for P1 and P6 Students for the School Smart Card for 2025
+          date: 07 January 2025
+          announcement: Dear Parents/Guardians,  Please refer to the announcement in the
+            link below for the details of the photo-taking for the 2025 School
+            Smart Card.
+          link_text: Click here for more...
+          link_url: https://www.tampinespri.moe.edu.sg/photo-taking-for-p1-and-p6-students-for-the-school-smart-card-for-2025/
   - textcards:
       title: Student Assistance
       id: textcards
