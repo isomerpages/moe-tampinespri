@@ -13,7 +13,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bJbdfk1YLZc"></iframe>
 </div>
-<p><a href="/files/2024/2024_Family_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Family_Handbook.pdf</a>
+<p><a href="/files/2025/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 MOE Kindergarten Family Handbook.pdf</a>
 </p>
 <p></p>
 <h4>Our Partner Early Years Centres (EYCs) and their contact details</h4>
@@ -47,14 +47,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sample_tt.png">
 </div>
-<p><strong><u>Snack Menu (2024)</u></strong>
+<p><strong><u>Snack Menu (2025)</u></strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/snack_menu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_snack_2025.png">
 </div>
 <p><strong><u>MOE Kindergarten Fees</u></strong>
 </p>
-<p>The monthly fee for MK in 2024 is:</p>
+<p>The monthly fee for MK in 2025 is:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$160 for Singapore Citizens</p>
@@ -89,11 +90,11 @@ such as field trips.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>$205</p>
+<p>$210</p>
 <p>(Fee shown above is after $150 basic subsidy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$355</p>
+<p>$360</p>
 </td>
 </tr>
 </tbody>
