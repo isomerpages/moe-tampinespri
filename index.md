@@ -22,14 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Shanghai School Uniforms' Ubi Retail Operating Hours During Sec 1 Posting
-            2024
-          date: 02 December 2024
-          announcement: Dear Parents, This is to inform you about the operating schedule
-            for Shanghai Uniforms' Ubi retail outlet during the Sec 1 posting
-            period
-          link_text: Click here for more...
-          link_url: /shanghai-school-uniforms-ubi-retail-operating-hours-during-sec-1-posting-2024/
         - title: First Day of School 2025 Info
           date: 04 December 2024
           announcement: Dear Parents, please refer to the link below for more details.
@@ -54,6 +46,13 @@ sections:
             Smart Card.
           link_text: Click here for more...
           link_url: https://www.tampinespri.moe.edu.sg/photo-taking-for-p1-and-p6-students-for-the-school-smart-card-for-2025/
+        - title: The Straits Times School Pocket Money Fund (STSPMF) Application
+          date: 09 January 2025
+          announcement: Dear Parents/Guardians,  We are pleased to inform you that
+            applications for The Straits Times School Pocket Money Fund will be
+            opened from 10 January to 7 February 2025.
+          link_text: Click here for more...
+          link_url: /for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/
   - textcards:
       title: Student Assistance
       id: textcards
