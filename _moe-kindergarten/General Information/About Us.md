@@ -11,20 +11,17 @@ General Information
 ========
 
 
-<img src="/images/mk_logo.png" style="width:35%">
+![](/images/mk_tampines.jpg)
 
 
-MOE Kindergarten @ Tampines Primary (MK@TPPS) received our first batch of Kindergarten 1 students in January 2021.&nbsp;
+MOE Kindergarten @ Tampines Primary (MK@TPPS) received our first batch of Kindergarten 1 students in January 2021. 
 
-  
+MOE Kindergarten @ Tampines Primary (MK@TPPS) is officially renamed as MOE Kindergarten @ Tampines (MK@TP) with effect from January 2025.
 
-At MK@TPPS, we are all about C.A.R.E. – Courage, Ardour, Respect and Empathy. We nurture children holistically so that they are confident, demonstrate strong social skills and have a good foundation in literacy and numeracy. Your child will embark on an exciting learning journey at MK@TPPS through our two flagship programmes – the HI-Light Programme and the Starlight Bilingual Literacy Programme for English Language (EL) and Mother Tongue Languages (MTL).&nbsp;&nbsp;
+At MK@TP, we embody the four core values of Care, Respect, Honesty, and Responsibility. We nurture children holistically, helping them to become confident, develop strong social skills, and build a solid foundation in literacy and numeracy. Your child will embark on an exciting learning journey at MK@TP through our two flagship programmes: the HI-Light Programme and the Starlight Bilingual Literacy Programme for English Language (EL) and Mother Tongue Languages (MTL).
 
-  
+MK@TP also provides Kindergarten Care (KCare) service for students enrolled in our MK. 
 
-MK@TPPS also provides Kindergarten Care (KCare) service for students enrolled in our MK.&nbsp;
-
-  
 
 For more information on MOE Kindergarten, you may wish to visit&nbsp;
 [https://www.moe.gov.sg/preschool/moe-kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)
@@ -45,7 +42,7 @@ For more information on MOE Kindergarten, you may wish to visit&nbsp;
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-hmb0">MOE Kindergarten @ Tampines Primary</th>
+    <th class="tg-hmb0">MOE Kindergarten @ Tampines</th>
   </tr>
 </thead>
 <tbody>
