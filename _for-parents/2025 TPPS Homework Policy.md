@@ -9,7 +9,7 @@ description: ""
 </div>
 <p></p>
 <p>8 February 2024</p>
-<h2><strong>2024 Homework Policy</strong></h2>
+<h2><strong>2025 Homework Policy</strong></h2>
 <p>Dear Parents and Guardians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>I would like to share Tampines Primary’s homework policy so that we can
 work together to ensure that your child is clear about the work that needs
@@ -96,7 +96,11 @@ etc.</p>
 </ul>
 <p>&nbsp;<strong>General Guidelines on Homework</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,7 +204,7 @@ set over the weekends and school holidays depending on the needs of the
 class.&nbsp;</p>
 <p>&nbsp;These are general guidelines for reference and may be differentiated
 to meet the needs and interests of different students.</p>
-<p>&nbsp;In 2024, for classes with spelling, Mother Tongue spelling will
+<p>&nbsp;In 2025, for classes with spelling, Mother Tongue spelling will
 be conducted on Wednesdays (P3 &amp; P4) or Thursdays (P1, P2, P5 &amp;
 P6) and English spelling will be on any of the other weekdays. If there
 is a public or school holiday, spelling will be postponed to the next school
