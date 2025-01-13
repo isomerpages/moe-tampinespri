@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
 </div>
 <p></p>
-<p>8 February 2024</p>
+<p>13 January 2025</p>
 <h2><strong>2025 Homework Policy</strong></h2>
 <p>Dear Parents and Guardians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>I would like to share Tampines Primary’s homework policy so that we can
