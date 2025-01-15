@@ -23,4 +23,5 @@ Uniforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Closure_Notice__STOCK_TAKE___display_.jpg">
 </div>
-<p></p>
+<p>Thank you.</p>
+<p>Tampines Primary School</p>
