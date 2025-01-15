@@ -22,17 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: First Day of School 2025 Info
-          date: 04 December 2024
-          announcement: Dear Parents, please refer to the link below for more details.
-          link_text: Click here for more...
-          link_url: /for-parents/first-day-of-school-2025-info/
-        - title: December 2024 Memo to Parents
-          date: 31 December 2024
-          announcement: Dear Parents,  Please refer to the link below for the December
-            memo to parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: Student Details Form (SDF) Updating Exercise
           date: 02 January 2025
           announcement: Dear Parents/Guardians, please submit the information through the
@@ -53,6 +42,12 @@ sections:
             opened from 10 January to 7 February 2025.
           link_text: Click here for more...
           link_url: /for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/
+        - title: Consent for School Health and Dental Screening (P1 and P5)
+          date: 10 January 2025
+          announcement: Dear Parents/Guardians, your consent is required for health and
+            dental screening for P1 and P5 students.
+          link_text: Click here for more...
+          link_url: /consent-for-school-health-and-dental-screening-p1-and-p5/
   - textcards:
       title: Student Assistance
       id: textcards
