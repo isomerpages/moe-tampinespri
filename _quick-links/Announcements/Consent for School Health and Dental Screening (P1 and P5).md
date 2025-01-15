@@ -24,7 +24,7 @@ consent portal (link below) to allow your child to receive any necessary
 vaccinations and undergo dental screening.</p>
 </li>
 <li>
-<p> <strong>P5 parents:</strong> Complete health consent via the consent portal
+<p><strong>P5 parents:</strong> Complete health consent via the consent portal
 (link below) to allow your child to receive necessary vaccinations.</p>
 </li>
 <li>
