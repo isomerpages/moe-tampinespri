@@ -48,6 +48,12 @@ sections:
             dental screening for P1 and P5 students.
           link_text: Click here for more...
           link_url: /consent-for-school-health-and-dental-screening-p1-and-p5/
+        - title: Notice of Closure Dates for Shanghai Uniform Outlets
+          date: 15 January 2025
+          announcement: Dear Parents/Guardians, please take note of the closure dates for
+            Shanghai Uniform.
+          link_text: Click here for more...
+          link_url: /notice-of-closure-dates-for-shanghai-uniform-outlets/
   - textcards:
       title: Student Assistance
       id: textcards
