@@ -93,7 +93,7 @@ from sexuality-related risks.</p>
 <hr>
 <p><strong>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<h3><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h3>
+<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -104,89 +104,88 @@ from sexuality-related risks.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>LESSON TITLE / DURATION</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Lesson OVERVIEW</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD<br></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
 </p>
-</th>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me
-<br>(60 min)</p>
+<p>The Changes in Me</p>
+<p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Did You Know?
-<br>(60 min)</p>
+<p>Did You Know?</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students know what pornography is and how
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
+</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 5</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe
-<br>(60 min)</p>
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+and how to seek help for themselves and their friends.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></h3>
+<hr>
+<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -197,31 +196,33 @@ so that the students will feel more comfortable during the discussions.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>LESSON TITLE / DURATION</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD<br></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TIME PERIOD</strong>
 </p>
-</th>
+<p><strong>(e.g. Term 1 Week 2)</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Are We More than Friends?
-<br>Lesson 1
-<br>(60 min)</p>
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
@@ -238,12 +239,9 @@ healthy friendships with their circles of friends.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?
-<br>Lesson 2
-<br>(60 min)</p>
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+<p>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
@@ -259,13 +257,21 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <h3><strong>Information for Parents</strong></h3>
-<p>8.Parents may opt their children out of the Sexuality Education lessons,
-and/or supplementary sexuality education programmes by MOE-approved external
-providers.</p>
-<p>9.Parents who wish to opt their children out of the Sexuality Education
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Growing_Years_2022_Parents_Opt-out_Form_New.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by&nbsp;<strong>31/01/2024</strong>.</p>
-<p>10.Parents can contact the school at&nbsp;<a href="mailto:tpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tpps@moe.edu.sg</a>&nbsp;or contact us at
+to parents at the start of the year and is also downloadable <a href="/files/2025/ANNEX_A___MOE_SEd_Opt_Out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by&nbsp;<strong>31/01/2025</strong>.</p>
+</li>
+<li>
+<p>Parents can contact the school at&nbsp;<a href="mailto:tpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tpps@moe.edu.sg</a>&nbsp;or contact us at
 67831190 for discussion or to seek clarification about the school’s sexuality
 education programme.</p>
+</li>
+</ol>
+<p></p>
