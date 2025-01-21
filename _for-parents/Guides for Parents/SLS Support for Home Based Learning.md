@@ -1,6 +1,6 @@
 ---
 title: SLS Support for Home Based Learning
-permalink: /for-parents/Guides-for-Parents/SLS-Support-for-Home-Based-Learning/
+permalink: /for-parents/guides-for-parents/sls-support-for-home-based-learning/
 description: ""
 third_nav_title: Guides for Parents
 variant: markdown

@@ -1,8 +1,9 @@
 ---
 title: Student's Guide to Zoom
-permalink: /for-parents/Guides-for-Parents/Students-Guide-to-Zoom/
+permalink: /for-parents/guides-for-parents/students-guide-to-zoom/
 description: ""
 third_nav_title: Guides for Parents
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 

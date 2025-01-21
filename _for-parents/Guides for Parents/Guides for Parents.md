@@ -1,8 +1,9 @@
 ---
 title: Guides for Parents
-permalink: /for-parents/Guides-for-Parents/Guides-for-Parents/
+permalink: /for-parents/guides-for-parents/guides-for-parents/
 description: ""
 third_nav_title: Guides for Parents
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 

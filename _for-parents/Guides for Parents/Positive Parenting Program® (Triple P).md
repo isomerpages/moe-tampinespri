@@ -1,8 +1,9 @@
 ---
 title: Positive Parenting Program® (Triple P)
-permalink: /for-parents/Guides-for-Parents/Positive-Parenting-Program-Triple-P/
+permalink: /for-parents/guides-for-parents/positive-parenting-program-triple-p/
 description: ""
 third_nav_title: Guides for Parents
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 

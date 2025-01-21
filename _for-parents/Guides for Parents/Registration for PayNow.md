@@ -1,8 +1,9 @@
 ---
 title: Registration for PayNow
-permalink: /for-parents/Guides-for-Parents/Registration-for-PayNow/
+permalink: /for-parents/guides-for-parents/registration-for-paynow/
 description: ""
 third_nav_title: Guides for Parents
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 

@@ -1,8 +1,9 @@
 ---
 title: Updates on PSLE Scoring and Secondary 1 Posting System from 2021
-permalink: /for-parents/Guides-for-Parents/Updates-on-PSLE-Scoring-and-Secondary-1-Posting-System-from-2021/
+permalink: /for-parents/guides-for-parents/updates-on-psle-scoring-and-secondary-1-posting-system-from-2021/
 description: ""
 third_nav_title: Guides for Parents
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 
