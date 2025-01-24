@@ -28,13 +28,6 @@ sections:
             SDF portal.
           link_text: Click here for more...
           link_url: /student-details-form-sdf-updating-exercise/
-        - title: Photo-Taking for P1 and P6 Students for the School Smart Card for 2025
-          date: 07 January 2025
-          announcement: Dear Parents/Guardians,  Please refer to the announcement in the
-            link below for the details of the photo-taking for the 2025 School
-            Smart Card.
-          link_text: Click here for more...
-          link_url: https://www.tampinespri.moe.edu.sg/photo-taking-for-p1-and-p6-students-for-the-school-smart-card-for-2025/
         - title: The Straits Times School Pocket Money Fund (STSPMF) Application
           date: 09 January 2025
           announcement: Dear Parents/Guardians,  We are pleased to inform you that
@@ -54,6 +47,12 @@ sections:
             Shanghai Uniform.
           link_text: Click here for more...
           link_url: /notice-of-closure-dates-for-shanghai-uniform-outlets/
+        - title: 2025 MK Registration for Sibling Priority Admission (Priority Order 2)
+          date: 24 January 2025
+          announcement: Dear Parents, the application window for 2025 MK Registration for
+            Sibling Priority Admission (Priority Order 2) is now open.
+          link_text: Click here for more...
+          link_url: /2025-mk-registration-for-sibling-priority-admission-priority-order-2/
   - textcards:
       title: Student Assistance
       id: textcards
