@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements/Photo Taking for P1 and P6 Students for the School Smart
-        Card for 2025.md
       - Announcements/Announcements.md
       - Announcements/Shanghai School Uniforms Ubi Retail Operating Hours During
         Sec 1 Posting 2024.md
@@ -12,6 +10,8 @@ collections:
       - Announcements/Consent for School Health and Dental Screening (P1 and
         P5).md
       - Announcements/Notice of Closure Dates for Shanghai Uniform Outlets.md
+      - Announcements/Photo Taking for P1 and P6 Students for the School Smart
+        Card for 2025.md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
