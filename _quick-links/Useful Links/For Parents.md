@@ -22,8 +22,30 @@ information:</p>
 </p>
 <h3><strong>Group Personal Accident (GPA) Insurance for Students</strong></h3>
 <hr>
+<ol data-tight="true" class="tight">
+<li>
+<p>All student accident insurance claims submission are to be submitted electronically</p>
+</li>
+<li>
+<p>Information on claims, FAQs and other details pertaining to the GPA Insurance
+Plan for Students can be found on Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+</p>
+</li>
+</ol>
+<p></p>
 <p>Click on the links below to find out more.</p>
-<p><strong>Product Factsheet:</strong>&nbsp;<a href="/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2022 Sep 2022.pdf</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Submission:</strong>  <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg/</a>
 </p>
-<p><strong>User Guide:</strong>&nbsp;<a href="/files/StudentGPAUserGuide-Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide - Parent.pdf (amazonaws.com)</a>
+</li>
+<li>
+<p><strong>Product Factsheet:</strong>  <a href="/files/2025/MOE_Student_Product_Fact_Sheet_2025.pdf" rel="noopener nofollow" target="_blank">MOE Student Product Fact Sheet 2025.pdf</a>
 </p>
+</li>
+<li>
+<p><strong>User Guide:</strong>  <a href="/files/2025/Student_GPA_User_Guide___Parent.pdf" rel="noopener nofollow" target="_blank">Student GPA User Guide - Parent.pdf</a>
+</p>
+</li>
+</ul>
+<p></p>
