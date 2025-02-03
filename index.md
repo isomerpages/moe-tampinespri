@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Student Details Form (SDF) Updating Exercise
-          date: 02 January 2025
-          announcement: Dear Parents/Guardians, please submit the information through the
-            SDF portal.
-          link_text: Click here for more...
-          link_url: /student-details-form-sdf-updating-exercise/
         - title: The Straits Times School Pocket Money Fund (STSPMF) Application
           date: 09 January 2025
           announcement: Dear Parents/Guardians,  We are pleased to inform you that
@@ -53,6 +47,12 @@ sections:
             Sibling Priority Admission (Priority Order 2) is now open.
           link_text: Click here for more...
           link_url: /2025-mk-registration-for-sibling-priority-admission-priority-order-2/
+        - title: February 2025 Memo to Parents
+          date: 31 January 2025
+          announcement: Dear Parents, Please refer to the link below for the February memo
+            to parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
   - textcards:
       title: Student Assistance
       id: textcards
