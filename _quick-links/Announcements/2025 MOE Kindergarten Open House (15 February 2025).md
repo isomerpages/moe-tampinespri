@@ -11,8 +11,9 @@ third_nav_title: Announcements
 <h2><strong>2025 MOE Kindergarten Open House - 15 February 2025</strong></h2>
 <p>Dear Parents,</p>
 <p>We would like to warmly welcome you to the 2025 MOE Kindergarten Open
-House at MK@Tampines located within our primary school’s premises, on 15
-February 2025 from 8.30 a.m. to 12.30 p.m. (last walk-in at 12.15 p.m.).</p>
+House at <strong>MK@Tampines</strong> located within our primary school’s
+premises, on <strong>15 February 2025 from 8.30 a.m. to 12.30 p.m.</strong> (last
+walk-in at 12.15 p.m.).</p>
 <p>During the Open House, you can tour the learning environment, and speak
 to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
