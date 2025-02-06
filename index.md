@@ -22,13 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: The Straits Times School Pocket Money Fund (STSPMF) Application
-          date: 09 January 2025
-          announcement: Dear Parents/Guardians,  We are pleased to inform you that
-            applications for The Straits Times School Pocket Money Fund will be
-            opened from 10 January to 7 February 2025.
-          link_text: Click here for more...
-          link_url: /for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/
         - title: Consent for School Health and Dental Screening (P1 and P5)
           date: 10 January 2025
           announcement: Dear Parents/Guardians, your consent is required for health and
