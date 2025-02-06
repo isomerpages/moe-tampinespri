@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Announcements/2025 MOE Kindergarten Open House (15 February 2025).md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Student Details Form (SDF) Updating Exercise.md
