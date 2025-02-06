@@ -14,4 +14,5 @@ description: ""
 <h3><strong>February 2025</strong></h3>
 <p><a href="/files/2025/TPPS_14_2025___February_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-14-2025 - February Memo 2025.pdf</a>
 </p>
-<p></p>
+<p><a href="/files/2025/TPPS_16_2025___2025_MK_Open_House.pdf" rel="noopener nofollow" target="_blank">TPPS-16-2025 - 2025 MK Open House</a>
+</p>
