@@ -4,7 +4,7 @@ permalink: /details-for-p6-parent-engagement-2025/
 variant: tiptap
 description: ""
 ---
-<h4>Details for P5 Parent Engagement on Friday, 14 February 2025</h4>
+<h4>Details for P6 Parent Engagement on Thursday, 13 February 2025</h4>
 <p>This year, the school will be using Google Meet as the video conferencing
 tool for our online Parent</p>
 <p>Engagement. Please find below the Google Meet links for the briefings.</p>
