@@ -8,7 +8,7 @@ description: ""
 <p>This year, the school will be using Google Meet as the video conferencing
 tool for our online Parent</p>
 <p>Engagement. Please find below the Google Meet links for the briefings.</p>
-<p><strong>P5 Schedule</strong>
+<p><strong>P6 Schedule</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
