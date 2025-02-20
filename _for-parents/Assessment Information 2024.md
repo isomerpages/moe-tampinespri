@@ -7,8 +7,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
 </div>
-<h1>Assessment Information 2024</h1>
-<p>16 February 2024</p>
+<h1>Assessment Information 2025</h1>
+
 <p>Dear Parents/Guardians,</p>
 <p>In Tampines Primary School, assessments serve as important milestones
 for our students. It provides an opportunity for students to revise, consolidate
@@ -27,7 +27,7 @@ to the information, you will be duly informed.</p>
 <br>Mrs Lay See Neufeld
 <br>Principal</p>
 <p></p>
-<h3>Assessment Plan and Weighting 2024</h3>
+<h3>Assessment Plan and Weighting 2025</h3>
 <table>
 <tbody>
 <tr>
@@ -315,7 +315,7 @@ the Year Heads.</p>
 </li>
 </ol>
 <p></p>
-<h3>Weighted Assessment and Examination Policy 2024</h3>
+<h3>Weighted Assessment and Examination Policy 2025</h3>
 <p><u>Weighted Assessments and End-of-Year Examinations (P3 to P6 students)</u>
 </p>
 <ol data-tight="true" class="tight">
