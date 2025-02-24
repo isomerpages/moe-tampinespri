@@ -1,6 +1,6 @@
 ---
-title: Register for MK@TPPS
-permalink: /moe-kindergarten/register-for-mk-tpps/
+title: Register for MK@TP
+permalink: /moe-kindergarten/register-for-mk-tp/
 description: ""
 variant: markdown
 ---
@@ -15,7 +15,7 @@ The registration exercise will take place in February 2025 and be open to Singap
 
 #### Registration outcome
 
-You will be notified of the registration outcome via e-mail by **Monday, 15 April 2024**.
+You will be notified of the registration outcome via e-mail by **Tuesday, 15 April 2025**.
 
 #### Acceptance of offer
 
@@ -25,4 +25,6 @@ If your child is offered a place, you will need to indicate your acceptance onli
 
 Places will be first allocated to applications received during the registration period. Applications submitted after the registration period are subject to available vacancies. If there are no vacancies, your application will be placed on the waitlist.
 
-For those who missed out on the online registration exercise and wish to register for MOE Kindergarten @ Tampines, you can fill in the form via this [link](https://go.gov.sg/mktppswaitlist2024). The person-in-charge of our MK will inform you if there is a vacancy for your child
+For 2026 K2 admission and those who missed the K1 general registration exercise and wish to register for MK@Tampines, please complete the form using the provided link. We will contact you if vacancies become available.
+
+**Link:** [MK Waitlist](https://go.gov.sg/mktppswaitlist2024)
