@@ -15,7 +15,7 @@ The registration exercise will take place in February 2025 and be open to Singap
 
 #### Registration outcome
 
-You will be notified of the registration outcome via e-mail by **Monday, 15 April 2024**.
+You will be notified of the registration outcome via e-mail by **Tuesday, 15 April 2025**.
 
 #### Acceptance of offer
 
