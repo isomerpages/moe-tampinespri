@@ -2,6 +2,7 @@
 title: Infocomm and Technology (ICT)
 permalink: /curriculum/Infocomm-and-Technology-ICT/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
@@ -26,7 +27,7 @@ Tampines Primary School immerses students in a technologically-enriched learning
   
 
 ### **Key Programmes**
-#### **ICT Baseline Programme**
+#### **ICT Structured Programme**
 
 Tampines Primary School has a structured ICT programme for students from Primary One to Primary Six. Students will pick up ICT skills in line with MOE Baseline ICT Standards. The programme integrates ICT skills into the mastering of core subjects such as English and Mother Tongue languages, Mathematics and Art and Crafts. In addition, students work with different ICT tools to develop different end products, and are evaluated at the end of the course according to the rubrics created for each level.  
 
@@ -85,7 +86,7 @@ The table below provides more details on the programme structure.
 
 #### **Maker Space**
 
-Maker Space develops in students a growth mindset (learning and creating something out of nothing; exploration of own interest), craftsmanship (making), open sharing (sharing) and mutual respect.
+Maker Space develops in students a growth mindset (learning and creating something out of nothing; exploration of own interest), craftsmanship (making), open sharing (sharing) and mutual&nbsp;respect.
 
   
 
@@ -105,7 +106,7 @@ Sessions will be conducted surrounding various themes. This will engage students
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
-Mobile and Internet technologies are becoming increasingly pervasive in our world.  The open nature of the Internet poses a danger to our students as it can expose them to undesirable content which can potentially corrupt their value systems. Students today face new challenges with online interactions. They need to be grounded on sound values and be equipped with the skills to guard their values.
+Mobile and Internet technologies are becoming increasingly pervasive in our world.&nbsp; The open nature of the Internet poses a danger to our students as it can expose them to undesirable content which can potentially corrupt their value systems. Students today face new challenges with online interactions. They need to be grounded on sound values and be equipped with the skills to guard their values.
 
   
 
