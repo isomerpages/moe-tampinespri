@@ -338,10 +338,9 @@ Students are strongly encouraged to write their answers legibly without the use 
 <li>
 No extra time will be provided to students who visit the washrooms during the conduct of the Weighted Assessments and Examinations.
 	</li>
-	</ol>
+
 <p><u>Code of Conduct/Behaviour</u>
 </p>
-<ol>
 		<li>
 <p>Students must not have in their possession:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -357,29 +356,21 @@ Any calculator or dictionary that are not listed in the list of approved calcula
 </ol>
 </li>
 <li>
-<p>Students who are found in possession of any unauthorised devices/materials
-are liable to the same penalty as those who are caught cheating.</p>
+Students who are found in possession of any unauthorized devices/materials are liable to the same penalty as those who are caught cheating.
 </li>
 <li>
-<p>Students should not communicate or attempt to communicate (verbal or non-verbal)
-with other students during the conduct of the weighted assessments and
-examinations and the collection of the answer scripts.</p>
+Students should not communicate or attempt to communicate (verbal or non-verbal) with other students during the conduct of the weighted assessments and examinations and the collection of the answer scripts.
 </li>
 <li>
-<p>Students are not to remove any used/unused papers and/or answer scripts
-from the Weighted Assessment and Examination venues.</p>
+Students are not to remove any used/unused papers and/or answer scripts from the Weighted Assessment and Examination venues.
 </li>
 <li>
-<p>Disciplinary actions will be taken on students who cheat, attempt to cheat
-or misbehave during the examinations and this includes the issuance of
-a warning letter and/or forfeiture of the Weighted Assessment/Examination
-results.</p>
+Disciplinary actions will be taken on students who cheat, attempt to cheat or misbehave during the examinations and this includes the issuance of a warning letter and/or forfeiture of the Weighted Assessment/Examination results.
 </li>
 <li>
-<p>Students who are found to have changed or attempted to change their answers
-on their Weighted Assessment/Examination scripts while teachers go through
-the papers, will face disciplinary consequences which may include having
-their results forfeited.</p>
-<p></p>
+Students who are found to have changed or attempted to change their answers on their Weighted Assessment/Examination scripts while teachers go through the papers, will face disciplinary consequences which may include having their results forfeited.
 </li>
+<li>
+As the Weighted Assessments will be conducted during curriculum time, students are reminded not to share the questions with their peers in other classes in order to ensure fairness and maintain the integrity of the assessment.
+	</li>
 </ol>
