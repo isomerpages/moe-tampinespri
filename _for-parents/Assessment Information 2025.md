@@ -10,18 +10,12 @@ description: ""
 <h1>Assessment Information 2025</h1>
 
 <p>Dear Parents/Guardians,</p>
-<p>In Tampines Primary School, assessments serve as important milestones
-for our students. It provides an opportunity for students to revise, consolidate
-and apply their understanding in a formal setting. It also provides students
-with feedback to address and bridge their learning gaps.</p>
-<p>We would like to share Tampines Primary’s Assessment Information so that
-we can work together to develop an assessment culture that builds intrinsic
-motivation in our students to learn within a safe environment.</p>
-<p>We seek parents’/guardians’ support to go through the Assessment Information
-(kindly refer to Annexes 1 and 2) with your child(ren). Form teachers will
-also be briefing the students on the contents of the assessment information.
-The information is correct at the time of print. Should there be any changes
-to the information, you will be duly informed.</p>
+<p>In Tampines Primary School, assessments serve as important milestones for our students. It provides an opportunity for students to revise, consolidate and apply their understanding in a formal setting. It also provides students with feedback to address and bridge their learning gaps. 
+We would like to share Tampines Primary’s Assessment Information so that we can work together to develop an assessment culture that builds intrinsic motivation in our students to learn within a safe environment. 
+</p>
+<p>
+We seek parents’/guardians’ support to go through the Assessment Information (kindly refer to Annexes 1 and 2) with your child(ren). Form teachers will also be briefing the students on the contents of the assessment information. The information is correct at the time of print. Should there be any changes to the information, you will be duly informed.
+</p>
 <p>Thank you.</p>
 <p>Yours sincerely,
 <br>Mrs Lay See Neufeld
@@ -303,15 +297,10 @@ PSLE: Primary School Leaving Examination</p>
 <p><u>Kindly take note of the following</u>:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>P1 and P2 students do not sit for Weighted Assessments or End-of-Year
-Examinations. Non-Weighted Assessments such as termly reviews and performance
-tasks will be conducted for the students throughout the academic year.</p>
+P1 and P2 students do not sit for Weighted Assessments or End-of-Year Examinations. Non-Weighted Assessments such as termly reviews and performance tasks will be conducted for the students throughout the academic year.
 </li>
 <li>
-<p>Non-Weighted Assessments such as termly reviews and performance tasks
-will be conducted for P3 to P6 students throughout the academic year. More
-information on NWA and WA will be provided in a separate PG memo through
-the Year Heads.</p>
+Non-Weighted Assessments such as termly reviews and performance tasks will be conducted for P3 to P6 students throughout the academic year. More information on NWA and WA will be provided in a separate PG memo through the Year Heads.
 </li>
 </ol>
 <p></p>
