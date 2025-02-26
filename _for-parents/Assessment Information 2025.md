@@ -324,29 +324,19 @@ Students are required to be punctual for all Weighted Assessments and Examinatio
 There is no make up for P3 to P6 students who are absent for their Weighted Assessments, Listening Comprehension and End-of-Year Examinations. For students who are absent from the oral component, they will be scheduled to sit for the make-up session.
 </li>
 <li>
-<p>Students who are absent for any of the language components with valid
-medical certificate(s)/compassionate reasons will be given Valid Reason
-(V.R.) for the subject.</p>
+Students who are absent for any of the language components with valid medical certificate(s)/compassionate reasons will be given Valid Reason (V.R.) for the subject.
 </li>
 <li>
-<p>Students are required to bring all necessary materials e.g., approved
-dictionaries, calculators, geometry sets, 2B pencils and erasers for their
-Weighted Assessments and Examinations. During the conduct of the Weighted
-Assessments and Examinations, students are not allowed to borrow stationery
-from other students.</p>
+Students are required to bring all necessary materials e.g., approved dictionaries, calculators, geometry sets, 2B pencils and erasers for their Weighted Assessments and Examinations. During the conduct of the Weighted Assessments and Examinations, students are not allowed to borrow stationery from other students.
 </li>
 <li>
-<p>The duration for each paper includes the time spent for reading the questions.
-No extra time will be provided.</p>
+The duration for each paper includes the time spent for reading the questions. No extra time will be provided.
 </li>
 <li>
-<p>Students are strongly encouraged to write their answers legibly without
-the use of any correction tape/fluid and erasable pen. They should persevere
-and attempt all items in the question paper(s).</p>
+Students are strongly encouraged to write their answers legibly without the use of any correction tape/fluid and erasable pen. They should persevere and attempt all items in the question paper(s).
 </li>
 <li>
-<p>No extra time will be provided to students who visit the washrooms during
-the conduct of the Weighted Assessments and Examinations.</p>
+No extra time will be provided to students who visit the washrooms during the conduct of the Weighted Assessments and Examinations.
 <p><u>Code of Conduct/Behaviour</u>
 </p>
 </li>
