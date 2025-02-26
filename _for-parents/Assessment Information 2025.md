@@ -309,36 +309,19 @@ Non-Weighted Assessments such as termly reviews and performance tasks will be co
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Any absence from the Weighted Assessments or Examinations must be covered
-by a valid medical certificate from a private or government clinic/hospital.
-Students are required to submit their medical certificate(s) to their Form
-Teachers on the day they return to school. Students who are absent without
-a valid reason or a medical certificate will not be awarded any marks for
-the assessment(s) they have missed. Medical certificates or letters issued
-by traditional medical practitioners will not be accepted.</p>
+Any absence from the Weighted Assessments or Examinations must be covered by a valid medical certificate from a private or government clinic/hospital. Students are required to submit their medical certificate(s) to their Form Teachers on the day they return to school. Students who are absent without a valid reason or a medical certificate will not be awarded any marks for the assessment(s) they have missed. Medical certificates or letters issued by traditional medical practitioners will not be accepted.
 </li>
 <li>
-<p>Students who are absent with valid medical certificates will rest at home
-for the entire duration of their medical leave. They will be marked as
-absent with valid reason. Their results will be accordingly adjusted so
-that they are not penalised for being absent with valid reason.</p>
+Students who are absent with valid medical certificates will rest at home for the entire duration of their medical leave. They will be marked as absent with valid reason. Their results will be accordingly adjusted so that they are not penalised for being absent with valid reason.
 </li>
 <li>
-<p>Students who are absent for any written papers can sit for them as independent
-practice when they are well and back in school. However, the marks attained
-will not be recorded in their Holistic Development Profile (HDP) for it
-to be used for award purposes.</p>
+Students who are absent for any written papers can sit for them as independent practice when they are well and back in school.  However, the marks attained will not be recorded in their Holistic Development Profile (HDP) for it to be used for award purposes.
 </li>
 <li>
-<p>Students are required to be punctual for all Weighted Assessments and
-Examinations. Students who are late (no later than 15 minutes) can sit
-for the remaining duration of the papers with no additional time provided.</p>
+Students are required to be punctual for all Weighted Assessments and Examinations. Students who are late (no later than 15 minutes) can sit for the remaining duration of the papers with no additional time provided.
 </li>
 <li>
-<p>There is no make up for P3 to P6 students who are absent for their Weighted
-Assessments, Listening Comprehension and End-of-Year Examinations. For
-students who are absent from the oral component, teachers will use the
-reserve date(s).</p>
+There is no make up for P3 to P6 students who are absent for their Weighted Assessments, Listening Comprehension and End-of-Year Examinations. For students who are absent from the oral component, they will be scheduled to sit for the make-up session.
 </li>
 <li>
 <p>Students who are absent for any of the language components with valid
