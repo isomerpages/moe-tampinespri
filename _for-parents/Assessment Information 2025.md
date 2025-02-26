@@ -337,12 +337,14 @@ Students are strongly encouraged to write their answers legibly without the use 
 </li>
 <li>
 No extra time will be provided to students who visit the washrooms during the conduct of the Weighted Assessments and Examinations.
+	</li>
+	</ol>
 <p><u>Code of Conduct/Behaviour</u>
 </p>
-</li>
-<li>
+<ol>
+		<li>
 <p>Students must not have in their possession:</p>
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
 <li>
 <p>Any unauthorized electronic, communication, entertainment or gaming devices
 capable of capturing, storing, displaying and/or transmitting visual, audio
