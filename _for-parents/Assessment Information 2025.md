@@ -346,18 +346,13 @@ No extra time will be provided to students who visit the washrooms during the co
 <p>Students must not have in their possession:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>
-<p>Any unauthorized electronic, communication, entertainment or gaming devices
-capable of capturing, storing, displaying and/or transmitting visual, audio
-or verbal information within the Weighted Assessment and Examination venues.</p>
+Any unauthorized electronic, communication, entertainment or gaming devices capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information within the Weighted Assessment and Examination venues.
 </li>
 <li>
-<p>Any unauthorized materials/notes even if they do not intend to use them
-within the Weighted Assessment and Examination venues e.g. conversion table/mathematical
-formula sheet printed on the math instrument box.</p>
+Any unauthorized materials/notes even if they do not intend to use them within the Weighted Assessment and Examination venues e.g. conversion table/mathematical formula sheet printed on the math instrument box.
 </li>
 <li>
-<p>Any calculator or dictionary that are not listed in the list of approved
-calculators/dictionaries.</p>
+Any calculator or dictionary that are not listed in the list of approved calculators/dictionaries.
 </li>
 </ol>
 </li>
