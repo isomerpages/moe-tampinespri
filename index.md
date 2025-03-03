@@ -46,13 +46,12 @@ sections:
             to parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
-        - title: 2025 MOE Kindergarten Open House (15 February 2025)
-          date: 06 February 2025
-          announcement: Dear Parents, We would like to warmly welcome you to the 2025 MOE
-            Kindergarten Open House at MK@Tampines located within our primary
-            school’s premises, on 15 February 2025 from 8.30 a.m. to 12.30 p.m.
+        - title: March 2025 Memo to Parents
+          date: 28 February 2025
+          announcement: Dear Parents, Please refer to the link below for the March memo to
+            parents.
           link_text: Click here for more...
-          link_url: /2025-moe-kindergarten-open-house-15-february-2025/
+          link_url: /for-parents/letters-to-parents-2025/
   - textcards:
       title: Student Assistance
       id: textcards
