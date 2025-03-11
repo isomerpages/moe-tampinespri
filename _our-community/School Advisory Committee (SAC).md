@@ -33,7 +33,7 @@ financial assistance is administered to pupils by the school.</p>
 <h3><strong>About the Committee Members</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 200px;" src="/images/MRGunal.jpeg">
-<p><strong>Mr Gunal Kanna (SAC Chairman)</strong>
+<p style="text-align: center;"><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
 </div>
 <p></p>
