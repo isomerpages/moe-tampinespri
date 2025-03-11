@@ -2,6 +2,7 @@
 title: School Advisory Committee (SAC)
 permalink: /our-community/School-Advisory-Committee-SAC/
 description: ""
+variant: markdown
 ---
 ![](/images/Our%20Community.jpg)
 
