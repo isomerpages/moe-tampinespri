@@ -15,7 +15,7 @@ for 2025-2026.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sac_2025_1.jpg">
 </div>
 <p></p>
-<p>The school works collaboratively with the SAC to enrich school programmes.
+<p style="text-align: justify; text-justify: inter-word;">The school works collaboratively with the SAC to enrich school programmes.
 The school taps the expertise and networks of SAC members to provide learning
 opportunities for staff and pupils and to contribute towards pupil welfare.
 Updates on school events, programmes and achievements are provided to SAC
@@ -24,7 +24,7 @@ to provide the school with feedback on its directions and programmes. SAC
 members are invited to be with the school community at special school events
 as Guest-of-Honour for special school events such as the school’s Academic
 Excellence Ceremony, Open House and Teachers’ Day Dinner.</p>
-<p>SAC members show their support for the school by gracing the event or
+<p style="text-align: justify; text-justify: inter-word;">SAC members show their support for the school by gracing the event or
 by contributing funds or prizes for staff and pupils. The school taps the
 SAC for pupil welfare support. The school has in place the SAC Financial
 Assistance Scheme for needy pupils. Applications for financial assistance
@@ -37,7 +37,7 @@ financial assistance is administered to pupils by the school.</p>
 <p><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
 <p></p>
-<p>Mastering in Computer Engineering from Australia, Gunal is a technologist
+<p style="text-align: justify; text-justify: inter-word;">Mastering in Computer Engineering from Australia, Gunal is a technologist
 at heart who works in the IT Industry, focusing on Enterprise Solutions.
 He is a Father of 2 kids, both of whom did their schooling in TPPS. Gunal
 has been a key part of the school's DadsForLife program since 2015, bringing
