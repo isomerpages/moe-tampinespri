@@ -32,10 +32,11 @@ are consolidated and presented to the SAC for approval. Thereafter, the
 financial assistance is administered to pupils by the school.</p>
 <h3><strong>About the Committee Members</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:200px;height:240px;margin-right:10px;" height="auto" width="100%" src="/images/MRGunal.jpeg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/MRGunal.jpeg">
 </div>
 <p><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
+<p></p>
 <p>Mastering in Computer Engineering from Australia, Gunal is a technologist
 at heart who works in the IT Industry, focusing on Enterprise Solutions.
 He is a Father of 2 kids, both of whom did their schooling in TPPS. Gunal
