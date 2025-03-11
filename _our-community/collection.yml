@@ -2,9 +2,9 @@ collections:
   our-community:
     output: true
     order:
-      - In Conversation with Stakeholders 2024.md
       - Partnership.md
       - Alumni.md
       - Ministry of Social and Family Development (MSF).md
       - School Advisory Committee (SAC).md
       - Tampines West Community Club.md
+      - In Conversation with Stakeholders 2024.md
