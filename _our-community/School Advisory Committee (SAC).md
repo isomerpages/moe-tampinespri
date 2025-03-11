@@ -31,11 +31,11 @@ Assistance Scheme for needy pupils. Applications for financial assistance
 are consolidated and presented to the SAC for approval. Thereafter, the
 financial assistance is administered to pupils by the school.</p>
 <h3><strong>About the Committee Members</strong></h3>
-<div>
-<img style="width: 200px;text-align: left;" src="/images/MRGunal.jpeg">
-</div>
+<div class="isomer-image-wrapper">
+<img style="width: 200px;" src="/images/MRGunal.jpeg">
 <p><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
+</div>
 <p></p>
 <p style="text-align: justify; text-justify: inter-word;">Mastering in Computer Engineering from Australia, Gunal is a technologist
 at heart who works in the IT Industry, focusing on Enterprise Solutions.
