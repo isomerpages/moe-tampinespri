@@ -1,7 +1,8 @@
 ---
 title: Tampines West Community Club
-permalink: /our-community/Tampines-West-Community-Club/
+permalink: /our-community/tampines-west-community-club/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Community.jpg)
 

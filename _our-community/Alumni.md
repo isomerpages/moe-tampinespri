@@ -1,14 +1,15 @@
 ---
 title: Alumni
-permalink: /our-community/Alumni/
+permalink: /our-community/alumni/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Community.jpg)
 
 Alumni
 ======
 
-If you wish to join the alumni, you can register through the [Alumni Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScPn6IOHWW-Lmyvd7Gm3fFZzbIPWOFJOlPJMpIf-OyYEOpN0A/viewform).
+If you wish to join the alumni, you can register through the&nbsp;[Alumni Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScPn6IOHWW-Lmyvd7Gm3fFZzbIPWOFJOlPJMpIf-OyYEOpN0A/viewform).
 
   
 
@@ -16,7 +17,7 @@ Alumni@TPPS was officially launched in 2007. The alumni was formed to foster clo
 
   
 
-<i>\* Please take note that Tampines Primary alumni is not registered under <u>Alumni association</u>. The Alumni information here is for us to reach out to our former student. Hence, it is <u>not applicable</u> for applicants who intends to apply for P1 registration, under Phase 2A1, for their children.</i>
+<i>\* Please take note that Tampines Primary alumni is not registered under&nbsp;<u>Alumni association</u>. The Alumni information here is for us to reach out to our former student. Hence, it is&nbsp;<u>not applicable</u>&nbsp;for applicants who intends to apply for P1 registration, under Phase 2A1, for their children.</i>
 
 
 <img src="/images/Alumni.gif" style="width:60%">

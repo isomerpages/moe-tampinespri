@@ -1,7 +1,8 @@
 ---
 title: Ministry of Social and Family Development (MSF)
-permalink: /our-community/Ministry-of-Social-and-Family-Development-MSF/
+permalink: /our-community/ministry-of-social-and-family-development-msf/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Community.jpg)
 
