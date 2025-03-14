@@ -22,8 +22,7 @@ take some time and is not immediate.</p>
 <p>The MIMS Student Self-Service Password Reset Service allows students to
 reset their passwords on their own if they forget them. We encourage you
 to use the attached guide to help your child/ward in setting up this service
-so they can regain access to their accounts quickly when needed, by 4 April
-2025.</p>
+so they can regain access to their accounts quickly when needed, by <strong>4 April 2025</strong>.</p>
 <p>Thank you for your support.</p>
 <p>Warm regards,</p>
 <p>Mdm Dianna</p>
