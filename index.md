@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Consent for School Health and Dental Screening (P1 and P5)
-          date: 10 January 2025
-          announcement: Dear Parents/Guardians, your consent is required for health and
-            dental screening for P1 and P5 students.
-          link_text: Click here for more...
-          link_url: /consent-for-school-health-and-dental-screening-p1-and-p5/
         - title: Notice of Closure Dates for Shanghai Uniform Outlets
           date: 15 January 2025
           announcement: Dear Parents/Guardians, please take note of the closure dates for
@@ -52,6 +46,14 @@ sections:
             parents.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: Setting of security questions for Student MIMS account
+          date: 14 March 2025
+          announcement: The MIMS Student Self-Service Password Reset Service allows
+            students to reset their passwords on their own if they forget them.
+            We encourage you to help your child/ward in setting up this service
+            so they can regain access to their accounts quickly when needed.
+          link_text: Click here for more...
+          link_url: /setting-of-security-questions-for-student-mims-account/
   - textcards:
       title: Student Assistance
       id: textcards
