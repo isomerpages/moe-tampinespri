@@ -24,16 +24,15 @@ reset their passwords on their own if they forget them. We encourage you
 to use the attached guide to help your child/ward in setting up this service
 so they can regain access to their accounts quickly when needed, by <strong>4 April 2025</strong>.</p>
 <p>Thank you for your support.</p>
-<p>Warm regards,</p>
-<p>Mdm Dianna</p>
-<p>HOD ICT</p>
+<p>Warm regards,<br>
+	Mdm Dianna<br>
+	HOD ICT</p>
 <p><strong>Web Link</strong>
-</p>
-<p>Student MIMS account log in</p>
-<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a>
+<br>
+	Student MIMS account log in<br>
+	<a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a>
 </p>
 <p><strong>File attachments</strong>
+<br>
+	<a href="/files/Setting_Security_Questions_for_MIMS_Account.pdf" rel="noopener nofollow" target="_blank">Setting Security Questions for MIMS Account.pdf</a>
 </p>
-<p><a href="/files/Setting_Security_Questions_for_MIMS_Account.pdf" rel="noopener nofollow" target="_blank">Setting Security Questions for MIMS Account.pdf</a>
-</p>
-<p></p>
