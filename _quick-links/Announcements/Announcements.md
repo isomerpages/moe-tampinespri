@@ -30,5 +30,9 @@ third_nav_title: Announcements
 <p><a href="/2025-mk-registration-for-sibling-priority-admission-priority-order-2/" rel="noopener nofollow" target="_blank">2025 MK Registration for Sibling Priority Admission (Priority Order 2)</a>
 </p>
 </li>
+<li>
+<p><a href="/setting-of-security-questions-for-student-mims-account/" rel="noopener nofollow" target="_blank">Setting of security questions for Student MIMS account</a>
+</p>
+</li>
 </ol>
 <p></p>
