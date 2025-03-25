@@ -28,12 +28,6 @@ sections:
             Shanghai Uniform.
           link_text: Click here for more...
           link_url: /notice-of-closure-dates-for-shanghai-uniform-outlets/
-        - title: 2025 MK Registration for Sibling Priority Admission (Priority Order 2)
-          date: 24 January 2025
-          announcement: Dear Parents, the application window for 2025 MK Registration for
-            Sibling Priority Admission (Priority Order 2) is now open.
-          link_text: Click here for more...
-          link_url: /2025-mk-registration-for-sibling-priority-admission-priority-order-2/
         - title: February 2025 Memo to Parents
           date: 31 January 2025
           announcement: Dear Parents, Please refer to the link below for the February memo
@@ -54,6 +48,12 @@ sections:
             so they can regain access to their accounts quickly when needed.
           link_text: Click here for more...
           link_url: /setting-of-security-questions-for-student-mims-account/
+        - title: April 2025 Memo to Parents
+          date: 25 March 2025
+          announcement: Dear Parents, Please refer to the link below for the April memo to
+            parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
   - textcards:
       title: Student Assistance
       id: textcards
