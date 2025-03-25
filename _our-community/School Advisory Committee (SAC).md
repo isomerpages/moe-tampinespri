@@ -15,7 +15,7 @@ for 2025-2026.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sac_2025_1.jpg">
 </div>
 <p></p>
-<p>The school works collaboratively with the SAC to enrich school programmes.
+<p style="text-align: justify;">The school works collaboratively with the SAC to enrich school programmes.
 The school taps the expertise and networks of SAC members to provide learning
 opportunities for staff and pupils and to contribute towards pupil welfare.
 Updates on school events, programmes and achievements are provided to SAC
@@ -37,7 +37,7 @@ financial assistance is administered to pupils by the school.</p>
 <p align="center"><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
 <p></p>
-<p>Mastering in Computer Engineering from Australia, Gunal is a technologist
+<p style="text-align: justify;">Mastering in Computer Engineering from Australia, Gunal is a technologist
 at heart who works in the IT Industry, focusing on Enterprise Solutions.
 He is a Father of 2 kids, both of whom did their schooling in TPPS. Gunal
 has been a key part of the school's DadsForLife program since 2015, bringing
@@ -54,7 +54,7 @@ much as possible.</p>
 <p align="center"><strong>Dr. Aziz Noordin (SAC Council Member)</strong>
 </p>
 <p></p>
-<p>Dr. Aziz Noordin is a Family Physician at Tampines Family Medicine Clinic
+<p style="text-align: justify;">Dr. Aziz Noordin is a Family Physician at Tampines Family Medicine Clinic
 with over 15 years of experience in primary care. A proud alumnus of TPPS
 (Class of 1997), he is passionate about chronic disease management, mental
 health awareness, and medical education. He also serves as Secretary of
