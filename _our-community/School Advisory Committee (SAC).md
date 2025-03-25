@@ -34,7 +34,7 @@ financial assistance is administered to pupils by the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 200px;" height="auto" width="100%" src="/images/MRGunal.jpeg">
 </div>
-<p><strong>Mr Gunal Kanna (SAC Chairman)</strong>
+<p align="center"><strong>Mr Gunal Kanna (SAC Chairman)</strong>
 </p>
 <p></p>
 <p>Mastering in Computer Engineering from Australia, Gunal is a technologist
@@ -49,9 +49,9 @@ much as possible.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/dr_aziz.jpg">
+<img style="width: 200px;" height="auto" width="100%" src="/images/dr_aziz.jpg">
 </div>
-<p><strong>Dr. Aziz Noordin (SAC Council Member)</strong>
+<p align="center"><strong>Dr. Aziz Noordin (SAC Council Member)</strong>
 </p>
 <p></p>
 <p>Dr. Aziz Noordin is a Family Physician at Tampines Family Medicine Clinic
