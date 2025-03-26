@@ -1,6 +1,6 @@
 ---
 title: Our Programmes
-permalink: /moe-kindergarten/About-Us/Our-Programmes/
+permalink: /moe-kindergarten/about-us/our-programmes/
 description: ""
 third_nav_title: General Information
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: Guzheng
-permalink: /our-learning-experiences/Co-Curricular-Activities/Guzheng/
+permalink: /our-learning-experiences/co-curricular-activities/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

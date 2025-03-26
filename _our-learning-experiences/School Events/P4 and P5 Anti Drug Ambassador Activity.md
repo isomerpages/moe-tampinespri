@@ -1,8 +1,9 @@
 ---
 title: P4 and P5 Anti Drug Ambassador Activity
-permalink: /our-learning-experiences/School-Events/P4-and-P5-Anti-Drug-Ambassador-Activity/
+permalink: /our-learning-experiences/school-events/p4-and-p5-anti-drug-ambassador-activity/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

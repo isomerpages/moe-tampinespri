@@ -1,6 +1,6 @@
 ---
 title: Our Learning Experiences
-permalink: /moe-kindergarten/Our-Learning-Experiences/
+permalink: /moe-kindergarten/our-learning-experiences/
 description: ""
 variant: markdown
 ---

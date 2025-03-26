@@ -1,12 +1,13 @@
 ---
 title: International Friendship Day
-permalink: /our-learning-experiences/School-Events/International-Friendship-Day/
+permalink: /our-learning-experiences/school-events/international-friendship-day/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
-International Friendship Day 
+International Friendship Day&nbsp;
 =============================
 
 <style type="text/css">

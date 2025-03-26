@@ -1,7 +1,8 @@
 ---
 title: Mathematics
-permalink: /curriculum/Mathematics/
+permalink: /curriculum/mathematics/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

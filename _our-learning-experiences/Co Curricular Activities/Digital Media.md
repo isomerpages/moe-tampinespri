@@ -1,6 +1,6 @@
 ---
 title: Digital Media
-permalink: /our-learning-experiences/Co-Curricular-Activities/Digital-Media/
+permalink: /our-learning-experiences/co-curricular-activities/digital-media/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

@@ -1,8 +1,9 @@
 ---
 title: National Day
-permalink: /our-learning-experiences/School-Events/National-Day/
+permalink: /our-learning-experiences/school-events/national-day/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
@@ -45,7 +46,7 @@ National Day Observance Ceremony – Prefects EXCO leading the march past
 Our NE Team and NE Ambassadors leading the National Day concert and celebrations
 ![](/images/National%20Day2.jpeg)
 
-Community Cafe – NE Ambassadors sharing on unique facts of Singapore & our food culture!
+Community Cafe – NE Ambassadors sharing on unique facts of Singapore &amp; our food culture!
 ![](/images/National%20Day3.jpeg)
 
 Our PSGs leading the school in the sing-along during National Day concert

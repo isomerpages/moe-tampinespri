@@ -1,8 +1,9 @@
 ---
 title: National Education
-permalink: /curriculum/CCE/National-Education/
+permalink: /curriculum/cce/national-education/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

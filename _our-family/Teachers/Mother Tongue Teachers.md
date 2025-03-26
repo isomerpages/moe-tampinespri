@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Teachers
-permalink: /our-family/Teachers/Mother-Tongue-Teachers/
+permalink: /our-family/teachers/mother-tongue-teachers/
 description: ""
 third_nav_title: Teachers
 variant: markdown

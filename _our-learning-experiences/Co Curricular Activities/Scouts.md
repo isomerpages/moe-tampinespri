@@ -1,6 +1,6 @@
 ---
 title: Scouts
-permalink: /our-learning-experiences/Co-Curricular-Activities/Scouts/
+permalink: /our-learning-experiences/co-curricular-activities/scouts/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

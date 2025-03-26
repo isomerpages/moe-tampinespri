@@ -1,6 +1,6 @@
 ---
 title: Teacher Leaders
-permalink: /our-family/Teacher-Leaders/
+permalink: /our-family/teacher-leaders/
 description: ""
 variant: markdown
 ---

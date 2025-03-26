@@ -1,8 +1,9 @@
 ---
 title: Racial Harmony Day
-permalink: /our-learning-experiences/School-Events/Racial-Harmony-Day/
+permalink: /our-learning-experiences/school-events/racial-harmony-day/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

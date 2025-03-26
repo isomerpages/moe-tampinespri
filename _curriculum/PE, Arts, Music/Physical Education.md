@@ -1,8 +1,9 @@
 ---
 title: Physical Education
-permalink: /curriculum/PE-Arts-Music/Physical-Education/
+permalink: /curriculum/pe-arts-music/physical-education/
 description: ""
 third_nav_title: PE, Arts, Music
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
@@ -22,7 +23,7 @@ Physical Education in Tampines Primary School is integral to the all-round devel
 
   
 
-The curriculum comprises of Athletics, Dance, Games & Sports, Gymnastics, Physical Health & Fitness and Swimming. Innovative initiatives leveraging technology collaborative practice, such as our Video Analysis & Critique of Sport Skills and P6 Sport Education - provide authentic contexts and experiences as the foundation to equip our students with skills competencies for the future.
+The curriculum comprises of Athletics, Dance, Games &amp; Sports, Gymnastics, Physical Health &amp; Fitness and Swimming. Innovative initiatives leveraging technology collaborative practice, such as our Video Analysis &amp; Critique of Sport Skills and P6 Sport Education - provide authentic contexts and experiences as the foundation to equip our students with skills competencies for the future.
 
  
 ### **Video Analysis and Critique of Sport Skills**
@@ -37,13 +38,13 @@ Through analysis critique of peers’ performance of sport skills, students deve
 
 ![](/images/PE1.png)
 
-Sport Education aims to develop students’ perception of sport to encompass non-playing roles that are prevalent in modern sport. Students participate in are responsible for the organisation of their teams throughout the season with the teacher as a facilitator. Reflection peer evaluations are done by the students to frame their learning experiences.
+Sport Education aims to develop students’ perception of sport to encompass non-playing roles that are prevalent in modern sport. Students participate in are responsible for the organisation of their teams throughout the season with the teacher as a facilitator.&nbsp;Reflection peer evaluations are done by the students to frame their learning experiences.
 
 ### **Healthy Lifestyle Week**
 
 ![](/images/PE3.png)
 
-The week serves as a lead up to the Senior Olympics, where all students participate in the “I am a Role Model” program - focussing on desired behaviour when participating in sport - conducted by our Parent Support Group members, as well as practice matches during recess to prepare for the Senior Olympics. Augmenting these is Eye Care Week activities with the key message to “Keep Myopia at Bay. Go Outdoors Play”.
+The week serves as a lead up to the Senior Olympics, where all students participate&nbsp;in the “I am a Role Model” program - focussing on desired behaviour when participating&nbsp;in sport - conducted by our Parent Support Group members, as well as practice matches&nbsp;during recess to prepare for the Senior Olympics. Augmenting these is Eye Care Week activities with the key message to “Keep Myopia at Bay. Go Outdoors Play”.
 
 
 ### **Senior Olympics**
@@ -64,7 +65,7 @@ The seminar aims to build on existing home-school partnership towards attaining 
 
 ![](/images/PE6.png)
 
-In addition to games & sports taught in the curriculum, our students are given exposure to alternative and contemporary sports such as Inline Skating, Golf and Martial Arts. These sessions are conducted by invited coaches experienced in their respective sports who share our principles towards education.
+In addition to games &amp; sports taught in the curriculum, our students are given exposure to alternative and contemporary sports such as Inline Skating, Golf and Martial Arts. These sessions are conducted by invited coaches experienced in their respective sports who share our principles towards education.
 
 ### **Junior Olympics**
 

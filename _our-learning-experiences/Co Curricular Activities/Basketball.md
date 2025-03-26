@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /our-learning-experiences/Co-Curricular-Activities/Basketball/
+permalink: /our-learning-experiences/co-curricular-activities/basketball/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

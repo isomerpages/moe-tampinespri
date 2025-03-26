@@ -1,6 +1,6 @@
 ---
 title: Art Club
-permalink: /our-learning-experiences/Co-Curricular-Activities/Art-Club/
+permalink: /our-learning-experiences/co-curricular-activities/art-club/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

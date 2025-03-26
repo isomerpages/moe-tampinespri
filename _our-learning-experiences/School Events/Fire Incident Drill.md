@@ -1,8 +1,9 @@
 ---
 title: Fire Incident Drill
-permalink: /our-learning-experiences/School-Events/Fire-Incident-Drill/
+permalink: /our-learning-experiences/school-events/fire-incident-drill/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

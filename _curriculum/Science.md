@@ -1,7 +1,8 @@
 ---
 title: Science
-permalink: /curriculum/Science/
+permalink: /curriculum/science/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

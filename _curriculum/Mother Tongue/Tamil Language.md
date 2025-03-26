@@ -1,6 +1,6 @@
 ---
 title: Tamil Language
-permalink: /curriculum/Mother-Tongue/Tamil-Language/
+permalink: /curriculum/mother-tongue/tamil-language/
 description: ""
 third_nav_title: Mother Tongue
 variant: markdown

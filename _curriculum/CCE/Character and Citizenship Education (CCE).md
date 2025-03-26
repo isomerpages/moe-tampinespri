@@ -1,8 +1,9 @@
 ---
 title: Character and Citizenship Education (CCE)
-permalink: /curriculum/CCE/Character-and-Citizenship-Education-CCE/
+permalink: /curriculum/cce/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
@@ -28,8 +29,8 @@ In developing the Hallmark of a Tampinesian, the school has developed explicit C
 
 [National Education](/curriculum/CCE/National-Education/)
 
-[CCE Awards & Recognition](/curriculum/CCE/CCE-Awards-and-Recognition/)
+[CCE Awards &amp; Recognition](/curriculum/CCE/CCE-Awards-and-Recognition/)
 
 [Values in Action](/curriculum/CCE/Values-in-Action/)
 
-[Educational & Career Guidance](/curriculum/CCE/Educational-and-Career-Guidance/)
+[Educational &amp; Career Guidance](/curriculum/CCE/Educational-and-Career-Guidance/)

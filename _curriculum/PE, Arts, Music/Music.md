@@ -1,8 +1,9 @@
 ---
 title: Music
-permalink: /curriculum/PE-Arts-Music/Music/
+permalink: /curriculum/pe-arts-music/music/
 description: ""
 third_nav_title: PE, Arts, Music
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

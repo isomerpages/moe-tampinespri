@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-learning-experiences/Co-Curricular-Activities/Choir/
+permalink: /our-learning-experiences/co-curricular-activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

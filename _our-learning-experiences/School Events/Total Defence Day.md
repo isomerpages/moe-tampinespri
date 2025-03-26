@@ -1,8 +1,9 @@
 ---
 title: Total Defence Day
-permalink: /our-learning-experiences/School-Events/Total-Defence-Day/
+permalink: /our-learning-experiences/school-events/total-defence-day/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

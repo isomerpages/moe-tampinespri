@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /our-family/Teachers/Form-Teachers/
+permalink: /our-family/teachers/form-teachers/
 description: ""
 third_nav_title: Teachers
 variant: tiptap

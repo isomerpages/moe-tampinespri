@@ -1,8 +1,9 @@
 ---
 title: Chinese Language
-permalink: /curriculum/Mother-Tongue/Chinese-Language/
+permalink: /curriculum/mother-tongue/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

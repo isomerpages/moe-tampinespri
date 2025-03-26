@@ -1,8 +1,9 @@
 ---
 title: Cyber Wellness Carnival
-permalink: /our-learning-experiences/School-Events/Cyber-Wellness-Carnival/
+permalink: /our-learning-experiences/school-events/cyber-wellness-carnival/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: Theatrics in Action
-permalink: /our-learning-experiences/Co-Curricular-Activities/Theatrics-in-Action/
+permalink: /our-learning-experiences/co-curricular-activities/theatrics-in-action/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

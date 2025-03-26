@@ -1,10 +1,10 @@
 ---
 title: "SBS Transit Roadshow: Bus Safety Campaign (No Falls On Board)"
-permalink: /our-learning-experiences/School-Events/SBS-Transit-Roadshow-Bus-Safety-Campaign-No-Falls-On-Board/
+permalink: /our-learning-experiences/school-events/sbs-transit-roadshow-bus-safety-campaign-no-falls-on-board/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
-
 ![](/images/Our%20Learning%20Experiences.jpg)
 
 SBS Transit Roadshow - Bus Safety Campaign ‘No Falls On Board’

@@ -1,6 +1,6 @@
 ---
-title: I&E
-permalink: /our-learning-experiences/Co-Curricular-Activities/I-and-E/
+title: Innovation & Entrepreneurship
+permalink: /our-learning-experiences/co-curricular-activities/i-and-e/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

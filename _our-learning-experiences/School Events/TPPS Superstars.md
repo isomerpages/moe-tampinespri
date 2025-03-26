@@ -1,6 +1,6 @@
 ---
 title: TPPS Superstars
-permalink: /our-learning-experiences/School-Events/TPPS-Superstars/
+permalink: /our-learning-experiences/school-events/tpps-superstars/
 description: ""
 third_nav_title: School Events
 variant: tiptap

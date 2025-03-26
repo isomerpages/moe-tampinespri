@@ -1,6 +1,6 @@
 ---
 title: Infocomm and Technology (ICT)
-permalink: /curriculum/Infocomm-and-Technology-ICT/
+permalink: /curriculum/infocomm-and-technology-ict/
 description: ""
 variant: tiptap
 ---

@@ -1,7 +1,8 @@
 ---
 title: English
-permalink: /curriculum/English/
+permalink: /curriculum/english/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

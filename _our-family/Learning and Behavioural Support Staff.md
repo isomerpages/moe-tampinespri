@@ -1,6 +1,6 @@
 ---
 title: Learning and Behavioural Support Staff
-permalink: /our-family/Learning-and-Behavioural-Support-Staff/
+permalink: /our-family/learning-and-behavioural-support-staff/
 description: ""
 variant: markdown
 ---

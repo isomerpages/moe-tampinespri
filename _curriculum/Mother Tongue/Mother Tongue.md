@@ -1,8 +1,9 @@
 ---
 title: Mother Tongue
-permalink: /curriculum/Mother-Tongue/Mother-Tongue/
+permalink: /curriculum/mother-tongue/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

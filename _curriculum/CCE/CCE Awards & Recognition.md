@@ -1,21 +1,22 @@
 ---
 title: CCE Awards & Recognition
-permalink: /curriculum/CCE/CCE-Awards-and-Recognition/
+permalink: /curriculum/cce/cce-awards-and-recognition/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 
-CCE Awards & Recognition
+CCE Awards &amp; Recognition
 ========================
 
 <b>Character and Citizenship Education (CCE) awards</b>
 
-In our school, we hope that students can grow to be self-disciplined, self-motivated, caring, confident, creative, adaptable, happy and healthy. The following awards support our efforts in nurturing students of good and strong values and character through affirming them.
+In our school, we hope that students can grow to be&nbsp;self-disciplined, self-motivated, caring, confident, creative, adaptable, happy and healthy.&nbsp;The following awards support our efforts in nurturing students of good and strong values and character through affirming them.
 
 <b>Caught Doing Right award</b>
 
-The Caught Doing Right (CDR) award aims at affirming students who exhibit commendable behaviour and actions as they go about their daily school life. 
+The Caught Doing Right (CDR) award aims at affirming students who exhibit commendable behaviour and actions as they go about their daily school life.&nbsp;
 
 <b>Home Education award</b>
 

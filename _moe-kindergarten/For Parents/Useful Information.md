@@ -1,6 +1,6 @@
 ---
 title: Useful Information
-permalink: /moe-kindergarten/For-Parents/Useful-Information/
+permalink: /moe-kindergarten/for-parents/useful-information/
 description: ""
 third_nav_title: For Parents
 variant: tiptap

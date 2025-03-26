@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /our-learning-experiences/Co-Curricular-Activities/Modern-Dance/
+permalink: /our-learning-experiences/co-curricular-activities/modern-dance/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

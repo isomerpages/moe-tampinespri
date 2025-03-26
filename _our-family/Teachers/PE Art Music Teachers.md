@@ -1,6 +1,6 @@
 ---
 title: PE Art Music Teachers
-permalink: /our-family/Teachers/PE-Art-Music-Teachers/
+permalink: /our-family/teachers/pe-art-music-teachers/
 description: ""
 third_nav_title: Teachers
 variant: markdown

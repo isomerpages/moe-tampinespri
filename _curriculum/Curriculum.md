@@ -1,7 +1,8 @@
 ---
 title: Curriculum
-permalink: /curriculum/Curriculum/
+permalink: /curriculum/curriculum/
 description: ""
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

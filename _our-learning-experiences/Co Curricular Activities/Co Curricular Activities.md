@@ -1,8 +1,9 @@
 ---
 title: Co Curricular Activities
-permalink: /our-learning-experiences/Co-Curricular-Activities/Co-Curricular-Activities/
+permalink: /our-learning-experiences/co-curricular-activities/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

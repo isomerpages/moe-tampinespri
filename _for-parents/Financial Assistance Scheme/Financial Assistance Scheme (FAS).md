@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme (FAS)
-permalink: /for-parents/Financial-Assistance-Scheme/Financial-Assistance-Scheme-FAS/
+permalink: /for-parents/financial-assistance-scheme/financial-assistance-scheme-fas/
 description: ""
 third_nav_title: Financial Assistance Scheme
 variant: tiptap

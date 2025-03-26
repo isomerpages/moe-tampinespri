@@ -1,7 +1,8 @@
 ---
 title: Leave Of Absence (LOA)
-permalink: /for-parents/Leave-Of-Absence-LOA/
+permalink: /for-parents/leave-of-absence-loa/
 description: ""
+variant: tiptap
 ---
 ![](/images/ForParents.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: Brownies
-permalink: /our-learning-experiences/Co-Curricular-Activities/Brownies/
+permalink: /our-learning-experiences/co-curricular-activities/brownies/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

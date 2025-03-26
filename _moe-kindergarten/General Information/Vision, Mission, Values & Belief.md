@@ -1,8 +1,9 @@
 ---
 title: Vision, Mission, Values & Belief
-permalink: /moe-kindergarten/About-Us/Vision-Mission-Values-and-Belief/
+permalink: /moe-kindergarten/about-us/vision-mission-values-and-belief/
 description: ""
 third_nav_title: General Information
+variant: tiptap
 ---
 ![](/images/mk%20kindergarten.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: Our Family
-permalink: /moe-kindergarten/About-Us/Our-Family/
+permalink: /moe-kindergarten/about-us/our-family/
 description: ""
 third_nav_title: General Information
 variant: markdown

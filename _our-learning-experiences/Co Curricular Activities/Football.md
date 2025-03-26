@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /our-learning-experiences/Co-Curricular-Activities/Football/
+permalink: /our-learning-experiences/co-curricular-activities/football/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

@@ -1,8 +1,9 @@
 ---
 title: Spark The Dream Financial Literacy
-permalink: /our-learning-experiences/School-Events/Spark-The-Dream-Financial-Literacy/
+permalink: /our-learning-experiences/school-events/spark-the-dream-financial-literacy/
 description: ""
 third_nav_title: School Events
+variant: tiptap
 ---
 ![](/images/Our%20Learning%20Experiences.jpg)
 

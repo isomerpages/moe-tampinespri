@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /our-learning-experiences/Co-Curricular-Activities/Indian-Dance/
+permalink: /our-learning-experiences/co-curricular-activities/indian-dance/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: Administrative Staff
-permalink: /our-family/Administrative-Staff/
+permalink: /our-family/administrative-staff/
 description: ""
 variant: markdown
 ---

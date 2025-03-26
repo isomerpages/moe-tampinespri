@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /our-learning-experiences/Co-Curricular-Activities/Floorball/
+permalink: /our-learning-experiences/co-curricular-activities/floorball/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap

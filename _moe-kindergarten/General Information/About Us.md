@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /moe-kindergarten/About-Us/About-Us/
+permalink: /moe-kindergarten/about-us/about-us/
 description: ""
 third_nav_title: General Information
 variant: markdown
