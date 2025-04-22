@@ -28,18 +28,6 @@ sections:
             Shanghai Uniform.
           link_text: Click here for more...
           link_url: /notice-of-closure-dates-for-shanghai-uniform-outlets/
-        - title: February 2025 Memo to Parents
-          date: 31 January 2025
-          announcement: Dear Parents, Please refer to the link below for the February memo
-            to parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
-        - title: March 2025 Memo to Parents
-          date: 28 February 2025
-          announcement: Dear Parents, Please refer to the link below for the March memo to
-            parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: Setting of security questions for Student MIMS account
           date: 14 March 2025
           announcement: The MIMS Student Self-Service Password Reset Service allows
@@ -52,6 +40,12 @@ sections:
           date: 25 March 2025
           announcement: Dear Parents, Please refer to the link below for the April memo to
             parents.
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
+        - title: General Elections 2025 and Home-Based Learning
+          date: 22 April 2025
+          announcement: Dear Parents,  Please refer to the memo regarding the General
+            Elections 2025 and Home-Based Learning arrangement.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
   - textcards:
