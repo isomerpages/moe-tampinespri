@@ -24,3 +24,6 @@ description: ""
 <h3><strong>April 2025</strong></h3>
 <p><a href="/files/2025/TPPS_27_2025___April_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-27-2025 - April Memo 2025.pdf</a>
 </p>
+<p><a href="/files/2025/TPPS_31_2025___General_Elections_2025_and_Home_Based_Learning.pdf" rel="noopener nofollow" target="_blank">TPPS-31-2025 - General Elections 2025 and Home-Based Learning.pdf</a>
+</p>
+<p></p>
