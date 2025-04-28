@@ -58,7 +58,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nurhidayah Ridzwan, Mdm Juliana Bte Ahmad</p>
+<p>Mrs Nurhidayah Ridzwan, Mdm Juliana</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhanah Bte Abdullah, Mdm Chuang Bee Eng</p>
+<p>Mdm Farhanah, Mdm Chuang Bee Eng</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haniza Binte Baharin, Mdm Haniza Binte Baharin</p>
+<p>Mdm Haniza, Mdm Norhana</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Bte Mamat, Miss Chuan Boon Min</p>
+<p>Mdm Diana Mamat, Miss Chuan Boon Min</p>
 </td>
 </tr>
 <tr>
