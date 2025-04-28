@@ -46,7 +46,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jolyn Ngo, Mdm Rauhdah Binte Abdul Latif</p>
+<p>Miss Jolyn Ngo, Mdm Rauhdah</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rahmah Binte Abdul Rahmah Zamawi, Mdm Norliela Bte Ramadan</p>
+<p>Miss Rahmah, Mdm Norliela</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Salleh B Mohd Yasin, Mdm Nurdiyanah Yahya</p>
+<p>Mr Mohd Salleh, Mdm Nurdiyanah Yahya</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marena Zulaiha Bte Abd Manaff, Mdm Shen Jingyi</p>
+<p>Mdm Marena Zulaiha, Mdm Shen Jingyi</p>
 </td>
 </tr>
 </tbody>
