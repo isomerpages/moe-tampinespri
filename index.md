@@ -48,6 +48,12 @@ sections:
             Elections 2025 and Home-Based Learning arrangement.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: May 2025 Memo to Parents
+          date: 02 May 2025
+          announcement: Dear Parents,  Please refer to the link below for the May memo to
+            parents.  Thank you.  Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
   - textcards:
       title: Student Assistance
       id: textcards
