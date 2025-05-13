@@ -30,7 +30,7 @@ description: ""
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ubm-iqhv-xzp</a>
+<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ubm-iqhv-xzp</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fzc-nmxq-eqk</a>
+<p><a href="https://meet.google.com/fzc-nmxq-eqk" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fzc-nmxq-eqk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ description: ""
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vzr-swkd-yfx</a>
+<p><a href="https://meet.google.com/vzr-swkd-yfx" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vzr-swkd-yfx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ description: ""
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xtz-jszt-ktg</a>
+<p><a href="https://meet.google.com/xtz-jszt-ktg" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xtz-jszt-ktg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ description: ""
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meet.google.com/rnt-sdaq-dqj</a>
+<p><a href="https://meet.google.com/rnt-sdaq-dqj" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/rnt-sdaq-dqj</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vdq-ftvu-spe</a>
+<p><a href="https://meet.google.com/vdq-ftvu-spe" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vdq-ftvu-spe</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
