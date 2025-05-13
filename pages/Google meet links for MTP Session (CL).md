@@ -30,7 +30,7 @@ description: ""
 <p>Mdm Ng Hwee Gek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xpu-cupm-twi</a>
+<p><a href="https://meet.google.com/xpu-cupm-twi" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xpu-cupm-twi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 <p>Mdm Shen Jingyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tqu-eqis-aro</a>
+<p><a href="https://meet.google.com/tqu-eqis-aro" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tqu-eqis-aro</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ description: ""
 <p>Miss Chuan Boon Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meet.google.com/vwb-xanq-kqr</a>
+<p><a href="https://meet.google.com/vwb-xanq-kqr" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vwb-xanq-kqr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ description: ""
 <p>Mrs Isabella Yiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/sip-uvbm-qng</a>
+<p><a href="https://meet.google.com/sip-uvbm-qng" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/sip-uvbm-qng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ description: ""
 <p>Miss Zhu Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vdu-khxc-pdc</a>
+<p><a href="https://meet.google.com/vdu-khxc-pdc" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vdu-khxc-pdc</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>Mrs Ang Sok Keng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xso-ouhh-cin</a>
+<p><a href="https://meet.google.com/xso-ouhh-cin" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xso-ouhh-cin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ description: ""
 <p>Mdm Gao Qiaoyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fjq-vqom-chz</a>
+<p><a href="https://meet.google.com/fjq-vqom-chz" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fjq-vqom-chz</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ description: ""
 <p>Mdm Ni Jieren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/pwb-tzmc-nxv</a>
+<p><a href="https://meet.google.com/pwb-tzmc-nxv" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/pwb-tzmc-nxv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ description: ""
 <p>Mdm Tan Khing Khing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xst-oyio-uuo</a>
+<p><a href="https://meet.google.com/xst-oyio-uuo" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xst-oyio-uuo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ description: ""
 <p>Mdm Toh Chiew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/yik-jozy-ioj</a>
+<p><a href="https://meet.google.com/yik-jozy-ioj" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/yik-jozy-ioj</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ description: ""
 <p>Ms Yeo Kim Keow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/eyg-mjgb-jcq</a>
+<p><a href="https://meet.google.com/eyg-mjgb-jcq" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/eyg-mjgb-jcq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ description: ""
 <p>Mdm Wei Shuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://meet.google.com/rnt-sdaq-dqj</a>
+<p><a href="https://meet.google.com/rnt-sdaq-dqj" rel="noopener noreferrer nofollow" target="_blank">http://meet.google.com/rnt-sdaq-dqj</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ description: ""
 <p>Mdm Goh Ka Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/acn-dsai-fqu</a>
+<p><a href="https://meet.google.com/acn-dsai-fqu" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/acn-dsai-fqu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
