@@ -17,7 +17,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Google Meet Link</strong>
+<p><strong>Google Meet Link&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,11 +30,11 @@ description: ""
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/epc-nsov-ezx</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/epc-nsov-ezx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Lee Cher, Mrs Vimala Ravi</p>
+<p>Mrs Lim Lee Cher</p>
 </td>
 </tr>
 <tr>
@@ -42,11 +42,11 @@ description: ""
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/wbs-fszp-cdm</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xsq-gsfi-zfn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jolyn Ngo, Mdm Rauhdah</p>
+<p>Miss Jolyn Ngo</p>
 </td>
 </tr>
 <tr>
@@ -54,11 +54,11 @@ description: ""
 <p>1 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/mqi-mbtk-fwg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/mqi-mbtk-fwg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rahmah, Mdm Norliela</p>
+<p>Miss Rahmah</p>
 </td>
 </tr>
 <tr>
@@ -66,11 +66,11 @@ description: ""
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/hdn-iqke-mqw</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/hdn-iqke-mqw</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Salleh, Mdm Nurdiyanah Yahya</p>
+<p>Mr Mohd Salleh</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ description: ""
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/xoe-mpsj-oyv</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xoe-mpsj-oyv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/ncs-jnwq-igx</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ncs-jnwq-igx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,11 +102,11 @@ description: ""
 <p>1 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/jbo-pexy-ssf</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/jbo-pexy-ssf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Khing Khing, Mdm Melissa Tham</p>
+<p>Miss Evelyn Yeow, Mdm Melissa Tham</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ description: ""
 <p>1 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/xku-cuph-wvt</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xku-cuph-wvt</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
