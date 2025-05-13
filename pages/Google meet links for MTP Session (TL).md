@@ -30,7 +30,7 @@ description: ""
 <p>Mdm Vimala&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dnn-xwze-syf</a>
+<p><a href="https://meet.google.com/dnn-xwze-syf" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dnn-xwze-syf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 <p>Ms Aswiniey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/jyh-afqj-vva</a>
+<p><a href="https://meet.google.com/jyh-afqj-vva" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/jyh-afqj-vva</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ description: ""
 <p>Mr Mohammed Shaheer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/yay-nztu-suw</a>
+<p><a href="https://meet.google.com/yay-nztu-suw" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/yay-nztu-suw</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
