@@ -30,7 +30,7 @@ description: ""
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/epc-nsov-ezx</a>
+<p><a href="https://meet.google.com/epc-nsov-ezx" rel="noopener nofollow" target="_blank">https://meet.google.com/epc-nsov-ezx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 <p>1 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xsq-gsfi-zfn</a>
+<p><a href="https://meet.google.com/xsq-gsfi-zfn" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xsq-gsfi-zfn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ description: ""
 <p>1 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/mqi-mbtk-fwg</a>
+<p><a href="https://meet.google.com/mqi-mbtk-fwg" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/mqi-mbtk-fwg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ description: ""
 <p>1 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/hdn-iqke-mqw</a>
+<p><a href="https://meet.google.com/hdn-iqke-mqw" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/hdn-iqke-mqw</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ description: ""
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xoe-mpsj-oyv</a>
+<p><a href="https://meet.google.com/xoe-mpsj-oyv" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xoe-mpsj-oyv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>1 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ncs-jnwq-igx</a>
+<p><a href="https://meet.google.com/ncs-jnwq-igx" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ncs-jnwq-igx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ description: ""
 <p>1 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/jbo-pexy-ssf</a>
+<p><a href="https://meet.google.com/jbo-pexy-ssf" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/jbo-pexy-ssf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ description: ""
 <p>1 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xku-cuph-wvt</a>
+<p><a href="https://meet.google.com/xku-cuph-wvt" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xku-cuph-wvt</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
