@@ -17,7 +17,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Google Meet Link</strong>
+<p><strong>Google Meet Link&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,11 +30,11 @@ description: ""
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/tuz-qpmd-fjn</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tuz-qpmd-fjn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azlinda Ab Aziz, Miss Nurhidaya Sidik</p>
+<p>Mdm Azlinda Ab Aziz</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ description: ""
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/pgo-tgeo-buq</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/pgo-tgeo-buq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +54,11 @@ description: ""
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/efd-zoud-kuv</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/efd-zoud-kuv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nurhidayah Ridzwan, Mdm Juliana</p>
+<p>Mrs Nurhidayah Ridzwan</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ description: ""
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/gmt-ckfd-qpr</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/gmt-ckfd-qpr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,11 +78,11 @@ description: ""
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/wro-tzri-pay</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/wro-tzri-pay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haniza, Mdm Norhana</p>
+<p>Mdm Haniza</p>
 </td>
 </tr>
 <tr>
@@ -90,11 +90,11 @@ description: ""
 <p>2Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/cbd-rygs-vxd</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/cbd-rygs-vxd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Mamat, Miss Chuan Boon Min</p>
+<p>Mdm Diana Mamat</p>
 </td>
 </tr>
 <tr>
@@ -102,11 +102,11 @@ description: ""
 <p>2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/rcc-xzho-xuj</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/qnk-wtbw-egs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Ow, Mdm Gao Qiaoyi</p>
+<p>Mrs Catherine Ow</p>
 </td>
 </tr>
 <tr>
@@ -114,11 +114,11 @@ description: ""
 <p>2 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/gmt-ckfd-qpr</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/iei-pguy-vnq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ling Nah, Miss Evelyn Yeow</p>
+<p>Mdm Teo Ling Nah</p>
 </td>
 </tr>
 </tbody>
