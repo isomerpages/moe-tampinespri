@@ -30,7 +30,7 @@ description: ""
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tuz-qpmd-fjn</a>
+<p><a href="https://meet.google.com/tuz-qpmd-fjn" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tuz-qpmd-fjn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ description: ""
 <p>2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/pgo-tgeo-buq</a>
+<p><a href="https://meet.google.com/pgo-tgeo-buq" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/pgo-tgeo-buq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ description: ""
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/efd-zoud-kuv</a>
+<p><a href="https://meet.google.com/efd-zoud-kuv" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/efd-zoud-kuv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +66,7 @@ description: ""
 <p>2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/gmt-ckfd-qpr</a>
+<p><a href="https://meet.google.com/gmt-ckfd-qpr" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/gmt-ckfd-qpr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ description: ""
 <p>2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/wro-tzri-pay</a>
+<p><a href="https://meet.google.com/wro-tzri-pay" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/wro-tzri-pay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>2Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/cbd-rygs-vxd</a>
+<p><a href="https://meet.google.com/cbd-rygs-vxd" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/cbd-rygs-vxd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ description: ""
 <p>2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/qnk-wtbw-egs</a>
+<p><a href="https://meet.google.com/qnk-wtbw-egs" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/qnk-wtbw-egs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ description: ""
 <p>2 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/iei-pguy-vnq</a>
+<p><a href="https://meet.google.com/iei-pguy-vnq" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/iei-pguy-vnq</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
