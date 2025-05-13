@@ -17,7 +17,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Google Meet Link</strong>
+<p><strong>Google Meet Link&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ description: ""
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/ubm-iqhv-xzp</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ubm-iqhv-xzp</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,11 +42,11 @@ description: ""
 <p>4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/fzc-nmxq-eqk</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fzc-nmxq-eqk</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Ee Ling, Mrs Ang Sok Keng, Ms Bok Siew Tin</p>
+<p>Mdm Quek Ee Ling, Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -54,11 +54,11 @@ description: ""
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/vzr-swkd-yfx</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vzr-swkd-yfx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Mui Fong, Mdm Ng Hwee Gek, Mrs Isabella Yiu</p>
+<p>Mdm Tay Mui Fong</p>
 </td>
 </tr>
 <tr>
@@ -66,11 +66,11 @@ description: ""
 <p>4 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/xtz-jszt-ktg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/xtz-jszt-ktg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faizal Bin Mohamed Yusoff, Miss Kwa Shaur En</p>
+<p>Ms Cheng Voon Yen, Miss Kwa Shaur En</p>
 </td>
 </tr>
 <tr>
@@ -78,11 +78,11 @@ description: ""
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>meet.google.com/rnt-sdaq-dqj</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">meet.google.com/rnt-sdaq-dqj</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Farhana, Ms Wei Shuang</p>
+<p>Mdm Nur Farhana</p>
 </td>
 </tr>
 <tr>
@@ -90,11 +90,11 @@ description: ""
 <p>4 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/ubm-iqhv-xzp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/vdq-ftvu-spe</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/vdq-ftvu-spe</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdianna Malik, Ms J Aswiniey</p>
+<p>Mdm Nurdianna Malik, Mr Chai Kae Min</p>
 </td>
 </tr>
 </tbody>
