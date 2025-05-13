@@ -17,7 +17,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Google Meet Link</strong>
+<p><strong>Google Meet Link&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ description: ""
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/khi-kkuu-rgp</u></a>
+<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/khi-kkuu-rgp</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,11 +42,11 @@ description: ""
 <p>6 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/wew-ceym-tzu</u></a>
+<p><a href="https://meet.google.com/wew-ceym-tzu" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/wew-ceym-tzu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeredith Hee, Miss Zhu Li</p>
+<p>Mrs Jeredith Hee</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p>6 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/fdc-nhma-ypj</u></a>
+<p><a href="https://meet.google.com/fdc-nhma-ypj" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/fdc-nhma-ypj</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,11 +66,11 @@ description: ""
 <p>6 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/dfr-yywq-wfm</u></a>
+<p><a href="https://meet.google.com/dfr-yywq-wfm" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dfr-yywq-wfm</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Yan Chun, Mr Chris Chong, Mdm Chua Pei Cheon</p>
+<p>Ms Teo Yan Chun, Mdm Chua Pei Cheon</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ description: ""
 <p>6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://meet.google.com/khi-kkuu-rgp" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/rie-uhku-qkh</u></a>
+<p><a href="https://meet.google.com/rie-uhku-qkh" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/rie-uhku-qkh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
