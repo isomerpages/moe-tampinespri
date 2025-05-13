@@ -30,10 +30,7 @@ description: ""
 <p>Miss Nurhidaya Mohd Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/eon-sdtz-cas</a>
-<a href="https://meet.google.com/eon-sdtz-cas" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
+<p><a href="https://meet.google.com/eon-sdtz-cas" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/eon-sdtz-cas <br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +42,7 @@ description: ""
 <p>Mr Faizal Mohamed Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://meet.google.com/gty-jjed-vft</a>
+<p><a href="http://meet.google.com/gty-jjed-vft" rel="noopener noreferrer nofollow" target="_blank">http://meet.google.com/gty-jjed-vft</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +54,7 @@ description: ""
 <p>Mdm Norliela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meet.google.com/faq-vzky-tyx</a>
+<p><a href="https://meet.google.com/faq-vzky-tyx" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/faq-vzky-tyx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +66,7 @@ description: ""
 <p>Mdm Juliana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/rbi-fssf-rxd</a>
+<p><a href="https://meet.google.com/rbi-fssf-rxd" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/rbi-fssf-rxd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +78,7 @@ description: ""
 <p>Mdm Nur Liyana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ynr-vgnn-obz</a>
+<p><a href="https://meet.google.com/ynr-vgnn-obz" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/ynr-vgnn-obz</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +90,7 @@ description: ""
 <p>Mr Iftitah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/unv-ezci-fuy</a>
+<p><a href="https://meet.google.com/unv-ezci-fuy" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/unv-ezci-fuy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +102,7 @@ description: ""
 <p>Mdm Norhana Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dzv-dsjd-wud</a>
+<p><a href="https://meet.google.com/dzv-dsjd-wud" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dzv-dsjd-wud</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +114,7 @@ description: ""
 <p>Mdm Zalinah Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">meet.google.com/sku-smux-qcx</a>
+<p><a href="https://meet.google.com/sku-smux-qcx" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/sku-smux-qcx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,8 +126,7 @@ description: ""
 <p>Miss Rauhdah Abdul Latif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tgu-wiim-tfg</a>
-<a href="https://meet.google.com/tgu-wiim-tfg" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="https://meet.google.com/tgu-wiim-tfg" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tgu-wiim-tfg&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
