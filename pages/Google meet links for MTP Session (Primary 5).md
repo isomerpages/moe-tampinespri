@@ -1,6 +1,6 @@
 ---
-title: Google meet links for Friday 2 May (Primary 5)
-permalink: /google-meet-links-for-friday-2-may-primary-5/
+title: Google meet links for MTP Session (Primary 5)
+permalink: /google-meet-links-for-mtp-session-primary-5/
 variant: tiptap
 description: ""
 ---
@@ -17,7 +17,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Google Meet Link</strong>
+<p><strong>Google Meet Link&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,11 +30,11 @@ description: ""
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>meet.google.com/tpu-xsuy-fsu</u></a>
+<p><a href="https://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/tpu-xsuy-fsu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Chong, Mdm Goh Ka Bee, Mr Desmond Tan</p>
+<p>Mrs Eileen Chong, Mr Desmond Tan</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ description: ""
 <p>5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/iiq-fcnq-vjo</u></a>
+<p><a href="https://meet.google.com/iiq-fcnq-vjo" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/iiq-fcnq-vjo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +54,11 @@ description: ""
 <p>5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/oan-iqfe-hmb</u></a>
+<p><a href="https://meet.google.com/oan-iqfe-hmb" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/oan-iqfe-hmb</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Germaine Ling, Ms Cheng Voon Yen, Mdm Ni Jieren, Mr Tan Wee Kiat</p>
+<p>Miss Germaine Ling</p>
 </td>
 </tr>
 <tr>
@@ -66,11 +66,11 @@ description: ""
 <p>5 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/dxb-fyoo-sbc</u></a>
+<p><a href="https://meet.google.com/dxb-fyoo-sbc" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/dxb-fyoo-sbc&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Queenie Low, Mr Mohammed Shaheer</p>
+<p>Ms Queenie Low</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ description: ""
 <p>5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/gdw-aexu-nmr</u></a>
+<p><a href="https://meet.google.com/gdw-aexu-nmr" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/gdw-aexu-nmr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ description: ""
 <p>5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://meet.google.com/tpu-xsuy-fsu" rel="noopener noreferrer nofollow" target="_blank"><u>https://meet.google.com/cdp-bysi-udf</u></a>
+<p><a href="https://meet.google.com/cdp-bysi-udf" rel="noopener noreferrer nofollow" target="_blank">https://meet.google.com/cdp-bysi-udf</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
