@@ -1,6 +1,6 @@
 ---
 title: Google meet links for MTP Session (Primary 6)
-permalink: /google-meet-links-for-friday-2-may-primary-6/
+permalink: /google-meet-links-for-mtp-session-primary-6/
 variant: tiptap
 description: ""
 ---
