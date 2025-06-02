@@ -67,6 +67,7 @@ variant: tiptap
 <li>
 <p><a href="/files/2025/TPPS_Vibes_Newsletter2025_Issue1.pdf" rel="noopener nofollow" target="_blank">TPPS Vibes Newsletter2025 Issue1.pdf</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
