@@ -26,3 +26,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2024/TampinesPulse_Newsletter_Issue2_2024_FAview_LR.pdf" rel="noopener nofollow" target="_blank">Tampines Pulse Newsletter Issue 2 (November 2024).pdf</a>
 </p>
+<p><a href="/files/2025/TPPS_Vibes_Newsletter2025_Issue1.pdf" rel="noopener nofollow" target="_blank">TPPS Vibes Newsletter2025 Issue1.pdf</a>
+</p>
+<p></p>
