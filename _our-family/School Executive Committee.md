@@ -23,6 +23,7 @@ School Executive Committee
 | **School Staff Developer**            | Mr Mohd Salleh             |
 | **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
+| **HOD Science**                 | Mdm Yeo Siok Hwee            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
 | **HOD PE, CCA &amp; Aesthetics**       | Mr Bryan Chao Wei Nien            |
 | **HOD CCE**                           | Mr Saravanan               |
@@ -35,7 +36,7 @@ School Executive Committee
 | **LH Science**                        | Mr Joseph Christopher Chong Kin Mun           |
 | **LH Chinese**                        | Mdm Shen Jingyi            |
 | **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
-| **SH Malay &amp; Partnership**            | Miss Nur Hidaya Sidik           |
+| **SH Malay &amp; Partnership**            | Miss Nurhidaya Sidik           |
 | **SH ICT**                            |  Mrs Agnes Lim<br>         |
 | **SH Student Wellbeing**                   | Miss Rahmah Binte Abdul Rahmah Zamawi  |
 | **Assistant Year Head Primary 1 &amp; 2** | Mrs Lim Lee Cher          |
