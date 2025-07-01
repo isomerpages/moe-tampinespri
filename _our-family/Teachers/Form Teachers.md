@@ -468,7 +468,7 @@ variant: tiptap
 <p>P5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chye Chong</p>
+<p>Mr Keith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ni Jieren</p>
