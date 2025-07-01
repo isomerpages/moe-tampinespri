@@ -29,6 +29,7 @@ Mother Tongue Teachers
 | Mdm Toh Chiew Hoon    |
 | Ms Yeo Kim Keow    |
 | Mdm Wei Shuang        |
+| Mdm Chan Ai Hwa        |
 
 
 
@@ -52,5 +53,5 @@ Mother Tongue Teachers
 |   |
 |-----------------|
 | Mrs Vimala Ravi | 
-| Miss Aswiniey |
 | Mr Mohammed Shaheer    |
+| Mdm Periasamy Thavamani |
