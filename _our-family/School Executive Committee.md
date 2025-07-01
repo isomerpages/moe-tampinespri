@@ -23,7 +23,7 @@ School Executive Committee
 | **School Staff Developer**            | Mr Mohd Salleh             |
 | **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
-| **HOD Science**                 | Mdm Yeo Siok Hwee            |
+| **HOD Science**                 | Mrs Joyce Soon            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
 | **HOD PE, CCA &amp; Aesthetics**       | Mr Bryan Chao Wei Nien            |
 | **HOD CCE**                           | Mr Saravanan               |
