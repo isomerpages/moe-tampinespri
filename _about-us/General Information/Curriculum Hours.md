@@ -62,7 +62,7 @@ variant: markdown
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.*</p>
+<p>7.50 a.m. - 2 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -79,7 +79,7 @@ variant: markdown
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.*</p>
+<p>7.50 a.m. - 2 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -113,7 +113,7 @@ variant: markdown
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.*</p>
+<p>7.50 a.m. - 2 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -130,7 +130,7 @@ variant: markdown
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.*</p>
+<p>7.50 a.m. - 2 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -144,7 +144,6 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<i>* For Term 1</i>
 <p>====================================================</p>
 <table style="minWidth: 125px">
 <colgroup>
