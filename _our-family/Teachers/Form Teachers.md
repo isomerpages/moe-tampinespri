@@ -482,7 +482,7 @@ variant: tiptap
 <p>Ms Queenie Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Ka Bee</p>
+<p>Mr Mohammed Shaheer</p>
 </td>
 </tr>
 <tr>
@@ -490,10 +490,11 @@ variant: tiptap
 <p>P5 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oh Ding hui</p>
+<p>Mr Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Saravanan</p>
+<p>Mdm Oh Ding Hui</p>
+<p>Mrs Joyce Soon</p>
 </td>
 </tr>
 <tr>
@@ -550,7 +551,7 @@ variant: tiptap
 <p>Mrs Jeredith Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Iftitah B Mohd Said</p>
+<p>Miss Zhu Li</p>
 </td>
 </tr>
 <tr>
@@ -572,8 +573,9 @@ variant: tiptap
 <p>Ms Teo Yan Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Christopher Chong Kin Mun</p>
+<p>Mr Christopher Chong</p>
 <p>Mdm Chua Pei Cheon</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -581,7 +583,7 @@ variant: tiptap
 <p>P6 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shau Khim Meng, Christopher</p>
+<p>Mr Christopher Shau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman Hussin</p>
