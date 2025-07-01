@@ -223,7 +223,7 @@ variant: tiptap
 <p>P2 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Ling Nah</p>
+<p>Mrs Wong Ling Nah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Evelyn Yeow</p>
@@ -260,8 +260,8 @@ variant: tiptap
 <p>Mrs Agnes Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Chao
-<br>Mdm Zalinah Bte Hassan</p>
+<p>Mdm Zalinah Bte Hassan</p>
+<p>Mr Chai Kae Min</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jalela Atan
-<br>Mdm Grace Yeo Kim Keow</p>
+<br>Mrs Leo</p>
 </td>
 </tr>
 <tr>
@@ -306,8 +306,9 @@ variant: tiptap
 <p>Miss Nurul Asyikin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhu Li</p>
+<p>Mr Muhd Iftitah B Mohd Said</p>
 <p>Mdm Toh Chiew Hoon</p>
+<p>Mrs Ruth Ang</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +316,6 @@ variant: tiptap
 <p>P3 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Faizul Bin Hashim</p>
 <p>Mdm Nur Liyana Binte Abdul Ghani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,6 +355,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noorazean Rahim</p>
+<p>Mdm Periasamy Thavamani</p>
 </td>
 </tr>
 <tr>
@@ -362,11 +363,12 @@ variant: tiptap
 <p>P4 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Ee Ling</p>
+<p>Ms Cheng Voon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ang Sok Keng</p>
 <p>Ms Bok Siew Tin</p>
+<p>Mdm Chan Ai Hwa</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +404,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wei Shuang</p>
-<p>Mdm Ruth Ang</p>
 </td>
 </tr>
 <tr>
@@ -413,8 +414,8 @@ variant: tiptap
 <p>Mdm Nurdianna Bte Malik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms J Aswiniey</p>
-<p>Mr Chai Kae Min</p>
+<p>Mr Bryan Chao</p>
+<p>Mr Desmond Tan</p>
 </td>
 </tr>
 </tbody>
@@ -448,8 +449,7 @@ variant: tiptap
 <p>Mrs Eileen Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Shaheer Bin Mohammed Yousoff</p>
-<p>Mr Desmond Tan</p>
+<p>Mdm Goh Ka Bee</p>
 </td>
 </tr>
 <tr>
@@ -457,7 +457,7 @@ variant: tiptap
 <p>P5 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Wee Hoon</p>
+<p>Mr Mohd Faris Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Guo Liren</p>
@@ -468,11 +468,10 @@ variant: tiptap
 <p>P5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Germaine Ling</p>
+<p>Mr Tan Chye Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ni Jieren</p>
-<p>Mr Tan Wee Kiat</p>
 </td>
 </tr>
 <tr>
