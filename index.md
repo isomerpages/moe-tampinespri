@@ -42,6 +42,12 @@ sections:
             parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: June 2025 Memo to Parents
+          date: 01 July 2025
+          announcement: Dear Parents, Please refer to the link below for the May memo to
+            parents. Thank you. Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
   - textcards:
       title: Student Assistance
       id: textcards
