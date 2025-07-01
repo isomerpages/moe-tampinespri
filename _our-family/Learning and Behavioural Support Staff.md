@@ -13,6 +13,7 @@ Learning and Behavioural Support Staff
 
 | Name                       | Designation                                |
 |------------------------------------|---------------------------------------------------------|
+| Mdm Amizah Binte Mohamed Amin  | Senior School Counsellor                                       |
 | Mr Iskandar Bin Ishahak Bahroocha  | School Counsellor                                       |
 | Mdm Tutek Amir                     | Senior Special Educational Needs Officer (SSEN Officer) |
 | Mdm Nurfazilah Abdul Aziz          | Special Educational Needs Officer (SEN Officer)         |
