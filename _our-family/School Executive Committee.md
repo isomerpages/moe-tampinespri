@@ -21,7 +21,7 @@ School Executive Committee
 | **Operations Manager**              | Mr Jonathan Seto           |
 | **Operations Manager**              | Mdm Lee Chui Leng           |
 | **School Staff Developer**            | Mr Mohd Salleh             |
-| **HOD Mathematics**                   | Mdm Lee Wee Hoon           |
+| **HOD Mathematics**                   | Mdm Mrs Janice Wang        |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD Science**                 | Mrs Joyce Soon            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
@@ -32,7 +32,6 @@ School Executive Committee
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Lead Teacher (EL)**                 | Mdm Nazreen Osman          |
 | **LH English**                        | Mrs Eileen Chong            |
-| **LH Math**                           | Mrs Janice Wang            |
 | **LH Science**                        | Mr Joseph Christopher Chong Kin Mun           |
 | **LH Chinese**                        | Mdm Shen Jingyi            |
 | **SH PE, CCA &amp; Aesthetics**       | Miss Evelyn Yeow            |
