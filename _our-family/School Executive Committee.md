@@ -21,7 +21,7 @@ School Executive Committee
 | **Operations Manager**              | Mr Jonathan Seto           |
 | **Operations Manager**              | Mdm Lee Chui Leng           |
 | **School Staff Developer**            | Mr Mohd Salleh             |
-| **HOD Mathematics**                   | Mdm Mrs Janice Wang        |
+| **HOD Mathematics**                   | Mrs Janice Wang        |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek            |
 | **HOD Science**                 | Mrs Joyce Soon            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik        |
