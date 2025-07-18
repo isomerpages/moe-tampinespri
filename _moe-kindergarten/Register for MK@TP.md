@@ -27,4 +27,4 @@ Places will be first allocated to applications received during the registration 
 
 For 2026 K2 admission and those who missed the K1 general registration exercise and wish to register for MK@Tampines, please complete the form using the provided link. We will contact you if vacancies become available.
 
-**Link:** [MK Waitlist](https://go.gov.sg/mk-tpswaitlist)
+**Link:** [MK Waitlist](https://go.gov.sg/mk-tampineswaitlist25)
