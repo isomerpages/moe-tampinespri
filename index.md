@@ -31,14 +31,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Setting of security questions for Student MIMS account
-          date: 14 March 2025
-          announcement: The MIMS Student Self-Service Password Reset Service allows
-            students to reset their passwords on their own if they forget them.
-            We encourage you to help your child/ward in setting up this service
-            so they can regain access to their accounts quickly when needed.
-          link_text: Click here for more...
-          link_url: /setting-of-security-questions-for-student-mims-account/
         - title: April 2025 Memo to Parents
           date: 25 March 2025
           announcement: Dear Parents, Please refer to the link below for the April memo to
@@ -53,8 +45,14 @@ sections:
           link_url: /for-parents/letters-to-parents-2025/
         - title: June 2025 Memo to Parents
           date: 01 July 2025
-          announcement: Dear Parents, Please refer to the link below for the May memo to
+          announcement: Dear Parents, Please refer to the link below for the June memo to
             parents. Thank you. Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
+        - title: August 2025 Memo to Parents
+          date: 01 August 2025
+          announcement: Dear Parents, Please refer to the link below for the August memo
+            to parents. Thank you. Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
   - textcards:
