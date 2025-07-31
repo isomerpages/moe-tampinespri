@@ -27,9 +27,9 @@ Mother Tongue Teachers
 | Mdm Ni Jieren         |
 | Mdm Tan Khing Khing   |
 | Mdm Toh Chiew Hoon    |
-| Ms Yeo Kim Keow    |
 | Mdm Wei Shuang        |
 | Mdm Chan Ai Hwa        |
+| Mrs Leo    |
 
 
 
