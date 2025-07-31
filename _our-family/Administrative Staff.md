@@ -20,12 +20,10 @@ Administrative Staff
 | Mr Jonathan Seto Wee Ping  | OM                   |
 | Mdm Lee Chui Leng           | OM                   |
 | Miss Nandini               | AE                     |
-| Ms Sri Nur Aien Bte Tanuri               | AE                     |
 | Ms Chua Chen Sin (Veron)              | CSO                    |
 | Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
 | Mdm Jayasri d/o Mutu Sammy | OSO                    |
-| Mdm Goh Hui Teng           | OSO                    |
 | Mr Zainuddin               | OSO                    |
 | Mr Koh Thye Kok       | OSO                  |
 | Mdm Tee Ah Moy      | OSO                 |
