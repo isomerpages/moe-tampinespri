@@ -62,4 +62,13 @@ sections:
             details.
           linktext: Learn more
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
+  - infopic:
+      title: Teacher's Day Well-wishes
+      id: infopic
+      description: Dear Students, alumni and parents,  you are invited to submit your
+        well-wishes for your teachers in Tampines Primary School.
+      button: Click here to submit your wishes
+      url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
+      image: /images/teachers_day_2025.png
+      alt: Image alt text
 ---
