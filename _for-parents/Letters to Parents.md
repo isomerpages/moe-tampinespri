@@ -36,3 +36,7 @@ description: ""
 </p>
 <p><a href="/files/2025/Sem_2_Calendar_2025_Annex__Final_.pdf" rel="noopener nofollow" target="_blank">Sem 2 Calendar 2025 Annex (Final).pdf</a>
 </p>
+<p></p>
+<h3><strong>August 2025</strong></h3>
+<p><a href="/files/2025/TPPS_58_2025___August_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-58-2025 - August Memo 2025.pdf</a>
+</p>
