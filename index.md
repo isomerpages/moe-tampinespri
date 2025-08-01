@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /quick-links/useful-links/useful-links/
   - infopic:
-      title: Teacher's Day Well-wishes
+      title: Teachers' Day Well-wishes
       id: infopic
       description: Dear Students, alumni and parents,  you are invited to submit your
         well-wishes for your teachers in Tampines Primary School.
