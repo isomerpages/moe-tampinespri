@@ -35,5 +35,5 @@ Thank you
 Tampines Primary School
 
 **File attachments**
-[Annex A - 2025 STSPMF Application Form for schools.pdf](/files/2025/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf)
-[Annex B - Income declaration form.pdf](/files/2025/Annex_B___Income_declaration_form.pdf)
+[Annex A - 2026 STSPMF Application Form for schools.pdf](/files/2025/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf)
+[Annex B - Income declaration form](/files/2025/Annex_B___Income_declaration_form.pdf)
