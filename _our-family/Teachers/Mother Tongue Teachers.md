@@ -26,10 +26,11 @@ Mother Tongue Teachers
 | Mdm Gao Qiaoyi       |
 | Mdm Ni Jieren         |
 | Mdm Tan Khing Khing   |
+| Mdm Goh Ka Bee        |
 | Mdm Toh Chiew Hoon    |
 | Mdm Wei Shuang        |
 | Mdm Chan Ai Hwa        |
-| Mrs Leo    |
+| Mrs Leo Teng Hui   |
 
 
 
