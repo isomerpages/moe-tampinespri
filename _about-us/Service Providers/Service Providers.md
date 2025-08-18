@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /about-us/service-providers/service-providers/
 description: ""
 third_nav_title: Service Providers
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -188,25 +188,82 @@ please call the following school dental clinics for an appointment.
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Clinic Open on:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>3 - 4 September 2024</p>
-</li>
-<li>
-<p>5 - 6 September 2024 (PM only)</p>
-</li>
-<li>
-<p>16 September 2024 (PM only)</p>
-</li>
-<li>
-<p>17 - 20 September 2024</p>
-</li>
-<li>
-<p>30 September 2024
+<p>
 <br>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Monday - Thursday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8.00 a.m. - 5.30 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Friday</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8.00 a.m. - 5.00 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Holidays</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8.00 a.m - 5.00 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lunch-Time (closed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.00 p.m. - 2.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Note: <br></strong>All dental appointments in the afternoon/school
+holidays are by appointment only. Please call the clinic at <strong>88098302 (HP)</strong> to
+book an appointment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Note: </strong>
+<br>During school holidays or when the school dental clinic is closed, please
+call <strong>Health Promotion Board (HPB) Call Centre: 64353782</strong> for
+advice.
+<br>
+<br>When school dental clinic is closed and pupils need urgent treatment,
+please call the following school dental clinics for an appointment:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tanjong Katong Primary School (Tel: 9112 8295)</p>
+</li>
+<li>
+<p>Junyuan Primary School (8940 3520)</p>
+</li>
+<li>
+<p>Tampines North Primary School (9112 4295)</p>
 </li>
 </ul>
 </td>
@@ -233,7 +290,7 @@ please call the following school dental clinics for an appointment.
 <p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email: <a href="mailto:admission_cls_tpps@commitlearning.com.sg">admission_cls_tpps@commitlearning.com.sg</a>
+<p>Email: <a href="mailto:admission_cls_tpps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>
 </p>
 </td>
 </tr>
