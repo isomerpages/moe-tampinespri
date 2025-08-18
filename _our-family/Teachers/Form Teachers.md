@@ -49,7 +49,7 @@ variant: tiptap
 <p>Miss Jolyn Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rauhdah Binte Abdul Latif</p>
+<p>Ms Rauhdah Binte Abdul Latif</p>
 </td>
 </tr>
 <tr>
