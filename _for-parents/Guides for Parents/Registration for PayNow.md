@@ -5,48 +5,35 @@ description: ""
 third_nav_title: Guides for Parents
 variant: tiptap
 ---
-![](/images/ForParents.jpg)
-
-Registration for PayNow
-=======================
-
-22 Nov 2020
-
-  
-
-Dear Parents/Guardians,
-
-  
-
-With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques. For a start, MOE will be using PayNow (BC/NRIC) as a means to disburse Edusave award monies starting from the upcoming Edusave award exercise in Dec 2020.
-
-  
-
-To register for PayNow for your children with their BC/NRIC number, you can refer to the attached guide on PayNow or visit the website of the Association of Banks in Singapore (link provided) for more information. Please approach your bank if you need further assistance to register for PayNow for your children. Alternatively, if you are using your children’s bank accounts with POSB/DBS or OCBC, you can fill in the online form (link provided) for MOE to help you to set up PayNow arrangements for these accounts.
-
-  
-
-Thank you.
-
-  
-
-<i><b>Tampines Primary School</b></i>
-
-
-<u><b>Web Link</b></u>
-
-  
-
-<b>More information on PayNow</b> <br>
-[https://go.gov.sg/abspaynow](https://go.gov.sg/abspaynow)
-
-  
-
-<b>Online form to set up PayNow</b> <br>
-[https://go.gov.sg/paynowregister](https://go.gov.sg/paynowregister)
-
-  
-
-<u><b>File attachments</b></u> <br>
-[20201122_Guide_on_PayNow_Registration.pdf](/files/Guide_on_PayNow_Registration.pdf) <br>
-[20201122_FAQ_on_PayNow.pdf](/files/FAQ_on_PayNow.pdf)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
+</div>
+<h1>Registration for PayNow</h1>
+<p>22 Nov 2020</p>
+<p>Dear Parents/Guardians,</p>
+<p>With the increasing digitalisation of government services, MOE would like
+to encourage all parents to register their children’s bank account with
+PayNow using the children’s BC/NRIC number. The activation of PayNow will
+facilitate the prompt disbursement of monies for the child, and avoid delays
+through the filling in and processing of forms or from physical visits
+to banks for the deposit of cheques. For a start, MOE will be using PayNow
+(BC/NRIC) as a means to disburse Edusave award monies starting from the
+upcoming Edusave award exercise in Dec 2020.</p>
+<p>To register for PayNow for your children with their BC/NRIC number, you
+can refer to the attached guide on PayNow or visit the website of the Association
+of Banks in Singapore (link provided) for more information. Please approach
+your bank if you need further assistance to register for PayNow for your
+children.</p>
+<p>Thank you.</p>
+<p><strong><em>Tampines Primary School</em></strong>
+</p>
+<p><strong><u>Web Link</u></strong>
+</p>
+<p><strong>More information on PayNow</strong> 
+<br><a href="https://go.gov.sg/abspaynow" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/abspaynow</a>
+</p>
+<p></p>
+<p><strong><u>File attachments</u></strong> 
+<br><a href="/files/Guide_on_PayNow_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">20201122_Guide_on_PayNow_Registration.pdf</a> 
+<br><a href="/files/FAQ_on_PayNow.pdf" rel="noopener noreferrer nofollow" target="_blank">20201122_FAQ_on_PayNow.pdf</a>
+</p>
