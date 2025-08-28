@@ -76,7 +76,7 @@ sections:
       description: Dear Alumni, with regards to visiting teachers on 4th September
         2025, please take note of the following important details.
       button: Click here for more....
-      url: Click here for more...
+      url: /files/2025/Teachers__Day_Alumni_Visit_for_Website.pdf
       image: /images/Teachers__Day_Alumni_Visit_for_Website.jpg
       alt: Image alt text
 ---
