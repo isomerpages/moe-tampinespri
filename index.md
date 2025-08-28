@@ -27,6 +27,15 @@ sections:
       url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
       image: /images/teachers_day_2025.png
       alt: Image alt text
+  - infopic:
+      title: Visiting Teachers on Teachers’ Day
+      id: infopic
+      description: Dear Alumni, with regards to visiting teachers on 4th September
+        2025, please take note of the following important details.
+      button: Click here for more....
+      url: /files/2025/Teachers__Day_Alumni_Visit_for_Website.pdf
+      image: /images/Teachers__Day_Alumni_Visit_for_Website.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -69,13 +78,4 @@ sections:
             details.
           linktext: Learn more
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
-  - infopic:
-      title: Visiting Teachers on Teachers’ Day
-      id: infopic
-      description: Dear Alumni, with regards to visiting teachers on 4th September
-        2025, please take note of the following important details.
-      button: Click here for more....
-      url: /files/2025/Teachers__Day_Alumni_Visit_for_Website.pdf
-      image: /images/Teachers__Day_Alumni_Visit_for_Website.jpg
-      alt: Image alt text
 ---
