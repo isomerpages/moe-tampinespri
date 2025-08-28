@@ -71,7 +71,6 @@ sections:
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
   - infopic:
       title: Visiting Teachers on Teachers’ Day
-      subtitle: Add an image and text
       id: infopic
       description: Dear Alumni, with regards to visiting teachers on 4th September
         2025, please take note of the following important details.
