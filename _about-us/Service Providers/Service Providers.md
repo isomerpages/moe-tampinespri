@@ -31,7 +31,7 @@ variant: tiptap
 <p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>63826789 (HQ)</p>
+<p>63826789 (ext 207)</p>
 </td>
 </tr>
 <tr>
