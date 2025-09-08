@@ -11,7 +11,7 @@ description: ""
 <h3>P1 Orientation Day Details</h3>
 <p>Dear Parents of P1 (2025) Students,</p>
 <p>A very warm welcome to Tampines Primary School!</p>
-<p><strong>Slides for Parents:</strong> 
+<p><strong>Slides for Parents:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
