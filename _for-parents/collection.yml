@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - P1 (2026) Orientation Day.md
       - Letters to Parents.md
       - Newsletters.md
       - Financial Assistance Scheme/.keep
@@ -12,6 +11,7 @@ collections:
       - Group Personal Accident Insurance for Students.md
       - POSB Smart Buddy.md
       - P1 (2025) Orientation Day.md
+      - P1 (2026) Orientation Day.md
       - MoneySense.md
       - First Day of School 2025 Info.md
       - Booklist for AY2025.md
