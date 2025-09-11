@@ -40,12 +40,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: April 2025 Memo to Parents
-          date: 25 March 2025
-          announcement: Dear Parents, Please refer to the link below for the April memo to
-            parents.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: May 2025 Memo to Parents
           date: 02 May 2025
           announcement: Dear Parents,  Please refer to the link below for the May memo to
@@ -62,6 +56,12 @@ sections:
           date: 01 August 2025
           announcement: Dear Parents, Please refer to the link below for the August memo
             to parents. Thank you. Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
+        - title: September 2025 Memo to Parents
+          date: 12 September 2025
+          announcement: Dear Parents, Please refer to the link below for the September
+            memo to parents. Thank you. Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
   - textcards:
