@@ -95,8 +95,6 @@ specified</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/2024/2024_Year_End_Uniform_Sales_and_Collection.pdf" rel="noopener nofollow" target="_blank">2024 Year End Uniform Sales and Collection</a>
-</p>
 <h3><strong>School Bus Service</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
