@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
 </div>
 <h1>P1 (2026) Orientation Day</h1>
-<p>The Orientation Day will be on Friday, 7th November 2025 (tentatively
+<p>The Orientation Day will be on Friday, 14th November 2025 (tentatively
 in the afternoon).</p>
 <p>More details will be provided at a later date, via the email provided
 at registration.</p>
