@@ -45,3 +45,6 @@ description: ""
 <p><a href="/files/2025/TPPS_64_2025___September_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-64-2025 - September Memo 2025.pdf</a>
 </p>
 <p></p>
+<h3><strong>October 2025</strong></h3>
+<p><a href="/files/2025/TPPS_66_2025___October_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-66-2025 - October Memo 2025.pdf</a>
+</p>
