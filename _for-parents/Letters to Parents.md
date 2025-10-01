@@ -30,7 +30,7 @@ description: ""
 <h3><strong>May 2025</strong></h3>
 <p><a href="/files/2025/TPPS_33_2025___May_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-33-2025 - May Memo 2025.pdf</a>
 </p>
-<h3></h3>
+<p></p>
 <h3><strong>June 2025</strong></h3>
 <p><a href="/files/2025/TPPS_51_2025___June_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-51-2025 - June Memo 2025.pdf</a>
 </p>
