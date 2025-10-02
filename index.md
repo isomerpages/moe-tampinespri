@@ -18,34 +18,10 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
-  - infopic:
-      title: Teachers' Day Well-wishes
-      id: infopic
-      description: Dear Students, alumni and parents,  you are invited to submit your
-        well-wishes for your teachers in Tampines Primary School.
-      button: Click here to submit your wishes
-      url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
-      image: /images/teachers_day_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Visiting Teachers on Teachers’ Day
-      id: infopic
-      description: Dear Alumni, with regards to visiting teachers on 4th September
-        2025, please take note of the following important details.
-      button: Click here for more....
-      url: /files/2025/Teachers__Day_Alumni_Visit_for_Website.pdf
-      image: /images/Teachers__Day_Alumni_Visit_for_Website.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: May 2025 Memo to Parents
-          date: 02 May 2025
-          announcement: Dear Parents,  Please refer to the link below for the May memo to
-            parents.  Thank you.  Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: June 2025 Memo to Parents
           date: 01 July 2025
           announcement: Dear Parents, Please refer to the link below for the June memo to
@@ -62,6 +38,12 @@ sections:
           date: 12 September 2025
           announcement: Dear Parents, Please refer to the link below for the September
             memo to parents. Thank you. Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
+        - title: October 2025 Memo to Parents
+          date: 01 October 2025
+          announcement: Dear Parents, Please refer to the link below for the October memo
+            to parents. Thank you. Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
   - textcards:
