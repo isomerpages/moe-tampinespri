@@ -153,8 +153,8 @@ more information</p>
 <p>* Please <strong><u>do not buy books and/or uniforms on Orientation Day or online before the outcome of the FAS application is announced</u></strong> if
 you intend to apply for FAS for your child for 2025. No refund will be
 provided.</p>
-<p>Please apply by <strong>31 Oct 2024</strong> so that your application may
-be processed promptly.</p>
+<p>Please apply by <strong><u>31 Oct 2025</u></strong> so that your application
+may be processed promptly.</p>
 </td>
 </tr>
 </tbody>
