@@ -78,7 +78,8 @@ the administrative forms.</p>
 <p>Parents are strongly encouraged to sign up for GIRO online.</p>
 <p>Child Development Account (Baby Bonus Account) <strong><u>cannot be used</u></strong> for
 payment of school fees.</p>
-<p>Submission <strong><u>will start</u></strong> from 15 Oct 2025.</p>
+<p><strong>Submission <u>will start</u> from 15 Oct 2025.</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +90,7 @@ payment of school fees.</p>
 <p>Website with details on usage of Edusave funds. Refer to <a href="https://www.moe.gov.sg/financial-matters/edusave-account" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p>Complete the following form:</p>
-<p><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School</a>
+<p><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener nofollow" target="_blank">Standing Order for Use of Edusave Account At Govt / Govt-Aided School (form.gov.sg)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,11 +98,11 @@ payment of school fees.</p>
 cover school miscellaneous fees <strong>(for Singapore Citizens only)</strong>
 </p>
 <p>Please Tick <strong>“Yes”</strong> for both questions on whether to use
-Edusave for 2nd Tier Miscellaneous fees and for local and overseas enrichment
-charges.</p>
+Edusave for 2<sup>nd</sup> Tier Miscellaneous fees and for local and overseas
+enrichment charges.</p>
 <p>School will seek your confirmation for any deduction of Edusave funds
 before the commencement of extra programmes.</p>
-<p><strong>Submission will start from 14 Oct 2024.</strong>
+<p><strong>Submission <u>will start</u> from 15 Oct 2025.</strong>
 </p>
 </td>
 </tr>
