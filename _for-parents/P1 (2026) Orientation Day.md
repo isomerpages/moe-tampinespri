@@ -163,21 +163,42 @@ may be processed promptly.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>School Bus Services</p>
-<p>- Please refer to Parent Gateway for more details. Please apply by <strong>Friday, 22 November 2024</strong>.
-Parents will be informed of the application outcome by Monday, 9 December
-2024.]</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to Parent Gateway for more details. Please apply by <strong>Friday, 28 November 2025</strong>.</p>
+</li>
+</ul>
+<p><em>Parents will be informed of the application outcome by Wednesday, 10 December 2025.</em>
+</p>
 </li>
 <li>
-<p>Student Care Services Interest Application Form (for 2025 P1 students
-only)</p>
-<p>- Registrations are closed.</p>
+<p>Student Care Services</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to the attachments for more details. Please apply by <strong><u>Friday, 24 October 2025</u></strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025/CLS__TPPS_SCC___Introduction_Letter.pdf" rel="noopener nofollow" target="_blank">CLS @TPPS SCC - Introduction Letter.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/CLS__TPPS_SCC___2026_FAQs__TPPS.pdf" rel="noopener nofollow" target="_blank">CLS @TPPS SCC - 2026 FAQs @TPPS.pdf</a>
+</p>
+<p><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=73" rel="noopener nofollow" target="_blank">Student Care Services Interest Application Form</a> (for
+2026 P1 students only)</p>
+<p><em>All parents will be informed by SCC of their application outcome by 13 November 2025.</em>
+</p>
+</li>
+</ul>
+</li>
+</ul>
 </li>
 <li>
 <p>Sales of School Uniform and Books</p>
 <p>a. <a href="https://www.oapl.sg/outlets/tpp" rel="noopener nofollow" target="_blank">School Books</a>
 </p>
-<p>b. <a href="https://shop.shanghai-uniforms.com/" rel="noopener nofollow" target="_blank">School Uniform</a> (10-cent
-(coin) charge will be applied per plastic bag wef 1 Jan 2024)</p>
+<p>b. <a href="https://shanghai-uniforms.sg/shop/category/tampines-primary-162" rel="noopener nofollow" target="_blank">School Uniform</a> (10-cents
+charge will be applied per plastic bag wef 1 Jan 2024)</p>
 </li>
 </ol>
 <p>If you are not able to purchase school uniform and books on the orientation
@@ -189,7 +210,7 @@ sales website and note that there will be delivery charges.</p>
 as an identification for students. They are to be ironed onto both the
 school shirt and PE t-shirt (above the school logo). You may refer to the
 School Diary for more information.</p>
-<p>The Name Tag can be ordered via the provided link: <a href="https://oapl.sg/product/productdetails/oc-TPP/ii-2" rel="noopener noreferrer nofollow" target="_blank">https://oapl.sg/product/productdetails/oc-TPP/ii-2</a>.
+<p>The Name Tag can be ordered via the provided link: <a href="https://oapl.sg/product/TPP/tpp-nametag" rel="noopener nofollow" target="_blank">https://oapl.sg/product/TPP/tpp-nametag</a>.
 Please adhere to the stated deadline to place your orders so that you can
 receive them on the Orientation Day. For placement of orders after the
 stated deadline, please refer to the vendor’s website for more information.</p>
