@@ -117,7 +117,7 @@ before the commencement of extra programmes.</p>
 <td rowspan="1" colspan="1">
 <p>More details will be provided via PG for the completion on the final compulsory
 form.</p>
-<p><strong>Submission starts from 25 Nov 2024, 10am</strong>
+<p><strong>Submission <u>starts</u> from 24 Nov 2025, 10am</strong>
 </p>
 </td>
 </tr>
@@ -133,7 +133,7 @@ form.</p>
 <p>HPB provides free health services such as screening, immunisation and
 dental checks for students in school during school hours. Your consent
 is required for your child to benefit from these services.</p>
-<p><strong>Portal only available from 26 Dec 2024.</strong>
+<p><strong>Portal available <u>only</u> from 29 Dec 2025.</strong>
 </p>
 </td>
 </tr>
