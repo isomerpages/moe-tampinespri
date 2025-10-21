@@ -142,15 +142,17 @@ is required for your child to benefit from these services.</p>
 <p>MOE Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Scheme (FAS)</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance Scheme (FAS) (moe.edu.sg)</a>
 </p>
 <p><em>Link for 2025 e-FAS application to be provided in PG once available</em>
 </p>
+<p>Refer to the <a href="https://www.moe.gov.sg/faq?categoryid=85B0516024DB47B8B38087911E1BAE6C&amp;faqid=99F12C2ABC4144C1A879443BD70E506F" rel="noopener nofollow" target="_blank">FAQ</a> for
+more information</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>* Please do not buy books and/or uniforms on Orientation Day or online
-before the outcome of the FAS application is announced if you intend to
-apply for FAS for your child for 2025. No refund will be provided.</p>
+<p>* Please <strong><u>do not buy books and/or uniforms on Orientation Day or online before the outcome of the FAS application is announced</u></strong> if
+you intend to apply for FAS for your child for 2025. No refund will be
+provided.</p>
 <p>Please apply by <strong>31 Oct 2024</strong> so that your application may
 be processed promptly.</p>
 </td>
