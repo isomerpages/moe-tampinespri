@@ -40,13 +40,15 @@ the following link:</p>
 for MOE FAS via the online application form.</p>
 <p><strong><u>Application Form</u></strong>
 </p>
-<p><strong>MOE e-FAS Application Form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> 
+<p><strong>MOE FAS e-Application Form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> 
 <br>
 </p>
 <h3><strong>ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME&nbsp; (updated 16 Oct 2025)</strong></h3>
 <p>From 1 January 2026, Singapore Citizen students from households with gross
 monthly household income (GHI) of $4,000 and below, or per capita income
 (PCI) of $1,000 and below, will be eligible for the MOE FAS.</p>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener nofollow" target="_blank">Read more...</a>
+</p>
 <h3><strong>Application for Straits Times School Pocket Money Fund</strong></h3>
 <p><a href="/for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/" rel="noopener noreferrer nofollow" target="_blank">Click here for more info</a>
 </p>
