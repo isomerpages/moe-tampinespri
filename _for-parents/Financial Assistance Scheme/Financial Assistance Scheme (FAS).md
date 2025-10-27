@@ -43,7 +43,7 @@ for MOE FAS via the online application form.</p>
 <p><strong>MOE e-FAS Application Form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> 
 <br>
 </p>
-<h3><strong>ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME&nbsp; (updated 14 Oct 2022)</strong></h3>
+<h3><strong>ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME&nbsp; (updated 16 Oct 2025)</strong></h3>
 <p>From 1 January 2026, Singapore Citizen students from households with gross
 monthly household income (GHI) of $4,000 and below, or per capita income
 (PCI) of $1,000 and below, will be eligible for the MOE FAS.</p>
