@@ -40,7 +40,7 @@ the following link:</p>
 for MOE FAS via the online application form.</p>
 <p><strong><u>Application Form</u></strong>
 </p>
-<p><strong>MOE FAS e-Application Form:</strong>  <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> 
+<p><strong>MOE FAS e-Application Form:</strong>  <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 <br>
 </p>
 <h3><strong>ENHANCEMENT TO MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME&nbsp; (updated 16 Oct 2025)</strong></h3>
