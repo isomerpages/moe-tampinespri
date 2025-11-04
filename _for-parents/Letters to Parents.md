@@ -48,3 +48,10 @@ description: ""
 <h3><strong>October 2025</strong></h3>
 <p><a href="/files/2025/TPPS_66_2025___October_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-66-2025 - October Memo 2025.pdf</a>
 </p>
+<p></p>
+<h3><strong>November</strong></h3>
+<p><a href="/files/2025/TPPS_75_2025___November_Memo_2025.pdf" rel="noopener nofollow" target="_blank">TPPS-75-2025 - November Memo 2025.pdf</a>
+</p>
+<p><a href="/files/2025/Primary_Level_Joint_Advisory_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Primary Level Joint Advisory-Nov 2025.pdf</a>
+</p>
+<p></p>
