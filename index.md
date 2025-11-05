@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: June 2025 Memo to Parents
-          date: 01 July 2025
-          announcement: Dear Parents, Please refer to the link below for the June memo to
-            parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: August 2025 Memo to Parents
           date: 01 August 2025
           announcement: Dear Parents, Please refer to the link below for the August memo
@@ -50,6 +44,12 @@ sections:
           date: 03 November 2025
           announcement: Dear Parents, Please refer to the link below for the November memo
             to parents. Thank you. Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2025/
+        - title: Principal's Farewell Memo
+          date: 05 November 2025
+          announcement: Dear Parents,  Please refer to the link below for the Principal's
+            farewell memo.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
   - textcards:
