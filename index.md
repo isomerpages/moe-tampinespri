@@ -18,6 +18,15 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+  - infopic:
+      title: In Conversation with Stakeholders
+      id: infopic
+      description: Please scan the QR code or click on the button to access the ICS
+        microsite.
+      button: ICS Microsite
+      url: https://for.edu.sg/tppsics
+      image: /images/Google_site_QR_code.png
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
