@@ -66,4 +66,13 @@ sections:
             details.
           linktext: Learn more
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
+  - infopic:
+      title: In Conversation with Stakeholders
+      id: infopic
+      description: Please scan the QR code or click on the button to access the ICS
+        microsite.
+      button: ICS Microsite
+      url: https://for.edu.sg/tppsics
+      image: /images/Google_site_QR_code.png
+      alt: Image alt text
 ---
