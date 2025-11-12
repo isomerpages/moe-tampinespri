@@ -2,29 +2,18 @@
 title: Parent Support Group
 permalink: /for-parents/Parent-Support-Group/
 description: ""
+variant: markdown
 ---
 ![](/images/ForParents.jpg)
 
 Parent Support Group
 ====================
 
-The school celebrates the support and contributions of the PSG through an investiture ceremony. PSG EXCO members are issued a special pass and members who are involved in helping in school activities are also given a PSG duty pass. An annual appreciation lunch is also organized for active PSG members.  
-  
-The Parent Support Group (PSG) was incepted in 1999. The school recognises that there are parents who are able to volunteer their time and services to help out with school programmes and activities. The PSG EXCO was nominated by the Principal. Each PSG director is involved in different school programmes and activities under the various strategic thrusts.
+Since its inception in 1999, the Parent Support Group (PSG) has provided opportunities for parents to connect with each other and the school. The PSG team works closely with the school to support school programmes and propose initiatives that benefit the TPPS community.
 
-The PSG members are engaged in school life and in dialogue first through recruitment. At PSG meetings, members share the ways they can contribute to the school and pupils and the school shares with members the school’s philosophy and directions and areas in which PSG members can contribute. In addition, the school also conducts meetings with the PSG to get updates on the group’s activities and to engage members in dialogue about parents’ needs and expectations. Through these meetings, the school leader gathers feedback about school directions, programmes and operations and suggestions for improvement. Examples of suggestions that have been taken up are issuing fewer homework assignments during festive seasons and safety measures to further ensure pupil’s safety.
+PSG members can contribute by volunteering in weekly programmes, recess activities and learning journeys. They can also participate in parent-child bonding activities organised by the PSG.
 
-The school celebrates the support and contributions of the PSG through an investiture ceremony. PSG EXCO members are issued a special pass and members who are involved in helping in school activities are also given a PSG duty pass. An annual appreciation lunch is also organized for active PSG members.
+Join as a PSG member and get involved by completing the Parent Support Group application form by scanning the QR code below or clicking on it to follow the link. We look forward to welcoming you to the Parent Support Group!
 
-<u><b>Application Form</b></u>
-
-![](/images/PSG1.png)
-
-| Name of Event   | **Parent Support Group Updates &amp;<br>PSG EXCO Termly Meetings with School Leaders**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Objectives      | To provide PSG members with an overview of key initiatives and plans for 2022<br>To provide a platform for PSG members to support school events/programmes and provide opportunity to interact with other members.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Highlights<br>  | Each term, PSG EXCO members attend termly meetings where our school leaders take them through the importance of school – home partnership, school updates and achievements.<br>The PSG team had their annual recruitment and get to know session on Saturday, March 19 2022. We would like to thank the PSG EXCO team under the leadership of Chairperson, Mdm Mahjabeen for their dedication and contribution in making this session possible. The session ended with a video by Mrs Zahira thanking the parents and acknowledging the PSG members as TPPS’s ambassadors. The PSG members truly enjoyed the session. They look forward to work together with the school and help to know every child and grow every child.<br><br><br><br>**PSG ONLINE REPOSITORY** <br><br>This guide was specially prepared by MOE for Parent Support Groups (PSGs) to support PSG parents in their role as a Resource Supporter and Peer Supporter. Click on the link  provided. |
-
-
-
-Note: PSG ONLINE REPOSITORY link broken.
+**Application Form**
+![](/images/application_link.png)
