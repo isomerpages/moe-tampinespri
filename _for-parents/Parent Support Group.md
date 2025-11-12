@@ -21,7 +21,7 @@ below. We look forward to welcoming you to the Parent Support Group!</p>
 <p><strong>Application Form</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/application_link.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/application_link.png">
 </div>
 <p>Link: <a href="https://form.gov.sg/61d4ef63369b3a00130b5b8b" rel="noopener nofollow" target="_blank">PSG Application Form</a>
 </p>
