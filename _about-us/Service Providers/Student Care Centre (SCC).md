@@ -80,7 +80,7 @@ classroom experiences for their students.</p>
 <p>Main Centre Teachers: <strong>Ms Eka Sakina</strong> &amp; <strong>Ms Zheng</strong>
 </p>
 <p></p>
-<p><u>P2</u> 
+<p><u>P2</u>
 </p>
 <p>CCA Rm 1: <strong>Ms Nurul</strong>
 </p>
@@ -102,4 +102,3 @@ classroom experiences for their students.</p>
 </p>
 <p>Dual Use Classroom: <strong>TBC</strong>
 </p>
-<p>i</p>
