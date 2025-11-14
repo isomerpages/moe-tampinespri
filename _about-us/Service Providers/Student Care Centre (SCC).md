@@ -87,17 +87,20 @@ classroom experiences for their students.</p>
 <p>CCA Rm 2: <strong>Ms Putri</strong>
 </p>
 <p></p>
-<p>P3</p>
+<p><u>P3</u>
+</p>
 <p>CCA Rm 3: <strong>Ms Shamenee</strong>
 </p>
 <p>Dual Use Classroom: <strong>Ms Nithya</strong>
 </p>
 <p></p>
-<p>P4</p>
+<p><u>P4</u>
+</p>
 <p>Dual Use Classroom: <strong>Mr Danial</strong>
 </p>
 <p></p>
-<p>P5/6</p>
+<p><u>P5/P6</u>
+</p>
 <p>Dual Use Classroom: <strong>Ms Humairah</strong>
 </p>
 <p>Dual Use Classroom: <strong>TBC</strong>
