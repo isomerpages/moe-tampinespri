@@ -3,7 +3,7 @@ title: Student Care Centre (SCC)
 permalink: /about-us/service-providers/student-care-centre-scc/
 description: ""
 third_nav_title: Service Providers
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -60,17 +60,33 @@ classroom experiences for their students.</p>
 <p><strong>We are committed to bringing out the best in every student</strong>
 </p>
 <hr>
-<h1>SCC Class Deployment 2024:</h1>
-<p><u>Main centre:</u>
-<br><strong>P1(A):</strong> Teacher Zheng Hui Qing
-<br><strong>P1(B):</strong> Teacher Humairah</p>
-<p><u>Primary 2:</u>
-<br><strong>CCA ROOM 2:</strong> Teacher Eka
-<br><strong>CCA ROOM 3:</strong> Teacher Nurul</p>
-<p><u>Primary 3:</u>
-<br><strong>CCA ROOM 1:</strong> Teacher Yati
-<br><strong>P2 FAITH:</strong> Teacher Danial</p>
-<p><u>Primary 4:</u>
-<br><strong>P2 GRACE:</strong> Teacher Shah</p>
-<p><u>Primary 5 &amp; 6:</u>
-<br><strong>P2 CARE:</strong> Teacher Putri</p>
+<p><strong>14 November 2025 SCC Orientation Slides:</strong>  <a href="https://we.tl/t-WtvWAEgajd" rel="noopener noreferrer nofollow" target="_blank">https://we.tl/t-WtvWAEgajd</a>
+</p>
+<p><strong>Registration of Interest:</strong>  <a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=73" rel="noopener nofollow" target="_blank">Link to Application Form</a>
+</p>
+<p><strong>Email Address:</strong>  <a href="mailto:admission_cls_tpps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>)</p>
+<p><strong>CLS @TPPS Centre Phone (only for enrolled students):</strong> 89319438</p>
+<hr>
+<h1>SCC Class Deployment 2026:</h1>
+<p><strong><u>SCC Staff Deployment 2026</u></strong>
+<br>Centre Head: <strong>Mr Shah</strong>
+<br>Hygiene Officer: <strong>Mr Salman</strong>
+</p>
+<p><u>P1</u>
+<br>Main Centre Teachers: <strong>Ms Eka Sakina</strong> &amp; <strong>Ms Zheng</strong>
+</p>
+<p><u>P2</u>
+<br>CCA Rm 1: <strong>Ms Nurul</strong>
+<br>CCA Rm 2: <strong>Ms Putri</strong>
+</p>
+<p><u>P3</u>
+<br>CCA Rm 3: <strong>Ms Shamenee</strong>
+<br>Dual Use Classroom: <strong>Ms Nithya</strong>
+</p>
+<p><u>P4</u>
+<br>Dual Use Classroom: <strong>Mr Danial</strong>
+</p>
+<p><u>P5/P6</u>
+<br>Dual Use Classroom: <strong>Ms Humairah</strong>
+<br>Dual Use Classroom: <strong>TBC</strong>
+</p>
