@@ -69,39 +69,24 @@ classroom experiences for their students.</p>
 <hr>
 <h1>SCC Class Deployment 2026:</h1>
 <p><strong><u>SCC Staff Deployment 2026</u></strong>
+<br>Centre Head: <strong>Mr Shah</strong>
+<br>Hygiene Officer: <strong>Mr Salman</strong>
 </p>
-<p>Centre Head: <strong>Mr Shah</strong>
-</p>
-<p>Hygiene Officer: <strong>Mr Salman</strong>
-</p>
-<p></p>
 <p><u>P1</u>
+<br>Main Centre Teachers: <strong>Ms Eka Sakina</strong> &amp; <strong>Ms Zheng</strong>
 </p>
-<p>Main Centre Teachers: <strong>Ms Eka Sakina</strong> &amp; <strong>Ms Zheng</strong>
-</p>
-<p></p>
 <p><u>P2</u>
+<br>CCA Rm 1: <strong>Ms Nurul</strong>
+<br>CCA Rm 2: <strong>Ms Putri</strong>
 </p>
-<p>CCA Rm 1: <strong>Ms Nurul</strong>
-</p>
-<p>CCA Rm 2: <strong>Ms Putri</strong>
-</p>
-<p></p>
 <p><u>P3</u>
+<br>CCA Rm 3: <strong>Ms Shamenee</strong>
+<br>Dual Use Classroom: <strong>Ms Nithya</strong>
 </p>
-<p>CCA Rm 3: <strong>Ms Shamenee</strong>
-</p>
-<p>Dual Use Classroom: <strong>Ms Nithya</strong>
-</p>
-<p></p>
 <p><u>P4</u>
+<br>Dual Use Classroom: <strong>Mr Danial</strong>
 </p>
-<p>Dual Use Classroom: <strong>Mr Danial</strong>
-</p>
-<p></p>
 <p><u>P5/P6</u>
-</p>
-<p>Dual Use Classroom: <strong>Ms Humairah</strong>
-</p>
-<p>Dual Use Classroom: <strong>TBC</strong>
+<br>Dual Use Classroom: <strong>Ms Humairah</strong>
+<br>Dual Use Classroom: <strong>TBC</strong>
 </p>
