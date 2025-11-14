@@ -14,10 +14,12 @@ integral platform of support for students in the school who need a structured
 and supportive environment after school hours.</p>
 <p>If you are keen to enrol your child in our SCC, please register your interest
 via the link below.</p>
-<p><strong>Registration of Interest:</strong>&nbsp;<a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=73" rel="noopener noreferrer nofollow" target="_blank">Link to Online Form</a>
+<p><strong>14 November 2025 SCC Orientation Slides:</strong>  <a href="https://we.tl/t-WtvWAEgajd" rel="noopener noreferrer nofollow" target="_blank">https://we.tl/t-WtvWAEgajd</a>
 </p>
-<p><strong>Email Address:</strong>  <a href="admission_cls_tpps@commitlearning.com.sg" rel="noopener nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>
+<p><strong>Registration of Interest:</strong>  <a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=73" rel="noopener nofollow" target="_blank">Link to Application Form</a>
 </p>
+<p><strong>Email Address:</strong>  <a href="mailto:admission_cls_tpps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>)</p>
+<p><strong>CLS @TPPS Centre Phone (only for enrolled students):</strong> 89319438</p>
 <h3><strong>Commit Learning Schoolhouse (CLS)</strong></h3>
 <p>Dear Parents/Guardians,</p>
 <p>We would like to extend warm greetings to the students at Tampines Primary
@@ -59,13 +61,6 @@ classroom experiences for their students.</p>
 <br>Commit Learning SchoolHouse</p>
 <p><strong>We are committed to bringing out the best in every student</strong>
 </p>
-<hr>
-<p><strong>14 November 2025 SCC Orientation Slides:</strong>  <a href="https://we.tl/t-WtvWAEgajd" rel="noopener noreferrer nofollow" target="_blank">https://we.tl/t-WtvWAEgajd</a>
-</p>
-<p><strong>Registration of Interest:</strong>  <a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=73" rel="noopener nofollow" target="_blank">Link to Application Form</a>
-</p>
-<p><strong>Email Address:</strong>  <a href="mailto:admission_cls_tpps@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_tpps@commitlearning.com.sg</a>)</p>
-<p><strong>CLS @TPPS Centre Phone (only for enrolled students):</strong> 89319438</p>
 <hr>
 <h1>SCC Class Deployment 2026:</h1>
 <p><strong><u>SCC Staff Deployment 2026</u></strong>
