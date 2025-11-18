@@ -47,5 +47,3 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p></p>
-<p></p>
