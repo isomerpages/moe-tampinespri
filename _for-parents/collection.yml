@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Booklist for AY2026.md
       - Letters to Parents.md
       - Newsletters.md
       - Financial Assistance Scheme/.keep
