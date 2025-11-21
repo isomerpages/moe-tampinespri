@@ -200,10 +200,10 @@ sales website and note that there will be delivery charges.</p>
 as an identification for students. They are to be ironed onto both the
 school shirt and PE t-shirt (above the school logo). You may refer to the
 School Diary for more information.</p>
-<p>The Name Tag can be ordered via the provided link: <a href="https://oapl.sg/product/productdetails/oc-TPP/ii-2" rel="noopener noreferrer nofollow" target="_blank">https://oapl.sg/product/productdetails/oc-TPP/ii-2</a>.
-Please adhere to the stated deadline to place your orders so that you can
-receive them on the Orientation Day. For placement of orders after the
-stated deadline, please refer to the vendor’s website for more information.</p>
+<p>The Name Tag can be ordered via the provided link: Link defunct. Please
+adhere to the stated deadline to place your orders so that you can receive
+them on the Orientation Day. For placement of orders after the stated deadline,
+please refer to the vendor’s website for more information.</p>
 <h4>6) Enquiries</h4>
 <p>Should you have any queries or require assistance, please contact the
 school via <a href="tpps@moe.edu.sg" rel="noopener nofollow" target="_blank">tpps@moe.edu.sg</a> or
