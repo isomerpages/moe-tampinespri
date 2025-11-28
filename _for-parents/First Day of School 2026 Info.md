@@ -83,8 +83,6 @@ the school buses have left the premises</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>P1: 7.40 a.m. – 1.45 p.m.
-<br>
 <br>P2: 7.40 a.m. – 2 p.m.
 <br>P3: 7.40 a.m. – 2 p.m.
 <br>P4: 7.40 a.m. – 2 p.m.
@@ -149,5 +147,6 @@ the school buses have left the premises</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<p><a href="/about-us/general-information/curriculum-hours/" rel="noopener nofollow" target="_blank">Curriculum Hours</a>
+</p>
 <p></p>
