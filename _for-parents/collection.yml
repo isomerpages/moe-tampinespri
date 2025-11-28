@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - First Day of School 2026 Info.md
       - Letters to Parents.md
       - Newsletters.md
       - Financial Assistance Scheme/.keep
@@ -13,6 +12,7 @@ collections:
       - POSB Smart Buddy.md
       - P1 (2026) Orientation Day.md
       - MoneySense.md
+      - First Day of School 2026 Info.md
       - First Day of School 2025 Info.md
       - Booklist for AY2026.md
       - Growing Years Programme.md
