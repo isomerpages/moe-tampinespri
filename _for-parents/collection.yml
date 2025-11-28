@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - First Day of School 2026 Info.md
       - Letters to Parents.md
       - Newsletters.md
       - Financial Assistance Scheme/.keep
