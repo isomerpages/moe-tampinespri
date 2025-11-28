@@ -62,10 +62,15 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h1>Tampines Vibes</h1>
 <h4>2025</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025/TPPS_Vibes_Newsletter2025_Issue1.pdf" rel="noopener nofollow" target="_blank">TPPS Vibes Newsletter2025 Issue1.pdf</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025/TPPS_Vibes_Newsletter2025_Issue2.pdf" rel="noopener nofollow" target="_blank">TPPS Vibes Newsletter2025 Issue2.pdf</a>
 </p>
 <p></p>
 </li>

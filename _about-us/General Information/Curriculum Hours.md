@@ -3,7 +3,7 @@ title: Curriculum Hours
 permalink: /about-us/general-information/curriculum-hours/
 description: ""
 third_nav_title: General Information
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -19,21 +19,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Primary 1</strong>
+<th rowspan="1" colspan="5">
+<p><strong>Primary 1 (Term 1)</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -62,7 +50,7 @@ variant: markdown
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 2 p.m.</p>
+<p>7.50 a.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -79,7 +67,7 @@ variant: markdown
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 2 p.m.</p>
+<p>7.50 a.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -113,7 +101,7 @@ variant: markdown
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 2 p.m.</p>
+<p>7.50 a.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -130,7 +118,7 @@ variant: markdown
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 2 p.m.</p>
+<p>7.50 a.m. - 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -155,21 +143,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="5">
 <p><strong>Primary 2</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -296,21 +272,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="5">
 <p><strong>Primary 3</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -365,21 +329,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="5">
 <p><strong>Primary 4</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -434,21 +386,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="5">
 <p><strong>Primary 5</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -503,21 +443,9 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="5">
 <p><strong>Primary 6</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
