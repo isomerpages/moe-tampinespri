@@ -50,4 +50,3 @@ Mother Tongue Teachers
 |-----------------|
 | Mrs Vimala Ravi | 
 | Mr Mohammed Shaheer    |
-| Mdm Periasamy Thavamani |
