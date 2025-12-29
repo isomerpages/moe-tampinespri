@@ -34,6 +34,12 @@ sections:
             farewell memo.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: First Day of School
+          date: 29 December 2025
+          announcement: Dear Parents/Guardians, please take note of the information for
+            the First Day of school for 2026.
+          link_text: Click here for more...
+          link_url: /first-day-of-school-2026-info/
   - textcards:
       title: Student Assistance
       id: textcards
