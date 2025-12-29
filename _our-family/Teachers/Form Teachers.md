@@ -157,10 +157,11 @@ variant: tiptap
 <p>P2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azlinda Ab Aziz</p>
+<p>Mrs Lim-Eng Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nurhidaya Sidik</p>
+<p>Mdm Nur Liyana Binte Abdul Ghani</p>
+<p>Mr Tasyrif</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +169,10 @@ variant: tiptap
 <p>P2 Faith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Esther Kuek</p>
+<p>Miss Jolyn Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Hoo Kang</p>
+<p>Miss Rauhdah Binte Abdul Latif</p>
 </td>
 </tr>
 <tr>
@@ -179,10 +180,11 @@ variant: tiptap
 <p>P2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nurhidayah Ridzwan</p>
+<p>Miss Dorothy Goh Ying Oon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Bte Ahmad</p>
+<p>Ms Rahmah Abd Rahman Zamawi</p>
+<p>Mr Lam</p>
 </td>
 </tr>
 <tr>
@@ -190,10 +192,10 @@ variant: tiptap
 <p>P2 Hope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhanah Bte Abdullah</p>
+<p>Ms Celeste Yong Ching Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chuang Bee Eng</p>
+<p>Mr Mohd Salleh B Mohd Yasin</p>
 </td>
 </tr>
 <tr>
@@ -201,10 +203,11 @@ variant: tiptap
 <p>P2 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haniza Binte Baharin</p>
+<p>Mrs Janet Lin-Kan Yan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhana Binte Khamis</p>
+<p>Mr Irwin Peh Yen Yee</p>
+<p>Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -212,10 +215,10 @@ variant: tiptap
 <p>P2 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Bte Mamat</p>
+<p>Mdm Siti Fauziah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chuan Boon Min</p>
+<p>Mrs Janice Wang-Luo Jiahui</p>
 </td>
 </tr>
 <tr>
@@ -223,10 +226,10 @@ variant: tiptap
 <p>P2 Passion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Ow</p>
+<p>Mdm Melissa Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gao Qiaoyi</p>
+<p>Miss Yeow Chew Hoon Evelyn</p>
 </td>
 </tr>
 <tr>
@@ -234,10 +237,10 @@ variant: tiptap
 <p>P2 Truth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Ling Nah</p>
+<p>Mdm Marena Zulaiha Bte Abd Manaff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Evelyn Yeow</p>
+<p>Miss Zhu Li</p>
 </td>
 </tr>
 </tbody>
