@@ -23,8 +23,10 @@ Administrative Staff
 | Ms Chua Chen Sin (Veron)              | CSO                    |
 | Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
-| Mdm Jayasri d/o Mutu Sammy | OSO                    |
 | Mr Zainuddin               | OSO                    |
 | Mr Koh Thye Kok       | OSO                  |
 | Mdm Tee Ah Moy      | OSO                 |
+| Mr Terence Noi          | OSO                    |
+| Mdm Julie Teo | OSO                    |
+| Mdm Jessica Phua | OSO                    |
 | Ms Lillian Lee         | Admin Assistant             |
