@@ -15,7 +15,6 @@ Administrative Staff
 | Name              | Designation |
 |----------------------------|------------------------|
 | Mr Edmund Tin              | Vice-Principal (Admin) |
-| Mr Darren Kwong            | AM                     |
 | Mdm Salinah Bte Salleh     | AM                 |
 | Mr Jonathan Seto Wee Ping  | OM                   |
 | Mdm Lee Chui Leng           | OM                   |
