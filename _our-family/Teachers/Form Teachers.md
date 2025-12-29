@@ -3,7 +3,7 @@ title: Form Teachers
 permalink: /our-family/teachers/form-teachers/
 description: ""
 third_nav_title: Teachers
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -160,8 +160,8 @@ variant: markdown
 <p>Mrs Lim-Eng Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana Binte Abdul Ghani<br>
-	Mr Tasyrif</p>
+<p>Mdm Nur Liyana Binte Abdul Ghani
+<br>Mr Tasyrif</p>
 </td>
 </tr>
 <tr>
@@ -183,8 +183,8 @@ variant: markdown
 <p>Miss Dorothy Goh Ying Oon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rahmah Abd Rahman Zamawi<br>
-	Mr Lam</p>
+<p>Ms Rahmah Abd Rahman Zamawi
+<br>Mr Lam</p>
 </td>
 </tr>
 <tr>
@@ -206,8 +206,8 @@ variant: markdown
 <p>Mrs Janet Lin-Kan Yan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irwin Peh Yen Yee<br>
-	Ms Bok Siew Tin</p>
+<p>Mr Irwin Peh Yen Yee
+<br>Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -274,8 +274,8 @@ variant: markdown
 <p>Mrs Jeredith Hee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Bte Ahmad<br>
-	Mdm Farhana Begum</p>
+<p>Mdm Juliana Bte Ahmad
+<br>Mdm Farhana Begum</p>
 </td>
 </tr>
 <tr>
@@ -286,8 +286,8 @@ variant: markdown
 <p>Mdm Jalela Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Tan<br>
-	Mrs Susila Neelakandan</p>
+<p>Mr Desmond Tan
+<br>Mrs Susila Neelakandan</p>
 </td>
 </tr>
 <tr>
@@ -320,8 +320,10 @@ variant: markdown
 <p>Mdm Oh Ding Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdianna Bte Malik</p><br>
-	Mrs Joyce Soon-Yeo Siok Hwee<p></p>
+<p>Mdm Nurdianna Bte Malik</p>
+<p>
+<br>Mrs Joyce Soon-Yeo Siok Hwee</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -363,8 +365,8 @@ variant: markdown
 <p>P4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Kae<br>
-	Mdm Neo Pei Pei</p>
+<p>Mr Chai Kae
+<br>Mdm Neo Pei Pei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Agnes Ng Li Xuan</p>
@@ -389,8 +391,8 @@ variant: markdown
 <p>Ms Connie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Hussin<br>
-	Mdm Toh Chiew Hoon</p>
+<p>Mr Abdul Rahman Bin Hussin
+<br>Mdm Toh Chiew Hoon</p>
 </td>
 </tr>
 <tr>
