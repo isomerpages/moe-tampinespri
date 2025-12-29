@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: November 2025 Memo to Parents
-          date: 03 November 2025
-          announcement: Dear Parents, Please refer to the link below for the November memo
-            to parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: Principal's Farewell Memo
           date: 05 November 2025
           announcement: Dear Parents,  Please refer to the link below for the Principal's
