@@ -20,7 +20,7 @@ PE Art Music Teachers
 | Mr Abdul Rahman |
 | Mr Guo Li Ren   |
 | Miss Lai Si Hui |
-| Mr Hoo Kang, Sean | 
+| Mr Chai Kae Min | 
 
 
 ### **Art Teachers**
