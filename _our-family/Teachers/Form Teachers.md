@@ -363,8 +363,8 @@ variant: markdown
 <p>P4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Kae</p>
-<p>Mdm Neo Pei Pei</p>
+<p>Mr Chai Kae<br>
+	Mdm Neo Pei Pei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Agnes Ng Li Xuan</p>
@@ -389,8 +389,8 @@ variant: markdown
 <p>Ms Connie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Hussin</p>
-<p>Mdm Toh Chiew Hoon</p>
+<p>Mr Abdul Rahman Bin Hussin<br>
+	Mdm Toh Chiew Hoon</p>
 </td>
 </tr>
 <tr>
@@ -476,10 +476,10 @@ variant: markdown
 <p>P5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iskandar Bin Ishahak Bahroocha</p>
+<p>Mr Iskandar Bin Ishahak Bahroocha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tham Jian Wen Clement</p>
+<p>Mr Tham Jian Wen Clement</p>
 </td>
 </tr>
 <tr>
