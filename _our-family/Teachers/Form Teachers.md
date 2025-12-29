@@ -160,8 +160,8 @@ variant: markdown
 <p>Mrs Lim-Eng Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana Binte Abdul Ghani</p>
-<p>Mr Tasyrif</p>
+<p>Mdm Nur Liyana Binte Abdul Ghani<br>
+	Mr Tasyrif</p>
 </td>
 </tr>
 <tr>
@@ -183,8 +183,8 @@ variant: markdown
 <p>Miss Dorothy Goh Ying Oon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rahmah Abd Rahman Zamawi</p>
-<p>Mr Lam</p>
+<p>Ms Rahmah Abd Rahman Zamawi<br>
+	Mr Lam</p>
 </td>
 </tr>
 <tr>
@@ -206,8 +206,8 @@ variant: markdown
 <p>Mrs Janet Lin-Kan Yan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irwin Peh Yen Yee</p>
-<p>Ms Bok Siew Tin</p>
+<p>Mr Irwin Peh Yen Yee<br>
+	Ms Bok Siew Tin</p>
 </td>
 </tr>
 <tr>
@@ -272,11 +272,10 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jeredith Hee</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Bte Ahmad</p>
-<p>Mdm Farhana Begum</p>
+<p>Mdm Juliana Bte Ahmad<br>
+	Mdm Farhana Begum</p>
 </td>
 </tr>
 <tr>
@@ -285,11 +284,10 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jalela Atan</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Tan</p>
-<p>Mrs Susila Neelakandan</p>
+<p>Mr Desmond Tan<br>
+	Mrs Susila Neelakandan</p>
 </td>
 </tr>
 <tr>
@@ -322,8 +320,8 @@ variant: markdown
 <p>Mdm Oh Ding Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdianna Bte Malik</p>
-<p>Mrs Joyce Soon-Yeo Siok Hwee</p>
+<p>Mdm Nurdianna Bte Malik</p><br>
+	Mrs Joyce Soon-Yeo Siok Hwee<p></p>
 </td>
 </tr>
 <tr>
