@@ -20,6 +20,8 @@ Administrative Staff
 | Mr Jonathan Seto Wee Ping  | OM                   |
 | Mdm Lee Chui Leng           | OM                   |
 | Miss Nandini               | AE                     |
+| Ms Nur Rasyidah Binte Osman             | AE                     |
+| Ms Punitha Selvanga Nathan               | AE (MK)                     |
 | Ms Chua Chen Sin (Veron)              | CSO                    |
 | Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
