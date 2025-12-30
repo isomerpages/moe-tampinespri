@@ -39,7 +39,7 @@ sections:
           announcement: Dear Parents, Please refer to the link below for the December memo
             to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2026/
+          link_url: /letters-to-parents-2026/
   - textcards:
       title: Student Assistance
       id: textcards
