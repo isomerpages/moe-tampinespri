@@ -1,6 +1,6 @@
 ---
 title: Letter to Parents
-permalink: /letter-to-parents-2026/
+permalink: /for-parents/letter-to-parents-2026/
 variant: tiptap
 description: ""
 ---
