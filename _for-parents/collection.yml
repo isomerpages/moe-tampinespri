@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Letters to Parents.md
+      - Letter to Parents.md
       - Newsletters.md
       - Financial Assistance Scheme/.keep
       - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md

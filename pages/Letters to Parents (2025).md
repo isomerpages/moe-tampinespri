@@ -1,5 +1,5 @@
 ---
-title: Letters to Parents
+title: Letters to Parents (2025)
 permalink: /for-parents/letters-to-parents-2025/
 variant: tiptap
 description: ""

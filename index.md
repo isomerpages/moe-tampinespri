@@ -18,49 +18,28 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
-  - infopic:
-      title: In Conversation with Stakeholders
-      id: infopic
-      description: Please scan the QR code or click on the button to access the ICS
-        microsite.
-      button: ICS Microsite
-      url: https://for.edu.sg/tppsics
-      image: /images/Google_site_QR_code.png
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: August 2025 Memo to Parents
-          date: 01 August 2025
-          announcement: Dear Parents, Please refer to the link below for the August memo
-            to parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
-        - title: September 2025 Memo to Parents
-          date: 12 September 2025
-          announcement: Dear Parents, Please refer to the link below for the September
-            memo to parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
-        - title: October 2025 Memo to Parents
-          date: 01 October 2025
-          announcement: Dear Parents, Please refer to the link below for the October memo
-            to parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
-        - title: November 2025 Memo to Parents
-          date: 03 November 2025
-          announcement: Dear Parents, Please refer to the link below for the November memo
-            to parents. Thank you. Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: Principal's Farewell Memo
           date: 05 November 2025
           announcement: Dear Parents,  Please refer to the link below for the Principal's
             farewell memo.  Thank you.
           link_text: Click here for more...
           link_url: /for-parents/letters-to-parents-2025/
+        - title: First Day of School
+          date: 29 December 2025
+          announcement: Dear Parents/Guardians, please take note of the information for
+            the First Day of school for 2026.
+          link_text: Click here for more...
+          link_url: /first-day-of-school-2026-info/
+        - title: December 2025 Memo to Parents
+          date: 29 December 2025
+          announcement: Dear Parents, Please refer to the link below for the December memo
+            to parents.  Thank you.  Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letters-to-parents-2026/
   - textcards:
       title: Student Assistance
       id: textcards

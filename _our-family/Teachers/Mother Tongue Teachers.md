@@ -29,10 +29,6 @@ Mother Tongue Teachers
 | Mdm Goh Ka Bee        |
 | Mdm Toh Chiew Hoon    |
 | Mdm Wei Shuang        |
-| Mdm Chan Ai Hwa        |
-| Mrs Leo Teng Hui   |
-
-
 
 
 ### **Malay Language Teachers**
@@ -44,8 +40,7 @@ Mother Tongue Teachers
 | Mdm Norliela              |
 | Mdm Juliana               |
 | Mdm Nur Liyana              |
-| Mr Iftitah                |
-| Mdm Norhana Khamis        |
+| Mr Muhd Iftitah                |
 | Mdm Zalinah Hassan    | 
 
 
@@ -55,4 +50,3 @@ Mother Tongue Teachers
 |-----------------|
 | Mrs Vimala Ravi | 
 | Mr Mohammed Shaheer    |
-| Mdm Periasamy Thavamani |

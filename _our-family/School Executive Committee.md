@@ -12,11 +12,10 @@ School Executive Committee
 
 | **Designation**                         | Name                       |
 |---------------------------------------|----------------------------|
-| **Principal**                         | Mrs Lay See Neufeld<br><br>        |
+| **Principal**                         | Mr Hanafi B Asmore<br><br>        |
 | **Vice-Principal<br>(Academic)**      | Ms Ariken Charmaine Carrie |
 | **Vice-Principal<br>(Academic)**      | Mr Ho Wee Min Kelvin    |
 | **Vice-Principal<br>(Admin)**         | Mr Edmund Tin              |
-| **Administration Manager<br>**       | Mr Kwong Chew Weng<br>     |
 | **Administration Manager<br>**       | Mdm Salinah bte Salleh<br>     |
 | **Operations Manager**              | Mr Jonathan Seto<br><br>           |
 | **Operations Manager**              | Mdm Lee Chui Leng<br><br>           |
@@ -32,7 +31,7 @@ School Executive Committee
 | **Year Head<br>(Primary 5 &amp; 6)**      | Mdm Chua Pei Cheon         |
 | **Assistant Year Head Primary 1 &amp; 2** | Mrs Lim Lee Cher          |
 | **Assistant Year Head Primary 3 &amp; 4** | Miss Nurul Asyikin          |
-| **Lead Teacher (EL)**                 | Mdm Nazreen Osman<br><br>          |
+| **Assistant Year Head Primary 5 &amp; 6** | Mdm Sarah bte Ahmad Subor          |
 | **LH English**                        | Mrs Eileen Chong<br><br>            |
 | **LH Science**                        | Mr Joseph Christopher Chong Kin Mun           |
 | **LH Chinese**                        | Mdm Shen Jingyi<br><br>            |
