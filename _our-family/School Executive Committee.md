@@ -17,8 +17,6 @@ School Executive Committee
 | **Vice-Principal<br>(Academic)**      | Mr Ho Wee Min Kelvin    |
 | **Vice-Principal<br>(Admin)**         | Mr Edmund Tin              |
 | **Administration Manager<br>**       | Mdm Salinah bte Salleh<br>     |
-| **Operations Manager**              | Mr Jonathan Seto<br><br>           |
-| **Operations Manager**              | Mdm Lee Chui Leng<br><br>           |
 | **School Staff Developer**            | Mr Mohd Salleh<br><br>             |
 | **HOD Mathematics**                   | Mrs Janice Wang<br><br>        |
 | **HOD Mother Tongue**                 | Mdm Ng Hwee Gek<br><br>            |
