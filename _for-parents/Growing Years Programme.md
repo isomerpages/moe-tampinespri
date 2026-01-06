@@ -90,9 +90,9 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <hr>
-<p><strong>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
+<h3><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -136,11 +136,11 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms,
+so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -178,13 +178,13 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
+<h3><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
