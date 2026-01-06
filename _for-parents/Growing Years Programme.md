@@ -264,8 +264,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable <a href="/files/2025/ANNEX_A___MOE_SEd_Opt_Out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by&nbsp;<strong>31/01/2025</strong>.</p>
+to parents at the start of the year and is also downloadable . The completed
+opt-out form is to be submitted by&nbsp;<strong>31/01/2026</strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at&nbsp;<a href="mailto:tpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tpps@moe.edu.sg</a>&nbsp;or contact us at
