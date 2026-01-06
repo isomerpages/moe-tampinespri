@@ -127,8 +127,8 @@ from sexuality-related risks.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
+<p>The Changes in Me<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
@@ -145,9 +145,7 @@ so that the students will feel more comfortable during the discussions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
+<p>Did You Know?<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students know what pornography is and how
@@ -165,9 +163,8 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
+<p>Keeping Myself Safe<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn about sexual abuse, how it can happen
@@ -220,8 +217,8 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
+<p>Lesson 1<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
@@ -239,8 +236,8 @@ healthy friendships with their circles of friends.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
+<p>Lesson 2<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
