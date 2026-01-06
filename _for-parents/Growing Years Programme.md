@@ -2,7 +2,7 @@
 title: Growing Years Programme
 permalink: /for-parents/growing-years-programme/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
@@ -90,9 +90,9 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <hr>
-<p><strong>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Tampines Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
+<h3><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -127,8 +127,8 @@ from sexuality-related risks.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Changes in Me</p>
-<p>(60 min)</p>
+<p>The Changes in Me<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students identify the emotions and stress
@@ -136,18 +136,16 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms,
+so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Did You Know?</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
+<p>Did You Know?<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on helping students know what pornography is and how
@@ -160,14 +158,13 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe</p>
-<p>(60 min)</p>
-<p>&nbsp;</p>
+<p>Keeping Myself Safe<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn about sexual abuse, how it can happen
@@ -178,13 +175,13 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<h3><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
+<h3><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h3>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -220,8 +217,8 @@ and how to seek help for themselves and their friends.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
-<p>Lesson 1</p>
-<p>(60 min)</p>
+<p>Lesson 1<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
@@ -239,8 +236,8 @@ healthy friendships with their circles of friends.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Are We More than Friends?</p>
-<p>Lesson 2</p>
-<p>(60 min)</p>
+<p>Lesson 2<br>
+	(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
@@ -264,8 +261,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be distributed
-to parents at the start of the year and is also downloadable <a href="/files/2025/ANNEX_A___MOE_SEd_Opt_Out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by&nbsp;<strong>31/01/2025</strong>.</p>
+to parents at the start of the year and is also downloadable <a href="/files/2026/ANNEX_A___MOE_SEd_Opt_Out_Form2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by&nbsp;<strong>31/01/2026</strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at&nbsp;<a href="mailto:tpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tpps@moe.edu.sg</a>&nbsp;or contact us at
