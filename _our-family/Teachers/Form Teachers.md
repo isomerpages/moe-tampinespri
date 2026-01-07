@@ -183,8 +183,8 @@ variant: tiptap
 <p>Miss Dorothy Goh Ying Oon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rahmah Abd Rahman Zamawi
-<br>Mr Lam</p>
+<p>Ms Rahmah Binte Abdul Rahman Zamawi
+<br>Mr Lam Yew Sung</p>
 </td>
 </tr>
 <tr>
