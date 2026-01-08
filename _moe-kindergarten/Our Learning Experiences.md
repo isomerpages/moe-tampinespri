@@ -9,7 +9,7 @@ variant: markdown
 Our Learning Experiences
 ========================
 
-Take a look at what a typical day in MK@Tampines Primary is like!
+Take a look at what a typical day in MK@Tampines is like!
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tQa3PjbD2xM" height="315" width="560"></iframe>
 
 Want to find out more about MK experience? Click on the videos below to watch!
