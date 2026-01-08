@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_snack_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="2026 MK Menu" src="/images/2026_menu.jpg">
 </div>
 <p><strong><u>MOE Kindergarten Fees</u></strong>
 </p>
