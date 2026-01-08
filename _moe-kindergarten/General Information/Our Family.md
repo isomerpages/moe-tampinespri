@@ -38,7 +38,7 @@ variant: markdown
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nurlyana_mohamad_ismail@schools.gov.sg</a>
+<p>Nurlyana_mohamad_ismail@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Kelly_Ho_B@schools.gov.sg</a>
+<p>Kelly_Ho_B@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Lim_Lily_D@schools.gov.sg</a>
+<p>Lim_Lily_D@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nursyaurah_mohammad_shazlie@schools.gov.sg</a>
+<p>Nursyaurah_mohammad_shazlie@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Tan_zhi_lin_b@schools.gov.sg</a>
+<p>Tan_zhi_lin_b@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -98,7 +98,7 @@ variant: markdown
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Salina_bte_sulaiman@schools.gov.sg</a>
+<p>Salina_bte_sulaiman@schools.gov.sg
 </p>
 </td>
 </tr>
@@ -110,7 +110,7 @@ variant: markdown
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Siti_suzanna_kamsari@schools.gov.sg</a>
+<p>Siti_suzanna_kamsari@schools.gov.sg
 </p>
 </td>
 </tr>
