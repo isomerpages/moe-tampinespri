@@ -47,7 +47,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sample_tt.png">
 </div>
-<p><strong><u>Snack Menu (2025)</u></strong>
+<p><strong><u>Snack Menu (2026)</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
