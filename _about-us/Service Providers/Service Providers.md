@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /about-us/service-providers/service-providers/
 description: ""
 third_nav_title: Service Providers
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -124,6 +124,217 @@ specified</p>
 </tbody>
 </table>
 <h3><strong>School Dental Clinic</strong></h3>
+<p style="text-align:center">Tampines Primary School Dental Clinic Schedule for Jan 2026</p>
+<p style="text-align:center">Clinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lunch Time: <strong>1pm to 2pm</strong>
+</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Monday</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Tuesday</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Wednesday</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Thursday</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Friday</strong>
+</p>
+</th>
+</tr>
+<tr style="text-align: center">
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+</tr>
+<tr style="text-align: right">
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr style="text-align: center">
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+</tr>
+<tr style="text-align: right">
+<td>
+<p>5</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr style="text-align: center">
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+</tr>
+<tr style="text-align: right">
+<td>
+<p>12</p>
+</td>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>16</p>
+</td>
+</tr>
+<tr style="text-align: center">
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+</tr>
+<tr style="text-align: right">
+<td>
+<p>19</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>21</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>23</p>
+</td>
+</tr>
+<tr style="text-align: center">
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+<td>
+<p>CLOSED</p>
+</td>
+</tr>
+<tr style="text-align: right">
+<td>
+<p>26</p>
+</td>
+<td>
+<p>27</p>
+</td>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>If you require any URGENT dental treatment and the clinic is closed, please
+call one of the following BUDDY clinics for assistance.</p>
+<p>For general enquiry, please email: <a rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -132,69 +343,34 @@ specified</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monday - Thursday</strong>
-</p>
+<p>Buddy Clinic&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8.00 a.m. - 5.30 p.m.</strong>
-</p>
+<p>Tel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
+<p>Kong Hwa School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8.00 a.m. - 5.00 p.m.</strong>
-</p>
+<p>8940 4583</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Holidays</strong>
-</p>
+<p>East Spring Primary School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8.00 a.m - 5.00 p.m.</strong>
-</p>
+<p>8940 1244</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lunch-Time (closed)</p>
+<p>Jun Yuan Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.00 p.m. - 2.00 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Note: <br></strong>All dental appointments in the afternoon/school
-holidays are by appointment only. Please call the clinic at <strong>88098302 (HP)</strong> to
-book an appointment.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Note: </strong>
-<br>During school holidays or when the school dental clinic is closed, please
-call <strong>Health Promotion Board (HPB) Call Centre: 64353782</strong> for
-advice.
-<br>
-<br>When school dental clinic is closed and pupils need urgent treatment,
-please call the following school dental clinics for an appointment:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tanjong Katong Primary School (Tel: 9112 8295)</p>
-</li>
-<li>
-<p>Junyuan Primary School (8940 3520)</p>
-</li>
-<li>
-<p>Tampines North Primary School (9112 4295)</p>
-</li>
-</ul>
+<p>8940 3520</p>
 </td>
 </tr>
 </tbody>
