@@ -124,8 +124,8 @@ specified</p>
 </tbody>
 </table>
 <h3><strong>School Dental Clinic</strong></h3>
-<p>Tampines Primary School Dental Clinic Schedule for Jan 2026</p>
-<p>Clinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="text-align:center">Tampines Primary School Dental Clinic Schedule for Jan 2026</p>
+<p style="text-align:center">Clinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lunch Time: <strong>1pm to 2pm</strong>
 </p>
 <table style="minWidth: 125px">
@@ -177,155 +177,155 @@ Lunch Time: <strong>1pm to 2pm</strong>
 </td>
 </tr>
 <tr style="text-align: right">
-<td rowspan="1" colspan="1">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>2</p>
 </td>
 </tr>
 <tr style="text-align: center">
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
 </tr>
 <tr style="text-align: right">
-<td rowspan="1" colspan="1">
+<td>
 <p>5</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>6</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>7</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>8</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>9</p>
 </td>
 </tr>
 <tr style="text-align: center">
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Open<br>8:00am – 5:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Open<br>8:00am – 5:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
 </tr>
 <tr style="text-align: right">
-<td rowspan="1" colspan="1">
+<td>
 <p>12</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>13</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>14</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>15</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>16</p>
 </td>
 </tr>
 <tr style="text-align: center">
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
 </tr>
 <tr style="text-align: right">
-<td rowspan="1" colspan="1">
+<td>
 <p>19</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>20</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>21</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>22</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>23</p>
 </td>
 </tr>
 <tr style="text-align: center">
-<td rowspan="1" colspan="1">
+<td>
 <p>Open<br>8:00am – 5:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Open<br>8:00am – 5:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Open<br>8:00am – 5:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
 </tr>
 <tr style="text-align: right">
-<td rowspan="1" colspan="1">
+<td>
 <p>26</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>27</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>28</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>29</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>30</p>
 </td>
 </tr>
