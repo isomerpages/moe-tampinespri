@@ -159,25 +159,24 @@ Lunch Time: <strong>1pm to 2pm</strong>
 </p>
 </th>
 </tr>
-<tr valign="center" align="center">
-<td rowspan="1" colspan="1">
+<tr style="text-align: center">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>CLOSED</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<td>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: right">
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
@@ -194,7 +193,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>2</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center">
 <td rowspan="1" colspan="1">
 <p>CLOSED</p>
 </td>
@@ -211,7 +210,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>CLOSED</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: right">
 <td rowspan="1" colspan="1">
 <p>5</p>
 </td>
@@ -228,17 +227,15 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>9</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center">
 <td rowspan="1" colspan="1">
 <p>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CLOSED</p>
@@ -247,7 +244,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>CLOSED</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: right">
 <td rowspan="1" colspan="1">
 <p>12</p>
 </td>
@@ -264,7 +261,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>16</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center">
 <td rowspan="1" colspan="1">
 <p>CLOSED</p>
 </td>
@@ -281,7 +278,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>CLOSED</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: right">
 <td rowspan="1" colspan="1">
 <p>19</p>
 </td>
@@ -298,18 +295,15 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>23</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: center">
 <td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
-<p>8:00am – 5:00pm</p>
+<p>Open<br>8:00am – 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CLOSED</p>
@@ -318,7 +312,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 <p>CLOSED</p>
 </td>
 </tr>
-<tr>
+<tr style="text-align: right">
 <td rowspan="1" colspan="1">
 <p>26</p>
 </td>
