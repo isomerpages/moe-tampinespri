@@ -47,15 +47,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sample_tt.png">
 </div>
-<p><strong><u>Snack Menu (2025)</u></strong>
+<p><strong><u>Snack Menu (2026)</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk_snack_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="2026 MK Menu" src="/images/2026_menu.jpg">
 </div>
 <p><strong><u>MOE Kindergarten Fees</u></strong>
 </p>
-<p>The monthly fee for MK in 2025 is:</p>
+<p>The monthly fee for MK in 2026 is:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$160 for Singapore Citizens</p>

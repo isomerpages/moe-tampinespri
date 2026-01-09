@@ -5,28 +5,115 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-![](/images/mk%20kindergarten.jpg)
-
-Our Family
-==========
-
-|                Name                |         Designation         |                Email Address               |
-|:----------------------------------:|:---------------------------:|:------------------------------------------:|
-|  Ms Clarisse Yong Pueh Teng        | Centre Head                 |  yong_pueh_teng@moe.edu.sg                 |
-|  Mdm Lenny Haslinda Binte Jaffar   | English Language Teacher |  lenny_haslinda_binte_jaffar@moe.edu.sg    |
-|  Miss Sasha Leung Yi Xiu           | English Language Teacher |  sasha_leung_yi_xiu@moe.edu.sg             |
-|  Ms Renice Ong   | English Language Teacher |  renice_ong_ling_qian@moe.edu.sg    |
-|  Ms Nur Atiqah           | English Language Teacher |  nur_atiqah_zolkefle@moe.edu.sg             |
-|  Ms Shannon Sim           | English Language Teacher |  shannon_sim_yee_xuan@moe.edu.sg             |
-|  Miss Nuratiqah Insyira Hisham           | English Language Teacher |  nuratiqah_insyira_hisham@moe.edu.sg     |
-|  Miss Tan Siao Min           | English Language Teacher |  tan_siao_min@moe.edu.sg             |
-|  Ms Nur Farhana        | English Language Teacher |  nur_farhana_abdul_kader@moe.edu.sg        |
-|  Mdm Ong Bee Leng                    | English Language Teacher |  ong_bee_leng@moe.edu.sg                   |
-|  Mdm Chen Lifeng                   | Chinese Language Teacher |  chen_lifeng@moe.edu.sg                    |
-|  Miss Joyce Ong Yu Yi              | Chinese Language Teacher |  joyce_ong_yu_yi@moe.edu.sg                |
-|  Mdm Zhang Ying                    | Chinese Language Teacher |  zhang_ying_a@moe.edu.sg                   |
-|  Mdm Yang Junxia                    | Chinese Language Teacher |  yang_junxia@moe.edu.sg                   |
-|  Ms Cheng Sishi	      |  Chinese Language Teacher    |	cheng_sishi@moe.edu.sg
-|  Ms Nursyazana Binte Abdul Aziz    |  Malay Language Teacher  |  nursyazana_abdul_aziz@moe.edu.sg          |
-|  Mdm Salina Bte Sulaiman           | Malay Language Teacher   |  salina_bte_sulaiman@moe.edu.sg            |
-|  Ms Kesavan Bindhu                      | Tamil Language Teacher   |  kesavan_bindhu@moe.edu.sg                        |
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk%20kindergarten.jpg">
+</div>
+<h1>Our Family</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurlyana Binte Mohamad Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurlyana_mohamad_ismail@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kelly Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kelly_Ho_B@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Lily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim_Lily_D@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nursyaurah Binte Mohammad Shazlie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursyaurah_mohammad_shazlie@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Zhi Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan_zhi_lin_b@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Salina Bte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Salina_bte_sulaiman@schools.gov.sg
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Suzanna Binte Kamsari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti_suzanna_kamsari@schools.gov.sg
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
