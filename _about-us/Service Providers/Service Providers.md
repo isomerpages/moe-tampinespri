@@ -159,7 +159,7 @@ Lunch Time: <strong>1pm to 2pm</strong>
 </p>
 </th>
 </tr>
-<tr>
+<tr valign="center" align="center">
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
