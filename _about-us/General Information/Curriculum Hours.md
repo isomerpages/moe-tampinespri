@@ -50,7 +50,7 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.</p>
+<p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.</p>
+<p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.</p>
+<p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.50 a.m. - 1.45 p.m.</p>
+<p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.30 p.m.</p>
