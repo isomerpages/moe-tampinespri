@@ -56,3 +56,15 @@ monthly household income (GHI) of $4,000 and below, or per capita income
 <h3><strong>Application for Straits Times School Pocket Money Fund</strong></h3>
 <p><a href="/for-parents/financial-assistance-scheme/application-for-straits-times-school-pocket-money-fund/" rel="noopener noreferrer nofollow" target="_blank">Click here for more info</a>
 </p>
+<hr>
+<h3><strong>DigitalAccess@Home</strong></h3>
+<h4><strong>About</strong></h4>
+<p>DigitalAccess@Home provides subsidised broadband and laptops/tablets to
+lower-income households to support their lifestyle needs, including work
+and social activities.</p>
+<h4><strong>Who can apply?</strong></h4>
+<p>Low-income households living in HDB flats with at least one Singapore
+Citizen are eligible to apply for DigitalAccess@Home.</p>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Click here for more details</a>
+</p>
+<p></p>

@@ -18,6 +18,16 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+  - infopic:
+      title: Compliments for our Teachers
+      subtitle: '"I appreciate you!'
+      id: infopic
+      description: Dear parents, we invite you to share a message of appreciation for
+        our teachers. Your words of encouragement are greatly appreciated.
+      button: Click here
+      url: /for-parents/compliments-for-teachers/
+      image: /images/Compliments_for_our_teachers__1_.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
