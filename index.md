@@ -54,4 +54,14 @@ sections:
             details.
           linktext: Learn more
           url: https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/
+  - infopic:
+      title: Compliments for our Teachers
+      subtitle: '"I appreciate you!'
+      id: infopic
+      description: Dear parents, we invite you to share a message of appreciation for
+        our teachers. Your words of encouragement are greatly appreciated.
+      button: Click here
+      url: /for-parents/compliments-for-teachers/
+      image: /images/Compliments_for_our_teachers__1_.jpg
+      alt: Image alt text
 ---
