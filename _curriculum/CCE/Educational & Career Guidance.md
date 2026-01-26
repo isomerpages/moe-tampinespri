@@ -26,10 +26,10 @@ talks, Primary 1 &amp; 2 students gain a better understanding on the different
 careers available and scope of work in the hope to excite and motivate
 students in their learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_01.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/ecg_2026_01.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_02.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/ecg_2026_02.jpg">
 </div>
 <p><strong><u>Career Week</u></strong>
 </p>
@@ -40,10 +40,10 @@ sharing of their dream careers to a buzzing recess career fair, students
 gain a better understanding on the different careers available and scope
 of work in the hope to excite and motivate them in their learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_03.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/ecg_2026_03.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_04.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/ecg_2026_04.jpg">
 </div>
 <p><strong><u>Secondary School Talks for Primary 6 students</u></strong>
 </p>
