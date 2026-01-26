@@ -50,4 +50,10 @@ of work in the hope to excite and motivate them in their learning.</p>
 <p>Primary 6 students are exposed to a variety of secondary schools through
 talks. These talks provide students with clear and relevant information
 about secondary schools, including curriculum, CCAs, and school environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_05.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg_2026_06.jpg">
+</div>
 <p></p>
