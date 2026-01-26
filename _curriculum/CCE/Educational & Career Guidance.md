@@ -54,4 +54,3 @@ about secondary schools, including curriculum, CCAs, and school environment.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_05.png">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_06.jpg">
 </div>
-<p></p>
