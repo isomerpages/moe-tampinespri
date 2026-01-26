@@ -14,7 +14,7 @@ School Values – iREAP
 
 The Tampinesian hallmarks represent the collective hopes and aspirations we have of all Tampinesians. They were reviewed at the end of 2020 through a series of focus group discussions, in tandem with our re-envisioning. &nbsp;Through these conversations, it was evident that we still want them to be&nbsp;<b>self-disciplined, self-motivated, caring, confident, creative, adaptable, happy and healthy.</b>&nbsp;
 
-The Tampinesian hallmarks delineate the distinctive attributes we want our students to be endowed with. They help us and our students understand and work towards the vision of what it means to be a “Community School of Excellence: Caring Hearts and Creative Minds”&nbsp;
+The Tampinesian hallmarks delineate the distinctive attributes we want our students to be endowed with. They help us and our students understand and work towards the vision of what it means to be a “Community School of Excellence: Care, Create, Connect, Contribute”
 
 <b>Our iREAP Values</b>
 
