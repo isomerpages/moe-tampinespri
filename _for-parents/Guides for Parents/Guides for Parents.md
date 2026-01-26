@@ -30,6 +30,10 @@ variant: tiptap
 <p><a href="/for-parents/Guides-for-Parents/Updates-on-PSLE-Scoring-and-Secondary-1-Posting-System-from-2021/" rel="noopener noreferrer nofollow" target="_blank">Updates on PSLE Scoring and Secondary 1 Posting System from 2021</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec)</a>
+</p>
+</li>
 </ul>
 <h3><strong>Other Useful Links</strong></h3>
 <p><a href="/for-parents/Guides-for-Parents/Positive-Parenting-Program-Triple-P/" rel="noopener noreferrer nofollow" target="_blank">Positive Parenting Program® (Triple P)</a>
