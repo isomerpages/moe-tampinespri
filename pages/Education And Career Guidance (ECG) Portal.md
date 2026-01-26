@@ -2,7 +2,6 @@
 title: Education And Career Guidance (ECG) Portal
 permalink: /for-parents/guides-for-parents/education-and-career-guidance-ecg-portal/
 description: ""
-third_nav_title: Guides for Parents
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

@@ -8,25 +8,26 @@ variant: markdown
 ![](/images/ForParents.jpg)
 
 # The Straits Times School Pocket Money Fund (STSPMF) Application
-7 August 2025
+
+23 January 2026
 
 **The Straits Times School Pocket Money Fund (STSPMF) Application for 2026**
 
 Dear Parents/Guardians,
 
-We are pleased to inform you that applications for The Straits Times School Pocket Money Fund will be opened from **7 August to 11 September 2025**.
+We are pleased to inform you that applications for The Straits Times School Pocket Money Fund will be opened from **23 January to 13 February 2026**.
 
 This fund aims to support students from families in needs.
 
-Successful applicants will receive a monthly allowance of $65, disbursed through the school starting from January 2026.
+Successful applicants will receive a monthly allowance of $65, disbursed through the school starting from June 2026.
 
 Eligibility criteria for the fund are as follows:
 
 * The student must be a Singapore Citizen (SC) or Singapore Permanent Resident (SPR).
-* The family's Gross per capita income (PCI) should not exceed $750 per month.
+* The family's Gross per capita income (PCI) should not exceed $1000 per month.
 * The student must be enrolled full-time in a mainstream primary school.
 
-**Please submit your completed application forms to the General Office by Thursday, 11 September 2025.**
+**Please submit your completed application forms to the General Office by Friday, 13 February 2026.**
 
 If you have any questions or require further information, please do not hesitate to contact us at [tpps@moe.edu.sg](tpps@moe.edu.sg).
 
