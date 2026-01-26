@@ -52,8 +52,6 @@ talks. These talks provide students with clear and relevant information
 about secondary schools, including curriculum, CCAs, and school environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_05.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_06.jpg">
 </div>
 <p></p>
