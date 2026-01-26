@@ -51,9 +51,9 @@ of work in the hope to excite and motivate them in their learning.</p>
 talks. These talks provide students with clear and relevant information
 about secondary schools, including curriculum, CCAs, and school environment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ecg_2026_05.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_05.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ecg_2026_06.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ecg_2026_06.jpg">
 </div>
 <p></p>
