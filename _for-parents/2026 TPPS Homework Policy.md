@@ -7,7 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ForParents.jpg">
 </div>
-<p></p>
 <p>26 January 2026</p>
 <h2><strong>2026 Homework Policy</strong></h2>
 <p>Dear Parents and Guardians,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -15,82 +14,76 @@ description: ""
 work together to ensure that your child is clear about the work that needs
 to be done and how (s)he can be best supported. Together, we can help every
 child to succeed.</p>
-<p><u>Why is homework important</u>?</p>
-<p>Homework can reinforce students’ learning, deepen understanding of lessons
+<p><u>Why is homework important?</u><br>
+Homework can reinforce students’ learning, deepen understanding of lessons
 taught and allow them to regularly practise and apply skills and concepts
 taught. It also enables students to cultivate good study habits and positive
 work ethics through practising self-discipline and time management. At
 the same time, homework allows teachers to check for pupils’ understanding
 and progress, so as to provide timely feedback, intervention and support.</p>
-<p>Homework assignments may include:</p>
+Homework assignments may include:
 <ul data-tight="true" class="tight">
 <li>
-<p>Practice exercises to follow classroom instruction</p>
+Practice exercises to follow classroom instruction
 </li>
 <li>
-<p>Preview assignments to prepare for subsequent lessons</p>
+Preview assignments to prepare for subsequent lessons
 </li>
 <li>
-<p>Extension assignments to transfer new skills or concepts to new situations</p>
+Extension assignments to transfer new skills or concepts to new situations
 </li>
 <li>
-<p>Creative activities to integrate many skills toward the production of
-a response or product</p>
+Creative activities to integrate many skills toward the production of a response or product
 </li>
 </ul>
 <p><u>Parents’ Role</u>
-</p>
-<p>Homework provides parents with timely information on the learning progress
-of their child and the opportunity to be involved in their child’s learning.
-Parents should work hand-in-hand with the teachers in supporting their
-children in their learning by:&nbsp;</p>
+<br>
+Homework provides parents with timely information on the learning progress of their child and the opportunity to be involved in their child’s learning.
+Parents should work hand-in-hand with the teachers in supporting their children in their learning by:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>spending time to talk about their daily school activities/experiences</p>
+spending time to talk about their daily school activities/experiences
 </li>
 <li>
-<p>assisting them in establishing a good pattern of study</p>
+assisting them in establishing a good pattern of study
 </li>
 <li>
-<p>guiding them to set aside a regular study time</p>
+guiding them to set aside a regular study time
 </li>
 <li>
-<p>having a study area away from household distraction(s)</p>
+having a study area away from household distraction(s)
 </li>
 </ul>
 <p><u>Students’ Role</u>
-</p>
-<p>To ensure effectiveness of homework, students should do the following:</p>
+<br>
+To ensure effectiveness of homework, students should do the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>record homework given in the student diary</p>
+record homework given in the student diary
 </li>
 <li>
-<p>ask questions to clarify if they are unclear with assignment instructions</p>
+ask questions to clarify if they are unclear with assignment instructions
 </li>
 <li>
-<p>have a home study timetable</p>
+have a home study timetable
 </li>
 <li>
-<p>organise their school materials: study notes, assignments, books, papers,
-etc.</p>
+organise their school materials: study notes, assignments, books, papers,
+etc.
 </li>
 <li>
-<p>seek help from classmates, friends or teachers if they face any difficulty</p>
+seek help from classmates, friends or teachers if they face any difficulty
 </li>
 <li>
-<p>take pride in their assignments and produce quality work</p>
+take pride in their assignments and produce quality work
 </li>
 <li>
-<p>ensure assignments, including corrections are completed on time</p>
+ensure assignments, including corrections are completed on time
 </li>
 </ul>
-<p>&nbsp;<strong>General Guidelines on Homework</strong>
-</p>
-<p>While homework is important for students, we are cognizant that there
-is a need to balance between time spent on homework as well as other activities
-such as social interaction and sleep. Hence, we will ensure that assignments
-are given regularly without overloading pupils unnecessarily.</p>
+<p><strong>General Guidelines on Homework</strong>
+<br>
+While homework is important for students, we are cognizant that there is a need to balance between time spent on homework as well as other activities such as social interaction and sleep. Hence, we will ensure that assignments are given regularly without overloading pupils unnecessarily.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,19 +104,17 @@ are given regularly without overloading pupils unnecessarily.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 1 and 2</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Daily reading for enjoyment</p>
+Daily reading for enjoyment
 </li>
 <li>
-<p>Either English Language, Mathematics and/or Mother Tongue Language homework</p>
+Either English Language, Mathematics and/or Mother Tongue Language homework
 </li>
 <li>
-<p>About 0.5 to 1 hour in total every weekday*</p>
+About 0.5 to 1 hour in total every weekday*
 </li>
 </ul>
 </td>
@@ -132,19 +123,17 @@ are given regularly without overloading pupils unnecessarily.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 3 and 4</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Daily reading for enjoyment</p>
+Daily reading for enjoyment
 </li>
 <li>
-<p>English Language, Mathematics, Science and Mother Tongue Language homework</p>
+English Language, Mathematics, Science and Mother Tongue Language homework
 </li>
 <li>
-<p>About 1 to 1.5 hours in total every weekday</p>
+About 1 to 1.5 hours in total every weekday
 </li>
 </ul>
 </td>
@@ -153,14 +142,12 @@ are given regularly without overloading pupils unnecessarily.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 5 and 6</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language, Mathematics, Science and Mother Tongue Language homework</p>
 <ul data-tight="true" class="tight">
+	<li>English Language, Mathematics, Science and Mother Tongue Language homework</li>
 <li>
-<p>About 1.5 to 2 hours in total every weekday**</p>
+About 1.5 to 2 hours in total every weekday**
 </li>
 </ul>
 </td>
@@ -169,24 +156,22 @@ are given regularly without overloading pupils unnecessarily.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Primary 5 and 6 Foundation</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>• Foundation English Language, Foundation Mathematics, Foundation Science
-and Foundation Mother Tongue Language homework</p>
-<p>• About 1 to 1.5 hours in total every weekday</p>
+Foundation English Language, Foundation Mathematics, Foundation Science
+and Foundation Mother Tongue Language homework</li>
+<li>About 1 to 1.5 hours in total every weekday
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Note:</p>
-<p>*P1 students can expect homework only from T2 onwards</p>
-<p>**P6 students may have more homework as they progress towards PSLE.</p>
+<p>Note:<br>
+	*P1 students can expect homework only from T2 onwards
+<br>**P6 students may have more homework as they progress towards PSLE.</p>
 <p>Students who are unable to finish the work set in class will also need
 to complete it at home. They may also do corrections as part of their homework.
 In addition, teachers may ask the students to do some journal writing,
@@ -212,6 +197,6 @@ note down work that needs to be done and learn the life-skill of being
 self-disciplined regarding work. We look forward to a meaningful year,
 working together with you to nurture our students’ potential.</p>
 <p></p>
-<p>Yours in partnership,</p>
-<p>Mr Hanafi Asmore</p>
-<p>Principal</p>
+<p>Yours in partnership,<br>
+Mr Hanafi Asmore<br>
+Principal</p>
