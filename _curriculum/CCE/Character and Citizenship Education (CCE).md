@@ -35,11 +35,11 @@ of their development.</p>
 </p>
 <p><a href="/curriculum/cce/social-studies/" rel="noopener noreferrer nofollow" target="_blank">Social Studies</a>
 </p>
-<p><a href="/curriculum/CCE/National-Education/" rel="noopener noreferrer nofollow" target="_blank">National Education</a>
+<p><a href="/curriculum/cce/national-education/" rel="noopener noreferrer nofollow" target="_blank">National Education</a>
 </p>
-<p><a href="/curriculum/CCE/CCE-Awards-and-Recognition/" rel="noopener noreferrer nofollow" target="_blank">CCE Awards &amp; Recognition</a>
+<p><a href="/curriculum/cce/cce-awards-and-recognition/" rel="noopener noreferrer nofollow" target="_blank">CCE Awards &amp; Recognition</a>
 </p>
-<p><a href="/curriculum/CCE/Values-in-Action/" rel="noopener noreferrer nofollow" target="_blank">Values in Action</a>
+<p><a href="/curriculum/cce/values-in-action/" rel="noopener noreferrer nofollow" target="_blank">Values in Action</a>
 </p>
-<p><a href="/curriculum/CCE/Educational-and-Career-Guidance/" rel="noopener noreferrer nofollow" target="_blank">Educational &amp; Career Guidance</a>
+<p><a href="/curriculum/cce/educational-and-career-guidance/" rel="noopener noreferrer nofollow" target="_blank">Educational &amp; Career Guidance</a>
 </p>
