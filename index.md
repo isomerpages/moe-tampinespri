@@ -32,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Principal's Farewell Memo
-          date: 05 November 2025
-          announcement: Dear Parents,  Please refer to the link below for the Principal's
-            farewell memo.  Thank you.
-          link_text: Click here for more...
-          link_url: /for-parents/letters-to-parents-2025/
         - title: First Day of School
           date: 29 December 2025
           announcement: Dear Parents/Guardians, please take note of the information for
@@ -48,6 +42,12 @@ sections:
           date: 29 December 2025
           announcement: Dear Parents, Please refer to the link below for the December memo
             to parents.  Thank you.  Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letter-to-parents-2026/
+        - title: February 2026 Memo to Parents
+          date: 29 January 2026
+          announcement: Dear Parents,  Please refer to the link below for the February
+            memo to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
   - textcards:
