@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
@@ -66,6 +66,6 @@ collaboratively with their peers. These varied experiences not only make
 mathematics fun and meaningful but also help our students build confidence,
 curiosity and a positive disposition towards the subject.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/maths_sba_2026.png">
 </div>
 <p></p>
