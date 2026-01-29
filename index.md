@@ -26,7 +26,7 @@ sections:
         our teachers. Your words of encouragement are greatly appreciated.
       button: Click here
       url: /for-parents/compliments-for-teachers/
-      image: /images/Compliments_for_our_teachers__1_.jpg
+      image: /images/Compliments_for_our_teachers__poster_.jpg
       alt: Image alt text
   - announcements:
       title: Announcements
