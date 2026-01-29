@@ -388,7 +388,7 @@ the conduct of the Weighted Assessments and Examinations.</p>
 </li>
 <li>
 <p>Students must not have in their possession:</p>
-<ol data-tight="true" class="tight">
+<ol style="list-style-type: lower-alpha" data-tight="true" class="tight">
 <li>
 <p>Any unauthorized electronic, communication, entertainment or gaming devices
 capable of capturing, storing, displaying and/or transmitting visual, audio
