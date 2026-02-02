@@ -103,75 +103,16 @@ to strengthen community support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe_2026_09.png">
 </div>
-<h4><strong>Primary 5 Cohort Adventure Camp</strong> </h4>
+<h4><strong>Primary 5 Cohort Adventure Camp</strong></h4>
 <p>The P5 Cohort Adventure Camp provides students with opportunities to develop
 independence and extend learning beyond the classroom. Through activities
 such as Confidence Rope Courses, place-based exploration and team-building
 challenges, students build interpersonal communication skills, resilience,
 and ruggedness while learning to work together and overcome challenges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe_2026_10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pe_2026_11.jpg">
+</div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3><strong>Video Analysis and Critique of Sport Skills</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Video%20Analysis%20and%20Critique%20of%20Sport%20Skills-2.png">
-</div>
-<p>Through analysis critique of peers’ performance of sport skills, students
-develop a deeper understanding of the biomechanical principles that contribute
-to good performance.</p>
-<h3><strong>P6 Sport Education</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.png">
-</div>
-<p>Sport Education aims to develop students’ perception of sport to encompass
-non-playing roles that are prevalent in modern sport. Students participate
-in are responsible for the organisation of their teams throughout the season
-with the teacher as a facilitator.&nbsp;Reflection peer evaluations are
-done by the students to frame their learning experiences.</p>
-<h3><strong>Healthy Lifestyle Week</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE3.png">
-</div>
-<p>The week serves as a lead up to the Senior Olympics, where all students
-participate&nbsp;in the “I am a Role Model” program - focussing on desired
-behaviour when participating&nbsp;in sport - conducted by our Parent Support
-Group members, as well as practice matches&nbsp;during recess to prepare
-for the Senior Olympics. Augmenting these is Eye Care Week activities with
-the key message to “Keep Myopia at Bay. Go Outdoors Play”.</p>
-<h3><strong>Senior Olympics</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE4.png">
-</div>
-<p>Senior Olympics promotes the right values and is a celebration of sport.
-Students participate in inter-class Basketball, Floorball, Football, Softball
-and Relay Run competitions in co-ed teams.</p>
-<h3><strong>Obesity Seminar</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE5.png">
-</div>
-<p>The seminar aims to build on existing home-school partnership towards
-attaining a healthier weight for our students. Tackling childhood obesity
-early would help to reduce the risk of weight-related diseases later on
-in adulthood and it has been proven to increase students’ academic achievement.
-The hands on seminar provide parents with knowledge and ideas to help their
-child as well as strengthen family bonds.</p>
-<h3><strong>Sports Exposure</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE6.png">
-</div>
-<p>In addition to games &amp; sports taught in the curriculum, our students
-are given exposure to alternative and contemporary sports such as Inline
-Skating, Golf and Martial Arts. These sessions are conducted by invited
-coaches experienced in their respective sports who share our principles
-towards education.</p>
-<h3><strong>Junior Olympics</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE7.png">
-</div>
-<p>The Junior Olympics serve as a culminating event for P1 – P2 students
-where they are able to demonstrate the skills and attitudes learnt throughout
-the year. students are able to apply them in small-sided/modified Basketball,
-Floorball, Football and Softball competitions. Parent Volunteers too get
-involved and served as “umpires” with the values-based scoring based on
-MOE, School Olympic values.</p>
