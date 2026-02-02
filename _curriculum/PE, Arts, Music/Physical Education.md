@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /curriculum/pe-arts-music/physical-education/
 description: ""
 third_nav_title: PE, Arts, Music
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
