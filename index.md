@@ -25,7 +25,7 @@ sections:
       description: Dear parents, we invite you to share a message of appreciation for
         our teachers. Your words of encouragement are greatly appreciated.
       button: Click here
-      url: /for-parents/compliments-for-teachers/
+      url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
       image: /images/Compliments_for_our_teachers__poster_.jpg
       alt: Image alt text
   - announcements:
