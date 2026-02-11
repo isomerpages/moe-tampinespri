@@ -269,17 +269,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Salina Bte Sulaiman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Salina_bte_sulaiman@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Siti Suzanna Binte Kamsari</p>
 </td>
 <td rowspan="1" colspan="1">
