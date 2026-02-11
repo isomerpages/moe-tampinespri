@@ -26,7 +26,7 @@ sections:
         our teachers. Your words of encouragement are greatly appreciated.
       button: Click here
       url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
-      image: /images/Compliments_for_our_teachers__poster_.jpg
+      image: /images/Compliments_for_our_teachers__poster____front.jpg
       alt: Image alt text
   - announcements:
       title: Announcements
