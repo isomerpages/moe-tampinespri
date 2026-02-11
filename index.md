@@ -26,7 +26,7 @@ sections:
         our teachers. Your words of encouragement are greatly appreciated.
       button: Click here
       url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
-      image: /images/Compliments_for_our_teachers__poster_.jpg
+      image: /images/Compliments_for_our_teachers__poster____front.jpg
       alt: Image alt text
   - announcements:
       title: Announcements
@@ -50,6 +50,12 @@ sections:
             memo to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
+        - title: MK@Tampines Open House
+          date: 11 February 2026
+          announcement: Dear Parents, MK@Tampines will be having our Open House on 7th
+            March 2026. Details are in the link below.
+          link_text: Click here for more...
+          link_url: /moe-kindergarten/for-parents/open-house/
   - textcards:
       title: Student Assistance
       id: textcards
