@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h1><strong>Open House</strong></h1><a class="isomer-image-wrapper" href="/files/2026/MK_Tampines_Open_House_2026.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/open_house_2026.jpg"></a>
+<h1><strong>Open House</strong></h1><a class="isomer-image-wrapper" href="/files/2026/MK_Tampines_Open_House_2026.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/open_house_2026.jpg"></a>
 <p></p>
 <p></p>
