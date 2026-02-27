@@ -32,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: First Day of School
-          date: 29 December 2025
-          announcement: Dear Parents/Guardians, please take note of the information for
-            the First Day of school for 2026.
-          link_text: Click here for more...
-          link_url: /first-day-of-school-2026-info/
         - title: December 2025 Memo to Parents
           date: 29 December 2025
           announcement: Dear Parents, Please refer to the link below for the December memo
@@ -56,6 +50,12 @@ sections:
             March 2026. Details are in the link below.
           link_text: Click here for more...
           link_url: /moe-kindergarten/for-parents/open-house/
+        - title: March 2026 Memo to Parents
+          date: 27 February 2026
+          announcement: Dear Parents,  Please refer to the link below for the March memo
+            to parents.  Thank you.  Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letter-to-parents-2026/
   - textcards:
       title: Student Assistance
       id: textcards
