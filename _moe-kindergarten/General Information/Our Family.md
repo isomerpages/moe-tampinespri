@@ -3,13 +3,16 @@ title: Our Family
 permalink: /moe-kindergarten/about-us/our-family/
 description: ""
 third_nav_title: General Information
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk%20kindergarten.jpg">
 </div>
 <h1>Our Family</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Tampines_Family.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -39,8 +42,7 @@ variant: markdown
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurlyana_mohamad_ismail@schools.gov.sg
-</p>
+<p>Nurlyana_mohamad_ismail@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -51,8 +53,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sasha_leung_yi_xiu@moe.edu.sg
-</p>
+<p>sasha_leung_yi_xiu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -63,8 +64,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>renice_ong_ling_qian@moe.edu.sg
-</p>
+<p>renice_ong_ling_qian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +75,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_atiqah_zolkefle@moe.edu.sg
-</p>
+<p>nur_atiqah_zolkefle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +86,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shannon_sim_yee_xuan@moe.edu.sg
-</p>
+<p>shannon_sim_yee_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -99,8 +97,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nuratiqah_insyira_hisham@moe.edu.sg
-</p>
+<p>nuratiqah_insyira_hisham@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -111,8 +108,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_siao_min@moe.edu.sg
-</p>
+<p>tan_siao_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -123,8 +119,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_farhana_abdul_kader@moe.edu.sg
-</p>
+<p>nur_farhana_abdul_kader@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,8 +130,7 @@ variant: markdown
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_bee_leng@moe.edu.sg
-</p>
+<p>ong_bee_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +141,7 @@ variant: markdown
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chen_lifeng@moe.edu.sg
-</p>
+<p>chen_lifeng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -159,8 +152,7 @@ variant: markdown
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>oyce_ong_yu_yi@moe.edu.sg
-</p>
+<p>oyce_ong_yu_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -171,8 +163,7 @@ variant: markdown
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhang_ying_a@moe.edu.sg
-</p>
+<p>zhang_ying_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -183,8 +174,7 @@ variant: markdown
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yang_junxia@moe.edu.sg
-</p>
+<p>yang_junxia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -195,8 +185,7 @@ variant: markdown
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>heng_sishi@moe.edu.sg
-</p>
+<p>heng_sishi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -207,8 +196,7 @@ variant: markdown
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>salina_bte_sulaiman@moe.edu.sg
-</p>
+<p>salina_bte_sulaiman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -219,8 +207,7 @@ variant: markdown
 <p>Tamil Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kesavan_bindhu@moe.edu.sg
-</p>
+<p>kesavan_bindhu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
