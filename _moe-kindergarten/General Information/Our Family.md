@@ -9,7 +9,7 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mk%20kindergarten.jpg">
 </div>
 <h1>Our Family</h1>
-<p>![](/images/MK_Tampines_Family.jpg)</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
