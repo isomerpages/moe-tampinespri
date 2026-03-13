@@ -32,12 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: MK@Tampines Open House
-          date: 11 February 2026
-          announcement: Dear Parents, MK@Tampines will be having our Open House on 7th
-            March 2026. Details are in the link below.
-          link_text: Click here for more...
-          link_url: /moe-kindergarten/for-parents/open-house/
         - title: March 2026 Memo to Parents
           date: 27 February 2026
           announcement: Dear Parents,  Please refer to the link below for the March memo
