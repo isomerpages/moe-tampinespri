@@ -32,18 +32,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: December 2025 Memo to Parents
-          date: 29 December 2025
-          announcement: Dear Parents, Please refer to the link below for the December memo
-            to parents.  Thank you.  Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letter-to-parents-2026/
-        - title: February 2026 Memo to Parents
-          date: 29 January 2026
-          announcement: Dear Parents,  Please refer to the link below for the February
-            memo to parents.  Thank you.  Tampines Primary School
-          link_text: Click here for more...
-          link_url: /for-parents/letter-to-parents-2026/
         - title: MK@Tampines Open House
           date: 11 February 2026
           announcement: Dear Parents, MK@Tampines will be having our Open House on 7th
