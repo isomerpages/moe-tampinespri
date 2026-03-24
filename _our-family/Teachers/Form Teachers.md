@@ -363,7 +363,7 @@ variant: tiptap
 <p>P4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Kae</p>
+<p>Mr Chai Kae Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Agnes Ng</p>
@@ -508,7 +508,7 @@ variant: tiptap
 <p>P5 Love</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kwa Shaur Er</p>
+<p>Miss Kwa Shaur En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Chong</p>
