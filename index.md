@@ -38,6 +38,12 @@ sections:
             to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
+        - title: April 2026 Memo to Parents
+          date: 27 March 2026
+          announcement: Dear Parents,  Please refer to the link below for the April memo
+            to parents.  Thank you.  Tampines Primary School
+          link_text: Click here for more...
+          link_url: /for-parents/letter-to-parents-2026/
   - textcards:
       title: Student Assistance
       id: textcards
