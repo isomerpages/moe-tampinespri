@@ -32,9 +32,9 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: March 2026 Memo to Parents
-          date: 27 February 2026
-          announcement: Dear Parents,  Please refer to the link below for the March memo
+        - title: April 2026 Memo to Parents
+          date: 27 March 2026
+          announcement: Dear Parents,  Please refer to the link below for the April memo
             to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/

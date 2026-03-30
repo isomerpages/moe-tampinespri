@@ -17,3 +17,7 @@ description: ""
 <h3><strong>March 2026</strong></h3>
 <p><a href="/files/2026/TPPS_14_2026___March_Memo_2026.pdf" rel="noopener nofollow" target="_blank">TPPS-14-2026 - March Memo 2026.pdf</a>
 </p>
+<h3><strong>April 2026</strong></h3>
+<p><a href="/files/2026/TPPS_18_2026___April_Memo_2026.pdf" rel="noopener nofollow" target="_blank">TPPS-18-2026 - April Memo 2026.pdf</a>
+</p>
+<p></p>
