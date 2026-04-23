@@ -136,7 +136,7 @@ as being calm and respectful in communications</p>
 your child to explain why certain conduct is inappropriate</p>
 </li>
 </ul>
-<h4><strong>Get in Touch</strong> </h4>
+<h4><strong>Get in Touch</strong></h4>
 <p>We are here to listen and help. If you would like to bring an incident
 to our attention, you can reach out to us via any of the following methods:</p>
 <ul data-tight="true" class="tight">
