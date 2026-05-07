@@ -2,7 +2,6 @@
 title: For Students
 permalink: /quick-links/useful-links/for-students/
 description: ""
-third_nav_title: Useful Links
 variant: markdown
 ---
 ![](/images/AboutUs.jpg)

@@ -9,15 +9,18 @@ sections:
   - hero:
       background: /images/homepage_2025_v3.gif
       key_highlights:
-        - title: Announcements
+        - title: Newsletters
           description: ""
-          url: /quick-links/announcements/announcements/
+          url: /for-parents/newsletters/
         - title: Calendar
           description: ""
           url: /quick-links/school-calendar/
         - title: Quick Links
           description: ""
           url: /quick-links/useful-links/useful-links/
+        - title: Compliment for our Teachers
+          description: ""
+          url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
   - infopic:
       title: Compliments for our Teachers
       subtitle: '"I appreciate you!'

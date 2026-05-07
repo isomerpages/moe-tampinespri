@@ -322,7 +322,7 @@ information on WA will be provided in a separate PG memo through the Assessment
 Head.</p>
 </li>
 </ol>
-<h3>Weighted Assessment and Examination Policy 2025</h3>
+<h3>Weighted Assessment and Examination Policy 2026</h3>
 <p><u>Weighted Assessments and End-of-Year Examinations (P3 to P6 students)</u>
 </p>
 <ol data-tight="true" class="tight">

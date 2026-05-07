@@ -3,7 +3,6 @@ title: Setting of security questions for Student MIMS account
 permalink: /setting-of-security-questions-for-student-mims-account/
 variant: markdown
 description: ""
-third_nav_title: Announcements
 ---
 <p></p>
 <div class="isomer-image-wrapper">

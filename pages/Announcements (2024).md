@@ -1,9 +1,8 @@
 ---
-title: Announcements
+title: Announcements (2024)
 permalink: /quick-links/announcements/announcements/
 variant: tiptap
 description: ""
-third_nav_title: Announcements
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">

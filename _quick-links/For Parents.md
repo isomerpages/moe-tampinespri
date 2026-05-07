@@ -2,7 +2,6 @@
 title: For Parents
 permalink: /quick-links/useful-links/for-parents/
 description: ""
-third_nav_title: Useful Links
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
