@@ -11,7 +11,7 @@ variant: tiptap
 <h1>Useful Information</h1>
 <h3><strong>Arrival &amp; Dismissal</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bJbdfk1YLZc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bJbdfk1YLZc"></iframe>
 </div>
 <p><a href="/files/2025/2025_MOE_Kindergarten_Family_Handbook.pdf" rel="noopener nofollow" target="_blank">2025 MOE Kindergarten Family Handbook.pdf</a>
 </p>
