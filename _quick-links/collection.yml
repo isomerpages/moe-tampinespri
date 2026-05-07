@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements/Setting of security questions for Student MIMS account.md
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
