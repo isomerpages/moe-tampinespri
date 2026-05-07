@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Announcements/.keep
       - School Calendar.md
       - Useful Links/Useful Links.md
       - Useful Links/For Teachers.md
