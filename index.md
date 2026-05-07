@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepage_2025_v3.gif
       key_highlights:
-        - title: Memo to Parents
+        - title: Newsletters
           description: ""
-          url: /for-parents/letter-to-parents-2026/
+          url: /for-parents/newsletters/
         - title: Calendar
           description: ""
           url: /quick-links/school-calendar/
