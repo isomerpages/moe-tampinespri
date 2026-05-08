@@ -1,6 +1,6 @@
 ---
 title: For Parents
-permalink: /quick-links/useful-links/for-parents/
+permalink: /quick-links/for-parents/
 description: ""
 variant: tiptap
 ---

@@ -1,6 +1,6 @@
 ---
 title: For Teachers
-permalink: /quick-links/useful-links/for-teachers/
+permalink: /quick-links/for-teachers/
 description: ""
 variant: tiptap
 ---

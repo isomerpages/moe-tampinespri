@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /quick-links/useful-links/for-students/
+permalink: /quick-links/for-students/
 description: ""
 variant: markdown
 ---
