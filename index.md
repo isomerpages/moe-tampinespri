@@ -17,7 +17,7 @@ sections:
           url: /quick-links/school-calendar/
         - title: Quick Links
           description: ""
-          url: /quick-links/useful-links/useful-links/
+          url: /quick-links/
         - title: Compliment for our Teachers
           description: ""
           url: https://padlet.com/dianna/appreciation-wall-for-teachers-of-tampines-primary-school-e1es9xa93xfjjfij
