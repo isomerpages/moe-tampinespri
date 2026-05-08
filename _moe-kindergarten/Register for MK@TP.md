@@ -9,17 +9,7 @@ variant: markdown
 Register for MOE Kindergarten@Tampines Primary School
 ================================
 
-#### Online registration
-The registration exercise will take place in February 2025 and be open to Singapore Citizen (SC) and Permanent Resident (PR) children born between 2 January 2021 and 1 January 2022 (both dates inclusive).  We will share more details when the date approaches.
 
-
-#### Registration outcome
-
-You will be notified of the registration outcome via e-mail by **Tuesday, 15 April 2025**.
-
-#### Acceptance of offer
-
-If your child is offered a place, you will need to indicate your acceptance online via a link in the outcome e-mail by the specified deadline.
 
 #### Applying after the online registration exercise
 
