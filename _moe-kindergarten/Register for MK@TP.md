@@ -17,5 +17,5 @@ be placed on the waitlist.</p>
 exercise and wish to register for MK@Tampines, please complete the form
 using the provided <a href="https://go.gov.sg/waitlist20262027" rel="noopener nofollow" target="_blank">link</a>.
 We will contact you if vacancies become available.</p>
-<p><strong>Link:</strong>  <a href="https://go.gov.sg/mk-tampineswaitlist25" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist</a>
+<p><strong>Link:</strong>  <a href="https://go.gov.sg/waitlist20262027" rel="noopener noreferrer nofollow" target="_blank">MK Waitlist</a>
 </p>
