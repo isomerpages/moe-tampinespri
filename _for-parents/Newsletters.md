@@ -75,4 +75,11 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
+<h4>2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2026/TampinesVibes_Newsletter_Issue1_May_2026.pdf" rel="noopener nofollow" target="_blank">TPPS Vibes Newsletter Issue1 May 2026</a>
+</p>
+</li>
+</ul>
 <p></p>
