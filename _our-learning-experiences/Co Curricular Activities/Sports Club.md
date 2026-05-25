@@ -54,9 +54,9 @@ as well as Basketball.</p>
 <p>Road Behind Teaching Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman (I/C)</p>
-<p>Mdm Latifa Bte Abdul Razak (2I/C)</p>
-<p>*Ms Lee Wee Nee&nbsp;</p>
+<p>Mr Abdul Rahman (I/C<br>
+	Mdm Latifa Bte Abdul Razak (2I/C)<br>
+	Ms Lee Wee Nee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
