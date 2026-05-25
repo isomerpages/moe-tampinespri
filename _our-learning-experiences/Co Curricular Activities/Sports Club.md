@@ -8,7 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
 </div>
-<h1>Sports Club</h1>
+<h1>Fun &amp; Fitness Club</h1>
+<p></p>
 <h4><strong>Vision</strong></h4>
 <p>To develop students to be physically active and promote character building
 through sports</p>
