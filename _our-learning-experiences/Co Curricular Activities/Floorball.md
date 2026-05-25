@@ -41,8 +41,7 @@ variant: markdown
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multi-Purpose School Hall
-<br>Volleyball Court</p>
+<p>Multi-Purpose School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Iftitah Said (I/C<br>
