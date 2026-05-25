@@ -54,9 +54,9 @@ will help them develop new skills.</p>
 <br>Maths Resource Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliana Ahmad (I/C)</p>
-<p>Mdm Wei Shuang (2I/C)</p>
-<p>Mdm Goh Ka Bee</p>
+<p>Mdm Juliana Ahmad (I/C)<br>
+	Mdm Wei Shuang (2I/C)<br>
+	Mdm Goh Ka Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
