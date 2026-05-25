@@ -44,8 +44,8 @@ variant: markdown
 <p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Mui Fong (I/C)</p>
-<p>Mr Christopher Shau (2/IC)</p>
+<p>Mdm Tay Mui Fong (I/C)<br>
+	Mr Christopher Shau (2/IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6</p>
