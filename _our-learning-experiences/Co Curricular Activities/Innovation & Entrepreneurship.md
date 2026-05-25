@@ -44,8 +44,8 @@ variant: tiptap
 <p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah (I/C)
-<br>Mrs Janice Wang</p>
+<p>Mdm Tay Mui Fong (I/C)</p>
+<p>Mr Christopher Shau (2/IC) (P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6</p>
