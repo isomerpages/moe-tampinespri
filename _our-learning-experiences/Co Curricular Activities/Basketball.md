@@ -44,10 +44,13 @@ variant: tiptap
 <p>ISH Basketball court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Guo Liren (i/c)
-<br>Mdm Chuan Boon Min (2i/c)
-<br>Mdm Shen Jingyi
-<br>Mdm Teo Ling Nah</p>
+<p>Mr Guo Liren (I/C)</p>
+<p>Miss Chuan Boon Min (2I/C) (P6 MT)</p>
+<p>Mdm Shen Jingyi&nbsp;(P6 MT)Mr Christopher Chong</p>
+<p>Mr Matthias Keow Wen Sheng</p>
+<p>Mdm Teo Ling Nah (Prep)&nbsp;</p>
+<p>Ms Yan Zhuyun (FAJT)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
