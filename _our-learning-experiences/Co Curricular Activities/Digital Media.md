@@ -8,7 +8,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
 </div>
-<h1>Digital Media</h1>
+<h1>Information &amp;&nbsp; Communication</h1>
 <h4><strong>Vision</strong></h4>
 <p>Imagine, Create, Innovate</p>
 <p><strong><u>Aim and objective:</u></strong>
@@ -57,7 +57,7 @@ innovative designs or solutions to challenges and problems faced</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 1 / ITRC Room</p>
+<p>Computer Lab 1 &amp; ITRC Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rahimah Bte Razali (I/C)<br>
