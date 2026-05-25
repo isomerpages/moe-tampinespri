@@ -60,7 +60,7 @@ innovative designs or solutions to challenges and problems faced</p>
 <p>Computer Lab 1 / ITRC Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Kae Min (i/c)
+<p>Mdm Rahimah (i/c)
 <br>Mrs Agnes Lim (2nd i/c)
 <br>
 <br>
