@@ -50,8 +50,7 @@ will help them develop new skills.</p>
 <br>3.30 - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amphitheatre &amp;
-<br>Maths Resource Room</p>
+<p>Amphitheatre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juliana Ahmad (I/C)<br>
