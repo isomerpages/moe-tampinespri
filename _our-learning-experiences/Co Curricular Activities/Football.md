@@ -47,9 +47,14 @@ variant: tiptap
 <p>School Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irwin Peh (I/C)
-<br>Mdm Diana Bte Mamat Mdm Siti Fauziah
-<br>Mdm Hidayah Ridzwan (Prep) (PM)</p>
+<p>Mr Irwin Peh (I/C)</p>
+<p>Mr Clement Tham (2I/C)</p>
+<p>Mr Mohd Faris Fong</p>
+<p>Mdm Diana Bte Mamat</p>
+<p>Mr Chai Kae Min</p>
+<p>Mdm Nicole Laurens</p>
+<p>Mrs Lim Lee Cher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 - P6</p>
