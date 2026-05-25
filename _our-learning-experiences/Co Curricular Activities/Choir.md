@@ -44,8 +44,8 @@ variant: tiptap
 <p>Music Rooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Germaine Ling (I/C)
-<br>Mrs Tan Shee Cher (2i/C)Miss Kwa Shaur En</p>
+<p>Miss Kwa Shaur En (I/C)</p>
+<p>Miss Dorothy Goh (2nd I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
