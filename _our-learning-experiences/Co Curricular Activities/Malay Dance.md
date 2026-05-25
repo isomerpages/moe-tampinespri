@@ -55,8 +55,8 @@ management while learning to work together as a team towards a common goal.</p>
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dance Room
-<br>(MK building)</p>
+<p>Dance Studio
+<br>(Blk L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norleila Ramadan (I/C)<br>
