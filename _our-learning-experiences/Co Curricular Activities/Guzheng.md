@@ -62,10 +62,10 @@ welcomes your child and we look forward to see your child in the near future.</p
 <p>Band Room (MK Building)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhu Li (I/C)</p>
-<p>Mdm Gao Qiaoyi (2I/C)</p>
-<p>Ms Serene Soh</p>
-<p>Mrs Janet Lim</p>
+<p>Miss Zhu Li (I/C)<br>
+	Mdm Gao Qiaoyi (2I/C)<br>
+	Ms Serene Soh<br>
+	Mrs Janet Lim</p>
 <p>
 <br>
 </p>
