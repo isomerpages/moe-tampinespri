@@ -41,7 +41,7 @@ variant: markdown
 <br>3.30 - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Mathematics Resource Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Mui Fong (I/C)<br>
