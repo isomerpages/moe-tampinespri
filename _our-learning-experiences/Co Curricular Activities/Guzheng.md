@@ -59,7 +59,7 @@ welcomes your child and we look forward to see your child in the near future.</p
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room (MK Building)</p>
+<p>Band Room (Blk L)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhu Li (I/C)<br>
