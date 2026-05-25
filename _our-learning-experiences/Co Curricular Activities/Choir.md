@@ -3,7 +3,7 @@ title: Choir
 permalink: /our-learning-experiences/co-curricular-activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
@@ -41,11 +41,13 @@ variant: tiptap
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rooms</p>
+<p>Music Rooms 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Germaine Ling (I/C)
-<br>Mrs Tan Shee Cher (2i/C)Miss Kwa Shaur En</p>
+<p>Miss Kwa Shaur En (I/C)<br>
+	Miss Dorothy Goh (2I/C)<br>
+	Mrs Jeredith Hee (semester 1 only)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>

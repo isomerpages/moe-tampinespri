@@ -3,7 +3,7 @@ title: Theatrics in Action
 permalink: /our-learning-experiences/co-curricular-activities/theatrics-in-action/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
@@ -66,14 +66,12 @@ experience.</p>
 <br>3.30 - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Rooms 1 &amp; 2 (MK Building)</p>
+<p>Blackbox</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahdon Bin Mohd Jamil (I/C)
-<br>Mr Faizal B Mohamed Yusoff (2I/C)
-<br>Mrs Ivy Lim
-<br>Miss Tay Yun Yi (Jewel)
-<br>Mdm Farhanah Binte Abdullah (Prep) (PM only)</p>
+<p>Mr Shahdon Bin Mohd Jamil (I/C)<br>
+	Mr Faizal B Mohamed Yusoff (2I/C)<br>
+	Mdm Liyana (Semester 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6 students</p>

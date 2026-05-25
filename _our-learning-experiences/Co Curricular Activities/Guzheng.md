@@ -3,7 +3,7 @@ title: Guzheng
 permalink: /our-learning-experiences/co-curricular-activities/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Learning%20Experiences.jpg">
@@ -59,12 +59,14 @@ welcomes your child and we look forward to see your child in the near future.</p
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Room (MK Building)</p>
+<p>Band Room (Blk L)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhu Li (i/c)
-<br>Miss Isabella Lai (2i/c)
-<br>Mdm Ni Jieren
+<p>Miss Zhu Li (I/C)<br>
+	Mdm Gao Qiaoyi (2I/C)<br>
+	Ms Serene Soh<br>
+	Mrs Janet Lim</p>
+<p>
 <br>
 </p>
 </td>
