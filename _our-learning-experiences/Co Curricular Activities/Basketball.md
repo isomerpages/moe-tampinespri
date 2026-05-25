@@ -44,13 +44,13 @@ variant: markdown
 <p>ISH Basketball court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Guo Liren (I/C)</p>
-<p>Miss Chuan Boon Min (2I/C)</p>
-<p>Mdm Shen Jingyi</p>
-<p>Mr Christopher Chong</p>
-<p>Mr Matthias Keow Wen Sheng</p>
-<p>Mdm Teo Ling Nah&nbsp;</p>
-<p>Ms Yan Zhuyun</p>
+<p>Mr Guo Liren (I/C)<br>
+	Miss Chuan Boon Min (2I/C)<br>
+	Mdm Shen Jingyi<br>
+	Mr Christopher Chong<br>
+	Mr Matthias Keow Wen Sheng<br>
+	Mdm Teo Ling Nah<br>
+	Ms Yan Zhuyun</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
