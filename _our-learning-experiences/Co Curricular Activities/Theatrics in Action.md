@@ -66,7 +66,7 @@ experience.</p>
 <br>3.30 - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Rooms 1 &amp; 2 (MK Building)</p>
+<p>Blackbox</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahdon Bin Mohd Jamil (I/C)<br>
