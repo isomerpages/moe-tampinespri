@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Mui Fong (I/C)</p>
-<p>Mr Christopher Shau (2/IC) (P6)</p>
+<p>Mr Christopher Shau (2/IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6</p>
