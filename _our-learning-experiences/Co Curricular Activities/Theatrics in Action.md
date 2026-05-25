@@ -69,11 +69,9 @@ experience.</p>
 <p>CCA Rooms 1 &amp; 2 (MK Building)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahdon Bin Mohd Jamil (I/C)
-<br>Mr Faizal B Mohamed Yusoff (2I/C)
-<br>Mrs Ivy Lim
-<br>Miss Tay Yun Yi (Jewel)
-<br>Mdm Farhanah Binte Abdullah (Prep) (PM only)</p>
+<p>Mr Shahdon Bin Mohd Jamil (I/C)</p>
+<p>Mr Faizal B Mohamed Yusoff (2I/C) (P6 MT)</p>
+<p>Mdm Liyana (Semester 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6 students</p>
