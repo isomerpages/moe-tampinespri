@@ -44,9 +44,9 @@ variant: markdown
 <p>Music Rooms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kwa Shaur En (I/C)</p>
-<p>Miss Dorothy (2I/C)</p>
-<p>Mrs Jeredith Hee</p>
+<p>Miss Kwa Shaur En (I/C)<br>
+	Miss Dorothy Goh (2I/C)<br>
+	Mrs Jeredith Hee (semester 1 only)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
