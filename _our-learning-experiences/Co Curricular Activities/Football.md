@@ -47,14 +47,14 @@ variant: markdown
 <p>School Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irwin Peh (I/C)</p>
-<p>Mr Clement Tham (2I/C)</p>
-<p>Mr Mohd Faris Fong</p>
-<p>Mdm Diana Bte Mamat</p>
-<p>Mr Chai Kae Min</p>
-<p>Mdm Nicole Laurens</p>
-<p>Mrs Lim Lee Cher</p>
-<p></p>
+<p>Mr Irwin Peh (I/C)<br>
+	Mr Clement Tham (2I/C)<br>
+	Mr Mohd Faris Fong<br>
+	Mdm Diana Bte Mamat<br>
+	Mr Chai Kae Min<br>
+	Mdm Nicole Laurens<br>
+	Mrs Lim Lee Cher</p>
+
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 - P6</p>
