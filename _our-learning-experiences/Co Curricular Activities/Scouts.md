@@ -55,8 +55,7 @@ Scout has courage in all difficulties.</p>
 <br>3.30 - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Lab 1 &amp; 2</p>
-<p>Eco-Garden</p>
+<p>Science Lab 1 &amp; 2, <br>Eco-Garden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kang Teck Beng (I/C)<br>
