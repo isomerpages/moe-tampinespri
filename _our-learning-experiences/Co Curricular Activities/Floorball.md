@@ -45,11 +45,13 @@ variant: tiptap
 <br>Volleyball Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Iftitah Said (i/c)
-<br>Mdm Norhana (2i/c)
-<br>Miss Lai Si Hui
-<br>Mdm Nicole Fiona Laurens Mdm Janet Kan Yan Wen (Prep) (PM)
-<br>Mdm Azlinda (Prep) (PM)</p>
+<p>Mr Iftitah Said (I/C)&nbsp;</p>
+<p>Miss Lai Si Hui (2I/C)</p>
+<p>Mr Shaheer</p>
+<p>Mdm Tan Sok Keng</p>
+<p>Mr Iskandar&nbsp;</p>
+<p>Mdm Siti Fauziah</p>
+<p>Ms Celest Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 - P6</p>
