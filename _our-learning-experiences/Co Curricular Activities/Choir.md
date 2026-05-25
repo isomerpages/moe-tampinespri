@@ -45,7 +45,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kwa Shaur En (I/C)</p>
-<p>Miss Dorothy Goh (2nd I/C)</p>
+<p>Miss Dorothy (2I/C)</p>
+<p>Mrs Jeredith Hee</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
