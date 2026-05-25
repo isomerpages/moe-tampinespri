@@ -63,7 +63,7 @@ innovative designs or solutions to challenges and problems faced</p>
 <p>Mdm Rahimah Bte Razali (I/C)</p>
 <p>Mdm Agnes Lim (2I/C)</p>
 <p>Ms Nur Farhana (2I/C)</p>
-<p>Mrs Hidayah Ridzwan (Prep)</p>
+<p>Mrs Hidayah Ridzwan</p>
 <p>
 <br>
 <br>
