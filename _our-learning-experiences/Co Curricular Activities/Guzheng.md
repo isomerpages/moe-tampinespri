@@ -63,7 +63,7 @@ welcomes your child and we look forward to see your child in the near future.</p
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhu Li (i/c)
-<br>Miss Isabella Lai (2i/c)
+<br>Mdm Gao Qiaoyi (2i/c)
 <br>Mdm Ni Jieren
 <br>
 </p>
