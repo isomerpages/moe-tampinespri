@@ -45,13 +45,13 @@ variant: markdown
 <br>Volleyball Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Iftitah Said (I/C)&nbsp;</p>
-<p>Miss Lai Si Hui (2I/C)</p>
-<p>Mr Shaheer</p>
-<p>Mdm Tan Sok Keng</p>
-<p>Mr Iskandar&nbsp;</p>
-<p>Mdm Siti Fauziah</p>
-<p>Ms Celest Yong</p>
+<p>Mr Iftitah Said (I/C<br>
+	Miss Lai Si Hui (2I/C)<br>
+	Mr Shaheer<br>
+	Mdm Tan Sok Keng<br>
+	Mr Iskandar<br>
+	Mdm Siti Fauziah<br>
+	Ms Celest Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 - P6</p>
