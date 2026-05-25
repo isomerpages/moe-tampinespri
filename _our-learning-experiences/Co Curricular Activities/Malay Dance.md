@@ -59,9 +59,9 @@ management while learning to work together as a team towards a common goal.</p>
 <br>(MK building)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norleila Ramadan (I/C)
-<br>Mdm Nur Liyana Binte Abdul Ghani (2I/C)
-<br>Miss Jolyn Ngo (Prep) (PM)</p>
+<p>Mdm Norleila Ramadan (I/C)</p>
+<p>Mdm Raihana (2I/C)</p>
+<p>Ms Hidayah Sidik</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6 students</p>
