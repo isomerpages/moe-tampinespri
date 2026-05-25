@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Irwin Peh (I/C)
-<br>Mdm Diana Bte Mamat Mdm Siti Fauziah (Prep) (PM)
+<br>Mdm Diana Bte Mamat Mdm Siti Fauziah
 <br>Mdm Hidayah Ridzwan (Prep) (PM)</p>
 </td>
 <td rowspan="1" colspan="1">
