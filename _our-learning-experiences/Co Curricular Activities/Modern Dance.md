@@ -56,9 +56,9 @@ competitions like the prestigious SYF Arts Presentation.</p>
 <p>PAL Room 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Queenie Low (I/C) (P6 Teacher)</p>
-<p>Ms Raudah (2I/C)</p>
-<p>Ms Jolyn Ngo</p>
+<p>Miss Queenie Low (I/C)<br>
+	Ms Raudah (2I/C)<br>
+	Ms Jolyn Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6</p>
