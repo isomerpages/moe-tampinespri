@@ -41,7 +41,7 @@ variant: markdown
 <br>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rooms</p>
+<p>Music Rooms 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kwa Shaur En (I/C)<br>
