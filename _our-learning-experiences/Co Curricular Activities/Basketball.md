@@ -41,7 +41,7 @@ variant: markdown
 <br>3.30pm – 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Basketball court</p>
+<p>Sheltered Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Guo Liren (I/C)<br>
