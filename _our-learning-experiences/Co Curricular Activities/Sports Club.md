@@ -50,8 +50,7 @@ as well as Basketball.</p>
 <br>8.00am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level 4 parade Square</p>
-<p>Road Behind Teaching Block</p>
+<p>Indoor Sports Hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman (I/C<br>
