@@ -60,8 +60,11 @@ innovative designs or solutions to challenges and problems faced</p>
 <p>Computer Lab 1 / ITRC Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahimah (i/c)
-<br>Mrs Agnes Lim (2nd i/c)
+<p>Mdm Rahimah Bte Razali (I/C)</p>
+<p>Mdm Agnes Lim (2I/C)</p>
+<p>Ms Nur Farhana (2I/C)</p>
+<p>Mrs Hidayah Ridzwan (Prep)</p>
+<p>
 <br>
 <br>
 </p>
