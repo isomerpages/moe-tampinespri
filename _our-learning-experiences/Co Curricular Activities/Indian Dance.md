@@ -64,7 +64,7 @@ and passion together with 21st century competencies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Isabella Lai (I/C)<br>
-	Mrs Vimala Ravichandran (2I/C)&nbsp;</p>
+	Mrs Vimala Ravichandran (2I/C)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 - P6 students</p>
