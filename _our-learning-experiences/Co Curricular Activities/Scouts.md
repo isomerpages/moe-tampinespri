@@ -59,10 +59,10 @@ Scout has courage in all difficulties.</p>
 <p>Eco-Garden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kang Teck Beng (I/C)</p>
-<p>Mr Tan Chye Chong (2I/C)</p>
-<p>Mrs Tan Khing Khing</p>
-<p>Ms. Evelyn Yeow</p>
+<p>Mr Kang Teck Beng (I/C)<br>
+	Mr Tan Chye Chong (2I/C)<br>
+	Mrs Tan Khing Khing<br>
+	Ms. Evelyn Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P6</p>
