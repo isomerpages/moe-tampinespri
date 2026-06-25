@@ -421,7 +421,7 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 a.m.</p>
+<p>12.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.00 a.m. - 11.30 a.m.</p>
