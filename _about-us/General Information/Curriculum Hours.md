@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="5">
-<p><strong>Primary 1 (Term 1)</strong>
+<p><strong>Primary 1</strong>
 </p>
 </th>
 </tr>
