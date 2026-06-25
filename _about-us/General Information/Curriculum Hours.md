@@ -214,7 +214,7 @@ variant: tiptap
 <p>7.50 a.m. - 12.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30 a.m.</p>
+<p>8.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.30 a.m. - 11.00 a.m.</p>
@@ -307,10 +307,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m.</p>
+<p>12.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30 a.m. - 12.00 p.m.</p>
+<p>10.00 a.m. - 10.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 2 (Secondary School Gate)</p>
