@@ -2,10 +2,10 @@ collections:
   for-parents:
     output: true
     order:
-      - Anti Bullying Policy.md
       - Letter to Parents.md
       - Newsletters.md
       - Compliments for Teachers.md
+      - Anti Bullying Policy.md
       - Financial Assistance Scheme/.keep
       - Financial Assistance Scheme/Financial Assistance Scheme (FAS).md
       - Financial Assistance Scheme/Application for Straits Times School Pocket
