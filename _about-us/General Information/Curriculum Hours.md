@@ -481,7 +481,7 @@ variant: tiptap
 <p>9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00 a.m. - 11.30 a.m.</p>
+<p>9.30 a.m. - 10.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 7 (Back Gate)</p>
