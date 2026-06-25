@@ -70,9 +70,6 @@ concerns. You can reach out to us in several ways:</p>
 <p>Direct reporting to any staff member</p>
 </li>
 <li>
-<p>Anonymous suggestion boxes</p>
-</li>
-<li>
 <p>Online confidential reporting form</p>
 </li>
 <li>
