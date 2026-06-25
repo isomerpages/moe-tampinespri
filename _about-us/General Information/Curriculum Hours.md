@@ -20,7 +20,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="5">
-<p><strong>Primary 1 (Term 1)</strong>
+<p><strong>Primary 1</strong>
 </p>
 </th>
 </tr>
@@ -53,10 +53,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 p.m.</p>
+<p>11:30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1 (Primary School Gate)</p>
@@ -70,10 +70,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 p.m.</p>
+<p>11:30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1 (Primary School Gate)</p>
@@ -90,7 +90,7 @@ variant: tiptap
 <p>11.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1 (Primary School Gate)</p>
@@ -104,10 +104,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 p.m.</p>
+<p>11.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1 (Primary School Gate)</p>
@@ -121,10 +121,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30 p.m.</p>
+<p>11.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00 a.m. - 10.30 a.m.</p>
+<p>9.00 a.m. - 9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 1 (Primary School Gate)</p>
@@ -214,7 +214,7 @@ variant: tiptap
 <p>7.50 a.m. - 12.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30 a.m.</p>
+<p>8.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.30 a.m. - 11.00 a.m.</p>
@@ -307,10 +307,10 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m.</p>
+<p>12.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30 a.m. - 12.00 p.m.</p>
+<p>10.00 a.m. - 10.30 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 2 (Secondary School Gate)</p>
@@ -421,7 +421,7 @@ variant: tiptap
 <p>7.50 a.m. - 2.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 a.m.</p>
+<p>12.00 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.00 a.m. - 11.30 a.m.</p>
@@ -481,7 +481,7 @@ variant: tiptap
 <p>9.30 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00 a.m. - 11.30 a.m.</p>
+<p>9.30 a.m. - 10.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gate 7 (Back Gate)</p>
@@ -491,10 +491,10 @@ variant: tiptap
 </table>
 <p><strong>Note:</strong> Students will have a break from 2 p.m. – 2.30 p.m.
 if they have lesson/remedial after 2 p.m.</p>
-<p>There will be a 10-min snack break for students at 9.30 a.m. or 12.30
-p.m. Students can bring snacks to eat in class. In line with healthy living,
-we hope that parents can prepare healthy snacks for students. The snack
-should be a healthier food option and should be easy for the child to manage.
+<p>There will be a 10-min snack break for students at various times. Students
+can bring snacks to eat in class. In line with healthy living, we hope
+that parents can prepare healthy snacks for students. The snack should
+be a healthier food option and should be easy for the child to manage.
 During the snack break, students are not allowed to go to the canteen to
 purchase food. Students can purchase the snacks from the school canteen
 before school starts for their snack break. Parents will need to provide
