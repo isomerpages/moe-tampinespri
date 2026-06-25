@@ -491,10 +491,10 @@ variant: tiptap
 </table>
 <p><strong>Note:</strong> Students will have a break from 2 p.m. – 2.30 p.m.
 if they have lesson/remedial after 2 p.m.</p>
-<p>There will be a 10-min snack break for students at 9.30 a.m. or 12.30
-p.m. Students can bring snacks to eat in class. In line with healthy living,
-we hope that parents can prepare healthy snacks for students. The snack
-should be a healthier food option and should be easy for the child to manage.
+<p>There will be a 10-min snack break for students at various times. Students
+can bring snacks to eat in class. In line with healthy living, we hope
+that parents can prepare healthy snacks for students. The snack should
+be a healthier food option and should be easy for the child to manage.
 During the snack break, students are not allowed to go to the canteen to
 purchase food. Students can purchase the snacks from the school canteen
 before school starts for their snack break. Parents will need to provide
