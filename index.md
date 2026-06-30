@@ -35,20 +35,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: May 2026 Memo to Parents
-          date: 30 April 2026
-          announcement: Dear Parents,  Please refer to the link below for the May memo to
+        - title: June 2026 Memo to Parents
+          date: 30 June 2026
+          announcement: Dear Parents,  Please refer to the link below for the June memo to
             parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
-        - title: Online Parent-Teacher Conference
-          date: 08 May 2026
-          announcement: Dear Parents/Guardians,  Please note that as in previous years,
-            there will be no school for students on Friday, 29th May 2026, as
-            teachers will be conducting the online Parent-Teacher Conference
-            throughout the day.
-          link_text: ""
-          link_url: ""
   - textcards:
       title: Student Assistance
       id: textcards
