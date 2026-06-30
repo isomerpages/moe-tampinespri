@@ -124,7 +124,8 @@ specified</p>
 </tbody>
 </table>
 <h3><strong>School Dental Clinic</strong></h3>
-<p>Tampines Primary School Dental ClinicClinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>Tampines Primary School Dental Clinic</p>
+<p>Clinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lunch Time: <strong>1pm to 2pm</strong>
 </p>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
