@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /about-us/service-providers/service-providers/
 description: ""
 third_nav_title: Service Providers
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
@@ -48,7 +48,7 @@ specified</p>
 <p>Timing for parents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>After dismissal hours, 2 p.m. to 3 p.m.</p>
+<p>After dismissal hours, 2.15 p.m. to 3 p.m.</p>
 </td>
 </tr>
 </tbody>
@@ -124,213 +124,9 @@ specified</p>
 </tbody>
 </table>
 <h3><strong>School Dental Clinic</strong></h3>
-<p style="text-align:center">Tampines Primary School Dental Clinic Schedule for Jan 2026</p>
-<p style="text-align:center">Clinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>Tampines Primary School Dental ClinicClinic contact number: <strong>8809 8302</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Lunch Time: <strong>1pm to 2pm</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Monday</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Tuesday</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Thursday</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Friday</strong>
-</p>
-</th>
-</tr>
-<tr style="text-align: center">
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-</tr>
-<tr style="text-align: right">
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>&nbsp;</p>
-</td>
-<td>
-<p>1</p>
-</td>
-<td>
-<p>2</p>
-</td>
-</tr>
-<tr style="text-align: center">
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-</tr>
-<tr style="text-align: right">
-<td>
-<p>5</p>
-</td>
-<td>
-<p>6</p>
-</td>
-<td>
-<p>7</p>
-</td>
-<td>
-<p>8</p>
-</td>
-<td>
-<p>9</p>
-</td>
-</tr>
-<tr style="text-align: center">
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-</tr>
-<tr style="text-align: right">
-<td>
-<p>12</p>
-</td>
-<td>
-<p>13</p>
-</td>
-<td>
-<p>14</p>
-</td>
-<td>
-<p>15</p>
-</td>
-<td>
-<p>16</p>
-</td>
-</tr>
-<tr style="text-align: center">
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-</tr>
-<tr style="text-align: right">
-<td>
-<p>19</p>
-</td>
-<td>
-<p>20</p>
-</td>
-<td>
-<p>21</p>
-</td>
-<td>
-<p>22</p>
-</td>
-<td>
-<p>23</p>
-</td>
-</tr>
-<tr style="text-align: center">
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-<td>
-<p>Open<br>8:00am – 5:00pm</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-<td>
-<p>CLOSED</p>
-</td>
-</tr>
-<tr style="text-align: right">
-<td>
-<p>26</p>
-</td>
-<td>
-<p>27</p>
-</td>
-<td>
-<p>28</p>
-</td>
-<td>
-<p>29</p>
-</td>
-<td>
-<p>30</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>If you require any URGENT dental treatment and the clinic is closed, please
 call one of the following BUDDY clinics for assistance.</p>
 <p>For general enquiry, please email: <a rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
@@ -359,7 +155,7 @@ call one of the following BUDDY clinics for assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>East Spring Primary School&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>East Spring Primary School&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8940 1244</p>
