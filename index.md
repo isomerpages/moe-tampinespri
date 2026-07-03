@@ -37,7 +37,7 @@ sections:
       id: infobar
       description: Take a look inside Singapore's first community school!
       button: Click here
-      url: /school-corporate-video/
+      url: /school-corporate-video
   - textcards:
       title: Student Assistance
       id: textcards
