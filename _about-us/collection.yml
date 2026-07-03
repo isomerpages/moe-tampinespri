@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Corporate Video.md
       - Principal’s Message.md
       - School Vision, Mission and Values.md
       - School Values – iREAP.md
+      - School Corporate Video.md
       - School Crest.md
       - History.md
       - 35th Anniversary/.keep
