@@ -31,6 +31,13 @@ sections:
             parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
+  - infobar:
+      title: School Corporate Video
+      subtitle: Tampine Primary School
+      id: infobar
+      description: Take a look inside Singapore's first community school!
+      button: Click here
+      url: /school-corporate-video
   - textcards:
       title: Student Assistance
       id: textcards
