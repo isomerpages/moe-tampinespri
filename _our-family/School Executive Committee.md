@@ -19,7 +19,6 @@ School Executive Committee
 | **Administration Manager<br>**       | Mdm Salinah bte Salleh<br>     |
 | **School Staff Developer**            | Mr Mohd Salleh<br><br>             |
 | **HOD Mathematics**                   | Mrs Janice Wang<br><br>        |
-| **HOD Mother Tongue**                 | Mdm Ng Hwee Gek<br><br>            |
 | **HOD Science**                 | Mrs Joyce Soon<br><br>            |
 | **HOD ICT/PW**                        | Mdm Nurdianna Malik<br><br>        |
 | **HOD PE, CCA &amp; Aesthetics**       | Mr Bryan Chao Wei Nien            |
