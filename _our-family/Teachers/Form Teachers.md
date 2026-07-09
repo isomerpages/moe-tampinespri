@@ -97,18 +97,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>P1 Passion</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Azlinda</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Mdm Ruth Ang</p>
-<p>Ms Iola Kanin Iskandar</p>
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Iola Kanin Iskandar</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>P1 Respect</p>
