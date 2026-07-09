@@ -29,5 +29,5 @@ Administrative Staff
 | Mdm Tee Ah Moy      | OSO                 |
 | Mr Terence Noi          | OSO                    |
 | Mdm Julie Teo | OSO                    |
-| Mdm Jessica Phua | OSO                    |
+| Mdm Jessice Phua | OSO                    |
 | Ms Lillian Lee         | Admin Assistant             |
