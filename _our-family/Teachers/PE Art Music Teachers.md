@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AboutUs.jpg">
 </div>
-<h1>PE Art Music Teachers</h1>
+<h1>PE/Art/Music Teachers</h1>
 <h3><strong>PE Teachers</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
