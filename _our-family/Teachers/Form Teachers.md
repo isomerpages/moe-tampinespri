@@ -162,8 +162,9 @@ variant: tiptap
 <p>Mrs Lim Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana
-<br>Mr Matthias Keow</p>
+<p>Mdm Ooi Huey Wen</p>
+<p>Mr Matthias Keow</p>
+<p>Miss Nur Lutfiah Izdihar</p>
 </td>
 </tr>
 <tr>
