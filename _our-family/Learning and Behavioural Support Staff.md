@@ -17,3 +17,4 @@ Learning and Behavioural Support Staff
 | Mdm Nurfazilah Abdul Aziz          | Special Educational Needs Officer (SEN Officer)         |
 | Ms Ma Su Tsyh                      | Special Educational Needs Officer (SEN Officer)         |
 | Ms Nur Idayu Arifin                      | Special Educational Needs Officer (SEN Officer)         |
+| Mdm Lim Shan Hui                      | Special Educational Needs Officer (SEN Officer)         |
