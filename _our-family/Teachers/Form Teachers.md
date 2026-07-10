@@ -22,17 +22,15 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Care</p>
+<p><strong>P1 Care</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ridzwan</p>
@@ -43,7 +41,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Faith</p>
+<p><strong>P1 Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Serene Soh</p>
@@ -54,7 +53,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Grace</p>
+<p><strong>P1 Grace</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong Ling Nah</p>
@@ -65,7 +65,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Hope</p>
+<p><strong>P1 Hope</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Farhanah</p>
@@ -76,7 +77,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Joy</p>
+<p><strong>P1 Joy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haniza</p>
@@ -87,7 +89,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Love</p>
+<p><strong>P1 Love</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurdiyanah Yahya</p>
@@ -97,19 +100,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P1 Passion</p>
+<td rowspan="3" colspan="1">
+<p><strong>P1 Passion</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Azlinda</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Ruth Ang</p>
+</td>
+</tr>
+<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Iola Kanin Iskandar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Respect</p>
+<p><strong>P1 Respect</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nicole Fiona Laurens</p>
@@ -120,7 +131,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 Truth</p>
+<p><strong>P1 Truth</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Catherine Ow</p>
@@ -144,29 +156,37 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P2 Care</p>
+<td rowspan="3" colspan="1">
+<p><strong>P2 Care</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mrs Lim Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana
-<br>Mr Matthias Keow</p>
+<p>Mdm Ooi Huey Wen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Faith</p>
+<p>Mr Matthias Keow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Lutfiah Izdihar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2 Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Jolyn Ngo</p>
@@ -176,20 +196,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P2 Grace</p>
+<td rowspan="2" colspan="1">
+<p><strong>P2 Grace</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Miss Dorothy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rahmah
-<br>Mr Lam Yew Sung</p>
+<p>Ms Rahmah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Hope</p>
+<p>Mr Lam Yew Sung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2 Hope</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Celeste Yong</p>
@@ -199,20 +225,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P2 Joy</p>
+<td rowspan="2" colspan="1">
+<p><strong>P2 Joy</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mrs Janet Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Irwin Peh
-<br>Ms Bok Siew Tin</p>
+<p>Mr Irwin Peh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Love</p>
+<p>Ms Bok Siew Tin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2 Love</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fauziah</p>
@@ -223,24 +255,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2 Passion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Melissa Tham</p>
+<p><strong>P2 Passion</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Evelyn Yeow</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Melissa Tham</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P2 Truth</p>
+<td rowspan="2" colspan="1">
+<p><strong>P2 Truth</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Marena Zulaiha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Zhu Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tasyrif Omar</p>
 </td>
 </tr>
 </tbody>
@@ -258,43 +297,56 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>P3 Care</strong>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Mdm Juliana Ahmad</p>
+</td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Aiman Nurjannah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jeredith Hee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Juliana
-<br>Mdm Farhana Begum</p>
+<p>Ms Jasmeet Kaur</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Faith</p>
+<p>Mdm Farhana Begum</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P3 Faith</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Mdm Jalela Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Tan
-<br>Mrs Susila Neelakandan</p>
+<p>Mr Desmond Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Grace</p>
+<p>Mrs Susila Neelakandan</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P3 Grace</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
 <p>Mrs Ang Sok Keng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,36 +355,53 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Hope</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Diana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Caroline Lee</p>
+<p>Mr Oh Xi Kai</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Joy</p>
+<p><strong>P3 Hope</strong>
+</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mdm Diana Mamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ni Jieren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P3 Joy</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mdm Nurdianna Malik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Soon</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Oh Ding Hui</p>
 </td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P3 Love</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Mdm Nur Farhana</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurdianna Malik
-<br>Mrs Joyce Soon</p>
+<p>Mr Irfan Hidayat</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 Love</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Farhana</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Hwee Gek</p>
+<p>Miss Celine How</p>
 </td>
 </tr>
 </tbody>
@@ -350,19 +419,17 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P4 Care</p>
+<td rowspan="2" colspan="1">
+<p><strong>P4 Care</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mr Chai Kae Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,7 +438,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Faith</p>
+<p>Miss Nur Farahiyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahdon</p>
@@ -381,20 +454,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P4 Grace</p>
+<td rowspan="2" colspan="1">
+<p><strong>P4 Grace</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Ms Connie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman
-<br>Mdm Toh Chiew Hoon</p>
+<p>Mr Abdul Rahman</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Hope</p>
+<p>Mdm Toh Chiew Hoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P4 Hope</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Wee Nee</p>
@@ -404,19 +483,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>P4 Joy</p>
+<td rowspan="2" colspan="1">
+<p><strong>P4 Joy</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mdm Noorazean Rahim</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Miss Nurul Asyikin&nbsp;</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Faizal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 Love</p>
+<p><strong>P4 Love</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raihana Saadon</p>
@@ -440,42 +526,42 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhd Iftitah</p>
+<p><strong>P5 Care</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tay Mui Fong</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Iftitah&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Faith</p>
+<p><strong>P5 Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Yan Chun &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Muthulakshmi</p>
+<p>Mdm Muniraj Muthulakshmi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Grace</p>
+<p><strong>P5 Grace</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Iskandar</p>
+<p>Mr Iskandar Bahroocha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Clement Tham</p>
@@ -483,7 +569,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Hope</p>
+<p><strong>P5 Hope</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Shau</p>
@@ -494,7 +581,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Joy</p>
+<p><strong>P5 Joy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Latifa</p>
@@ -505,7 +593,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Love</p>
+<p><strong>P5 Love</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Kwa Shaur En</p>
@@ -529,17 +618,15 @@ variant: tiptap
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Form Teachers</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Care</p>
+<p><strong>P6 Care</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Ka Bee</p>
@@ -550,7 +637,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Faith</p>
+<p><strong>P6 Faith</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Faris Fong</p>
@@ -561,7 +649,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Grace</p>
+<p><strong>P6 Grace</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chye Chong</p>
@@ -572,7 +661,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Hope</p>
+<p><strong>P6 Hope</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Queenie Low</p>
@@ -583,7 +673,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Joy</p>
+<p><strong>P6 Joy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kang Teck Beng</p>
@@ -594,7 +685,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 Love</p>
+<p><strong>P6 Love</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lai Si Hui</p>
