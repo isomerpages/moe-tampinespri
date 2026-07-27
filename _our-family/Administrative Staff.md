@@ -22,7 +22,6 @@ Administrative Staff
 | Ms Nur Rasyidah Binte Osman             | AE                     |
 | Ms Punitha Sevlanga Nathan               | AE (MK)                     |
 | Ms Chua Chen Sin (Veron)              | CSO                    |
-| Mdm Sharifah Zainab        | CSO                    |
 | Mr Vijendran               | ICT Associate          |
 | Mr Zainuddin               | OSO                    |
 | Mr Koh Thye Kok       | OSO                  |
