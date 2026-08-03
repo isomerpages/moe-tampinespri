@@ -25,15 +25,15 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: June 2026 Memo to Parents
-          date: 30 June 2026
-          announcement: Dear Parents,  Please refer to the link below for the June memo to
-            parents.  Thank you.  Tampines Primary School
+        - title: August 2026 Memo to Parents
+          date: 03 August 2026
+          announcement: Dear Parents,  Please refer to the link below for the August memo
+            to parents.  Thank you.  Tampines Primary School
           link_text: Click here for more...
           link_url: /for-parents/letter-to-parents-2026/
   - infobar:
       title: School Corporate Video
-      subtitle: Tampine Primary School
+      subtitle: Tampines Primary School
       id: infobar
       description: Take a look inside Singapore's first community school!
       button: Click here

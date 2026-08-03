@@ -111,11 +111,6 @@ variant: tiptap
 <p>Ms Iola Kanin Iskandar</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ruth Ang</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
