@@ -26,4 +26,7 @@ description: ""
 <h3><strong>June 2026</strong></h3>
 <p><a href="/files/2026/TPPS_31_2026___June_Memo_2026__Updated_.pdf" rel="noopener nofollow" target="_blank">TPPS-31-2026 - June Memo 2026 (Updated).pdf</a>
 </p>
+<h3><strong>August 2026</strong></h3>
+<p><a href="/files/2026/TPPS_38_2026_August_Memo_2026.pdf" rel="noopener nofollow" target="_blank">TPPS-38-2026-August Memo 2026.pdf</a>
+</p>
 <p></p>
