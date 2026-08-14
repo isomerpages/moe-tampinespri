@@ -158,25 +158,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>P2 Care</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mrs Lim Lee Cher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ooi Huey Wen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tasyrif Omar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nur Lutfiah Izdihar</p>
 </td>
 </tr>
 <tr>
@@ -258,11 +248,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>P2 Truth</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mdm Marena Zulaiha</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -270,6 +260,11 @@ variant: tiptap
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tasyrif Omar</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>P3</strong></h4>
@@ -368,20 +363,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>P3 Love</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Farhana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Irfan Hidayat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Celine How</p>
 </td>
 </tr>
 </tbody>
@@ -463,20 +453,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>P4 Joy</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mdm Noorazean Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Faizal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nurul Asyikin&nbsp;</p>
 </td>
 </tr>
 <tr>
